@@ -21,7 +21,13 @@ coaching educativo de un atleta que se programa solo — no des órdenes médica
 1. Arrancar en el piso del rango de reps con el RPE objetivo.
 2. Sumar reps cada sesión hasta que TODAS las series lleguen al techo del rango con
    el RPE objetivo.
-3. Logrado el techo: subir peso y volver al piso del rango.
+3. **Subir peso solo cuando las 3 series llegan al techo del rango con TODAS a RPE ≤
+   objetivo.** Si pegó el techo de reps pero alguna serie se fue por encima del RPE
+   objetivo (ej. 3×12 pero la última a RPE 8.5 con objetivo 8), todavía NO se sube:
+   una sesión más de consolidación para clavar el techo a RPE limpio. Recién ahí se
+   sube el peso y se vuelve al piso del rango.
+4. En mancuernas, redondear al salto real del rack (12.5 → 15, no 14.5) si el +2 kg
+   teórico cae entre medio.
 
 **RPE objetivo:**
 - Compuestos: RPE 7-8 (2-3 reps en reserva). NUNCA al fallo en compuestos.
