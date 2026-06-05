@@ -27,8 +27,10 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 | Bicep Curl | 25-26 kg | 19/04/2026 |
 | Tricep Pushdown | 25 kg | 19/04/2026 |
 | Wrist Curl | 12 kg | 19/04/2026 |
-| Suitcase Carry | 18 kg (3×50") | 22/05/2026 |
-| Weighted Dips | BW (sin lastre, reconstruyendo) | 22/05/2026 |
+| Suitcase Carry | 20 kg (3×55") | 05/06/2026 |
+| Weighted Dips | 20 kg lastre | 05/06/2026 |
+| OHP (Barbell) | 40 kg | 05/06/2026 |
+| Pendlay Row (Barbell) | 50 kg | 05/06/2026 |
 
 ## Rutinas del bloque (Mesociclo 1)
 
@@ -45,11 +47,11 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 ### Workout B
 | Ejercicio | Peso | Reps objetivo | RPE objetivo |
 |---|---|---|---|
-| OHP (o Shoulder Press DB si no hay barra) | reconstruir | 3×6-8 | 7-8 |
-| Barbell Row (o Cable Row V-grip) | reconstruir | 3×8-10 | 7-8 |
+| OHP (Barbell) | 40 kg | 3×6-8 | 7-8 |
+| Pendlay Row (Barbell) | 50 kg | 3×8-10 | 7-8 |
 | Leg Curl / Leg Extension | 70 kg | 3×13 | 8 |
-| Suitcase Carry | 18 kg | 3×50" | 7-8 |
-| Weighted Dips | BW → lastre | 3×8-10 | 7-8 |
+| Suitcase Carry | 20 kg | 3×55" | 7-8 |
+| Weighted Dips | 20 kg lastre | 3×8-10 | 7-8 |
 | Hanging Leg Raise | BW | 3×10 | 7-8 |
 
 ### Extra (Domingo)

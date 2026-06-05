@@ -13,6 +13,20 @@
 
 # BLOQUE ACTUAL — Mesociclo 1 (vuelta post-lesión)
 
+## ✅ Workout B — Viernes 05/06/2026 (Mesociclo 1, semana 1 — arranque de bloque, barra completa)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Overhead Press (Barbell) | 40 kg | 9 / 9 / 9 | 8 / 8.5 / 9 |
+| Pendlay Row (Barbell) | 50 kg | 9 / 9 / 9 | 7.5 / 7.5 / 8 |
+| Suitcase Carry | 20 kg | 3 × 55" | **sin loggear** |
+| Triceps Dip (Weighted) | 20 kg | 10 / 10 / 10 | 8 / 8 / 8 |
+| Lying Leg Raise | BW | 15 / 20 / 20 | 7 / 7 / 7 |
+
+🔗 hevy.com/workout/ed1bfcea-4a34-4263-a270-42e0331e8927
+
+---
+
 ## ✅ Extra — Domingo 19/04/2026 (última Extra PRE-LESIÓN, referencia)
 
 | Ejercicio | Peso | Reps | RPE |
