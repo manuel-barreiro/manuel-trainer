@@ -6,10 +6,20 @@
 
 ## Estado del mesociclo
 - **Mesociclo:** 1 (vuelta post-lesión → reconstrucción)
-- **Semana:** 1 de 6
-- **Inicio del bloque:** 2026-06-05
-- **Deload programado:** Semana 6
-- **Próximo cierre de bloque:** ~mediados de julio 2026 (armar A/B/Extra nuevos)
+- **Semana:** 2 de 6 (al 06/06/2026)
+- **Inicio del bloque:** 2026-05-25 (lunes — vuelta al gym con programa reestructurado)
+- **Deload programado:** Semana 6 (29/06 → 05/07/2026)
+- **Próximo cierre de bloque:** ~06/07/2026 (armar A/B/Extra nuevos)
+
+### Calendario del mesociclo (semanas lun→dom)
+| Semana | Fechas | Notas |
+|---|---|---|
+| 1 | 25/05 → 31/05 | A (25/05) · B (27/05) · A (29/05) · Extra (31/05) |
+| 2 | 01/06 → 07/06 | B (01/06) · A (03/06) · B (05/06) |
+| 3 | 08/06 → 14/06 | en curso |
+| 4 | 15/06 → 21/06 | — |
+| 5 | 22/06 → 28/06 | pico de volumen (MRV) |
+| 6 | 29/06 → 05/07 | **DELOAD** (~50% volumen, -10-20% peso, RPE 5-6) |
 
 ## Working weights actuales (junio 2026)
 NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / doble progresión.

@@ -13,7 +13,7 @@
 
 # BLOQUE ACTUAL — Mesociclo 1 (vuelta post-lesión)
 
-## ✅ Workout B — Viernes 05/06/2026 (Mesociclo 1, semana 1 — arranque de bloque, barra completa)
+## ✅ Workout B — Viernes 05/06/2026 (Mesociclo 1, semana 2 — barra completa)
 
 | Ejercicio | Peso | Reps | RPE |
 |---|---|---|---|
@@ -27,53 +27,7 @@
 
 ---
 
-## ✅ Extra — Domingo 19/04/2026 (última Extra PRE-LESIÓN, referencia)
-
-| Ejercicio | Peso | Reps | RPE |
-|---|---|---|---|
-| Bench Press (Barbell) | 75 kg | 8 / 8 / 8 | 8 / 8.5 / 9 |
-| Lat Pulldown (Cable) | 70 kg | 8 / 8 / 8 | 7.5 / 8 / 8 |
-| Lateral Raise (DB) | 12 kg | 12 / 12 / 12 | 7.5 / 8 / 8 |
-| Leg Extension | 70 kg | 12 / 12 / 12 | 7.5 / 7.5 / 8 |
-| Bicep Curl (Barbell) | 25 / 25 / 26 kg | 12 / 12 / 10 | 8 / 8 / 8.5 |
-| Tricep Rope Pushdown | 25 kg | 10 / 10 / 10 | 8 / 8 / 8.5 |
-| Wrist Curl | 12 kg | 15 / 15 / 15 | 8 / 8 / 8.5 |
-
-🔗 hevy.com/workout/sIkr602wiBs
-
----
-
-## ✅ Workout A — Martes 19/05/2026 (bloque rehab)
-
-| Ejercicio | Peso | Reps | RPE |
-|---|---|---|---|
-| Incline DB Press | 20 kg | 10 / 10 / 10 | 7.5 / 7.5 / 8 |
-| Chin-Up | BW | 8 / 8 / 8 | 8.5 / 9 / 9.5 |
-| Leg Extension | 70 kg | 13 / 13 / 13 | 8 / 8.5 / 8.5 |
-| OH Single Carry | 17.5 kg | 3 × 50" | — |
-| Hammer Curl | 12.5 kg | 12 / 12 / 10 | 8 / 9 / 10 |
-| Ab Wheel | BW | 10 / 10 / 10 | 7.5 / 8 / 8.5 |
-
-🔗 hevy.com/workout/sKkDjOGX1Qw
-
----
-
-## ✅ Workout B — Viernes 22/05/2026 (bloque rehab, sustituciones por disponibilidad)
-
-| Ejercicio | Peso | Reps | RPE |
-|---|---|---|---|
-| Shoulder Press (DB) — sust. OHP | 18 kg | 12 / 10 / 9 | 9 / 9 / 10 |
-| Seated Cable Row V-Grip — sust. Pendlay | 45 kg | 12 / 12 / 12 | 7.5 / 7.5 / 8 |
-| Leg Extension | 70 kg | 13 / 13 / 13 | 8.5 / 8.5 / 9 |
-| Suitcase Carry | 18 kg | 3 × 50" | — |
-| Weighted Dips | BW (sin lastre) | 10 / 10 / 10 | 8 / 8.5 / 9 |
-| Hanging Leg Raise | BW | 10 / 10 / 10 | 8.5 / 9 / 9.5 |
-
-🔗 hevy.com/workout/0kydSEC9g1s
-
----
-
-## ✅ Workout A — Lunes 25/05/2026 (1ª semana de vuelta, programa reestructurado)
+## ✅ Workout A — Lunes 25/05/2026 (Mesociclo 1, semana 1 — arranque de bloque, programa reestructurado)
 
 | Ejercicio | Peso | Reps | RPE |
 |---|---|---|---|
@@ -88,21 +42,21 @@
 
 ---
 
-## ⚠️ Workout B — Miércoles 27/05/2026 (falta log completo)
+## ⚠️ Workout B — Miércoles 27/05/2026 (Mesociclo 1, semana 1 — falta log completo)
 Solo a nivel resumen. OHP / Pendlay Row / Suitcase / Leg Curl / Weighted Dips.
 
-## ⚠️ Workout A — Viernes 29/05/2026 (falta log completo)
+## ⚠️ Workout A — Viernes 29/05/2026 (Mesociclo 1, semana 1 — falta log completo)
 Solo a nivel resumen.
 
-## ⚠️ Extra — Domingo 31/05/2026 (falta log completo)
+## ⚠️ Extra — Domingo 31/05/2026 (Mesociclo 1, semana 1 — falta log completo)
 Solo a nivel resumen. Bench e isos por debajo de target pre-lesión, reconstruyendo.
 
-## ⚠️ Workout B — Lunes 01/06/2026 (falta log completo)
+## ⚠️ Workout B — Lunes 01/06/2026 (Mesociclo 1, semana 2 — falta log completo)
 Solo a nivel resumen.
 
 ---
 
-## ✅ Workout A — Miércoles 03/06/2026 (ÚLTIMA SESIÓN con detalle)
+## ✅ Workout A — Miércoles 03/06/2026 (Mesociclo 1, semana 2 — última sesión A con detalle)
 
 | Ejercicio | Peso | Reps | RPE |
 |---|---|---|---|
@@ -133,6 +87,57 @@ Solo a nivel resumen.
 
 ---
 *Fin del registro*
+
+---
+
+# PRE-BLOQUE — Rehab / referencia (ANTES del Mesociclo 1)
+
+> Estas sesiones son ANTERIORES al arranque del Meso 1 (lunes 25/05/2026). No cuentan
+> en la numeración de semanas del bloque. Quedan como referencia de la rampa de vuelta.
+
+## ✅ Workout B — Viernes 22/05/2026 (rehab, sustituciones por disponibilidad)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Shoulder Press (DB) — sust. OHP | 18 kg | 12 / 10 / 9 | 9 / 9 / 10 |
+| Seated Cable Row V-Grip — sust. Pendlay | 45 kg | 12 / 12 / 12 | 7.5 / 7.5 / 8 |
+| Leg Extension | 70 kg | 13 / 13 / 13 | 8.5 / 8.5 / 9 |
+| Suitcase Carry | 18 kg | 3 × 50" | — |
+| Weighted Dips | BW (sin lastre) | 10 / 10 / 10 | 8 / 8.5 / 9 |
+| Hanging Leg Raise | BW | 10 / 10 / 10 | 8.5 / 9 / 9.5 |
+
+🔗 hevy.com/workout/0kydSEC9g1s
+
+---
+
+## ✅ Workout A — Martes 19/05/2026 (rehab)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Incline DB Press | 20 kg | 10 / 10 / 10 | 7.5 / 7.5 / 8 |
+| Chin-Up | BW | 8 / 8 / 8 | 8.5 / 9 / 9.5 |
+| Leg Extension | 70 kg | 13 / 13 / 13 | 8 / 8.5 / 8.5 |
+| OH Single Carry | 17.5 kg | 3 × 50" | — |
+| Hammer Curl | 12.5 kg | 12 / 12 / 10 | 8 / 9 / 10 |
+| Ab Wheel | BW | 10 / 10 / 10 | 7.5 / 8 / 8.5 |
+
+🔗 hevy.com/workout/sKkDjOGX1Qw
+
+---
+
+## ✅ Extra — Domingo 19/04/2026 (última Extra PRE-LESIÓN, referencia)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Bench Press (Barbell) | 75 kg | 8 / 8 / 8 | 8 / 8.5 / 9 |
+| Lat Pulldown (Cable) | 70 kg | 8 / 8 / 8 | 7.5 / 8 / 8 |
+| Lateral Raise (DB) | 12 kg | 12 / 12 / 12 | 7.5 / 8 / 8 |
+| Leg Extension | 70 kg | 12 / 12 / 12 | 7.5 / 7.5 / 8 |
+| Bicep Curl (Barbell) | 25 / 25 / 26 kg | 12 / 12 / 10 | 8 / 8 / 8.5 |
+| Tricep Rope Pushdown | 25 kg | 10 / 10 / 10 | 8 / 8 / 8.5 |
+| Wrist Curl | 12 kg | 15 / 15 / 15 | 8 / 8 / 8.5 |
+
+🔗 hevy.com/workout/sIkr602wiBs
 
 ---
 
