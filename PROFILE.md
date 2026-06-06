@@ -33,3 +33,9 @@ El split A/B alterna cada semana:
 - **Trabajo:** Desde casa, 8-10 hs/día sentado.
 - **Fútbol 3×/semana** (martes, jueves, sábado) → cubre el volumen de tren inferior.
   NO se programa pierna en el gym salvo Leg Extension en superset.
+
+## Características conocidas del logging (NO son datos faltantes)
+- **Carries sin RPE — por diseño, no es un hueco.** Los ejercicios time-based en Hevy
+  (Suitcase Carry, OH Single Carry) NO permiten registrar RPE. Por lo tanto ningún
+  carry tiene ni va a tener RPE. **No flaggear esto nunca como "dato faltante".** La
+  autorregulación de carries se hace con **peso y duración (tiempo)**, no con RPE.

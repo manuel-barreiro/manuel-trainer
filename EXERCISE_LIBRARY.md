@@ -82,13 +82,13 @@ Face Pull (cable)         [ ]
 UPPER BODY — PULL (HORIZONTAL)
 -------------------------------------
 
-Barbell Bent Over Row     [YES] — ejercicio principal del Día B
+Barbell Bent Over Row     [SUB] — reemplazado por Pendlay Row en el Día B
 Dumbbell Row              [ ]
 Cable Row (seated)        [ ]
 Machine Row               [ ]
 Chest Supported Row       [ ]
 Meadows Row               [ ]
-Pendlay Row               [ ]
+Pendlay Row               [YES] — compuesto fijo de tracción horizontal, Día B
 
 -------------------------------------
 UPPER BODY — PULL (VERTICAL)
@@ -136,6 +136,9 @@ CARRIES
 
 OH Single Carry (DB)      [YES] — Día A, 3×50" (añadido)
 Suitcase Carry (DB)       [YES] — Día B, 3×50" (añadido)
+
+Nota: los carries son time-based; Hevy NO permite registrar RPE en ejercicios por
+tiempo. NUNCA falta el RPE acá — se autorregulan por peso y duración, no por RPE.
 
 -------------------------------------
 CALVES
