@@ -42,17 +42,61 @@
 
 ---
 
-## ⚠️ Workout B — Miércoles 27/05/2026 (Mesociclo 1, semana 1 — falta log completo)
-Solo a nivel resumen. OHP / Pendlay Row / Suitcase / Leg Curl / Weighted Dips.
+## ✅ Workout B — Lunes 01/06/2026 (Mesociclo 1, semana 2 — log completo retroactivo)
 
-## ⚠️ Workout A — Viernes 29/05/2026 (Mesociclo 1, semana 1 — falta log completo)
-Solo a nivel resumen.
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Overhead Press (Barbell) | 40 kg | 8 / 8 / 8 | 8 / 8.5 / 8.5 |
+| Pendlay Row (Barbell) | 50 kg | 9 / 9 / 8 | 8 / 8 / 8 |
+| Suitcase Carry | 20 kg | 3 × 50" | **sin loggear** |
+| Triceps Dip (Weighted) | 0 kg (BW) | 10 / 10 / 10 | 8 / — / — |
+| Lying Leg Raise | BW | 15 / 20 / 20 | 7.5 / 8 / 8 |
 
-## ⚠️ Extra — Domingo 31/05/2026 (Mesociclo 1, semana 1 — falta log completo)
-Solo a nivel resumen. Bench e isos por debajo de target pre-lesión, reconstruyendo.
+🔗 hevy.com/workout/KXFJcYNZ5cm
 
-## ⚠️ Workout B — Lunes 01/06/2026 (Mesociclo 1, semana 2 — falta log completo)
-Solo a nivel resumen.
+---
+
+## ✅ Extra — Domingo 31/05/2026 (Mesociclo 1, semana 1 — log completo retroactivo)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Bench Press (Barbell) | 70 kg | 10 / 10 / 10 | 8.5 / 9 / 9.5 |
+| Lat Pulldown (Cable) | 55 / 70 / 70 kg | 10 / 10 / 10 | 7 / 8 / 8 |
+| Lateral Raise (DB) | 12 kg | 12 / 12 / 12 | 8 / 8.5 / 9 |
+| Bicep Curl (Barbell) | 20 kg | 12 / 12 / 12 | 8 / 8.5 / 8.5 |
+| Triceps Rope Pushdown | 20 kg | 12 / 12 / 12 | 7.5 / 8 / 9.5 |
+| Seated Palms Up Wrist Curl | 12 kg | 15 / 15 / 15 | 7.5 / 8 / 8 |
+
+🔗 hevy.com/workout/Ij0V5XrnQKM
+
+---
+
+## ✅ Workout A — Viernes 29/05/2026 (Mesociclo 1, semana 1 — log completo retroactivo)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Incline DB Press | 20 kg | 12 / 12 / 12 | 8 / 9.5 / 9.5 |
+| Chin-Up | BW | 8 / 8 / 7 | 8 / 9 / 10 |
+| OH Single Carry | 18 kg | 3 × 50" | 8 / 8 / 8 |
+| Hammer Curl | 12.5 kg | 12 / 12 / 12 | 8 / 8.5 / 9 |
+| Ab Wheel | BW | 10 / 10 / 10 | 7.5 / 8 / 8 |
+
+🔗 hevy.com/workout/CkvZIidAICG
+
+---
+
+## ✅ Workout B — Miércoles 27/05/2026 (Mesociclo 1, semana 1 — log completo retroactivo)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Overhead Press (Barbell) | 40 kg | 8 / 8 / 8 | 8 / 8.5 / 9 |
+| Pendlay Row (Barbell) | 50 kg | 8 / 8 / 8 | 8 / 8 / 8.5 |
+| Suitcase Carry | 20 kg | 3 × 50" | **sin loggear** |
+| Leg Extension | 70 kg | 13 / 13 / 13 | 8 / 8 / — |
+| Triceps Dip (Weighted) | 0 kg (BW) | 10 / 10 / 10 | 8 / 8 / 8.5 |
+| Hanging Leg Raise | BW | 10 / 10 / 10 | 8.5 / 9 / 9 |
+
+🔗 hevy.com/workout/3Yf73waN3IF
 
 ---
 
