@@ -13,6 +13,23 @@
 
 # BLOQUE ACTUAL — Mesociclo 1 (vuelta post-lesión)
 
+## ✅ Extra — Domingo 07/06/2026 (Mesociclo 1, semana 2 — CIERRA semana 2)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Bench Press (Barbell) | 70 kg | 10 / 10 / 10 | 7.5 / 8.5 / 9.5 |
+| Pull Up (sub Lat Pulldown — test tolerancia, aprobado) | BW | 6 / 6 / 6 | 7.5 / 8.5 / 9 |
+| Lateral Raise (DB) | 12 kg | 13 / 13 / 12 | 7.5 / 8 / 8.5 |
+| Bicep Curl (Barbell) | 25 kg | 12 / 10 / 10 | 8 / 7.5 / 8 |
+| Triceps Rope Pushdown | 20 kg | 12 / 12 / 12 | 7.5 / 8 / 8.5 |
+| Seated Palms Up Wrist Curl | 12 / 12.5 / 12.5 kg | 20 / 18 / 18 | 7.5 / 8 / 9 |
+| Crunch (core extra) | BW | 15 / 15 / 15 | — |
+| Oblique Crunch (core extra) | BW | 15 / 15 / 15 | — |
+
+🔗 hevy.com/workout/dccc2cc0-c0c1-4e9e-a510-e0c549563d8f
+
+---
+
 ## ✅ Workout B — Viernes 05/06/2026 (Mesociclo 1, semana 2 — barra completa)
 
 | Ejercicio | Peso | Reps | RPE |
@@ -123,6 +140,9 @@
 - **Carries:** Suitcase con RPE retro 8 / 8.5 / 9. **OH Single Carry sigue sin RPE loggeado.**
 - **Leg Curl / Leg Extension:** loggeo inconsistente — algunos días hechos sin anotar, uno salteado por fatiga del finde.
 - **Bench e isolations:** reconstruyendo desde baseline post-lesión, por debajo de pre-lesión.
+- **Bench (07/06):** 70 kg 3×10 con la última otra vez a 9.5 — segunda Extra seguida que se va por encima del objetivo. Sigue sin consolidar a 7-8. NO subir; clavar la última a ≤8 antes de tocar peso o reps.
+- **Pull Up (07/06):** test de tolerancia post-lesión en vez de Lat Pulldown (aprobado, mano 100%). 3×6 con la última a 9 — objetivo era tope 8. Trepó rápido (7.5 → 9), pero sin dolor de mano: tolerancia OK para programar dominadas el próximo bloque, arrancando 3×6 a RPE manejable (no 3×8).
+- **Bicep Curl BB (07/06):** saltó de 20 → 25 kg (el plan pedía consolidar 20). A 25 sostuvo 12/10/10 a RPE 8/7.5/8 — limpio. Working weight pre-lesión era 25-26, así que no es temerario; queda en 25 kg, ahora a sumar reps hacia 3×12.
 
 ## DECISIONES ABIERTAS
 

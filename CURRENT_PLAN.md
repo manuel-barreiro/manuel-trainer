@@ -6,7 +6,7 @@
 
 ## Estado del mesociclo
 - **Mesociclo:** 1 (vuelta post-lesión → reconstrucción)
-- **Semana:** 2 de 6 (al 06/06/2026)
+- **Semana:** 2 CERRADA (al 07/06/2026) → arranca semana 3 (08/06)
 - **Inicio del bloque:** 2026-05-25 (lunes — vuelta al gym con programa reestructurado)
 - **Deload programado:** Semana 6 (29/06 → 05/07/2026)
 - **Próximo cierre de bloque:** ~06/07/2026 (armar A/B/Extra nuevos)
@@ -38,9 +38,9 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 | Bench Press | 75 kg | reconstruyendo (pre-lesión 75 kg) |
 | Lat Pulldown | 70 kg | 19/04/2026 |
 | Lateral Raise (DB) | 12 kg | 19/04/2026 |
-| Bicep Curl | 25-26 kg | 19/04/2026 |
-| Tricep Pushdown | 25 kg | 19/04/2026 |
-| Wrist Curl | 12 kg | 19/04/2026 |
+| Bicep Curl | 25 kg | 07/06/2026 (saltó de 20 → 25 limpio) |
+| Tricep Pushdown | 20 kg | reconstruyendo (pre-lesión 25 kg) |
+| Wrist Curl | 12.5 kg | 07/06/2026 |
 | Suitcase Carry | 20 kg (3×55") | 05/06/2026 |
 | Weighted Dips | 20 kg lastre | 05/06/2026 |
 | OHP (Barbell) | 40 kg | 05/06/2026 |
@@ -71,12 +71,15 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 ### Extra (Domingo)
 | Ejercicio | Peso | Reps objetivo | RPE objetivo |
 |---|---|---|---|
-| Bench Press | 75 kg (reconstruir) | 3×6-8 | 7-8 |
+| Bench Press | 70 kg (consolidar última a ≤8) | 3×6-8 | 7-8 |
 | Lat Pulldown | 70 kg | 3×8-10 | 7-8 |
 | Lateral Raise (DB) + Leg Extension | 12 kg / 70 kg | 3×12-15 | 8 |
 | Bicep Curl | 25 kg | 3×10-12 | 8 |
-| Tricep Pushdown | 25 kg | 3×10-12 | 8 |
-| Wrist Curl | 12 kg | 3×15-20 | 8 |
+| Tricep Pushdown | 20 kg (reconstruir → 25) | 3×10-12 | 8 |
+| Wrist Curl | 12.5 kg | 3×15-20 | 8 |
+
+> **Bench (Extra):** loggeado a 70 kg, no 75. La última se va a 9.5 dos Extras seguidas
+> (31/05 y 07/06) → objetivo 7-8. NO subir ni a 75 ni sumar reps hasta clavar las 3 a ≤8.
 
 ## Decisiones abiertas
 1. **Chin-Up — post-lesión de mano + corre hot.** RPE 9-10 última serie, varias sesiones
@@ -95,7 +98,12 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
        que ya venía fallando. Mantener 3×8 a RPE 9-10 es reconstruir sobre una grieta.
    - **Decisión final la confirma Manuel.** Si la mano está 100% sin molestia, 3×6 igual es
      la jugada por el estancamiento; si hay cualquier molestia de grip, 3×6 es innegociable.
-2. ~~OH Single Carry sin RPE~~ → **RESUELTO/no aplica.** Los carries son time-based y Hevy
+2. **Pull-Up como tracción vertical del Extra (próximo bloque).** El 07/06 Manuel hizo
+   Pull-Ups en vez de Lat Pulldown como test de tolerancia de mano (aprobado, mano 100%,
+   "solo por hoy"). Resultado: 3×6 @ 7.5/8.5/9 — tolerancia buena, sin molestia de grip.
+   De cara al Meso 2: viable programar dominadas, pero arrancar **3×6 BW a RPE ≤8** (no
+   3×8), por el patrón hot crónico del chin-up. Confirmar con Manuel al armar el bloque.
+3. ~~OH Single Carry sin RPE~~ → **RESUELTO/no aplica.** Los carries son time-based y Hevy
    no permite RPE; se autorregulan por peso y duración. Ver PROFILE.md. No flaggear más.
 
 ## Notas del bloque
