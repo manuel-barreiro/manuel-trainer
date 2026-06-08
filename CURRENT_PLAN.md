@@ -52,7 +52,7 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 | Ejercicio | Peso | Reps objetivo | RPE objetivo |
 |---|---|---|---|
 | Incline DB Press | 22 kg | 3×10-12 | 7-8 |
-| Chin-Up | BW | 3×8 → **3×6 recomendado** (ver Decisión 1) | 7-8 |
+| Chin-Up | BW | 3×6 (progresa por reps, doble progresión 6→10) | 7 |
 | Leg Extension | 70 kg | 3×13-15 | 8 |
 | OH Single Carry | 18 kg | 3×50" | 7-8 |
 | Hammer Curl | 12.5 kg | 3×12 | 8 |
@@ -82,22 +82,16 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 > (31/05 y 07/06) → objetivo 7-8. NO subir ni a 75 ni sumar reps hasta clavar las 3 a ≤8.
 
 ## Decisiones abiertas
-1. **Chin-Up — post-lesión de mano + corre hot.** RPE 9-10 última serie, varias sesiones
-   sin progresar, Y viene de UN MES parado por fractura de mano izquierda. La pregunta de
-   Manuel: ¿mantener 3×8 para reacostumbrarse, o bajar a 3×6?
-   - **Recomendación del coach: bajar a 3×6 BW** (no mantener 3×8). Razonamiento:
-     - El chin-up carga directo sobre el grip y el agarre cerrado tracciona el mano/muñeca
-       lesionada bajo todo el BW colgado. Correr a RPE 9-10 = cerca del fallo = el último
-       lugar donde querés a una mano que recién vuelve. El fallo en tracción suele ser el
-       grip/antebrazo el que cede, justo el tejido reconstruyendo.
-     - El estancamiento crónico a RPE alto ya pedía bajar reps **antes** de la lesión; el
-       contexto post-lesión solo lo hace más obligatorio, no opcional.
-     - 3×6 deja 2-4 reps en reserva reales, baja el tiempo bajo tensión en grip por serie,
-       y da margen para progresar por reps (6→8→10→12) con RPE limpio antes de lastrar.
-     - "Reacostumbrarse" se logra mejor con reps de calidad lejos del fallo que con un 3×8
-       que ya venía fallando. Mantener 3×8 a RPE 9-10 es reconstruir sobre una grieta.
-   - **Decisión final la confirma Manuel.** Si la mano está 100% sin molestia, 3×6 igual es
-     la jugada por el estancamiento; si hay cualquier molestia de grip, 3×6 es innegociable.
+1. ~~**Chin-Up — post-lesión de mano + corre hot.**~~ → **RESUELTA (confirmada por Manuel,
+   08/06/2026).** Baja de 3×8 BW a **3×6 BW a RPE objetivo 7** (lejos del fallo) para
+   resetear el estancamiento crónico y el patrón hot (RPE 9-10 última serie) post-fractura
+   de mano izquierda. De acá se **progresa por reps con doble progresión** (6→7→8→9→10...
+   semana a semana) manteniendo RPE ≤7 — sin grindear. Recién al clavar 3×10 limpio a RPE
+   ≤7 se considera lastrar (ver regla de dominadas en la skill: 3×12 antes de +2.5 kg).
+   - Razonamiento que sostuvo la decisión: el agarre cerrado tracciona la muñeca/mano
+     lesionada bajo todo el BW; correr a RPE 9-10 es el último lugar donde querés una mano
+     que recién vuelve (el grip/antebrazo es lo que cede en el fallo). El estancamiento ya
+     pedía bajar reps antes de la lesión; el contexto post-lesión lo hizo obligatorio.
 2. **Pull-Up como tracción vertical del Extra (próximo bloque).** El 07/06 Manuel hizo
    Pull-Ups en vez de Lat Pulldown como test de tolerancia de mano (aprobado, mano 100%,
    "solo por hoy"). Resultado: 3×6 @ 7.5/8.5/9 — tolerancia buena, sin molestia de grip.
