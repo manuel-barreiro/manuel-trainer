@@ -13,6 +13,21 @@
 
 # BLOQUE ACTUAL — Mesociclo 1 (vuelta post-lesión)
 
+## ✅ Workout A — Lunes 08/06/2026 (Mesociclo 1, semana 3 — primer día de la semana)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Incline DB Press | 24 kg | 8 / 8 / 8 | 7.5 / 8 / 8 |
+| Chin-Up (reset 3×6 @ RPE 7) | BW | 6 / 6 / 8 | 7.5 / 8 / 8 |
+| Leg Extension | 70 kg | 13 / 13 / 13 | 8 / 8 / 8 |
+| OH Single Carry | 18 kg | 3 × 55" | **sin loggear (time-based, no aplica)** |
+| Hammer Curl | 12.5 kg | 12 / 12 / 12 | 7.5 / 8 / 8 |
+| Ab Wheel | BW | 10 / 10 / 10 | 7.5 / 8 / 8 |
+
+🔗 hevy.com/workout/7g4w22qsoLC
+
+---
+
 ## ✅ Extra — Domingo 07/06/2026 (Mesociclo 1, semana 2 — CIERRA semana 2)
 
 | Ejercicio | Peso | Reps | RPE |
@@ -134,8 +149,9 @@
 
 ## PATRONES DEL BLOQUE
 
-- **Press:** progresando limpio. Incline DB pasó de 20 → 22 kg en semana 2. Doble progresión funcionando bien.
-- **Chin-Up:** corre hot crónico (RPE 9-10 última serie). 3 sesiones consecutivas sin progresión en reps ni RPE. Patrón histórico, no solo post-lesión.
+- **Press:** progresando limpio. Incline DB 20 → 22 (sem 2) → **24 kg (sem 3, 08/06)**. En 24 kg arrancó en el piso del nuevo rango (3×8 @ ≤8) — salto agresivo pero salió limpio. Doble progresión funcionando muy bien.
+- **Chin-Up:** **RESET aplicado el 08/06** (3×6 @ RPE 7). Salió 6@7.5 / 6@8 / 8@8 — primera vez sin RPE 9-10 desde que se registra. La 3ra serie a 8 reps @8 muestra margen real. El reset funcionó: cortó el patrón hot crónico.
+- **Chin-Up (histórico, ANTES del reset):** corrió hot crónico (RPE 9-10 última serie). 3+ sesiones consecutivas sin progresión en reps ni RPE. Patrón histórico, no solo post-lesión.
 - **Hammer Curl y rows:** tracción/bíceps siempre más calientes que el empuje — patrón conocido.
 - **Carries:** Suitcase con RPE retro 8 / 8.5 / 9. **OH Single Carry sigue sin RPE loggeado.**
 - **Leg Curl / Leg Extension:** loggeo inconsistente — algunos días hechos sin anotar, uno salteado por fatiga del finde.
@@ -146,8 +162,8 @@
 
 ## DECISIONES ABIERTAS
 
-1. **Chin-Up** — Opción A (mantener 3×8 BW, esperar adaptación) vs Opción B (bajar a 3×6 BW, construir desde RPE manejable). Recomendación: **Opción B**. Pendiente de definir.
-2. **RPE del OH Single Carry** — pendiente desde hace varias sesiones.
+1. ~~**Chin-Up** — Opción A vs B.~~ **RESUELTA (08/06):** se aplicó Opción B (reset 3×6 @ RPE 7). Primera sesión limpia (≤8 las tres). Ver patrones.
+2. ~~**RPE del OH Single Carry**~~ **RESUELTO/no aplica:** los carries son time-based, Hevy no permite RPE. No flaggear más.
 
 ---
 *Fin del registro*
