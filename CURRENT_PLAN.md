@@ -52,7 +52,7 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 | Ejercicio | Peso | Reps objetivo | RPE objetivo |
 |---|---|---|---|
 | Incline DB Press | 24 kg | 3×6-8 (en 24 arrancó en el piso; sumar reps hacia 3×8) | 7-8 |
-| Chin-Up | BW | 3×6 → empezar a sumar reps (doble progresión 6→10) | 7-8 |
+| Chin-Up | BW | 3×6 — confirmar 3×6 limpio (RPE ≤8, idealmente cerca de 7) 1 sesión más antes de sumar reps; luego doble progresión 6→10 | 7-8 |
 | Leg Extension | 70 kg | 3×13-15 (clavar 3×14 a ≤8) | 8 |
 | OH Single Carry | 18 kg | 3×55" | 7-8 |
 | Hammer Curl | 12.5 kg | 3×12 → subir a 15 kg (consolidado limpio) | 8 |

@@ -18,7 +18,7 @@
 | Ejercicio | Peso | Reps | RPE |
 |---|---|---|---|
 | Incline DB Press | 24 kg | 8 / 8 / 8 | 7.5 / 8 / 8 |
-| Chin-Up (reset 3×6 @ RPE 7) | BW | 6 / 6 / 8 | 7.5 / 8 / 8 |
+| Chin-Up (reset 3×6 @ RPE 7) | BW | 6 / 6 / 6 | 7.5 / 8 / 8 |
 | Leg Extension | 70 kg | 13 / 13 / 13 | 8 / 8 / 8 |
 | OH Single Carry | 18 kg | 3 × 55" | **sin loggear (time-based, no aplica)** |
 | Hammer Curl | 12.5 kg | 12 / 12 / 12 | 7.5 / 8 / 8 |
@@ -150,7 +150,7 @@
 ## PATRONES DEL BLOQUE
 
 - **Press:** progresando limpio. Incline DB 20 → 22 (sem 2) → **24 kg (sem 3, 08/06)**. En 24 kg arrancó en el piso del nuevo rango (3×8 @ ≤8) — salto agresivo pero salió limpio. Doble progresión funcionando muy bien.
-- **Chin-Up:** **RESET aplicado el 08/06** (3×6 @ RPE 7). Salió 6@7.5 / 6@8 / 8@8 — primera vez sin RPE 9-10 desde que se registra. La 3ra serie a 8 reps @8 muestra margen real. El reset funcionó: cortó el patrón hot crónico.
+- **Chin-Up:** **RESET aplicado el 08/06** (3×6 @ RPE 7). Salió 3×6 parejo a 7.5 / 8 / 8 — primera vez sin RPE 9-10 desde que se registra. El reset funcionó: cortó el patrón hot crónico y dejó las tres series a RPE limpio (≤8). Quedó levemente por encima del RPE objetivo 7 (la 1ra a 7.5, las otras dos a 8), así que el reset está en zona pero no sobrado: confirmar 3×6 limpio una vez más antes de sumar reps.
 - **Chin-Up (histórico, ANTES del reset):** corrió hot crónico (RPE 9-10 última serie). 3+ sesiones consecutivas sin progresión en reps ni RPE. Patrón histórico, no solo post-lesión.
 - **Hammer Curl y rows:** tracción/bíceps siempre más calientes que el empuje — patrón conocido.
 - **Carries:** Suitcase con RPE retro 8 / 8.5 / 9. **OH Single Carry sigue sin RPE loggeado.**
