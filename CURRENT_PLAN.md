@@ -8,8 +8,10 @@
 - **Mesociclo:** 1 (vuelta post-lesión → reconstrucción)
 - **Semana:** 1 de 6
 - **Inicio del bloque:** 2026-06-05
-- **Deload programado:** Semana 6
-- **Próximo cierre de bloque:** ~mediados de julio 2026 (armar A/B/Extra nuevos)
+- **Deload:** Semana 6 (default revisable — evaluar readiness al llegar; no saltear 2 bloques
+  seguidos). Prescripción: ~50% series, -10% peso, RPE 5-6, misma frecuencia.
+- **Próximo cierre de bloque:** ~mediados de julio 2026 (armar A/B/Extra nuevos y **rotar 2-3
+  accesorios por rutina**, misma función muscular, re-progresando desde el piso del rango).
 
 ## Working weights actuales (junio 2026)
 NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / doble progresión.
@@ -31,6 +33,10 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 | Weighted Dips | BW (sin lastre, reconstruyendo) | 22/05/2026 |
 
 ## Rutinas del bloque (Mesociclo 1)
+
+> **RPE en aislamientos:** donde la tabla dice RPE 8 en un aislamiento/accesorio (curls,
+> laterales, leg extension, pushdown, wrist curl), la **última serie va a RPE 9-10 (0-1 RIR)**;
+> las anteriores a RPE 8. Compuestos siempre RPE 7-8, nunca al fallo.
 
 ### Workout A
 | Ejercicio | Peso | Reps objetivo | RPE objetivo |
