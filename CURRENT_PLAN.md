@@ -6,7 +6,7 @@
 
 ## Estado del mesociclo
 - **Mesociclo:** 1 (vuelta post-lesión → reconstrucción)
-- **Semana:** 3 EN CURSO — día A hecho (08/06/2026). Faltan B · A · Extra.
+- **Semana:** 3 EN CURSO — A (08/06) ✅ · B (10/06) ✅ hechos. Faltan A · Extra.
 - **Inicio del bloque:** 2026-05-25 (lunes — vuelta al gym con programa reestructurado)
 - **Deload programado:** Semana 6 (29/06 → 05/07/2026)
 - **Próximo cierre de bloque:** ~06/07/2026 (armar A/B/Extra nuevos)
@@ -20,7 +20,7 @@
 |---|---|---|
 | 1 | 25/05 → 31/05 | A (25/05) · B (27/05) · A (29/05) · Extra (31/05) |
 | 2 | 01/06 → 07/06 | B (01/06) · A (03/06) · B (05/06) · Extra (07/06) |
-| 3 | 08/06 → 14/06 | A ✅ (08/06) · B · A · Extra |
+| 3 | 08/06 → 14/06 | A ✅ (08/06) · B ✅ (10/06) · A · Extra |
 | 4 | 15/06 → 21/06 | B · A · B · Extra |
 | 5 | 22/06 → 28/06 | A · B · A · Extra — pico de volumen (MRV) |
 | 6 | 29/06 → 05/07 | B · A · B · Extra — **DELOAD** (~50% volumen, -10-20% peso, RPE 5-6) |
@@ -43,8 +43,8 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 | Wrist Curl | 12.5 kg | 07/06/2026 |
 | Suitcase Carry | 20 kg (3×55") | 05/06/2026 |
 | Weighted Dips | 20 kg lastre | 05/06/2026 |
-| OHP (Barbell) | 42.5 kg | 10/06/2026 (subió de 40 → 42.5) |
-| Pendlay Row (Barbell) | 57.5 kg | 10/06/2026 (subió de 50 → 57.5; restaura nivel calibrado pre-rehab — confirmar RPE con log) |
+| OHP (Barbell) | 42.5 kg | 10/06/2026 (3×8 @ 8/8/8.5 — consolidar 1 sesión a ≤8 antes de 45) |
+| Pendlay Row (Barbell) | 57.5 kg | 10/06/2026 (3×8 @ 7.5/8/8 limpio — sumar reps hacia 3×10) |
 
 ## Rutinas del bloque (Mesociclo 1)
 
@@ -61,11 +61,11 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 ### Workout B
 | Ejercicio | Peso | Reps objetivo | RPE objetivo |
 |---|---|---|---|
-| OHP (Barbell) | 42.5 kg | 3×6-8 | 7-8 |
-| Pendlay Row (Barbell) | 57.5 kg | 3×8-10 | 7-8 |
+| OHP (Barbell) | 42.5 kg | 3×8 (consolidar a ≤8) → 45 | 7-8 |
+| Pendlay Row (Barbell) | 57.5 kg | 3×8-10 (sumar reps desde 8) | 7-8 |
 | Leg Curl / Leg Extension | 70 kg | 3×13 | 8 |
 | Suitcase Carry | 20 kg | 3×55" | 7-8 |
-| Weighted Dips | 20 kg lastre | 3×8-10 | 7-8 |
+| Weighted Dips | 20 kg lastre (el 10/06 fue BW por fatiga — retomar lastre) | 3×8-10 | 7-8 |
 | Hanging Leg Raise | BW | 3×10 | 7-8 |
 
 ### Extra (Domingo)

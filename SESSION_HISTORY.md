@@ -13,6 +13,32 @@
 
 # BLOQUE ACTUAL — Mesociclo 1 (vuelta post-lesión)
 
+## ✅ Workout B — Miércoles 10/06/2026 (Mesociclo 1, semana 3)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Overhead Press (Barbell) | 42.5 kg | 8 / 8 / 8 | 8 / 8 / 8.5 |
+| Pendlay Row (Barbell) | 57.5 kg | 8 / 8 / 8 | 7.5 / 8 / 8 |
+| Suitcase Carry | 20 kg | 3 × 55" | time-based, no aplica |
+| Leg Extension | 70 kg | 13 / 13 / 13 | sin loggear |
+| Triceps Dip (Weighted) | BW (0 kg — bajó del lastre) | 12 / 12 / 12 | 7.5 / 8 / 8.5 |
+| Hanging Knee Raise | BW | 12 / 12 / 12 | 8 / 8 / — |
+
+🔗 hevy.com/workout/d09dd90f-98df-4649-b8d7-e6b48a7727f3
+
+**Lecturas:**
+- **OHP 42.5** subió limpio desde 40 (05/06 había sido 9/9/9 @ 8/8.5/9; hoy 8/8/8 @ 8/8/8.5
+  → mismo techo de reps, RPE más bajo). Pegó el techo del rango (3×8) pero última a 8.5 >
+  objetivo → **consolidar 42.5 una sesión más** a 3×8 todas ≤8 antes de ir a 45.
+- **Pendlay Row 57.5** aterrizó CLAVADO: 3×8 @ 7.5/8/8, todas ≤8. El salto +7.5 fue legítimo,
+  57.5 es el peso correcto. Ahora **sumar reps hacia 3×10** manteniendo 57.5.
+- **Triceps Dip:** hizo **BW (sin lastre)**, no los 20 kg del plan. 3×12 @ hasta 8.5. Probable
+  autorregulación por fatiga de los dos saltos pesados arriba. Volver a **20 kg lastre** la
+  próxima B (venía de 20 kg × 3×10 limpio el 05/06).
+- **Hanging Knee Raise:** 3×12 @ 8, por encima del target (3×10) — bien.
+
+---
+
 ## ✅ Workout A — Lunes 08/06/2026 (Mesociclo 1, semana 3 — primer día de la semana)
 
 | Ejercicio | Peso | Reps | RPE |
