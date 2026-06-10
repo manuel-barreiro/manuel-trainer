@@ -43,8 +43,8 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 | Wrist Curl | 12.5 kg | 07/06/2026 |
 | Suitcase Carry | 20 kg (3×55") | 05/06/2026 |
 | Weighted Dips | 20 kg lastre | 05/06/2026 |
-| OHP (Barbell) | 40 kg | 05/06/2026 |
-| Pendlay Row (Barbell) | 50 kg | 05/06/2026 |
+| OHP (Barbell) | 42.5 kg | 10/06/2026 (subió de 40 → 42.5) |
+| Pendlay Row (Barbell) | 57.5 kg | 10/06/2026 (subió de 50 → 57.5; restaura nivel calibrado pre-rehab — confirmar RPE con log) |
 
 ## Rutinas del bloque (Mesociclo 1)
 
@@ -61,8 +61,8 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 ### Workout B
 | Ejercicio | Peso | Reps objetivo | RPE objetivo |
 |---|---|---|---|
-| OHP (Barbell) | 40 kg | 3×6-8 | 7-8 |
-| Pendlay Row (Barbell) | 50 kg | 3×8-10 | 7-8 |
+| OHP (Barbell) | 42.5 kg | 3×6-8 | 7-8 |
+| Pendlay Row (Barbell) | 57.5 kg | 3×8-10 | 7-8 |
 | Leg Curl / Leg Extension | 70 kg | 3×13 | 8 |
 | Suitcase Carry | 20 kg | 3×55" | 7-8 |
 | Weighted Dips | 20 kg lastre | 3×8-10 | 7-8 |
