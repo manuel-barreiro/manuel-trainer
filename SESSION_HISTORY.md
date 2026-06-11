@@ -21,7 +21,7 @@
 | Pendlay Row (Barbell) | 57.5 kg | 8 / 8 / 8 | 7.5 / 8 / 8 |
 | Suitcase Carry | 20 kg | 3 × 55" | time-based, no aplica |
 | Leg Extension | 70 kg | 13 / 13 / 13 | sin loggear |
-| Triceps Dip (Weighted) | BW (0 kg — bajó del lastre) | 12 / 12 / 12 | 7.5 / 8 / 8.5 |
+| Triceps Dip (Weighted) | BW (0 kg) | 12 / 12 / 12 | 7.5 / 8 / 8.5 |
 | Hanging Knee Raise | BW | 12 / 12 / 12 | 8 / 8 / — |
 
 🔗 hevy.com/workout/d09dd90f-98df-4649-b8d7-e6b48a7727f3
@@ -32,9 +32,9 @@
   objetivo → **consolidar 42.5 una sesión más** a 3×8 todas ≤8 antes de ir a 45.
 - **Pendlay Row 57.5** aterrizó CLAVADO: 3×8 @ 7.5/8/8, todas ≤8. El salto +7.5 fue legítimo,
   57.5 es el peso correcto. Ahora **sumar reps hacia 3×10** manteniendo 57.5.
-- **Triceps Dip:** hizo **BW (sin lastre)**, no los 20 kg del plan. 3×12 @ hasta 8.5. Probable
-  autorregulación por fatiga de los dos saltos pesados arriba. Volver a **20 kg lastre** la
-  próxima B (venía de 20 kg × 3×10 limpio el 05/06).
+- **Triceps Dip:** venía progresando en **BW por reps** (10 → ahora 3×12, última a 8.5 = techo
+  del rango). Doble progresión correcta → próxima B **primer salto de carga: +10 kg, reset a
+  3×10**. (Nota: el "20 kg" loggeado el 05/06 es un mislog aislado — 01/06 y 10/06 fueron BW.)
 - **Hanging Knee Raise:** 3×12 @ 8, por encima del target (3×10) — bien.
 
 ---
@@ -78,8 +78,11 @@
 | Overhead Press (Barbell) | 40 kg | 9 / 9 / 9 | 8 / 8.5 / 9 |
 | Pendlay Row (Barbell) | 50 kg | 9 / 9 / 9 | 7.5 / 7.5 / 8 |
 | Suitcase Carry | 20 kg | 3 × 55" | **sin loggear** |
-| Triceps Dip (Weighted) | 20 kg | 10 / 10 / 10 | 8 / 8 / 8 |
+| Triceps Dip (Weighted) | 20 kg ⚠️ (probable mislog — ver nota) | 10 / 10 / 10 | 8 / 8 / 8 |
 | Lying Leg Raise | BW | 15 / 20 / 20 | 7 / 7 / 7 |
+
+> ⚠️ El 20 kg de los dips no encaja: el 01/06 y el 10/06 fueron BW, y Manuel confirmó que
+> venía progresando en BW por reps. Tratar como BW. Dato original conservado por trazabilidad.
 
 🔗 hevy.com/workout/ed1bfcea-4a34-4263-a270-42e0331e8927
 

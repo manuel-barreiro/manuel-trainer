@@ -42,7 +42,7 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 | Tricep Pushdown | 20 kg | reconstruyendo (pre-lesión 25 kg) |
 | Wrist Curl | 12.5 kg | 07/06/2026 |
 | Suitcase Carry | 20 kg (3×55") | 05/06/2026 |
-| Weighted Dips | 20 kg lastre | 05/06/2026 |
+| Weighted Dips | BW (3×12 limpio el 10/06) → +10 kg | 06/06→10/06 |
 | OHP (Barbell) | 42.5 kg | 10/06/2026 (3×8 @ 8/8/8.5 — consolidar 1 sesión a ≤8 antes de 45) |
 | Pendlay Row (Barbell) | 57.5 kg | 10/06/2026 (3×8 @ 7.5/8/8 limpio — sumar reps hacia 3×10) |
 
@@ -65,7 +65,7 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 | Pendlay Row (Barbell) | 57.5 kg | 3×8-10 (sumar reps desde 8) | 7-8 |
 | Leg Curl / Leg Extension | 70 kg | 3×13 | 8 |
 | Suitcase Carry | 20 kg | 3×55" | 7-8 |
-| Weighted Dips | 20 kg lastre (el 10/06 fue BW por fatiga — retomar lastre) | 3×8-10 | 7-8 |
+| Weighted Dips | 10 kg lastre (venía BW, llegó a 3×12 → primer salto de carga) | 3×10 (reset, sumar reps) | 7-8 |
 | Hanging Leg Raise | BW | 3×10 | 7-8 |
 
 ### Extra (Domingo)
