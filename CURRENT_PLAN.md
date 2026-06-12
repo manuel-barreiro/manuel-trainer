@@ -30,7 +30,7 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 
 | Ejercicio | Peso actual | Última act. |
 |---|---|---|
-| Incline DB Press | 24 kg | 08/06/2026 (saltó de 22 → 24 a 3×8 limpio) |
+| Incline DB Press | 24 kg | 08/06/2026 (3×8 limpio; rack salta a 30 → estirar reps hasta 3×12 en 24 antes del salto) |
 | Chin-Up | BW (reset 3×6 @ RPE 7) | 08/06/2026 |
 | Leg Extension | 70 kg | 03/06/2026 |
 | OH Single Carry | 18 kg (3×55") | 08/06/2026 (subió de 50" → 55") |
@@ -51,7 +51,7 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 ### Workout A
 | Ejercicio | Peso | Reps objetivo | RPE objetivo |
 |---|---|---|---|
-| Incline DB Press | 24 kg | 3×6-8 (en 24 arrancó en el piso; sumar reps hacia 3×8) | 7-8 |
+| Incline DB Press | 24 kg | 3×8-12 (rack salta a 30; estirar reps hasta 3×12 @ ≤8, después saltar a 30 y resetear a 3×6) | 7-8 |
 | Chin-Up | BW | 3×6 — confirmar 3×6 limpio (RPE ≤8, idealmente cerca de 7) 1 sesión más antes de sumar reps; luego doble progresión 6→10 | 7-8 |
 | Leg Extension | 70 kg | 3×13-15 (clavar 3×14 a ≤8) | 8 |
 | OH Single Carry | 18 kg | 3×55" | 7-8 |
