@@ -33,7 +33,7 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 | Incline DB Press | 25 kg | 12/06/2026 (apareció mancuerna de 25; +1 desde 24. Después de 25 el rack salta a 30 → estirar reps hasta 3×12 antes del salto) |
 | Chin-Up | BW (reset 3×6 @ RPE 7) | 08/06/2026 |
 | Leg Extension | 70 kg | 03/06/2026 |
-| OH Single Carry | 18 kg (3×50") | 12/06/2026 (bajó 55"→50" por fatiga de fin de semana — volver a 55") |
+| OH Single Carry | 18 kg (3×55") | 12/06/2026 (sostuvo 55" — estirar a 60" si va cómodo) |
 | Hammer Curl | 15 kg | 12/06/2026 (saltó 12.5→15 limpio, 3×8) |
 | Bench Press | 75 kg | reconstruyendo (pre-lesión 75 kg) |
 | Lat Pulldown | 70 kg | 19/04/2026 |
@@ -54,7 +54,7 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 | Incline DB Press | 25 kg | consolidar 3×8 a ≤8 (12/06 última a 8.5) → sumar reps hasta 3×12; salto a 30 recién ahí | 7-8 |
 | Chin-Up | BW | 3×6 — sigue hot (8/8/8 el 12/06, no baja a ~7). NO sumar reps; mantener 3×6 y reevaluar con semana fresca | 7-8 |
 | Leg Extension | 70 kg | consolidar 3×14 a ≤8 (12/06 fue 8/8.5/8.5) antes de 3×15 | 8 |
-| OH Single Carry | 18 kg | volver a 3×55" (bajó a 50" por fatiga) | 7-8 |
+| OH Single Carry | 18 kg | 3×55" sostenido → estirar a 60" si va cómodo | 7-8 |
 | Hammer Curl | 15 kg | 3×8 limpio (12/06) → sumar reps hasta 3×12 | 8 |
 | Ab Wheel | BW | 3×11 (12/06 quedó en 3×10 con margen) | 7-8 |
 

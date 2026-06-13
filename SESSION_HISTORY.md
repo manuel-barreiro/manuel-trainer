@@ -20,7 +20,7 @@
 | Incline DB Press | 25 kg | 8 / 8 / 8 | 7.5 / 8 / 8.5 |
 | Chin-Up | BW | 6 / 6 / 6 | 8 / 8 / 8 |
 | Leg Extension | 70 kg | 14 / 14 / 14 | 8 / 8.5 / 8.5 |
-| OH Single Carry | 18 kg | 3 × 50" | time-based, no aplica |
+| OH Single Carry | 18 kg | 3 × 55" | time-based, no aplica |
 | Hammer Curl | 15 kg | 8 / 8 / 8 | 7.5 / 8 / 8.5 |
 | Ab Wheel | BW | 10 / 10 / 10 | 7 / 7.5 / 8 |
 
@@ -31,7 +31,7 @@
 - **Hammer 15** ✅ — el salto +2.5 desde 12.5 landeó limpio (3×8 @ 7.5/8/8.5). Quedarse en 15, **sumar reps hacia 3×12**.
 - **Chin-Up:** 3×6 @ 8/8/8 — más caliente que el 08/06 (7.5/8/8). NO sumar reps todavía; sigue sin bajar a ~7. Parte es fatiga de fin de semana, parte el patrón hot crónico. Mantener 3×6 y reevaluar con semana fresca.
 - **Leg Ext 70×14** pegó el target pero hot (8/8.5/8.5) → **consolidar 3×14 a ≤8** antes de 3×15.
-- **OH Single Carry:** bajó de 55" → **50"** (regresión leve, probable fatiga acumulada). Volver a 55".
+- **OH Single Carry:** sostuvo 3×55" (igual que 08/06). Próximo paso: estirar a 60" si va cómodo.
 - **Ab Wheel:** quedó en 3×10 @ 7/7.5/8 (no sumó la rep 11, tenía margen) → **3×11 la próxima**.
 
 ---
