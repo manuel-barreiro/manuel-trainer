@@ -72,7 +72,7 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 | Ejercicio | Peso | Reps objetivo | RPE objetivo |
 |---|---|---|---|
 | Bench Press | 70 kg (consolidar última a ≤8) | 3×6-8 | 7-8 |
-| Lat Pulldown | 70 kg | 3×8-10 | 7-8 |
+| Pull-Up (reemplaza Lat Pulldown desde 14/06) | BW | 3×6 @ ≤8 (cap RPE, no grindear; build reps) | 7-8 |
 | Lateral Raise (DB) + Leg Extension | 12 kg / 70 kg | 3×12-15 | 8 |
 | Bicep Curl | 25 kg | 3×10-12 | 8 |
 | Tricep Pushdown | 20 kg (reconstruir → 25) | 3×10-12 | 8 |
@@ -92,11 +92,13 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
      lesionada bajo todo el BW; correr a RPE 9-10 es el último lugar donde querés una mano
      que recién vuelve (el grip/antebrazo es lo que cede en el fallo). El estancamiento ya
      pedía bajar reps antes de la lesión; el contexto post-lesión lo hizo obligatorio.
-2. **Pull-Up como tracción vertical del Extra (próximo bloque).** El 07/06 Manuel hizo
-   Pull-Ups en vez de Lat Pulldown como test de tolerancia de mano (aprobado, mano 100%,
-   "solo por hoy"). Resultado: 3×6 @ 7.5/8.5/9 — tolerancia buena, sin molestia de grip.
-   De cara al Meso 2: viable programar dominadas, pero arrancar **3×6 BW a RPE ≤8** (no
-   3×8), por el patrón hot crónico del chin-up. Confirmar con Manuel al armar el bloque.
+2. ~~**Pull-Up como tracción vertical del Extra.**~~ → **ADOPTADO (Manuel, 14/06/2026).**
+   El Pull-Up reemplaza al Lat Pulldown en el Extra desde ya (la mano respondió 100% en el
+   test del 07/06: 3×6 @ 7.5/8.5/9). Arranca **3×6 BW a RPE ≤8** (no 3×8) y progresa por reps.
+   - **Vigilar carga de tracción vertical:** ahora hay DOS pulls verticales BW por semana
+     (Chin-Up en A + Pull-Up en Extra), ambos con historial hot y sobre una mano que recién
+     vuelve. Cap de RPE estricto en ambos (≤8, sin grindear). Si el grip/antebrazo o la
+     mano dan señal, el Pull-Up es lo primero que se recorta.
 3. ~~OH Single Carry sin RPE~~ → **RESUELTO/no aplica.** Los carries son time-based y Hevy
    no permite RPE; se autorregulan por peso y duración. Ver PROFILE.md. No flaggear más.
 
