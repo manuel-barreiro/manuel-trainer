@@ -13,6 +13,33 @@
 
 # BLOQUE ACTUAL — Mesociclo 1 (vuelta post-lesión)
 
+## ✅ Extra — Domingo 14/06/2026 (Mesociclo 1, semana 3 — CIERRA semana 3)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Pull-Up | BW | 6 / 6 / 6 | 7.5 / 8.5 / 9 |
+| Bench Press (Barbell) | 70 kg | 10 / 10 / 9 | 7.5 / 8.5 / 8.5 |
+| Lateral Raise (DB) | 12 kg | 13 / 13 / 13 | 8 / 8 / 8.5 |
+| Leg Extension | 77 kg | 10 / 10 / 10 | 8 / 8 / 8 |
+| Bicep Curl (Barbell) | 25 kg | 12 / 12 / 12 | 7.5 / 8 / 8.5 |
+| Triceps Rope Pushdown | 22.5 kg | 12 / 12 / 12 | 7.5 / 8 / 8.5 |
+| Seated Palms Up Wrist Curl | 12.5 kg | 18 / 18 / 18 | 7.5 / 8 / — |
+| Crunch (Weighted) — core extra | 5 kg | 12 / 12 / 12 | 7.5 / 7.5 / 7.5 |
+| Oblique Crunch — core extra | BW | 12 / 12 / 12 | 7.5 / 7.5 / 7.5 |
+
+🔗 hevy.com/workout/37fa3913-b931-4d74-902b-c0296d2f37f0
+
+**Lecturas:**
+- **Bench 70:** mejoró vs 07/06 (última pasó de 9.5 → 8.5) y aplicó el cap dejando caer la 3ª a 9 reps. Todavía las series 2-3 a 8.5 (apenas sobre el cap 8) → seguir recortando 1 rep en sets finales para clavar ≤8. Va en la dirección correcta.
+- **Pull-Up:** corrió hot igual que el chin-up — 3×6 @ 7.5/8.5/9, se fue del cap (≤8). Confirma el aviso: DOS pulls verticales BW hot por semana. Mantener 3×6, NO sumar reps; más descanso entre series. Vigilar mano/grip.
+- **Tricep Pushdown:** 🔼 subió 20→22.5 y clavó 3×12 (última 8.5) — buen salto. Consolidar 22.5 a ≤8, después 25.
+- **Bicep 25 / Lateral 12:** ambos 3×12 y 3×13 al techo del rango con última a 8.5 → consolidar a ≤8 antes de subir.
+- **Leg Extension (Extra):** lo hizo a **77 kg × 3×10 @ 8/8/8** limpio (en vez de 70×13-15). Esquema más pesado/menos reps que en el día A (70×14) — válido y limpio; queda 77×10 como referencia del Extra.
+- **Wrist Curl 12.5:** 3×18 limpio → sumar hacia 3×20.
+- **Core extra** (crunch 5 kg + oblicuos): agregado, RPE 7.5, sin drama.
+
+---
+
 ## ✅ Workout A — Viernes 12/06/2026 (Mesociclo 1, semana 3 — 2º A, 3ª sesión de la semana)
 
 | Ejercicio | Peso | Reps | RPE |

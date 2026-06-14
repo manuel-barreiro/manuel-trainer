@@ -6,7 +6,7 @@
 
 ## Estado del mesociclo
 - **Mesociclo:** 1 (vuelta post-lesión → reconstrucción)
-- **Semana:** 3 EN CURSO — A (08/06) ✅ · B (10/06) ✅ · A (12/06) ✅ hechos. Falta solo Extra (cierra semana).
+- **Semana:** 3 COMPLETA ✅ (A 08/06 · B 10/06 · A 12/06 · Extra 14/06). Próxima sesión = **semana 4, día B**.
 - **Inicio del bloque:** 2026-05-25 (lunes — vuelta al gym con programa reestructurado)
 - **Deload programado:** Semana 6 (29/06 → 05/07/2026)
 - **Próximo cierre de bloque:** ~06/07/2026 (armar A/B/Extra nuevos)
@@ -20,8 +20,8 @@
 |---|---|---|
 | 1 | 25/05 → 31/05 | A (25/05) · B (27/05) · A (29/05) · Extra (31/05) |
 | 2 | 01/06 → 07/06 | B (01/06) · A (03/06) · B (05/06) · Extra (07/06) |
-| 3 | 08/06 → 14/06 | A ✅ (08/06) · B ✅ (10/06) · A ✅ (12/06) · Extra |
-| 4 | 15/06 → 21/06 | B · A · B · Extra |
+| 3 | 08/06 → 14/06 | A ✅ (08/06) · B ✅ (10/06) · A ✅ (12/06) · Extra ✅ (14/06) |
+| 4 | 15/06 → 21/06 | B · A · B · Extra ← **arranca acá** |
 | 5 | 22/06 → 28/06 | A · B · A · Extra — pico de volumen (MRV) |
 | 6 | 29/06 → 05/07 | B · A · B · Extra — **DELOAD** (~50% volumen, -10-20% peso, RPE 5-6) |
 
@@ -36,10 +36,11 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 | OH Single Carry | 18 kg (3×55") | 12/06/2026 (sostuvo 55" — estirar a 60" si va cómodo) |
 | Hammer Curl | 15 kg | 12/06/2026 (saltó 12.5→15 limpio, 3×8) |
 | Bench Press | 75 kg | reconstruyendo (pre-lesión 75 kg) |
-| Lat Pulldown | 70 kg | 19/04/2026 |
-| Lateral Raise (DB) | 12 kg | 19/04/2026 |
-| Bicep Curl | 25 kg | 07/06/2026 (saltó de 20 → 25 limpio) |
-| Tricep Pushdown | 20 kg | reconstruyendo (pre-lesión 25 kg) |
+| Pull-Up (Extra, reemplaza Lat Pulldown) | BW (3×6) | 14/06/2026 (corre hot, mantener 3×6) |
+| Lateral Raise (DB) | 12 kg | 14/06/2026 (3×13 @ ≤8.5, cerca del techo) |
+| Bicep Curl | 25 kg | 14/06/2026 (3×12, última 8.5 — consolidar a ≤8) |
+| Tricep Pushdown | 22.5 kg | 14/06/2026 (subió 20→22.5, 3×12; reconstruir → 25) |
+| Leg Extension (Extra) | 77 kg (3×10) | 14/06/2026 (esquema pesado del Extra; día A sigue 70×13-15) |
 | Wrist Curl | 12.5 kg | 07/06/2026 |
 | Suitcase Carry | 20 kg (3×55") | 05/06/2026 |
 | Weighted Dips | BW (3×12 limpio el 10/06) → +10 kg | 06/06→10/06 |
@@ -71,12 +72,13 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 ### Extra (Domingo)
 | Ejercicio | Peso | Reps objetivo | RPE objetivo |
 |---|---|---|---|
-| Bench Press | 70 kg | 3×8-10 (cap RPE 8 por serie; dejar caer reps, no grindear) | 7-8 |
-| Pull-Up (reemplaza Lat Pulldown desde 14/06) | BW | 3×6 @ ≤8 (cap RPE, no grindear; build reps) | 7-8 |
-| Lateral Raise (DB) + Leg Extension | 12 kg / 70 kg | 3×12-15 | 8 |
-| Bicep Curl | 25 kg | 3×10-12 | 8 |
-| Tricep Pushdown | 20 kg (reconstruir → 25) | 3×10-12 | 8 |
-| Wrist Curl | 12.5 kg | 3×15-20 | 8 |
+| Bench Press | 70 kg | 3×8-10 (cap RPE 8 por serie; 14/06 fue 10/10/9 @ 7.5/8.5/8.5 → recortar 1 rep en sets 2-3 para ≤8) | 7-8 |
+| Pull-Up | BW | 3×6 — corre hot (14/06: 7.5/8.5/9). Mantener 3×6, NO sumar reps, más descanso entre series | 7-8 |
+| Lateral Raise (DB) + Leg Extension | 12 kg / 77 kg | lateral 3×13-15 (consolidar a ≤8) / leg ext 3×10 @ ≤8 | 8 |
+| Bicep Curl | 25 kg | 3×12 (consolidar a ≤8, última fue 8.5) → 27.5 | 8 |
+| Tricep Pushdown | 22.5 kg | 3×12 (consolidar a ≤8) → 25 | 8 |
+| Wrist Curl | 12.5 kg | 3×18 → sumar hacia 3×20 | 8 |
+| Core extra (opcional): Crunch 5 kg + Oblique Crunch | — | 3×12 | 7-8 |
 
 > **Bench (Extra):** a 70 kg. El problema NO es el nº de reps (venía 3×10) sino el grinding:
 > la última se va a 9.5 dos Extras seguidas (31/05 y 07/06) por forzar las 10 con fatiga.
