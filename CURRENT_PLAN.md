@@ -71,15 +71,17 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 ### Extra (Domingo)
 | Ejercicio | Peso | Reps objetivo | RPE objetivo |
 |---|---|---|---|
-| Bench Press | 70 kg (consolidar última a ≤8) | 3×6-8 | 7-8 |
+| Bench Press | 70 kg | 3×8-10 (cap RPE 8 por serie; dejar caer reps, no grindear) | 7-8 |
 | Pull-Up (reemplaza Lat Pulldown desde 14/06) | BW | 3×6 @ ≤8 (cap RPE, no grindear; build reps) | 7-8 |
 | Lateral Raise (DB) + Leg Extension | 12 kg / 70 kg | 3×12-15 | 8 |
 | Bicep Curl | 25 kg | 3×10-12 | 8 |
 | Tricep Pushdown | 20 kg (reconstruir → 25) | 3×10-12 | 8 |
 | Wrist Curl | 12.5 kg | 3×15-20 | 8 |
 
-> **Bench (Extra):** loggeado a 70 kg, no 75. La última se va a 9.5 dos Extras seguidas
-> (31/05 y 07/06) → objetivo 7-8. NO subir ni a 75 ni sumar reps hasta clavar las 3 a ≤8.
+> **Bench (Extra):** a 70 kg. El problema NO es el nº de reps (venía 3×10) sino el grinding:
+> la última se va a 9.5 dos Extras seguidas (31/05 y 07/06) por forzar las 10 con fatiga.
+> Fix = **cap RPE 8 por serie**, dejando caer reps en las series finales (ej. 10/8/7). Cuando
+> las 3 series lleguen a 10 reps @ ≤8, subir a 72.5/75. No grindear, no perseguir el número.
 
 ## Decisiones abiertas
 1. ~~**Chin-Up — post-lesión de mano + corre hot.**~~ → **RESUELTA (confirmada por Manuel,
