@@ -13,6 +13,30 @@
 
 # BLOQUE ACTUAL — Mesociclo 1 (vuelta post-lesión)
 
+## ✅ Workout B — Lunes 15/06/2026 (Mesociclo 1, semana 4 — ⚠️ DÍA DE BAJO SUEÑO: 4 h, estrés agudo por convulsión del perro)
+
+> ⚠️ **NO leer como progresión/estancamiento.** Sesión autorregulada a propósito: mismos pesos,
+> cap RPE 7, sin progresar, salto de dips a 10 kg pospuesto. Para comparar tendencias, usar la
+> B fresca de la semana, no esta.
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Overhead Press (Barbell) | 42.5 kg | 8 / 6 / 6 | 8 / 7.5 / 8 |
+| Pendlay Row (Barbell) | 57.5 kg | 8 / 8 / 8 | 7.5 / 7.5 / 7.5 |
+| Suitcase Carry | 20 kg | 3 × 55" | time-based, no aplica |
+| Triceps Dip (Weighted) | BW (0 kg — salto a 10 kg pospuesto) | 10 / 10 / 10 | 7.5 / 8 / 8 |
+| Hanging Leg Raise | BW | 10 / 10 / 10 | 8 / 8 / — |
+
+🔗 hevy.com/workout/0ae9615b-02f2-4b94-acc2-6dd23f3ae7d1
+
+**Lecturas:**
+- **Buena autorregulación.** Respetó el plan: aguantó pesos, cortó reps en vez de grindear, pospuso el lastre. Exactamente lo que había que hacer con 4 h de sueño.
+- **OHP 42.5:** 8/6/6 — bajó reps en sets 2-3 por fatiga. Esperable, NO es regresión. La consolidación real de 42.5 (3×8 @ ≤8) queda para la próxima B fresca.
+- **Pendlay Row 57.5:** 3×8 @ 7.5/7.5/7.5 — limpio y parejo incluso sin dormir. Fresco, apuntar a sumar reps hacia 3×10.
+- **Dips:** BW 3×10 como se indicó. **El primer salto a 10 kg de lastre sigue pendiente** para la próxima B.
+
+---
+
 ## ✅ Extra — Domingo 14/06/2026 (Mesociclo 1, semana 3 — CIERRA semana 3)
 
 | Ejercicio | Peso | Reps | RPE |
