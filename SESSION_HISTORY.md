@@ -13,6 +13,29 @@
 
 # BLOQUE ACTUAL — Mesociclo 1 (vuelta post-lesión)
 
+## ✅ Workout A — Miércoles 17/06/2026 (Mesociclo 1, semana 4 — fresco/recuperado)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Incline DB Press | 25 kg | 8 / 8 / 8 | 7 / 8 / 8.5 |
+| Chin-Up | BW | 6 / 6 / 6 | 7.5 / 7.5 / 8 |
+| Leg Extension | 70 kg | 14 / 14 / 14 | 7.5 / 8 / 8 |
+| OH Single Carry | 18 kg | 3 × 60" | time-based, no aplica |
+| Hammer Curl | 16 kg (las de 15 ocupadas, +1) | 8 / 8 / 8 | 7.5 / 8 / 8.5 |
+| Ab Wheel | BW | 11 / 11 / 11 | 7.5 / 8 / 8 |
+
+🔗 hevy.com/workout/2425efb4-2929-4998-812e-0a13aff586aa
+
+**Lecturas (sesión fresca, mucha progresión):**
+- **Chin-Up 🎉:** fresco bajó a 7.5/7.5/8 (vs 8/8/8 el 12/06). Confirma que gran parte del "hot" era fatiga acumulada, no estructural. Está casi en el criterio "limpio cerca de 7" → **próxima A empezar a sumar reps (3×7)**.
+- **Leg Extension ✅:** consolidó 3×14 @ 7.5/8/8 (vs 8/8.5/8.5 el 12/06). Listo para **3×15** la próxima.
+- **OH Single Carry 🔼:** estiró 55" → **60"**. Cuando 60" se sienta cómodo, subir a 20 kg y resetear tiempo.
+- **Ab Wheel 🔼:** clavó 3×11 (de 3×10). Próximo: 3×12.
+- **Hammer 16 kg:** usó 16 (las de 15 ocupadas), 3×8 @ última 8.5. Quedarse en 16, **sumar reps hacia 3×12**.
+- **Incline 25:** set 1 mejoró (8 @ 7) pero la 3ª sigue clavada en 8.5 (2ª sesión igual). Set 1 tiene margen de sobra → **empezar a sumar reps igual** (apuntar 9/9/8), no esperar a que la 3ª baje sola.
+
+---
+
 ## ✅ Workout B — Lunes 15/06/2026 (Mesociclo 1, semana 4 — ⚠️ DÍA DE BAJO SUEÑO: 4 h, estrés agudo por convulsión del perro)
 
 > ⚠️ **NO leer como progresión/estancamiento.** Sesión autorregulada a propósito: mismos pesos,
