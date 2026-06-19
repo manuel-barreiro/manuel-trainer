@@ -13,6 +13,29 @@
 
 # BLOQUE ACTUAL — Mesociclo 1 (vuelta post-lesión)
 
+## ✅ Workout B — Viernes 19/06/2026 (Mesociclo 1, semana 4 — fresca, 2º B)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Overhead Press (Barbell) | 42.5 kg | 8 / 8 / 8 | 7.5 / 8 / 8 |
+| Pendlay Row (Barbell) | 57.5 kg | 9 / 9 / 9 | 7.5 / 7.5 / 8 |
+| Suitcase Carry | 20 kg | 3 × 60" | time-based, no aplica |
+| Leg Extension | 70 kg | 13 / 13 / 13 | 8 / 8 / 8.5 |
+| Triceps Dip (Weighted) | 10 kg 🆕 | 10 / 10 / 10 | 8 / 8 / 8.5 |
+| Hanging Leg Raise | BW | 10 / 10 / 10 | 8 / 8 / 8.5 |
+
+🔗 hevy.com/workout/33892e79-2206-4a12-8748-7d2b86288572
+
+**Lecturas:**
+- **OHP 42.5 ✅ CONSOLIDADO:** 3×8 @ 7.5/8/8, todas ≤8. Desbloquea el salto → **45 kg la próxima B** (reset a 3×6).
+- **Pendlay Row 57.5 🔼:** subió de 3×8 → **3×9** @ 7.5/7.5/8 limpio. Próximo: 3×10, después +peso.
+- **Dips 10 kg 🆕:** el estreno del lastre aterrizó — 3×10 @ 8/8/8.5 (última apenas hot, esperable en peso nuevo). Quedarse en 10 kg, sumar reps.
+- **Suitcase Carry 🔼:** 55" → 60". Cuando cómodo → 22 kg.
+- **Leg Ext (B) 70×13:** última 8.5, levemente hot. Mantener 3×13.
+- **Hanging Leg Raise:** 3×10 sólido.
+
+---
+
 ## ✅ Workout A — Miércoles 17/06/2026 (Mesociclo 1, semana 4 — fresco/recuperado)
 
 | Ejercicio | Peso | Reps | RPE |
