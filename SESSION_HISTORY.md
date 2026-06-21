@@ -13,6 +13,34 @@
 
 # BLOQUE ACTUAL — Mesociclo 1 (vuelta post-lesión)
 
+## ✅ Extra — Domingo 21/06/2026 (Mesociclo 1, semana 4 — CIERRA semana 4)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Bench Press (Barbell) | 70 kg | 10 / 9 / 8 | 7.5 / 8 / 8 |
+| Pull-Up | BW | 6 / 6 / 6 | 7.5 / 8.5 / 9 |
+| Lateral Raise (DB) | 12 kg | 13 / 13 / 13 | 7.5 / 8 / 8 |
+| Leg Extension | 77 kg | 10 / 10 / 10 | 7.5 / 8 / 8 |
+| Bicep Curl (Barbell) | 25 kg | 12 / 12 / 12 | 8 / 8.5 / 8.5 |
+| Triceps Rope Pushdown | 22.5 kg | 12 / 12 / 12 | 7.5 / 8 / 8.5 |
+| Seated Palms Up Wrist Curl | 12.5 kg | 20 / 20 / 20 | 8 / 8 / 9 |
+| Crunch (Weighted) — core extra | 10 kg | 15 / 15 / 15 | 7.5 / 8 / 8.5 |
+| Oblique Crunch — core extra | BW | 12 / 12 / 12 | 7 / 7 / 7.5 |
+
+🔗 hevy.com/workout/1fcd30c7-7477-40db-b8e9-b0bb1a5d0055
+
+**Lecturas:**
+- **Bench 70 ✅ FIX LOGRADO:** 10/9/8 @ 7.5/8/8 — dejó caer reps clavando RPE ≤8, exactamente la regla. Adiós grinding (venía 9.5). Para subir a 72.5 falta que los sets 2-3 también lleguen a 10 @ ≤8. Mantener 70.
+- **Pull-Up:** corrió hot otra vez, idéntico al 14/06 (7.5/8.5/9). El chin-up enfría fresco pero el pull-up no — está al final del Extra, prefatigado. **Opción: moverlo más temprano** (justo después del bench) para reps más limpias. Mantener 3×6.
+- **Lateral Raise 12 ✅:** consolidó 3×13 @ ≤8 → **3×14-15** la próxima.
+- **Leg Ext (Extra) 77 ✅:** 3×10 @ ≤8 limpio → sumar reps (3×11-12) o peso.
+- **Bicep 25:** 3×12 pero RPE subió (8/8.5/8.5, más hot que 14/06) → NO consolidado, mantener 25.
+- **Tricep 22.5:** 3×12 @ última 8.5 (igual que 14/06) → una más limpia y sube a 25.
+- **Wrist Curl 🔼:** llegó a 3×20 (de 3×18) pero última a 9 → consolidar 3×20 @ ≤8, después +peso.
+- **Core:** crunch subió a 10 kg × 3×15.
+
+---
+
 ## ✅ Workout B — Viernes 19/06/2026 (Mesociclo 1, semana 4 — fresca, 2º B)
 
 | Ejercicio | Peso | Reps | RPE |
