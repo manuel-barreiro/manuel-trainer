@@ -6,7 +6,7 @@
 
 ## Estado del mesociclo
 - **Mesociclo:** 1 (vuelta post-lesión → reconstrucción)
-- **Semana:** 4 COMPLETA ✅ (B 15/06 · A 17/06 · B 19/06 · Extra 21/06). Próxima = **semana 5 = PICO de volumen (MRV)**, después deload en la 6.
+- **Semana:** 5 EN CURSO (PICO/MRV) — A (22/06) ✅. Faltan B · A · Extra. Después → **deload semana 6**.
 - **Inicio del bloque:** 2026-05-25 (lunes — vuelta al gym con programa reestructurado)
 - **Deload programado:** Semana 6 (29/06 → 05/07/2026)
 - **Próximo cierre de bloque:** ~06/07/2026 (armar A/B/Extra nuevos)
@@ -22,7 +22,7 @@
 | 2 | 01/06 → 07/06 | B (01/06) · A (03/06) · B (05/06) · Extra (07/06) |
 | 3 | 08/06 → 14/06 | A ✅ (08/06) · B ✅ (10/06) · A ✅ (12/06) · Extra ✅ (14/06) |
 | 4 | 15/06 → 21/06 | B ✅ (15/06, bajo sueño) · A ✅ (17/06) · B ✅ (19/06) · Extra ✅ (21/06) |
-| 5 | 22/06 → 28/06 | A · B · A · Extra — **pico de volumen (MRV)** ← arranca acá |
+| 5 | 22/06 → 28/06 | A ✅ (22/06) · B · A · Extra — **pico de volumen (MRV)** |
 | 6 | 29/06 → 05/07 | B · A · B · Extra — **DELOAD** (~50% volumen, -10-20% peso, RPE 5-6) |
 
 ## Working weights actuales (junio 2026)
@@ -31,10 +31,10 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 | Ejercicio | Peso actual | Última act. |
 |---|---|---|
 | Incline DB Press | 25 kg | 12/06/2026 (apareció mancuerna de 25; +1 desde 24. Después de 25 el rack salta a 30 → estirar reps hasta 3×12 antes del salto) |
-| Chin-Up | BW (reset 3×6 @ RPE 7) | 08/06/2026 |
-| Leg Extension | 70 kg | 17/06/2026 (consolidó 3×14 @ ≤8 → listo para 3×15) |
-| OH Single Carry | 18 kg (3×60") | 17/06/2026 (estiró 55"→60"; cuando cómodo → 20 kg reset tiempo) |
-| Hammer Curl | 16 kg | 17/06/2026 (las de 15 ocupadas, +1; 3×8) |
+| Chin-Up | BW | 22/06/2026 (DESBLOQUEADO: 3×6 → 3×7 @ ≤8; progresar reps hacia 3×10) |
+| Leg Extension | 70 kg | 22/06/2026 (consolidó 3×15 @ 8 → listo para +peso, reset reps) |
+| OH Single Carry | 20 kg (3×55") | 22/06/2026 (saltó 18→20; reconstruir hacia 60") |
+| Hammer Curl | 16 kg | 22/06/2026 (3×9, última a 9 hot; limpiar a ≤8 antes de 3×10) |
 | Bench Press | 70 kg | 21/06/2026 (fix grinding logrado 10/9/8 @ ≤8; a 72.5 cuando sets 2-3 lleguen a 10 @ ≤8) |
 | Pull-Up (Extra, reemplaza Lat Pulldown) | BW (3×6) | 14/06/2026 (corre hot, mantener 3×6) |
 | Lateral Raise (DB) | 12 kg | 21/06/2026 (consolidó 3×13 @ ≤8 → 3×14-15) |
@@ -52,12 +52,12 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 ### Workout A
 | Ejercicio | Peso | Reps objetivo | RPE objetivo |
 |---|---|---|---|
-| Incline DB Press | 25 kg | sumar reps (apuntar 9/9/8; set 1 sobra a RPE 7) → hasta 3×12; salto a 30 recién ahí | 7-8 |
-| Chin-Up | BW | 3×6 bajó a 7.5 fresco (17/06) → **empezar a sumar reps: 3×7** manteniendo ≤8 | 7-8 |
-| Leg Extension | 70 kg | **3×15** (consolidó 3×14 @ ≤8 el 17/06) | 8 |
-| OH Single Carry | 18 kg | 3×60" → cuando cómodo, subir a 20 kg y resetear tiempo | 7-8 |
-| Hammer Curl | 16 kg | sumar reps hacia 3×12 (3×8 el 17/06) | 8 |
-| Ab Wheel | BW | 3×12 (clavó 3×11 el 17/06) | 7-8 |
+| Incline DB Press | 25 kg | 3×10 (viene de 3×9) → hasta 3×12; salto a 30 recién ahí | 7-8 |
+| Chin-Up | BW | 3×8 (viene de 3×7 limpio) → seguir hacia 3×10 | 7-8 |
+| Leg Extension | 70 kg | +peso reset reps (consolidó 3×15 @ 8 el 22/06) | 8 |
+| OH Single Carry | 20 kg | reconstruir 55" → 60" | 7-8 |
+| Hammer Curl | 16 kg | limpiar 3×9 a ≤8 (última fue 9) → después 3×10 | 8 |
+| Ab Wheel | BW | 3×13 (clavó 3×12 el 22/06) | 7-8 |
 
 ### Workout B
 | Ejercicio | Peso | Reps objetivo | RPE objetivo |
