@@ -6,10 +6,13 @@
 
 ## Estado del mesociclo
 - **Mesociclo:** 1 (vuelta post-lesión → reconstrucción)
-- **Semana:** 5 EN CURSO (PICO/MRV) — A (22/06) ✅. Faltan B · A · Extra. Después → **deload semana 6**.
+- **Semana:** 5 EN CURSO (PICO/MRV) — A (22/06) ✅. Faltan B · A · Extra.
 - **Inicio del bloque:** 2026-05-25 (lunes — vuelta al gym con programa reestructurado)
-- **Deload programado:** Semana 6 (29/06 → 05/07/2026)
-- **Próximo cierre de bloque:** ~06/07/2026 (armar A/B/Extra nuevos)
+- **Deload:** ⚠️ NO se hace deload estructurado. Manuel viaja la semana **06/07 → 12/07 (off total)**,
+  y ese descanso ES el deload (decidido 22/06). La semana 29/06→05/07 pasa a ser **entrenamiento
+  normal cerrando el bloque** (no deload).
+- **Próximo cierre de bloque:** semana del viaje. **Retoma lunes 13/07 = Mesociclo 2** (etapa nueva:
+  rotar 1-2 accesorios, reevaluar chin-up/pull-up, armar A/B/Extra nuevos JUNTO a Manuel).
 
 ### Calendario del mesociclo (semanas lun→dom)
 **Patrón intencional:** A/B alternan el día que se repite; el Extra cierra cada semana.
@@ -23,7 +26,9 @@
 | 3 | 08/06 → 14/06 | A ✅ (08/06) · B ✅ (10/06) · A ✅ (12/06) · Extra ✅ (14/06) |
 | 4 | 15/06 → 21/06 | B ✅ (15/06, bajo sueño) · A ✅ (17/06) · B ✅ (19/06) · Extra ✅ (21/06) |
 | 5 | 22/06 → 28/06 | A ✅ (22/06) · B · A · Extra — **pico de volumen (MRV)** |
-| 6 | 29/06 → 05/07 | B · A · B · Extra — **DELOAD** (~50% volumen, -10-20% peso, RPE 5-6) |
+| 6 | 29/06 → 05/07 | B · A · B · Extra — **entrenamiento normal, cierra bloque** (el viaje hace de deload) |
+| OFF | 06/07 → 12/07 | 🏖️ VIAJE — descanso total = deload. Sin entrenar. |
+| Meso 2 · 1 | 13/07 → … | Arranca **Mesociclo 2** fresco (A/B/Extra nuevos, rotación de accesorios) |
 
 ## Working weights actuales (junio 2026)
 NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / doble progresión.
