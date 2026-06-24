@@ -49,7 +49,7 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 | Wrist Curl | 12.5 kg (3×20) | 21/06/2026 (llegó a 3×20, última 9 — consolidar a ≤8 → +peso) |
 | Leg Extension (Extra) | 77 kg (3×10) | 21/06/2026 (consolidó 3×10 @ ≤8 → sumar reps/peso) |
 | Suitcase Carry | 20 kg (3×60") | 24/06/2026 (reconstruyó 60" a 20 kg; cuando cómodo → 22 kg) |
-| Weighted Dips | 10 kg lastre | 24/06/2026 (12/12/10, última 9; consolidar 3×12 @ ≤8 → +peso) |
+| Weighted Dips | 10 kg lastre | 24/06/2026 (3×12, última a RPE 9; consolidar 3×12 @ ≤8 → +peso) |
 | OHP (Barbell) | 45 kg | 24/06/2026 (estreno limpio 3×6 @ ≤8.5 → sumar reps hacia 3×8) |
 | Pendlay Row (Barbell) | 57.5 kg → 60 | 24/06/2026 (CERRÓ 3×10 @ 8/8/8 → saltar a 60, reset 3×8) |
 

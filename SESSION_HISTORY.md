@@ -20,7 +20,7 @@
 | Overhead Press (Barbell) | 45 kg 🆕 | 6 / 6 / 6 | 7.5 / 8 / 8.5 |
 | Pendlay Row (Barbell) | 57.5 kg | 10 / 10 / 10 | 8 / 8 / 8 |
 | Suitcase Carry | 20 kg | 3 × 60" | time-based, no aplica |
-| Triceps Dip (Weighted) | 10 kg | 12 / 12 / 10 | 8 / 8.5 / 9 |
+| Triceps Dip (Weighted) | 10 kg | 12 / 12 / 12 | 8 / 8.5 / 9 |
 | Hanging Leg Raise | BW | 10 / 10 / 10 | 8 / 8.5 / 9 |
 | Leg Curl | — | NO HECHO (debut pendiente) | — |
 
@@ -30,7 +30,7 @@
 - **OHP 45 🆕🔼:** estreno limpio — 3×6 @ 7.5/8/8.5 (última apenas hot, esperable en peso nuevo + pico). Quedarse en 45, sumar reps hacia 3×8.
 - **Pendlay Row 57.5 ✅🔼:** CERRÓ el rango — 3×10 @ 8/8/8 todas limpias. Listo para **+peso (60 kg, reset a 3×8)**.
 - **Suitcase Carry 🔼:** reconstruyó los 60" a 20 kg. Próximo: 22 kg.
-- **Dips 10:** 12/12/10, última a 9 (hot, fin de sesión + pico). Casi 3×12 → consolidar a ≤8, después +peso.
+- **Dips 10 🔼:** 3×12 limpio en reps (última a RPE 9, hot por fin de sesión + pico). Pegó el techo del rango → consolidar 3×12 a ≤8, después +peso.
 - **Hanging Leg Raise:** 3×10, RPE trepó a 9 (pico). Mantener.
 - **Leg Curl:** NO se hizo el debut. Pendiente para la próxima B.
 
