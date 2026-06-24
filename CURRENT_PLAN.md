@@ -37,7 +37,8 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 |---|---|---|
 | Incline DB Press | 25 kg | 12/06/2026 (apareció mancuerna de 25; +1 desde 24. Después de 25 el rack salta a 30 → estirar reps hasta 3×12 antes del salto) |
 | Chin-Up | BW | 22/06/2026 (DESBLOQUEADO: 3×6 → 3×7 @ ≤8; progresar reps hacia 3×10) |
-| Leg Extension | 70 kg | 22/06/2026 (consolidó 3×15 @ 8 → listo para +peso, reset reps) |
+| Leg Extension (cuádriceps — días A y Extra) | 70 kg | 22/06/2026 (consolidó 3×15 @ 8 → listo para +peso, reset reps) |
+| Leg Curl (isquios — día B) | a encontrar 24/06 | NUEVO: balancea cuádriceps (leg ext A/Extra + fútbol). Arranca 3×12-13 @ RPE 8 |
 | OH Single Carry | 20 kg (3×55") | 22/06/2026 (saltó 18→20; reconstruir hacia 60") |
 | Hammer Curl | 16 kg | 22/06/2026 (3×9, última a 9 hot; limpiar a ≤8 antes de 3×10) |
 | Bench Press | 70 kg | 21/06/2026 (fix grinding logrado 10/9/8 @ ≤8; a 72.5 cuando sets 2-3 lleguen a 10 @ ≤8) |
@@ -69,7 +70,7 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 |---|---|---|---|
 | OHP (Barbell) | 45 kg 🔼 | 3×6 (reset; consolidó 42.5 el 19/06) → sumar reps | 7-8 |
 | Pendlay Row (Barbell) | 57.5 kg | 3×10 (viene de 3×9) → después +peso | 7-8 |
-| Leg Curl / Leg Extension | 70 kg | 3×13 | 8 |
+| Leg Curl (femoral) | a encontrar | 3×12-13 (peso de arranque 24/06; su propia progresión) | 8 |
 | Suitcase Carry | 20 kg | 3×60" → cuando cómodo, 22 kg | 7-8 |
 | Weighted Dips | 10 kg lastre | 3×10 (estreno 19/06) → sumar reps hacia 3×12 | 7-8 |
 | Hanging Leg Raise | BW | 3×10 | 7-8 |
