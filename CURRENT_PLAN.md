@@ -6,7 +6,7 @@
 
 ## Estado del mesociclo
 - **Mesociclo:** 1 (vuelta post-lesión → reconstrucción)
-- **Semana:** 5 EN CURSO (PICO/MRV) — A (22/06) ✅. Faltan B · A · Extra.
+- **Semana:** 5 EN CURSO (PICO/MRV) — A (22/06) ✅ · B (24/06) ✅. Faltan A · Extra.
 - **Inicio del bloque:** 2026-05-25 (lunes — vuelta al gym con programa reestructurado)
 - **Deload:** ⚠️ NO se hace deload estructurado. Manuel viaja la semana **06/07 → 12/07 (off total)**,
   y ese descanso ES el deload (decidido 22/06). La semana 29/06→05/07 pasa a ser **entrenamiento
@@ -25,7 +25,7 @@
 | 2 | 01/06 → 07/06 | B (01/06) · A (03/06) · B (05/06) · Extra (07/06) |
 | 3 | 08/06 → 14/06 | A ✅ (08/06) · B ✅ (10/06) · A ✅ (12/06) · Extra ✅ (14/06) |
 | 4 | 15/06 → 21/06 | B ✅ (15/06, bajo sueño) · A ✅ (17/06) · B ✅ (19/06) · Extra ✅ (21/06) |
-| 5 | 22/06 → 28/06 | A ✅ (22/06) · B · A · Extra — **pico de volumen (MRV)** |
+| 5 | 22/06 → 28/06 | A ✅ (22/06) · B ✅ (24/06) · A · Extra — **pico de volumen (MRV)** |
 | 6 | 29/06 → 05/07 | B · A · B · Extra — **entrenamiento normal, cierra bloque** (el viaje hace de deload) |
 | OFF | 06/07 → 12/07 | 🏖️ VIAJE — descanso total = deload. Sin entrenar. |
 | Meso 2 · 1 | 13/07 → … | Arranca **Mesociclo 2** fresco (A/B/Extra nuevos, rotación de accesorios) |
@@ -48,10 +48,10 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 | Tricep Pushdown | 22.5 kg | 21/06/2026 (3×12, última 8.5; una más limpia → 25) |
 | Wrist Curl | 12.5 kg (3×20) | 21/06/2026 (llegó a 3×20, última 9 — consolidar a ≤8 → +peso) |
 | Leg Extension (Extra) | 77 kg (3×10) | 21/06/2026 (consolidó 3×10 @ ≤8 → sumar reps/peso) |
-| Suitcase Carry | 20 kg (3×60") | 19/06/2026 (estiró a 60"; cuando cómodo → 22 kg) |
-| Weighted Dips | 10 kg lastre | 19/06/2026 (estreno limpio 3×10 @ ≤8.5; sumar reps) |
-| OHP (Barbell) | 42.5 kg → 45 | 19/06/2026 (CONSOLIDADO 3×8 @ 7.5/8/8 → saltar a 45) |
-| Pendlay Row (Barbell) | 57.5 kg | 19/06/2026 (3×9 @ ≤8 — sumar a 3×10, después +peso) |
+| Suitcase Carry | 20 kg (3×60") | 24/06/2026 (reconstruyó 60" a 20 kg; cuando cómodo → 22 kg) |
+| Weighted Dips | 10 kg lastre | 24/06/2026 (12/12/10, última 9; consolidar 3×12 @ ≤8 → +peso) |
+| OHP (Barbell) | 45 kg | 24/06/2026 (estreno limpio 3×6 @ ≤8.5 → sumar reps hacia 3×8) |
+| Pendlay Row (Barbell) | 57.5 kg → 60 | 24/06/2026 (CERRÓ 3×10 @ 8/8/8 → saltar a 60, reset 3×8) |
 
 ## Rutinas del bloque (Mesociclo 1)
 
@@ -68,8 +68,8 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 ### Workout B
 | Ejercicio | Peso | Reps objetivo | RPE objetivo |
 |---|---|---|---|
-| OHP (Barbell) | 45 kg 🔼 | 3×6 (reset; consolidó 42.5 el 19/06) → sumar reps | 7-8 |
-| Pendlay Row (Barbell) | 57.5 kg | 3×10 (viene de 3×9) → después +peso | 7-8 |
+| OHP (Barbell) | 45 kg | 3×7-8 (viene de estreno 3×6) → sumar reps | 7-8 |
+| Pendlay Row (Barbell) | 60 kg 🔼 | 3×8 (reset; cerró 57.5 a 3×10 el 24/06) → sumar reps | 7-8 |
 | Leg Curl (femoral) | a encontrar | DEBUT 24/06: 3×10 liviano (nunca lo hizo). RPE 7, aprender patrón + control excéntrico. Después progresa por doble progresión | 7→8 |
 | Suitcase Carry | 20 kg | 3×60" → cuando cómodo, 22 kg | 7-8 |
 | Weighted Dips | 10 kg lastre | 3×10 (estreno 19/06) → sumar reps hacia 3×12 | 7-8 |
