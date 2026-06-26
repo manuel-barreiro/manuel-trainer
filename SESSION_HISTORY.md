@@ -13,6 +13,29 @@
 
 # BLOQUE ACTUAL — Mesociclo 1 (vuelta post-lesión)
 
+## ✅ Workout A — Viernes 26/06/2026 (Mesociclo 1, semana 5 — PICO, 2º A)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Chin-Up | BW | 8 / 8 / 8 | 7.5 / 8 / 8.5 |
+| Leg Extension | 77 kg | 12 / 12 / 12 | 7.5 / 8 / 8 |
+| Incline DB Press | 25 kg | 10 / 10 / 10 | 8 / 8.5 / 9 |
+| OH Single Carry | 20 kg | 3 × 60" | time-based (Manuel: "duro, llegué con lo justo" → ~límite) |
+| Hammer Curl | 16 kg | 9 / 9 / 9 | 7 / 8 / 8.5 |
+| Ab Wheel | BW | 13 / 13 / 13 | 7.5 / 8 / 8 |
+
+🔗 hevy.com/workout/db6aaf0d-5be8-4098-89ac-d23cae706d52
+
+**Lecturas (cierre del pico):**
+- **Chin-Up 🔼:** 3×7 → **3×8** @ última 8.5. Sigue destrabándose lindo. Próximo: 3×9 (consolidar a ≤8).
+- **Leg Extension 🔼:** subió 70 → **77 kg** (lo igualó al del Extra), 3×12 @ ≤8 limpio. Reset correcto → sumar reps hacia 3×15.
+- **Incline 25 🔼:** 3×9 → **3×10** pero RPE trepó (8/8.5/9, última hot). Consolidar 3×10 a ≤8 antes de 3×11.
+- **OH Single Carry:** 20 kg × 60" pero **al límite** (Manuel lo reportó duro). NO progresar — mantener 20×60" y que se consolide.
+- **Hammer 16:** 3×9 @ 7/8/8.5 (mejoró vs 9 anterior, casi limpio). Una más a ≤8 → 3×10.
+- **Ab Wheel 🔼:** 3×12 → **3×13** @ ≤8 limpio. Próximo: 3×14.
+
+---
+
 ## ✅ Workout B — Miércoles 24/06/2026 (Mesociclo 1, semana 5 — PICO)
 
 | Ejercicio | Peso | Reps | RPE |
