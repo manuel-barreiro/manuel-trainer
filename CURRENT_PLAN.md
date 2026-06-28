@@ -6,7 +6,7 @@
 
 ## Estado del mesociclo
 - **Mesociclo:** 1 (vuelta post-lesión → reconstrucción)
-- **Semana:** 5 EN CURSO (PICO/MRV) — A (22/06) ✅ · B (24/06) ✅ · A (26/06) ✅. Falta solo Extra (cierra el pico).
+- **Semana:** 5 COMPLETA ✅ (PICO: A 22/06 · B 24/06 · A 26/06 · Extra 28/06). Próxima = **semana de cierre del bloque (29/06→05/07), entrenamiento normal**; después viaje = deload.
 - **Inicio del bloque:** 2026-05-25 (lunes — vuelta al gym con programa reestructurado)
 - **Deload:** ⚠️ NO se hace deload estructurado. Manuel viaja la semana **06/07 → 12/07 (off total)**,
   y ese descanso ES el deload (decidido 22/06). La semana 29/06→05/07 pasa a ser **entrenamiento
@@ -25,7 +25,7 @@
 | 2 | 01/06 → 07/06 | B (01/06) · A (03/06) · B (05/06) · Extra (07/06) |
 | 3 | 08/06 → 14/06 | A ✅ (08/06) · B ✅ (10/06) · A ✅ (12/06) · Extra ✅ (14/06) |
 | 4 | 15/06 → 21/06 | B ✅ (15/06, bajo sueño) · A ✅ (17/06) · B ✅ (19/06) · Extra ✅ (21/06) |
-| 5 | 22/06 → 28/06 | A ✅ (22/06) · B ✅ (24/06) · A ✅ (26/06) · Extra — **pico de volumen (MRV)** |
+| 5 | 22/06 → 28/06 | A ✅ (22/06) · B ✅ (24/06) · A ✅ (26/06) · Extra ✅ (28/06) — **pico (MRV)** |
 | 6 | 29/06 → 05/07 | B · A · B · Extra — **entrenamiento normal, cierra bloque** (el viaje hace de deload) |
 | OFF | 06/07 → 12/07 | 🏖️ VIAJE — descanso total = deload. Sin entrenar. |
 | Meso 2 · 1 | 13/07 → … | Arranca **Mesociclo 2** fresco (A/B/Extra nuevos, rotación de accesorios) |
@@ -42,12 +42,11 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 | OH Single Carry | 20 kg (3×60") | 26/06/2026 (60" al límite — "llegué con lo justo". NO progresar, consolidar 20×60") |
 | Hammer Curl | 16 kg | 26/06/2026 (3×9 @ 7/8/8.5, casi limpio; una más a ≤8 → 3×10) |
 | Bench Press | 70 kg | 21/06/2026 (fix grinding logrado 10/9/8 @ ≤8; a 72.5 cuando sets 2-3 lleguen a 10 @ ≤8) |
-| Pull-Up (Extra, reemplaza Lat Pulldown) | BW (3×6) | 14/06/2026 (corre hot, mantener 3×6) |
-| Lateral Raise (DB) | 12 kg | 21/06/2026 (consolidó 3×13 @ ≤8 → 3×14-15) |
-| Bicep Curl | 25 kg | 21/06/2026 (3×12 pero RPE subió a 8.5 — mantener, consolidar a ≤8) |
-| Tricep Pushdown | 22.5 kg | 21/06/2026 (3×12, última 8.5; una más limpia → 25) |
-| Wrist Curl | 12.5 kg (3×20) | 21/06/2026 (llegó a 3×20, última 9 — consolidar a ≤8 → +peso) |
-| Leg Extension (Extra) | 77 kg (3×10) | 21/06/2026 (consolidó 3×10 @ ≤8 → sumar reps/peso) |
+| Lateral Raise (DB) | 12 kg | 28/06/2026 (3×14 @ ≤8.5 → 3×15) |
+| Bicep Curl | 25 kg → 27.5 | 28/06/2026 (CONSOLIDADO 3×12 @ ≤8 → subir a 27.5, reset reps) |
+| Tricep Pushdown | 22.5 kg | 28/06/2026 (3×12 última 8.5 otra vez; una más a ≤8 → 25) |
+| Wrist Curl | 12.5 kg (3×20) | 28/06/2026 (3×20 última a 9 — consolidar a ≤8 → +peso) |
+| Pull-Up | BW (3×6) | 28/06/2026 (experimento de moverlo 2º: sigue hot 8/8.5/8.5. Mantener 3×6, reevaluar fresco en Meso 2) |
 | Suitcase Carry | 20 kg (3×60") | 24/06/2026 (reconstruyó 60" a 20 kg; cuando cómodo → 22 kg) |
 | Weighted Dips | 10 kg lastre | 24/06/2026 (3×12, última a RPE 9; consolidar 3×12 @ ≤8 → +peso) |
 | OHP (Barbell) | 45 kg | 24/06/2026 (estreno limpio 3×6 @ ≤8.5 → sumar reps hacia 3×8) |
@@ -78,12 +77,12 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 ### Extra (Domingo)
 | Ejercicio | Peso | Reps objetivo | RPE objetivo |
 |---|---|---|---|
-| Bench Press | 70 kg | 3×10 (cap RPE 8; 21/06 fue 10/9/8 limpio. Subir sets 2-3 a 10 @ ≤8 → después 72.5) | 7-8 |
-| Pull-Up | BW | 3×6 — corre hot al final del Extra (7.5/8.5/9 ×2). Probar moverlo más temprano (post-bench). NO sumar reps | 7-8 |
-| Lateral Raise (DB) + Leg Extension | 12 kg / 77 kg | lateral 3×14-15 (consolidó 13) / leg ext 3×11-12 (consolidó 10) | 8 |
-| Bicep Curl | 25 kg | 3×12 (consolidar a ≤8, RPE subió a 8.5 el 21/06) → 27.5 | 8 |
-| Tricep Pushdown | 22.5 kg | 3×12 (una más a ≤8) → 25 | 8 |
-| Wrist Curl | 12.5 kg | 3×20 (consolidar a ≤8, llegó pero última a 9) → +peso | 8 |
+| Bench Press | 70 kg | 3×10 todas a ≤8 (28/06 fue 10/10/10 pero última a 9) → después 72.5 | 7-8 |
+| Pull-Up | BW | 3×6 — sigue hot incluso movido 2º (8/8.5/8.5). Mantener 3×6, reevaluar fresco en Meso 2 | 7-8 |
+| Lateral Raise (DB) + Leg Extension | 12 kg / 77 kg | lateral 3×15 (viene de 14) / leg ext 3×11-12 | 8 |
+| Bicep Curl | 27.5 kg 🔼 | 3×10 (reset; consolidó 25 a 3×12) → sumar reps | 8 |
+| Tricep Pushdown | 22.5 kg | 3×12 a ≤8 (última sigue 8.5) → 25 | 8 |
+| Wrist Curl | 12.5 kg | 3×20 a ≤8 (última a 9) → +peso | 8 |
 | Core extra (opcional): Crunch 5 kg + Oblique Crunch | — | 3×12 | 7-8 |
 
 > **Bench (Extra):** a 70 kg. El problema NO es el nº de reps (venía 3×10) sino el grinding:

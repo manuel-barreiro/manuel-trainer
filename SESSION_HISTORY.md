@@ -13,6 +13,31 @@
 
 # BLOQUE ACTUAL — Mesociclo 1 (vuelta post-lesión)
 
+## ✅ Extra — Domingo 28/06/2026 (Mesociclo 1, semana 5 — CIERRA el PICO)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Bench Press (Barbell) | 70 kg | 10 / 10 / 10 | 8 / 8.5 / 9 |
+| Pull-Up (movido al 2º lugar) | BW | 6 / 6 / 6 | 8 / 8.5 / 8.5 |
+| Lateral Raise (DB) | 12 kg | 14 / 14 / 14 | 7.5 / 8 / 8.5 |
+| Bicep Curl (Barbell) | 25 kg | 12 / 12 / 12 | 7.5 / 8 / 8 |
+| Triceps Rope Pushdown | 22.5 kg | 12 / 12 / 12 | 7.5 / 8 / 8.5 |
+| Seated Palms Up Wrist Curl | 12.5 kg | 20 / 20 / 20 | 7 / 8 / 9 |
+| Crunch (Weighted) — core extra | 10 kg | 15 / 15 / 15 | 7.5 / 8 / 8.5 |
+| Oblique Crunch — core extra | BW | 12 / 12 / 12 | 7 / 7.5 / 7.5 |
+
+🔗 hevy.com/workout/12de0cbb-83a4-489a-97a1-b61f023278b3
+
+**Lecturas (cierre del pico, RPE alto esperable):**
+- **Bench 70:** llegó a 3×10 pero la última a 9 (pasó las 10 grindeando). Para 72.5 falta 3×10 con las 3 a ≤8 — la próxima fresco debería salir. Mantener 70.
+- **Pull-Up (experimento):** movido al 2º lugar → 8/8.5/8.5 (vs 7.5/8.5/9 al final). Mejoró apenas la última, pero **sigue hot**. Conclusión: es bastante estructural, no solo fatiga/posición. Mantener 3×6, reevaluar fresco en Meso 2.
+- **Lateral Raise 🔼:** 3×13 → 3×14. Próximo: 3×15.
+- **Bicep 25 ✅ CONSOLIDADO:** 3×12 @ 7.5/8/8 limpio (venía 8.5) → **subir a 27.5**.
+- **Tricep 22.5:** 3×12, última 8.5 otra vez. Una más a ≤8 → 25.
+- **Wrist Curl:** 3×20 pero última a 9. Consolidar 3×20 @ ≤8 → +peso.
+
+---
+
 ## ✅ Workout A — Viernes 26/06/2026 (Mesociclo 1, semana 5 — PICO, 2º A)
 
 | Ejercicio | Peso | Reps | RPE |
