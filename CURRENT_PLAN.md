@@ -48,7 +48,7 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 | Wrist Curl | 12.5 kg (3×20) | 28/06/2026 (3×20 última a 9 — consolidar a ≤8 → +peso) |
 | Pull-Up | BW (3×6) | 28/06/2026 (experimento de moverlo 2º: sigue hot 8/8.5/8.5. Mantener 3×6, reevaluar fresco en Meso 2) |
 | Suitcase Carry | 20 kg (3×60") | 24/06/2026 (reconstruyó 60" a 20 kg; cuando cómodo → 22 kg) |
-| Weighted Dips | 10 kg lastre | 29/06/2026 (12/12/10; sigue sin cerrar 3×12 limpio — consolidar @ ≤8 → +peso) |
+| Weighted Dips | 10 kg lastre | 29/06/2026 (3×12 reps completas, sets 2-3 a 8.5; consolidar @ ≤8 → +peso) |
 | OHP (Barbell) | 45 kg | 29/06/2026 (3×8 pero sets 2-3 a 8.5; consolidar 3×8 @ ≤8 → 47.5) |
 | Pendlay Row (Barbell) | 60 kg → 62.5 | 29/06/2026 (clavó 3×10 @ ≤8 directo → saltar a 62.5, reset 3×8) |
 

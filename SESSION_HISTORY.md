@@ -21,7 +21,7 @@
 | Pendlay Row (Barbell) | 60 kg 🔼 | 10 / 10 / 10 | 7.5 / 8 / 8 |
 | Lying Leg Curl (Machine) | 28 kg 🆕 | 10 / 10 / 10 | 8 / 8 / 8 |
 | Suitcase Carry | 20 kg | 3 × 60" | time-based, no aplica |
-| Triceps Dip (Weighted) | 10 kg | 12 / 12 / 10 | 8 / 8.5 / 8.5 |
+| Triceps Dip (Weighted) | 10 kg | 12 / 12 / 12 | 8 / 8.5 / 8.5 |
 | Hanging Leg Raise | BW | 10 / 10 / 10 | 8 / 8.5 / 8.5 |
 
 🔗 hevy.com/workout/d7f9dfe4-984b-4d3a-9b1c-52fadd1783fd
@@ -30,7 +30,7 @@
 - **Pendlay Row 60 🔥:** se saltó el reset y clavó **3×10 @ 7.5/8/8** directo en el peso nuevo. Volando → listo para **62.5** (reset 3×8).
 - **OHP 45 🔼:** saltó de 3×6 → **3×8** pero sets 2-3 a 8.5 (salto de reps grande, hot). Consolidar 3×8 @ ≤8 → después 47.5.
 - **Leg Curl (Lying) 🆕:** DEBUT — **28 kg × 3×10 @ 8/8/8** limpio. Buen peso de arranque. Queda como working weight; progresar por doble progresión.
-- **Dips 10:** 12/12/10 (última cae a 10 @ 8.5). Sigue rondando el 3×12 sin cerrarlo limpio → mantener 10 kg, consolidar 3×12 @ ≤8.
+- **Dips 10:** 3×12 (reps completas) pero sets 2-3 a 8.5 → mantener 10 kg, consolidar 3×12 @ ≤8 → +peso.
 - **Hanging Leg Raise:** 3×10, RPE 8.5. Mantener.
 
 ---
