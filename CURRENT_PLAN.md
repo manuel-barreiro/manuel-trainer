@@ -27,8 +27,14 @@
 | 4 | 15/06 → 21/06 | B ✅ (15/06, bajo sueño) · A ✅ (17/06) · B ✅ (19/06) · Extra ✅ (21/06) |
 | 5 | 22/06 → 28/06 | A ✅ (22/06) · B ✅ (24/06) · A ✅ (26/06) · Extra ✅ (28/06) — **pico (MRV)** |
 | 6 | 29/06 → 05/07 | B ✅ (29/06) · A · B · Extra — **entrenamiento normal, cierra bloque** (el viaje hace de deload) |
-| OFF | 06/07 → 12/07 | 🏖️ VIAJE — descanso total = deload. Sin entrenar. |
-| Meso 2 · 1 | 13/07 → … | Arranca **Mesociclo 2** fresco (A/B/Extra nuevos, rotación de accesorios) |
+| OFF | 06/07 → 12/07 | 🏖️ VIAJE 1 — descanso total = deload. Sin entrenar. |
+| Meso 2 · 1 | 13/07 → 19/07 | Arranca **Mesociclo 2** fresco (A/B/Extra nuevos, rotación de accesorios) |
+| Meso 2 · 2 | 20/07 → 26/07 | (Extra del 26/07 puede caer ya en viaje) |
+| Meso 2 · 3 | 27/07 → 02/08 | ⚠️ **VIAJE 2 laboral (26-31/07)** — interrupción de mitad de bloque (~5 días). Si hay gym: 1-2 sesiones full-body de mantenimiento; si no: peso corporal o pausa. Al volver, RPE -1 la 1ª sesión. Definir al armar Meso 2 según gym del hotel. |
+
+> **Viaje 2 (dom 26/07 → vie 31/07, laboral):** cae a mitad del Meso 2 (sem 3). NO es deload
+> (muy temprano). Plan tentativo arriba; afinar cerca de la fecha según disponibilidad de gym.
+> Considerar al diseñar Meso 2 (ej. ¿conviene un bloque más corto o reordenar la semana?).
 
 ## Working weights actuales (junio 2026)
 NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / doble progresión.
