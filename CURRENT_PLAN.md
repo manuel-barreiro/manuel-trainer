@@ -6,7 +6,7 @@
 
 ## Estado del mesociclo
 - **Mesociclo:** 1 (vuelta post-lesión → reconstrucción)
-- **Semana:** 6 EN CURSO (cierre del bloque, entrenamiento normal) — B (29/06) ✅. Faltan A · B · Extra. Después viaje (6-12/7) = deload → Meso 2 el 13/7.
+- **Semana:** 6 EN CURSO (cierre del bloque, entrenamiento normal) — B (29/06) ✅ · A (01/07) ✅. Faltan B · Extra. Después viaje (6-12/7) = deload → Meso 2 el 13/7.
 - **Inicio del bloque:** 2026-05-25 (lunes — vuelta al gym con programa reestructurado)
 - **Deload:** ⚠️ NO se hace deload estructurado. Manuel viaja la semana **06/07 → 12/07 (off total)**,
   y ese descanso ES el deload (decidido 22/06). La semana 29/06→05/07 pasa a ser **entrenamiento
@@ -26,7 +26,7 @@
 | 3 | 08/06 → 14/06 | A ✅ (08/06) · B ✅ (10/06) · A ✅ (12/06) · Extra ✅ (14/06) |
 | 4 | 15/06 → 21/06 | B ✅ (15/06, bajo sueño) · A ✅ (17/06) · B ✅ (19/06) · Extra ✅ (21/06) |
 | 5 | 22/06 → 28/06 | A ✅ (22/06) · B ✅ (24/06) · A ✅ (26/06) · Extra ✅ (28/06) — **pico (MRV)** |
-| 6 | 29/06 → 05/07 | B ✅ (29/06) · A · B · Extra — **entrenamiento normal, cierra bloque** (el viaje hace de deload) |
+| 6 | 29/06 → 05/07 | B ✅ (29/06) · A ✅ (01/07) · B · Extra — **entrenamiento normal, cierra bloque** (el viaje hace de deload) |
 | OFF | 06/07 → 12/07 | 🏖️ VIAJE 1 — descanso total = deload. Sin entrenar. |
 | Meso 2 · 1 | 13/07 → 19/07 | Arranca **Mesociclo 2** fresco (A/B/Extra nuevos, rotación de accesorios) |
 | Meso 2 · 2 | 20/07 → 26/07 | (Extra del 26/07 puede caer ya en viaje) |
@@ -41,8 +41,8 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 
 | Ejercicio | Peso actual | Última act. |
 |---|---|---|
-| Incline DB Press | 25 kg | 26/06/2026 (3×10 pero última a 9 hot; consolidar 3×10 @ ≤8 → 3×11... hasta 3×12, ahí salto a 30) |
-| Chin-Up | BW | 26/06/2026 (DESBLOQUEADO: 3×7 → 3×8 @ ≤8.5; seguir hacia 3×10) |
+| Incline DB Press | 25 kg | 01/07/2026 (CONSOLIDÓ 3×10 @ ≤8 → 3×11... hasta 3×12, ahí salto a 30) |
+| Chin-Up | BW | 01/07/2026 (⚠️ 3×9 pero set 3 a RPE 10 falló. Techo actual = 3×8-9. Cap set 3 a ≤8, sin fallo — cuidar mano) |
 | Leg Extension (cuádriceps — días A y Extra) | 77 kg | 26/06/2026 (subió 70→77, unificado con el Extra; 3×12 @ ≤8 → sumar reps hacia 3×15) |
 | Leg Curl (Lying — isquios, día B) | 28 kg | 29/06/2026 (DEBUT: 3×10 @ 8 limpio; working weight inicial, progresar por doble progresión) |
 | OH Single Carry | 20 kg (3×60") | 26/06/2026 (60" al límite — "llegué con lo justo". NO progresar, consolidar 20×60") |
@@ -63,12 +63,12 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 ### Workout A
 | Ejercicio | Peso | Reps objetivo | RPE objetivo |
 |---|---|---|---|
-| Incline DB Press | 25 kg | consolidar 3×10 a ≤8 (26/06 última a 9) → 3×11... hasta 3×12, ahí salto a 30 | 7-8 |
-| Chin-Up | BW | 3×9 (viene de 3×8) → seguir hacia 3×10 | 7-8 |
-| Leg Extension | 77 kg | 3×13-15 (subió a 77, reset a 3×12 el 26/06) | 8 |
-| OH Single Carry | 20 kg | 3×60" sostener (al límite el 26/06; NO progresar aún) | 7-8 |
+| Incline DB Press | 25 kg | 3×11 (consolidó 3×10 el 01/07) → hasta 3×12, ahí salto a 30 | 7-8 |
+| Chin-Up | BW | 3×9 pero CAP set 3 a ≤8 (que caigan reps, sin fallo — el 01/07 se fue a RPE 10). Cuidar mano | 7-8 |
+| Leg Extension | 77 kg | 3×14 (clavó 3×13 el 01/07) | 8 |
+| OH Single Carry | 20 kg | 3×60" sostener (al límite; NO progresar aún) | 7-8 |
 | Hammer Curl | 16 kg | 3×9 limpio a ≤8 → 3×10 | 8 |
-| Ab Wheel | BW | 3×14 (clavó 3×13 el 26/06) | 7-8 |
+| Ab Wheel | BW | 3×13-14 (el 01/07 hizo 3×12) | 7-8 |
 
 ### Workout B
 | Ejercicio | Peso | Reps objetivo | RPE objetivo |

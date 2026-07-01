@@ -13,6 +13,29 @@
 
 # BLOQUE ACTUAL — Mesociclo 1 (vuelta post-lesión)
 
+## ✅ Workout A — Miércoles 01/07/2026 (Mesociclo 1, semana 6 — cierre del bloque)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Incline DB Press | 25 kg | 10 / 10 / 10 | 7.5 / 8 / 8 |
+| Chin-Up | BW | 9 / 9 / 8 | 8 / 8.5 / 10 |
+| Leg Extension | 77 kg | 13 / 13 / 13 | 8 / 8 / 8 |
+| OH Single Carry | 20 kg | 3 × 60" | time-based, no aplica |
+| Hammer Curl | 16 kg | 9 / 9 / 9 | 7.5 / 8 / 8.5 |
+| Ab Wheel | BW | 12 / 12 / 12 | 7.5 / 8 / 8.5 |
+
+🔗 hevy.com/workout/dbba0d3c-982c-40bc-8e3a-61b92bc74c84
+
+**Lecturas:**
+- **Incline 25 ✅ CONSOLIDADO:** 3×10 @ 7.5/8/8 limpio (venía 8/8.5/9). Próximo: 3×11.
+- **Chin-Up ⚠️:** empujó a 3×9 pero la 3ª serie **se fue a RPE 10** (falló la 9ª, cerró en 8). RPE 10 en dominada = justo lo que evitamos por la mano. **Volver a 3×9 con cap en set 3 (≤8, que caigan reps)** o consolidar 3×8. No más series a fallo.
+- **Leg Extension 🔼:** 77 kg 3×13 @ 8/8/8 limpio (de 3×12). Próximo: 3×14.
+- **Hammer 16:** 3×9 @ última 8.5 otra vez — persiste el último set hot. Mantener 16, una más limpia → 3×10.
+- **Ab Wheel:** hizo 3×12 (bajó de 3×13 del 26/06), RPE ≤8.5. Retomar 3×13-14.
+- **OH Carry:** sostuvo 20×60" como se indicó. Bien.
+
+---
+
 ## ✅ Workout B — Lunes 29/06/2026 (Mesociclo 1, semana 6 — cierre del bloque)
 
 | Ejercicio | Peso | Reps | RPE |
