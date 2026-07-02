@@ -18,7 +18,7 @@
 | Ejercicio | Peso | Reps | RPE |
 |---|---|---|---|
 | Incline DB Press | 25 kg | 10 / 10 / 10 | 7.5 / 8 / 8 |
-| Chin-Up | BW | 9 / 9 / 8 | 8 / 8.5 / 10 |
+| Chin-Up | BW | 9 / 9 / 9 | 8 / 8.5 / 10 |
 | Leg Extension | 77 kg | 13 / 13 / 13 | 8 / 8 / 8 |
 | OH Single Carry | 20 kg | 3 × 60" | time-based, no aplica |
 | Hammer Curl | 16 kg | 9 / 9 / 9 | 7.5 / 8 / 8.5 |
@@ -28,7 +28,7 @@
 
 **Lecturas:**
 - **Incline 25 ✅ CONSOLIDADO:** 3×10 @ 7.5/8/8 limpio (venía 8/8.5/9). Próximo: 3×11.
-- **Chin-Up ⚠️:** empujó a 3×9 pero la 3ª serie **se fue a RPE 10** (falló la 9ª, cerró en 8). RPE 10 en dominada = justo lo que evitamos por la mano. **Volver a 3×9 con cap en set 3 (≤8, que caigan reps)** o consolidar 3×8. No más series a fallo.
+- **Chin-Up 🔼:** clavó **3×9 completo** (progresó de 3×8) pero la 3ª a RPE 10 ("con lo justo"). Reps logradas — solo consolidar: cap set 3 a ≤8-9 (que caigan reps si hace falta, sin fallo, criterio compuesto), después 3×10. (Mano 100%, no es factor.)
 - **Leg Extension 🔼:** 77 kg 3×13 @ 8/8/8 limpio (de 3×12). Próximo: 3×14.
 - **Hammer 16:** 3×9 @ última 8.5 otra vez — persiste el último set hot. Mantener 16, una más limpia → 3×10.
 - **Ab Wheel:** hizo 3×12 (bajó de 3×13 del 26/06), RPE ≤8.5. Retomar 3×13-14.

@@ -42,7 +42,7 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 | Ejercicio | Peso actual | Última act. |
 |---|---|---|
 | Incline DB Press | 25 kg | 01/07/2026 (CONSOLIDÓ 3×10 @ ≤8 → 3×11... hasta 3×12, ahí salto a 30) |
-| Chin-Up | BW | 01/07/2026 (⚠️ 3×9 pero set 3 a RPE 10 falló. Techo actual = 3×8-9. Cap set 3 a ≤8, sin fallo — cuidar mano) |
+| Chin-Up | BW | 01/07/2026 (clavó 3×9, última a RPE 10 "con lo justo". Consolidar 3×9 sin fallo → 3×10. Mano 100%) |
 | Leg Extension (cuádriceps — días A y Extra) | 77 kg | 26/06/2026 (subió 70→77, unificado con el Extra; 3×12 @ ≤8 → sumar reps hacia 3×15) |
 | Leg Curl (Lying — isquios, día B) | 28 kg | 29/06/2026 (DEBUT: 3×10 @ 8 limpio; working weight inicial, progresar por doble progresión) |
 | OH Single Carry | 20 kg (3×60") | 26/06/2026 (60" al límite — "llegué con lo justo". NO progresar, consolidar 20×60") |
@@ -64,7 +64,7 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 | Ejercicio | Peso | Reps objetivo | RPE objetivo |
 |---|---|---|---|
 | Incline DB Press | 25 kg | 3×11 (consolidó 3×10 el 01/07) → hasta 3×12, ahí salto a 30 | 7-8 |
-| Chin-Up | BW | 3×9 pero CAP set 3 a ≤8 (que caigan reps, sin fallo — el 01/07 se fue a RPE 10). Cuidar mano | 7-8 |
+| Chin-Up | BW | consolidar 3×9 sin fallo (01/07 última a RPE 10) → 3×10. Cap compuesto ≤8, sin ir al fallo | 7-8 |
 | Leg Extension | 77 kg | 3×14 (clavó 3×13 el 01/07) | 8 |
 | OH Single Carry | 20 kg | 3×60" sostener (al límite; NO progresar aún) | 7-8 |
 | Hammer Curl | 16 kg | 3×9 limpio a ≤8 → 3×10 | 8 |
