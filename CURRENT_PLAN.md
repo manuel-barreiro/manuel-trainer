@@ -6,7 +6,7 @@
 
 ## Estado del mesociclo
 - **Mesociclo:** 1 (vuelta post-lesión → reconstrucción)
-- **Semana:** 6 EN CURSO (cierre del bloque, entrenamiento normal) — B (29/06) ✅ · A (01/07) ✅. Faltan B · Extra. Después viaje (6-12/7) = deload → Meso 2 el 13/7.
+- **Semana:** 6 EN CURSO (cierre del bloque) — B (29/06) ✅ · A (01/07) ✅ · B (03/07) ✅. Falta solo Extra (cierra el bloque). Después viaje (6-12/7) = deload → Meso 2 el 13/7.
 - **Inicio del bloque:** 2026-05-25 (lunes — vuelta al gym con programa reestructurado)
 - **Deload:** ⚠️ NO se hace deload estructurado. Manuel viaja la semana **06/07 → 12/07 (off total)**,
   y ese descanso ES el deload (decidido 22/06). La semana 29/06→05/07 pasa a ser **entrenamiento
@@ -26,7 +26,7 @@
 | 3 | 08/06 → 14/06 | A ✅ (08/06) · B ✅ (10/06) · A ✅ (12/06) · Extra ✅ (14/06) |
 | 4 | 15/06 → 21/06 | B ✅ (15/06, bajo sueño) · A ✅ (17/06) · B ✅ (19/06) · Extra ✅ (21/06) |
 | 5 | 22/06 → 28/06 | A ✅ (22/06) · B ✅ (24/06) · A ✅ (26/06) · Extra ✅ (28/06) — **pico (MRV)** |
-| 6 | 29/06 → 05/07 | B ✅ (29/06) · A ✅ (01/07) · B · Extra — **entrenamiento normal, cierra bloque** (el viaje hace de deload) |
+| 6 | 29/06 → 05/07 | B ✅ (29/06) · A ✅ (01/07) · B ✅ (03/07) · Extra — **cierra bloque** (el viaje hace de deload) |
 | OFF | 06/07 → 12/07 | 🏖️ VIAJE 1 — descanso total = deload. Sin entrenar. |
 | Meso 2 · 1 | 13/07 → 19/07 | Arranca **Mesociclo 2** fresco (A/B/Extra nuevos, rotación de accesorios) |
 | Meso 2 · 2 | 20/07 → 26/07 | (Extra del 26/07 puede caer ya en viaje) |
@@ -44,7 +44,7 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 | Incline DB Press | 25 kg | 01/07/2026 (CONSOLIDÓ 3×10 @ ≤8 → 3×11... hasta 3×12, ahí salto a 30) |
 | Chin-Up | BW | 01/07/2026 (clavó 3×9, última a RPE 10 "con lo justo". Consolidar 3×9 sin fallo → 3×10. Mano 100%) |
 | Leg Extension (cuádriceps — días A y Extra) | 77 kg | 26/06/2026 (subió 70→77, unificado con el Extra; 3×12 @ ≤8 → sumar reps hacia 3×15) |
-| Leg Curl (Lying — isquios, día B) | 28 kg | 29/06/2026 (DEBUT: 3×10 @ 8 limpio; working weight inicial, progresar por doble progresión) |
+| Leg Curl (Lying — isquios, día B) | 28 kg | 03/07/2026 (2ª sesión: 3×10 @ 7.5 — se acomodó; sumar reps hacia 3×12) |
 | OH Single Carry | 20 kg (3×60") | 26/06/2026 (60" al límite — "llegué con lo justo". NO progresar, consolidar 20×60") |
 | Hammer Curl | 16 kg | 26/06/2026 (3×9 @ 7/8/8.5, casi limpio; una más a ≤8 → 3×10) |
 | Bench Press | 70 kg | 21/06/2026 (fix grinding logrado 10/9/8 @ ≤8; a 72.5 cuando sets 2-3 lleguen a 10 @ ≤8) |
@@ -54,9 +54,9 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 | Wrist Curl | 12.5 kg (3×20) | 28/06/2026 (3×20 última a 9 — consolidar a ≤8 → +peso) |
 | Pull-Up | BW (3×6) | 28/06/2026 (experimento de moverlo 2º: sigue hot 8/8.5/8.5. Mantener 3×6, reevaluar fresco en Meso 2) |
 | Suitcase Carry | 20 kg (3×60") | 24/06/2026 (reconstruyó 60" a 20 kg; cuando cómodo → 22 kg) |
-| Weighted Dips | 10 kg lastre | 29/06/2026 (3×12 reps completas, sets 2-3 a 8.5; consolidar @ ≤8 → +peso) |
-| OHP (Barbell) | 45 kg | 29/06/2026 (3×8 pero sets 2-3 a 8.5; consolidar 3×8 @ ≤8 → 47.5) |
-| Pendlay Row (Barbell) | 60 kg → 62.5 | 29/06/2026 (clavó 3×10 @ ≤8 directo → saltar a 62.5, reset 3×8) |
+| Weighted Dips | 10 kg lastre | 03/07/2026 (3×12 @ 8/8/8.5, casi limpio → +peso 12.5 la próxima) |
+| OHP (Barbell) | 45 kg | 03/07/2026 (3×8 sets 2-3 a 8.5 otra vez; consolidar fresco post-deload → 47.5) |
+| Pendlay Row (Barbell) | 62.5 kg | 03/07/2026 (reset limpio 3×8 @ 8 → sumar reps hacia 3×10) |
 
 ## Rutinas del bloque (Mesociclo 1)
 
@@ -73,11 +73,11 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 ### Workout B
 | Ejercicio | Peso | Reps objetivo | RPE objetivo |
 |---|---|---|---|
-| OHP (Barbell) | 45 kg | consolidar 3×8 a ≤8 (29/06 sets 2-3 a 8.5) → 47.5 | 7-8 |
-| Pendlay Row (Barbell) | 62.5 kg 🔼 | 3×8 (reset; clavó 60 a 3×10 el 29/06) → sumar reps | 7-8 |
-| Leg Curl (Lying — femoral) | 28 kg | 3×10-12 (sumar reps desde 3×10) | 8 |
+| OHP (Barbell) | 45 kg | consolidar 3×8 a ≤8 (sets 2-3 a 8.5) → 47.5 | 7-8 |
+| Pendlay Row (Barbell) | 62.5 kg | 3×9-10 (sumar reps desde 3×8) → después +peso | 7-8 |
+| Leg Curl (Lying — femoral) | 28 kg | 3×11-12 (sumar reps desde 3×10 @ 7.5) | 8 |
 | Suitcase Carry | 20 kg | 3×60" → cuando cómodo, 22 kg | 7-8 |
-| Weighted Dips | 10 kg lastre | consolidar 3×12 a ≤8 (sigue cayendo la 3ª) → +peso | 7-8 |
+| Weighted Dips | 12.5 kg 🔼 | 3×8-10 (reset; cerró 10 kg a 3×12) → sumar reps | 7-8 |
 | Hanging Leg Raise | BW | 3×10 | 7-8 |
 
 ### Extra (Domingo)

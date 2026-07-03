@@ -13,6 +13,28 @@
 
 # BLOQUE ACTUAL — Mesociclo 1 (vuelta post-lesión)
 
+## ✅ Workout B — Viernes 03/07/2026 (Mesociclo 1, semana 6 — cierre del bloque)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Overhead Press (Barbell) | 45 kg | 8 / 8 / 8 | 8 / 8.5 / 8.5 |
+| Pendlay Row (Barbell) | 62.5 kg 🔼 | 8 / 8 / 8 | 8 / 8 / 8 |
+| Lying Leg Curl (Machine) | 28 kg | 10 / 10 / 10 | 7.5 / 7.5 / 7.5 |
+| Suitcase Carry | 20 kg | 3 × 60" | time-based, no aplica |
+| Triceps Dip (Weighted) | 10 kg | 12 / 12 / 12 | 8 / 8 / 8.5 |
+| Hanging Leg Raise | BW | 10 / 10 / 10 | 8 / 8 / 8 |
+
+🔗 hevy.com/workout/f11a66ca-7bbe-4118-9c0d-d07c0c093e91
+
+**Lecturas:**
+- **Pendlay Row 62.5 🔥:** reset limpio en peso nuevo — 3×8 @ 8/8/8. Sigue volando → sumar reps hacia 3×10.
+- **OHP 45:** 3×8 pero sets 2-3 a 8.5 otra vez (igual que 29/06). No termina de cerrar a ≤8. Mantener 45; consolidar fresco post-deload → 47.5.
+- **Leg Curl 28 🔼:** 2ª sesión, bajó RPE a 7.5/7.5/7.5 (del 8/8/8 debut). Se acomodó → sumar reps hacia 3×11-12.
+- **Dips 10:** 3×12 casi limpio (8/8/8.5). A una sesión de subir el lastre a 12.5.
+- **Hanging Leg Raise:** 3×10 @ 8 limpio.
+
+---
+
 ## ✅ Workout A — Miércoles 01/07/2026 (Mesociclo 1, semana 6 — cierre del bloque)
 
 | Ejercicio | Peso | Reps | RPE |
