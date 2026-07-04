@@ -6,7 +6,8 @@
 
 ## Estado del mesociclo
 - **Mesociclo:** 1 (vuelta post-lesión → reconstrucción)
-- **Semana:** 6 EN CURSO (cierre del bloque) — B (29/06) ✅ · A (01/07) ✅ · B (03/07) ✅. Falta solo Extra (cierra el bloque). Después viaje (6-12/7) = deload → Meso 2 el 13/7.
+- **Semana:** 6 COMPLETA ✅ — 🏁 **MESOCICLO 1 CERRADO** (25/05 → 04/07). Ver RESUMEN en SESSION_HISTORY.
+- **Ahora:** 🏖️ VIAJE 1 (6-12/7) = deload. Retoma **Meso 2 el lunes 13/7** (diseñar A/B/Extra nuevos CON Manuel).
 - **Inicio del bloque:** 2026-05-25 (lunes — vuelta al gym con programa reestructurado)
 - **Deload:** ⚠️ NO se hace deload estructurado. Manuel viaja la semana **06/07 → 12/07 (off total)**,
   y ese descanso ES el deload (decidido 22/06). La semana 29/06→05/07 pasa a ser **entrenamiento
@@ -26,7 +27,7 @@
 | 3 | 08/06 → 14/06 | A ✅ (08/06) · B ✅ (10/06) · A ✅ (12/06) · Extra ✅ (14/06) |
 | 4 | 15/06 → 21/06 | B ✅ (15/06, bajo sueño) · A ✅ (17/06) · B ✅ (19/06) · Extra ✅ (21/06) |
 | 5 | 22/06 → 28/06 | A ✅ (22/06) · B ✅ (24/06) · A ✅ (26/06) · Extra ✅ (28/06) — **pico (MRV)** |
-| 6 | 29/06 → 05/07 | B ✅ (29/06) · A ✅ (01/07) · B ✅ (03/07) · Extra — **cierra bloque** (el viaje hace de deload) |
+| 6 | 29/06 → 05/07 | B ✅ (29/06) · A ✅ (01/07) · B ✅ (03/07) · Extra ✅ (04/07) — 🏁 **bloque cerrado** |
 | OFF | 06/07 → 12/07 | 🏖️ VIAJE 1 — descanso total = deload. Sin entrenar. |
 | Meso 2 · 1 | 13/07 → 19/07 | Arranca **Mesociclo 2** fresco (A/B/Extra nuevos, rotación de accesorios) |
 | Meso 2 · 2 | 20/07 → 26/07 | (Extra del 26/07 puede caer ya en viaje) |
@@ -47,11 +48,12 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 | Leg Curl (Lying — isquios, día B) | 28 kg | 03/07/2026 (2ª sesión: 3×10 @ 7.5 — se acomodó; sumar reps hacia 3×12) |
 | OH Single Carry | 20 kg (3×60") | 26/06/2026 (60" al límite — "llegué con lo justo". NO progresar, consolidar 20×60") |
 | Hammer Curl | 16 kg | 26/06/2026 (3×9 @ 7/8/8.5, casi limpio; una más a ≤8 → 3×10) |
-| Bench Press | 70 kg | 21/06/2026 (fix grinding logrado 10/9/8 @ ≤8; a 72.5 cuando sets 2-3 lleguen a 10 @ ≤8) |
-| Lateral Raise (DB) | 12 kg | 28/06/2026 (3×14 @ ≤8.5 → 3×15) |
-| Bicep Curl | 25 kg → 27.5 | 28/06/2026 (CONSOLIDADO 3×12 @ ≤8 → subir a 27.5, reset reps) |
-| Tricep Pushdown | 22.5 kg | 28/06/2026 (3×12 última 8.5 otra vez; una más a ≤8 → 25) |
-| Wrist Curl | 12.5 kg (3×20) | 28/06/2026 (3×20 última a 9 — consolidar a ≤8 → +peso) |
+| Bench Press | 70 kg | 04/07/2026 (3×10 pero sets 2-3 a 8.5/9; a 72.5 cuando cierre ≤8 fresco post-deload) |
+| Pull-Up (Extra, 1º) | BW (3×6) | 04/07/2026 (fresco/1º = 3×6 @ ≤8 limpio; empezar a sumar reps en Meso 2) |
+| Lateral Raise (DB) | 12 kg | 04/07/2026 (3×15 @ ≤8.5; consolidar → +peso) |
+| Bicep Curl | 27.5 kg | 04/07/2026 (reset limpio 3×10 @ ≤8 → sumar reps) |
+| Tricep Pushdown | 22.5 kg → 25 | 04/07/2026 (CONSOLIDADO 3×12 @ ≤8 → subir a 25) |
+| Wrist Curl | 12.5 kg → 15 | 04/07/2026 (CONSOLIDADO 3×20 @ ≤8 → subir a 15) |
 | Pull-Up | BW (3×6) | 28/06/2026 (experimento de moverlo 2º: sigue hot 8/8.5/8.5. Mantener 3×6, reevaluar fresco en Meso 2) |
 | Suitcase Carry | 20 kg (3×60") | 24/06/2026 (reconstruyó 60" a 20 kg; cuando cómodo → 22 kg) |
 | Weighted Dips | 10 kg lastre | 03/07/2026 (3×12 @ 8/8/8.5, casi limpio → +peso 12.5 la próxima) |

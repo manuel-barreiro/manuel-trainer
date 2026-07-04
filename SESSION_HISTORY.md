@@ -13,6 +13,67 @@
 
 # BLOQUE ACTUAL — Mesociclo 1 (vuelta post-lesión)
 
+## ✅ Extra — Sábado 04/07/2026 (Mesociclo 1, semana 6 — 🏁 CIERRA EL MESOCICLO 1)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Pull-Up (1º, fresco) | BW | 6 / 6 / 6 | 7.5 / 8 / 8 |
+| Bench Press (Barbell) | 70 kg | 10 / 10 / 10 | 7.5 / 8.5 / 9 |
+| Leg Extension | 77 kg | 12 / 12 / 12 | 8 / 8 / 8 |
+| Lateral Raise (DB) | 12 kg | 15 / 15 / 15 | 8 / 8 / 8.5 |
+| Bicep Curl (Barbell) | 27.5 kg 🔼 | 10 / 10 / 10 | 7.5 / 8 / 8 |
+| Triceps Rope Pushdown | 22.5 kg | 12 / 12 / 12 | 7.5 / 8 / 8 |
+| Seated Palms Up Wrist Curl | 12.5 kg | 20 / 20 / 20 | 7 / 7.5 / 8 |
+| Crunch (Weighted) — core extra | 10 kg | 15 / 15 / 15 | 7.5 / 7.5 / 8 |
+| Oblique Crunch — core extra | BW | 12 / 12 / 12 | 7.5 / 7.5 / 7.5 |
+
+🔗 hevy.com/workout/172592d8-dba8-4a30-9c8e-f617e8e1eb2d
+
+**Lecturas:**
+- **Pull-Up 🔑:** hecho 1º (fresco) → **3×6 @ 7.5/8/8 limpio** (vs 8/8.5/8.5 cuando iba 2º, y 9 al final). CONFIRMADO: el pull-up necesita ir al principio. Ahora que está limpio, se puede empezar a sumar reps (3×7) en Meso 2.
+- **Bench 70:** 3×10 pero sets 2-3 a 8.5/9 otra vez. Load estancado en 70 todo el bloque, pero el grinding mejoró. Consolidar fresco post-deload → 72.5.
+- **Bicep 27.5 🔼:** reset limpio 3×10 @ ≤8. Sumar reps.
+- **Tricep 22.5 ✅ CONSOLIDADO:** 3×12 @ 7.5/8/8 (venía 8.5) → **25**.
+- **Wrist Curl ✅ CONSOLIDADO:** 3×20 @ 7/7.5/8 (venía 9) → **+peso (15 kg)**.
+- **Lateral 12 🔼:** 3×15 @ ≤8.5 → consolidar → +peso.
+- **Leg Ext 77:** 3×12 @ 8 limpio.
+
+---
+
+## 🏁 RESUMEN — CIERRE MESOCICLO 1 (25/05 → 04/07/2026, vuelta post-lesión)
+
+**6 semanas completas + viaje (6-12/7) como deload. Retoma Meso 2 el 13/07.**
+
+### Progresó 🟢
+| Ejercicio | Inicio bloque | Fin bloque |
+|---|---|---|
+| Pendlay Row | 50 kg | **62.5 kg** (⭐ el que más voló) |
+| Incline DB Press | 20 kg × ~10 | **25 kg × 3×10** |
+| OHP | 40 kg | **45 kg × 3×8** |
+| Leg Extension | 70 kg × 13 | **77 kg × 3×12-15** |
+| Hammer Curl | 12.5 kg | **16 kg** |
+| Bicep Curl | 20 kg (rebuild) | **27.5 kg** |
+| Tricep Pushdown | 20 kg | **22.5 → 25 kg** |
+| Weighted Dips | BW | **10 → 12.5 kg** |
+| OH Single Carry | 18 kg / 50" | **20 kg / 60"** |
+| Suitcase Carry | 20 kg / 50" | **20 kg / 60"** |
+| Ab Wheel | 3×10 | **3×13** |
+| Wrist Curl | 12 kg × 15 | **12.5 kg × 3×20 → +peso** |
+| Lateral Raise | 12 kg × 12 | **12 kg × 3×15** |
+
+### Hitos del bloque
+- **Chin-Up DESBLOQUEADO 🔑:** estancado crónico a RPE 9-10 (3×8). Reset a 3×6 → reconstruido a **3×9**. La mejor decisión del bloque.
+- **Bench — grinding arreglado:** load quedó en 70 kg, pero se corrigió el patrón de llevar la última a RPE 9.5. Ahora corta a RPE 8 (queda pendiente subir a 72.5 fresco).
+- **Nuevos ejercicios:** Leg Curl (isquios, 28 kg) y Pull-Up (reemplazó Lat Pulldown).
+
+### A resolver en Meso 2
+- **Bench:** subir a 72.5 post-deload (sets 2-3 no cerraban a ≤8 por fatiga de bloque).
+- **OHP:** consolidar 3×8 @ ≤8 fresco → 47.5.
+- **Pull-Up:** va 1º en el Extra (confirmado); empezar a sumar reps desde 3×6.
+- **Rotación (evidencia):** rotar 1-2 accesorios. Compuestos fijos. Definir CON Manuel.
+
+---
+
 ## ✅ Workout B — Viernes 03/07/2026 (Mesociclo 1, semana 6 — cierre del bloque)
 
 | Ejercicio | Peso | Reps | RPE |
