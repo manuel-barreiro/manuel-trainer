@@ -5,15 +5,15 @@
 > cerrar cada bloque (rutinas nuevas).
 
 ## Estado del mesociclo
-- **Mesociclo:** 1 (vuelta post-lesión → reconstrucción)
-- **Semana:** 6 COMPLETA ✅ — 🏁 **MESOCICLO 1 CERRADO** (25/05 → 04/07). Ver RESUMEN en SESSION_HISTORY.
-- **Ahora:** 🏖️ VIAJE 1 (6-12/7) = deload. Retoma **Meso 2 el lunes 13/7** (diseñar A/B/Extra nuevos CON Manuel).
-- **Inicio del bloque:** 2026-05-25 (lunes — vuelta al gym con programa reestructurado)
-- **Deload:** ⚠️ NO se hace deload estructurado. Manuel viaja la semana **06/07 → 12/07 (off total)**,
-  y ese descanso ES el deload (decidido 22/06). La semana 29/06→05/07 pasa a ser **entrenamiento
-  normal cerrando el bloque** (no deload).
-- **Próximo cierre de bloque:** semana del viaje. **Retoma lunes 13/07 = Mesociclo 2** (etapa nueva:
-  rotar 1-2 accesorios, reevaluar chin-up/pull-up, armar A/B/Extra nuevos JUNTO a Manuel).
+- **Mesociclo:** 2 (continúa la reconstrucción — arranca fresco post-viaje/deload)
+- **Semana:** 1 de 6 (arranca lunes 13/07/2026). Re-entrada: semana 1 a **RPE 7, sin cazar PRs**.
+- **Inicio del bloque:** 2026-07-13 (lunes)
+- **Estructura:** 6 semanas de entrenamiento + el **VIAJE 2 (27/7→2/8) intercalado como semana
+  liviana / mini-deload**. Pico semana 5 (17-23/8), deload semana 6 (24-30/8).
+- **Rotación:** NINGUNA este bloque (es el bloque 2; la evidencia = rotar accesorios cada 2-5
+  bloques, no antes). Compuestos fijos. Reevaluar rotación al cierre del Meso 2/3 cuando algo se
+  estanque. Pendiente futuro (Meso 3): sumar rear delt/face pull (único hueco real).
+- **Meso 1 cerrado:** 25/05 → 04/07 (ver RESUMEN en SESSION_HISTORY).
 
 ### Calendario del mesociclo (semanas lun→dom)
 **Patrón intencional:** A/B alternan el día que se repite; el Extra cierra cada semana.
@@ -28,14 +28,22 @@
 | 4 | 15/06 → 21/06 | B ✅ (15/06, bajo sueño) · A ✅ (17/06) · B ✅ (19/06) · Extra ✅ (21/06) |
 | 5 | 22/06 → 28/06 | A ✅ (22/06) · B ✅ (24/06) · A ✅ (26/06) · Extra ✅ (28/06) — **pico (MRV)** |
 | 6 | 29/06 → 05/07 | B ✅ (29/06) · A ✅ (01/07) · B ✅ (03/07) · Extra ✅ (04/07) — 🏁 **bloque cerrado** |
-| OFF | 06/07 → 12/07 | 🏖️ VIAJE 1 — descanso total = deload. Sin entrenar. |
-| Meso 2 · 1 | 13/07 → 19/07 | Arranca **Mesociclo 2** fresco (A/B/Extra nuevos, rotación de accesorios) |
-| Meso 2 · 2 | 20/07 → 26/07 | (Extra del 26/07 puede caer ya en viaje) |
-| Meso 2 · 3 | 27/07 → 02/08 | ⚠️ **VIAJE 2 laboral (26-31/07)** — interrupción de mitad de bloque (~5 días). Si hay gym: 1-2 sesiones full-body de mantenimiento; si no: peso corporal o pausa. Al volver, RPE -1 la 1ª sesión. Definir al armar Meso 2 según gym del hotel. |
+| OFF | 06/07 → 12/07 | 🏖️ VIAJE 1 — descanso total = deload del Meso 1. Sin entrenar. |
 
-> **Viaje 2 (dom 26/07 → vie 31/07, laboral):** cae a mitad del Meso 2 (sem 3). NO es deload
-> (muy temprano). Plan tentativo arriba; afinar cerca de la fecha según disponibilidad de gym.
-> Considerar al diseñar Meso 2 (ej. ¿conviene un bloque más corto o reordenar la semana?).
+### Calendario Meso 2 (lun→dom) — 13/07 → 30/08
+| Semana | Fechas | Patrón · foco |
+|---|---|---|
+| 1 | 13/07 → 19/07 | A·B·A·Extra — **re-entrada** (RPE 7, sin PRs) |
+| 2 | 20/07 → 26/07 | B·A·B·Extra — acumulación (RPE 7-8) |
+| 🏖️ LIVIANA | 27/07 → 02/08 | **VIAJE 2 Brasil (lun 27 → vie 31)** = semana liviana / mini-deload. Hotel gym → 1-2 full-body de mantenimiento; sin gym → peso corporal o descanso. Vuelve finde 1-2/8. |
+| 3 | 03/08 → 09/08 | A·B·A·Extra — re-ramp (1ª sesión RPE -1) |
+| 4 | 10/08 → 16/08 | B·A·B·Extra — acumulación (RPE 8) |
+| 5 | 17/08 → 23/08 | A·B·A·Extra — **PICO (MRV)** |
+| 6 | 24/08 → 30/08 | B·A·B·Extra — **DELOAD** (~50% volumen, RPE 5-6) |
+
+> **Semana del viaje (27/7-2/8):** se planificó como semana liviana intencional (no interrumpe
+> la lógica del bloque, la resensibiliza). Afinar la rutina de hotel unos días antes según qué
+> equipamiento haya. Al volver, 1ª sesión con RPE -1.
 
 ## Working weights actuales (junio 2026)
 NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / doble progresión.
@@ -52,15 +60,14 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 | Pull-Up (Extra, 1º) | BW (3×6) | 04/07/2026 (fresco/1º = 3×6 @ ≤8 limpio; empezar a sumar reps en Meso 2) |
 | Lateral Raise (DB) | 12 kg | 04/07/2026 (3×15 @ ≤8.5; consolidar → +peso) |
 | Bicep Curl | 27.5 kg | 04/07/2026 (reset limpio 3×10 @ ≤8 → sumar reps) |
-| Tricep Pushdown | 22.5 kg → 25 | 04/07/2026 (CONSOLIDADO 3×12 @ ≤8 → subir a 25) |
-| Wrist Curl | 12.5 kg → 15 | 04/07/2026 (CONSOLIDADO 3×20 @ ≤8 → subir a 15) |
-| Pull-Up | BW (3×6) | 28/06/2026 (experimento de moverlo 2º: sigue hot 8/8.5/8.5. Mantener 3×6, reevaluar fresco en Meso 2) |
+| Tricep Pushdown | 25 kg | Meso 2 (consolidó 22.5 a 3×12 @ ≤8 el 04/07 → sube a 25, reset reps) |
+| Wrist Curl | 15 kg | Meso 2 (consolidó 12.5 a 3×20 @ ≤8 el 04/07 → sube a 15, reset reps) |
 | Suitcase Carry | 20 kg (3×60") | 24/06/2026 (reconstruyó 60" a 20 kg; cuando cómodo → 22 kg) |
-| Weighted Dips | 10 kg lastre | 03/07/2026 (3×12 @ 8/8/8.5, casi limpio → +peso 12.5 la próxima) |
+| Weighted Dips | 12.5 kg lastre | Meso 2 (cerró 10 kg a 3×12 el 03/07 → sube a 12.5, reset reps) |
 | OHP (Barbell) | 45 kg | 03/07/2026 (3×8 sets 2-3 a 8.5 otra vez; consolidar fresco post-deload → 47.5) |
 | Pendlay Row (Barbell) | 62.5 kg | 03/07/2026 (reset limpio 3×8 @ 8 → sumar reps hacia 3×10) |
 
-## Rutinas del bloque (Mesociclo 1)
+## Rutinas del bloque (Mesociclo 2)
 
 ### Workout A
 | Ejercicio | Peso | Reps objetivo | RPE objetivo |
@@ -85,13 +92,13 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 ### Extra (Domingo)
 | Ejercicio | Peso | Reps objetivo | RPE objetivo |
 |---|---|---|---|
-| Bench Press | 70 kg | 3×10 todas a ≤8 (28/06 fue 10/10/10 pero última a 9) → después 72.5 | 7-8 |
-| Pull-Up | BW | 3×6 — sigue hot incluso movido 2º (8/8.5/8.5). Mantener 3×6, reevaluar fresco en Meso 2 | 7-8 |
-| Lateral Raise (DB) + Leg Extension | 12 kg / 77 kg | lateral 3×15 (viene de 14) / leg ext 3×11-12 | 8 |
-| Bicep Curl | 27.5 kg 🔼 | 3×10 (reset; consolidó 25 a 3×12) → sumar reps | 8 |
-| Tricep Pushdown | 22.5 kg | 3×12 a ≤8 (última sigue 8.5) → 25 | 8 |
-| Wrist Curl | 12.5 kg | 3×20 a ≤8 (última a 9) → +peso | 8 |
-| Core extra (opcional): Crunch 5 kg + Oblique Crunch | — | 3×12 | 7-8 |
+| **Pull-Up (1º, fresco)** | BW | 3×6 → empezar a sumar reps (3×7). Cap ≤8, sin fallo | 7-8 |
+| Bench Press | 70 kg | 3×10 todas a ≤8 (fresco debería cerrar) → **72.5** | 7-8 |
+| Lateral Raise (DB) + Leg Extension | 12 kg / 77 kg | lateral 3×15 → +peso (14) / leg ext 3×11-12 | 8 |
+| Bicep Curl | 27.5 kg | 3×10 → 3×12 | 8 |
+| Tricep Pushdown | 25 kg 🔼 | 3×10-12 | 8 |
+| Wrist Curl | 15 kg 🔼 | 3×15-20 | 8 |
+| Core extra (opcional): Crunch 10 kg + Oblique Crunch | — | 3×12-15 | 7-8 |
 
 > **Bench (Extra):** a 70 kg. El problema NO es el nº de reps (venía 3×10) sino el grinding:
 > la última se va a 9.5 dos Extras seguidas (31/05 y 07/06) por forzar las 10 con fatiga.
