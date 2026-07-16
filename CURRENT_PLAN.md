@@ -5,11 +5,19 @@
 > cerrar cada bloque (rutinas nuevas).
 
 ## Estado del mesociclo
-- **Mesociclo:** 2 (continúa la reconstrucción — arranca fresco post-viaje/deload)
-- **Semana:** 1 de 6 (arranca lunes 13/07/2026). Re-entrada: semana 1 a **RPE 7, sin cazar PRs**.
-- **Inicio del bloque:** 2026-07-13 (lunes)
-- **Estructura:** 6 semanas de entrenamiento + el **VIAJE 2 (27/7→2/8) intercalado como semana
-  liviana / mini-deload**. Pico semana 5 (17-23/8), deload semana 6 (24-30/8).
+- **Mesociclo:** 2 (continúa la reconstrucción)
+- **⚠️ Arranque corrido:** la semana del 13/07 NO se entrenó (13/7 volvió molido de Chile;
+  mar 15/7 en adelante engripado con fiebre). El bloque estructurado NO arrancó todavía.
+- **Plan de re-arranque (según recuperación):**
+  - Mientras haya fiebre → **descanso total** (no entrenar con fiebre).
+  - **Semana 20/07 (si ya sin fiebre y bien):** re-entrada SUAVE (RPE 6-7, volumen reducido) —
+    sacudir el óxido post-gripe, NO progresar. Si todavía flojo, se saltea sin drama.
+  - **Viaje Brasil 27-31/07:** semana liviana / mantenimiento como estaba previsto.
+  - **🎯 Meso 2 "real" arranca limpio el LUNES 03/08** (6 semanas, sin interrupciones): así el
+    período sucio (gripe + viaje) queda como on-ramp y el bloque corre entero. Pico ~sem del
+    31/8, deload a mediados de septiembre.
+- **Inicio del bloque (real):** 2026-08-03 (tentativo, según recuperación).
+- **Estructura:** 6 semanas + deload, arrancando 03/08.
 - **Rotación:** NINGUNA este bloque (es el bloque 2; la evidencia = rotar accesorios cada 2-5
   bloques, no antes). Compuestos fijos. Reevaluar rotación al cierre del Meso 2/3 cuando algo se
   estanque. Pendiente futuro (Meso 3): sumar rear delt/face pull (único hueco real).
@@ -30,20 +38,22 @@
 | 6 | 29/06 → 05/07 | B ✅ (29/06) · A ✅ (01/07) · B ✅ (03/07) · Extra ✅ (04/07) — 🏁 **bloque cerrado** |
 | OFF | 06/07 → 12/07 | 🏖️ VIAJE 1 — descanso total = deload del Meso 1. Sin entrenar. |
 
-### Calendario Meso 2 (lun→dom) — 13/07 → 30/08
+### Calendario Meso 2 (lun→dom) — arranque real 03/08
 | Semana | Fechas | Patrón · foco |
 |---|---|---|
-| 1 | 13/07 → 19/07 | A·B·A·Extra — **re-entrada** (RPE 7, sin PRs) |
-| 2 | 20/07 → 26/07 | B·A·B·Extra — acumulación (RPE 7-8) |
-| 🏖️ LIVIANA | 27/07 → 02/08 | **VIAJE 2 Brasil (lun 27 → vie 31)** = semana liviana / mini-deload. Hotel gym → 1-2 full-body de mantenimiento; sin gym → peso corporal o descanso. Vuelve finde 1-2/8. |
-| 3 | 03/08 → 09/08 | A·B·A·Extra — re-ramp (1ª sesión RPE -1) |
-| 4 | 10/08 → 16/08 | B·A·B·Extra — acumulación (RPE 8) |
-| 5 | 17/08 → 23/08 | A·B·A·Extra — **PICO (MRV)** |
-| 6 | 24/08 → 30/08 | B·A·B·Extra — **DELOAD** (~50% volumen, RPE 5-6) |
+| ~~(13/07)~~ | 13-19/07 | ❌ NO entrenado (fatiga de viaje + gripe con fiebre) |
+| on-ramp | 20/07 → 26/07 | Re-entrada SUAVE post-gripe si ya está bien (RPE 6-7, sin progresar). Salteable. |
+| 🏖️ LIVIANA | 27/07 → 02/08 | **VIAJE 2 Brasil (lun 27 → vie 31)** — mantenimiento (hotel gym: full-body suave) o descanso. |
+| **1** | 03/08 → 09/08 | A·B·A·Extra — **arranca Meso 2 real** (RPE 7, re-entrada) |
+| **2** | 10/08 → 16/08 | B·A·B·Extra — acumulación (RPE 7-8) |
+| **3** | 17/08 → 23/08 | A·B·A·Extra — acumulación (RPE 8) |
+| **4** | 24/08 → 30/08 | B·A·B·Extra — acumulación (RPE 8) |
+| **5** | 31/08 → 06/09 | A·B·A·Extra — **PICO (MRV)** |
+| **6** | 07/09 → 13/09 | B·A·B·Extra — **DELOAD** (~50% volumen, RPE 5-6) |
 
-> **Semana del viaje (27/7-2/8):** se planificó como semana liviana intencional (no interrumpe
-> la lógica del bloque, la resensibiliza). Afinar la rutina de hotel unos días antes según qué
-> equipamiento haya. Al volver, 1ª sesión con RPE -1.
+> **Nota:** fechas de la fase de re-entrada (20/7) son tentativas según cómo se recupere de la
+> gripe. Con fiebre = no entrenar. El bloque estructurado se cuenta desde el 03/08 para que corra
+> limpio sin la interrupción del viaje.
 
 ## Working weights actuales (junio 2026)
 NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / doble progresión.
