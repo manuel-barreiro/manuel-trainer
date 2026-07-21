@@ -11,7 +11,32 @@
 
 ---
 
-# BLOQUE ACTUAL — Mesociclo 1 (vuelta post-lesión)
+# RE-ENTRADA post-gripe (pre-Meso 2 · el bloque real arranca 03/08)
+
+## ⚠️ Workout A — Martes 21/07/2026 (RE-ENTRADA post-gripe — NO es progresión de bloque)
+
+> Objetivo del día era RPE 6-7 suave. Manuel se sintió bien y empujó más: terminó a RPE 8-8.5,
+> básicamente cerca de sus pesos normales. Sin drama, pero NO era la idea en la 1ª sesión
+> post-gripe + 2.5 semanas off. Vigilar cómo se siente al día siguiente (posible rebote de fatiga).
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Incline DB Press | 22 kg | 11 / 11 / 11 | 7.5 / 8 / 8.5 |
+| Chin-Up | BW | 6 / 6 / 6 | 7.5 / 8 / 8 |
+| Leg Extension | 70 kg | 12 / 12 / 12 | 8 / 8 / 8 |
+| OH Single Carry | 18 kg | 3 × 50" | time-based |
+| Hammer Curl | 12.5 kg | 10 / 10 / 10 | 7.5 / 8 / 8.5 |
+| Ab Wheel | BW | 10 / 10 / 10 | 7.5 / 8 / 8.5 |
+
+🔗 hevy.com/workout/654b686b-20eb-4d20-8f07-f9b7272ee244
+
+**Nota:** re-agarró rápido — venía en 25/70/16 antes, hoy 22/70/12.5 a RPE 8+. Buena señal de
+que no perdió base. Recordatorio para él: las próximas 1-2 sesiones de re-entrada de verdad a
+RPE 6-7. Los pesos/targets del Meso 2 se cuentan desde el 03/08, esto NO entra en la progresión.
+
+---
+
+# ARCHIVO — Mesociclo 1 (vuelta post-lesión) 🏁 CERRADO
 
 ## ✅ Extra — Sábado 04/07/2026 (Mesociclo 1, semana 6 — 🏁 CIERRA EL MESOCICLO 1)
 
