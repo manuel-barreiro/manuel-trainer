@@ -13,6 +13,28 @@
 
 # RE-ENTRADA post-gripe (pre-Meso 2 · el bloque real arranca 03/08)
 
+## ⚠️ Workout B — Miércoles 22/07/2026 (RE-ENTRADA post-gripe — 2ª sesión, NO es progresión)
+
+> Sin rebote de la gripe (entrenó 2 días seguidos, bien). Otra vez empujó a RPE 8 en vez de 6-7,
+> cerca de base. Conclusión: recuperado, prácticamente de vuelta a nivel. Ya no insistir con 6-7;
+> resto de la semana normal (RPE 7-8) y el viaje (27-31/7) hace de semana liviana.
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Overhead Press (Barbell) | 40 kg | 8 / 8 / 8 | 8 / 8 / 8.5 |
+| Pendlay Row (Barbell) | 55 kg | 10 / 10 / 8 | 7.5 / 8 / 8 |
+| Lying Leg Curl (Machine) | 28 kg | 10 / 10 / 10 | 7.5 / 7.5 / 7.5 |
+| Suitcase Carry | 20 kg | 3 × 50" | time-based |
+| Triceps Dip (Weighted) | 10 kg | 10 / 10 / 10 | 7.5 / 8 / 8 |
+| Hanging Leg Raise | BW | 10 / 10 / 10 | 8 / 8.5 / 8.5 |
+
+🔗 hevy.com/workout/145e396a-e818-4a98-8508-6b9497838a61
+
+**Nota:** Leg Curl 28×10 @ 7.5 limpio (usó el peso pleno, no el reducido) — sólido. Todo cerca de
+base; NO cuenta para progresión (bloque real desde 03/08). Antes del viaje, aflojar 1-2 días.
+
+---
+
 ## ⚠️ Workout A — Martes 21/07/2026 (RE-ENTRADA post-gripe — NO es progresión de bloque)
 
 > Objetivo del día era RPE 6-7 suave. Manuel se sintió bien y empujó más: terminó a RPE 8-8.5,
