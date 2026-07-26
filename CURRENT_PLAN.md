@@ -55,6 +55,14 @@
 > gripe. Con fiebre = no entrenar. El bloque estructurado se cuenta desde el 03/08 para que corra
 > limpio sin la interrupción del viaje.
 
+### ⚠️ Viaje futuro a tener en cuenta
+- **🇺🇸 USA: lunes 05/10 → sábado 24/10 (~3 semanas, SIN gym).** Aviso dado 26/07.
+  - Cae DESPUÉS del Meso 2 (que cierra ~13/09). Es un parate largo (no 1 semana): 3 semanas sin
+    entrenar sí generan algo de desentrenamiento (recuperable rápido por memoria muscular).
+  - **Plan tentativo:** cerrar un bloque corto (Meso 3) ANTES del 05/10, tomar el viaje como
+    **break/deload largo**, y a la vuelta (25/10) hacer re-entrada + arrancar bloque nuevo.
+    Alternativa: peso corporal en el viaje si quiere mantener algo. Definir a mediados de septiembre.
+
 ## Working weights actuales (junio 2026)
 NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / doble progresión.
 
