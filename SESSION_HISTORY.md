@@ -13,6 +13,30 @@
 
 # RE-ENTRADA post-gripe (pre-Meso 2 · el bloque real arranca 03/08)
 
+## ⚠️ Extra — Domingo 26/07/2026 (RE-ENTRADA post-gripe — 3ª sesión, cierra re-entrada, NO es progresión)
+
+> Esta vez sí respetó el RPE 7-7.5 controlado (bench 65, pull-up 3×5, todo liviano). Última sesión
+> antes del viaje a Brasil (27-31/7). Re-entrada cerrada, recuperado y sin fatiga acumulada.
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Bench Press (Barbell) | 65 kg | 10 / 10 / 10 | 7.5 / 8 / 8.5 |
+| Pull-Up (1º) | BW | 5 / 5 / 5 | 8 / 8 / 8 |
+| Leg Extension | 70 kg | 12 / 12 / 12 | 7.5 / 7.5 / 7.5 |
+| Lateral Raise (DB) | 10 kg | 12 / 12 / 12 | 7.5 / 7.5 / 8 |
+| Bicep Curl (Barbell) | 22.5 kg | 10 / 10 / 10 | 7.5 / 7.5 / 7.5 |
+| Triceps Rope Pushdown | 20 kg | 10 / 10 / 10 | 7 / 7.5 / 8 |
+| Seated Palms Up Wrist Curl | 12.5 kg | 15 / 15 / 15 | 7 / 7.5 / 7.5 |
+| Crunch (Weighted) | 10 kg | 12 / 12 / 12 | 7.5 |
+| Oblique Crunch | BW | 12 / 12 / 12 | 7 |
+
+🔗 hevy.com/workout/97391d10-a45f-4922-9d6a-1a5d134414af
+
+**Re-entrada COMPLETA** (A 21/7 · B 22/7 · Extra 26/7). Recuperado de la gripe, base intacta.
+Ahora viaje Brasil 27-31/7 = semana liviana. **Meso 2 real arranca 03/08** con los pesos del template.
+
+---
+
 ## ⚠️ Workout B — Miércoles 22/07/2026 (RE-ENTRADA post-gripe — 2ª sesión, NO es progresión)
 
 > Sin rebote de la gripe (entrenó 2 días seguidos, bien). Otra vez empujó a RPE 8 en vez de 6-7,
