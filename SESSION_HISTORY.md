@@ -13,6 +13,25 @@
 
 # RE-ENTRADA post-gripe (pre-Meso 2 · el bloque real arranca 03/08)
 
+## ⚠️ Hotel Brasil — Lunes 27/07/2026 (VIAJE, mantenimiento — NO progresión)
+
+> Semana liviana del viaje. Full-body de mantenimiento en el gym del hotel (~45 min, RPE ~6-7).
+
+| Ejercicio | Peso | Reps |
+|---|---|---|
+| Bench Press | 65 kg | 3×10 |
+| Chin-Up | BW | 3×6 |
+| Leg Extension | 70 kg | 3×12 |
+| Vuelos Laterales (DB) | 10 kg | 3×10 |
+| Press Francés (tríceps) | — | 3×10 |
+| Lying Leg Raise | BW | 3×10 |
+| Plank | BW | 3×45" |
+
+Mantenimiento OK. Faltó tracción horizontal (row), bíceps, isquios y press vertical → los cubre
+la sesión del miércoles. Nada cuenta para progresión (Meso 2 desde 03/08).
+
+---
+
 ## ⚠️ Extra — Domingo 26/07/2026 (RE-ENTRADA post-gripe — 3ª sesión, cierra re-entrada, NO es progresión)
 
 > Esta vez sí respetó el RPE 7-7.5 controlado (bench 65, pull-up 3×5, todo liviano). Última sesión
