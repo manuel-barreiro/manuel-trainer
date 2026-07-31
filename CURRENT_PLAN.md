@@ -6,18 +6,14 @@
 
 ## Estado del mesociclo
 - **Mesociclo:** 2 (continúa la reconstrucción)
-- **⚠️ Arranque corrido:** la semana del 13/07 NO se entrenó (13/7 volvió molido de Chile;
-  mar 15/7 en adelante engripado con fiebre). El bloque estructurado NO arrancó todavía.
-- **Plan de re-arranque (según recuperación):**
-  - Mientras haya fiebre → **descanso total** (no entrenar con fiebre).
-  - **Semana 20/07 (si ya sin fiebre y bien):** re-entrada SUAVE (RPE 6-7, volumen reducido) —
-    sacudir el óxido post-gripe, NO progresar. Si todavía flojo, se saltea sin drama.
-  - **Viaje Brasil 27-31/07:** semana liviana / mantenimiento como estaba previsto.
-  - **🎯 Meso 2 "real" arranca limpio el LUNES 03/08** (6 semanas, sin interrupciones): así el
-    período sucio (gripe + viaje) queda como on-ramp y el bloque corre entero. Pico ~sem del
-    31/8, deload a mediados de septiembre.
-- **Inicio del bloque (real):** 2026-08-03 (tentativo, según recuperación).
-- **Estructura:** 6 semanas + deload, arrancando 03/08.
+- **Semana:** 1 de 6 — **arrancó VIERNES 31/07** con Workout A (unos días antes del 03/08 tentativo).
+- **Inicio del bloque:** 2026-07-31.
+- **⚠️ Re-escalando:** viene de ~1 mes sin pesado (gripe + viajes + semanas livianas). Las
+  **primeras 1-2 semanas re-escalan** hacia los pesos del template (los targets Meso 1 son el
+  DESTINO, no el arranque). Ej.: incline 22→25, leg ext 70→77, hammer 12.5→16. RPE 7-8, sin apuro.
+- **Estructura:** 6 semanas + deload. Pico ~sem del 24-30/8, deload a mediados de septiembre.
+- **Historial:** Meso 1 cerrado 04/07 (RESUMEN en SESSION_HISTORY). Re-entrada post-gripe 21-26/7
+  + mantenimiento en Brasil 27-29/7 (todo fuera de progresión).
 - **Rotación:** NINGUNA este bloque (es el bloque 2; la evidencia = rotar accesorios cada 2-5
   bloques, no antes). Compuestos fijos. Reevaluar rotación al cierre del Meso 2/3 cuando algo se
   estanque. Pendiente futuro (Meso 3): sumar rear delt/face pull (único hueco real).
@@ -68,12 +64,12 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 
 | Ejercicio | Peso actual | Última act. |
 |---|---|---|
-| Incline DB Press | 25 kg | 01/07/2026 (CONSOLIDÓ 3×10 @ ≤8 → 3×11... hasta 3×12, ahí salto a 30) |
-| Chin-Up | BW | 01/07/2026 (clavó 3×9, última a RPE 10 "con lo justo". Consolidar 3×9 sin fallo → 3×10. Mano 100%) |
-| Leg Extension (cuádriceps — días A y Extra) | 77 kg | 26/06/2026 (subió 70→77, unificado con el Extra; 3×12 @ ≤8 → sumar reps hacia 3×15) |
+| Incline DB Press | 22 kg (rebuild → 25) | 31/07/2026 (3×12 última a 9; consolidar 22 limpio → 22.5 → 25 = destino, ahí 30) |
+| Chin-Up | BW | 31/07/2026 (3×6 @ 7/7.5/8 limpio sin fallo → 3×7. Destino Meso 1: 3×9-10) |
+| Leg Extension (cuádriceps — días A y Extra) | 70 kg (rebuild → 77) | 31/07/2026 (70 @ 6/7/7 FÁCIL → subir rápido 72.5/75/77) |
 | Leg Curl (Lying — isquios, día B) | 28 kg | 03/07/2026 (2ª sesión: 3×10 @ 7.5 — se acomodó; sumar reps hacia 3×12) |
-| OH Single Carry | 20 kg (3×60") | 26/06/2026 (60" al límite — "llegué con lo justo". NO progresar, consolidar 20×60") |
-| Hammer Curl | 16 kg | 26/06/2026 (3×9 @ 7/8/8.5, casi limpio; una más a ≤8 → 3×10) |
+| OH Single Carry | 18 kg (3×50") | 31/07/2026 (re-escalando desde 20×60"; hoy estático por lluvia — mismo estímulo) |
+| Hammer Curl | 12.5 kg (rebuild → 16) | 31/07/2026 (12/10/10 @ ≤8; rebuild hacia 16) |
 | Bench Press | 70 kg | 04/07/2026 (3×10 pero sets 2-3 a 8.5/9; a 72.5 cuando cierre ≤8 fresco post-deload) |
 | Pull-Up (Extra, 1º) | BW (3×6) | 04/07/2026 (fresco/1º = 3×6 @ ≤8 limpio; empezar a sumar reps en Meso 2) |
 | Lateral Raise (DB) | 12 kg | 04/07/2026 (3×15 @ ≤8.5; consolidar → +peso) |

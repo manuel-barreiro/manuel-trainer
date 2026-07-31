@@ -11,7 +11,32 @@
 
 ---
 
-# RE-ENTRADA post-gripe (pre-Meso 2 · el bloque real arranca 03/08)
+# BLOQUE ACTUAL — Mesociclo 2 (arrancó 31/07/2026)
+
+## ✅ Workout A — Viernes 31/07/2026 (Meso 2, semana 1 — sesión 1, re-escalando post-parate)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Incline DB Press | 22 kg | 12 / 12 / 12 | 7.5 / 8 / 9 |
+| Chin-Up | BW | 6 / 6 / 6 | 7 / 7.5 / 8 |
+| Leg Extension | 70 kg | 12 / 12 / 12 | 6 / 7 / 7 |
+| OH Single Carry (estático, lluvia) | 18 kg | 3 × 50" | time-based |
+| Hammer Curl | 12.5 kg | 12 / 10 / 10 | 7.5 / 7.5 / 8 |
+| Ab Wheel | BW | 10 / 10 / 10 | 7 / 7.5 / 7.5 |
+
+🔗 hevy.com/workout/rQrqL1uUlnf
+
+**Lecturas (Meso 2 arranca re-escalando desde el parate gripe+viaje; targets Meso 1 = destino):**
+- **Chin-Up ✅:** 3×6 @ 7/7.5/8 limpio, sin fallo (aprendió del RPE 10). Bien controlado → 3×7.
+- **Leg Extension:** 70 @ 6/7/7 — **fácil**, sobra. Subir rápido hacia 72.5/75/77 las próximas.
+- **Incline 22:** 3×12 pero última a 9 (empujó de más). Consolidar 22 limpio → 22.5 → 25 (destino).
+- **Hammer 12.5:** 12/10/10 @ ≤8. Rebuild hacia 16.
+- **Ab Wheel:** 3×10 controlado, margen → 3×11-12.
+- Nota: OH carry lo hizo **estático** (lluvia) — mismo estímulo.
+
+---
+
+# RE-ENTRADA post-gripe (pre-Meso 2 · sesiones sueltas antes del bloque)
 
 ## ⚠️ Hotel Brasil — Lunes 27/07/2026 (VIAJE, mantenimiento — NO progresión)
 
