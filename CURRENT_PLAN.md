@@ -6,14 +6,17 @@
 
 ## Estado del mesociclo
 - **Mesociclo:** 2 (continúa la reconstrucción)
-- **Semana:** 1 de 6 — **arrancó VIERNES 31/07** con Workout A (unos días antes del 03/08 tentativo).
-- **Inicio del bloque:** 2026-07-31.
+- **Semana:** 1 de 6 — **arranca LUNES 03/08** con Workout A. (A 31/07 y Extra 02/08 fueron
+  re-escalada pre-bloque, fuera de progresión.)
+- **Inicio del bloque:** 2026-08-03.
 - **⚠️ Re-escalando:** viene de ~1 mes sin pesado (gripe + viajes + semanas livianas). Las
   **primeras 1-2 semanas re-escalan** hacia los pesos del template (los targets Meso 1 son el
-  DESTINO, no el arranque). Ej.: incline 22→25, leg ext 70→77, hammer 12.5→16. RPE 7-8, sin apuro.
-- **Estructura:** 6 semanas + deload. Pico ~sem del 24-30/8, deload a mediados de septiembre.
+  DESTINO, no el arranque). Ej.: incline 22→25, leg ext 70→77, hammer 12.5→16, bench 65→72.5,
+  bicep 22.5→27.5. RPE 7-8, sin apuro.
+- **Estructura:** 6 semanas + deload. Pico ~fines de agosto, deload a mediados de septiembre.
+- **Recordatorio de orden:** en el Extra, **Pull-Up va PRIMERO** (el 02/08 lo hizo 2º y corrió hot).
 - **Historial:** Meso 1 cerrado 04/07 (RESUMEN en SESSION_HISTORY). Re-entrada post-gripe 21-26/7
-  + mantenimiento en Brasil 27-29/7 (todo fuera de progresión).
+  + mantenimiento Brasil 27-29/7 + re-escalada 31/7-2/8 (todo fuera de progresión).
 - **Rotación:** NINGUNA este bloque (es el bloque 2; la evidencia = rotar accesorios cada 2-5
   bloques, no antes). Compuestos fijos. Reevaluar rotación al cierre del Meso 2/3 cuando algo se
   estanque. Pendiente futuro (Meso 3): sumar rear delt/face pull (único hueco real).

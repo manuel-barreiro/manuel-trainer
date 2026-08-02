@@ -11,9 +11,35 @@
 
 ---
 
-# BLOQUE ACTUAL — Mesociclo 2 (arrancó 31/07/2026)
+# BLOQUE ACTUAL — Mesociclo 2 (arranca LUNES 03/08/2026)
 
-## ✅ Workout A — Viernes 31/07/2026 (Meso 2, semana 1 — sesión 1, re-escalando post-parate)
+> 1ª sesión del bloque = **lunes 03/08 (Workout A)**. Las de abajo (Extra 02/08 y A 31/07) fueron
+> **re-escalada pre-bloque** con pesos aún reducidos post-parate — quedan fuera de la progresión.
+
+## ⚠️ Extra — Domingo 02/08/2026 (RE-ESCALADA pre-bloque — última antes del Meso 2)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Bench Press (Barbell) | 65 kg | 12 / 12 / 12 | 7.5 / 8 / 8.5 |
+| Pull-Up (2º, tras bench) | BW | 6 / 6 / 6 | 8 / 8.5 / 9 |
+| Leg Extension | 70 kg | 12 / 12 / 12 | 7 / 7 / 7 |
+| Lateral Raise (DB) | 12/10/12 kg | 12 / 12 / 12 | 7.5 / 7.5 / 7.5 |
+| Bicep Curl (Barbell) | 22.5 kg | 10 / 10 / 10 | 7 / 7 / 7.5 |
+| Triceps Rope Pushdown | 22.5 kg | 10 / 10 / 10 | 7 / 7.5 / 7.5 |
+| Seated Palms Up Wrist Curl | 12.5 kg | 20 / 20 / 20 | 7 / 7 / 8.5 |
+| Crunch (Weighted) | 10 kg | 12 / 12 / 12 | 6 / 7 / 7 |
+| Oblique Crunch | BW | 12 / 12 / 12 | 6 / 7 / 7 |
+
+🔗 hevy.com/workout/29520ffb-da36-4bd1-a215-9a795fcba98d
+
+**Lecturas (re-escalada, todo por debajo del template = destino):**
+- **Pull-Up corrió hot (última a 9):** lo hizo **2º, después del bench**. Recordatorio: en el Meso 2 va **PRIMERO** (fresco sale limpio). Mantener 3×6 sin fallo.
+- **Bench 65:** 3×12, última 8.5. Rebuild → 70 → 72.5.
+- **Leg Ext 70 @ 7** fácil otra vez. Bicep 22.5 / Tricep 22.5 / Wrist 12.5: re-escalando hacia destino (27.5 / 25 / 15).
+
+---
+
+## ⚠️ Workout A — Viernes 31/07/2026 (RE-ESCALADA pre-bloque — no progresión)
 
 | Ejercicio | Peso | Reps | RPE |
 |---|---|---|---|
