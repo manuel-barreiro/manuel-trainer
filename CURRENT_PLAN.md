@@ -67,12 +67,12 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 
 | Ejercicio | Peso actual | Última act. |
 |---|---|---|
-| Incline DB Press | 22 kg (rebuild → 25) | 31/07/2026 (3×12 última a 9; consolidar 22 limpio → 22.5 → 25 = destino, ahí 30) |
-| Chin-Up | BW | 31/07/2026 (3×6 @ 7/7.5/8 limpio sin fallo → 3×7. Destino Meso 1: 3×9-10) |
-| Leg Extension (cuádriceps — días A y Extra) | 70 kg (rebuild → 77) | 31/07/2026 (70 @ 6/7/7 FÁCIL → subir rápido 72.5/75/77) |
+| Incline DB Press | 24 kg (rack tiene 24) → 25 | 03/08/2026 (3×9 última a 8.5; consolidar 24 limpio → 25 = destino, ahí 30) |
+| Chin-Up | BW | 03/08/2026 (3×7 pero 3ª a RPE 9 otra vez; consolidar 3×7 con 3ª ≤8, sin fallo → 3×8) |
+| Leg Extension (cuádriceps — días A y Extra) | 77 kg | 03/08/2026 (volvió a 77 y salió fácil 3×10 @ ≤7.5 → sumar reps hacia 3×15) |
 | Leg Curl (Lying — isquios, día B) | 28 kg | 03/07/2026 (2ª sesión: 3×10 @ 7.5 — se acomodó; sumar reps hacia 3×12) |
 | OH Single Carry | 18 kg (3×50") | 31/07/2026 (re-escalando desde 20×60"; hoy estático por lluvia — mismo estímulo) |
-| Hammer Curl | 12.5 kg (rebuild → 16) | 31/07/2026 (12/10/10 @ ≤8; rebuild hacia 16) |
+| Hammer Curl | 12.5 kg → 15 | 03/08/2026 (3×12 @ ≤8 limpio → subir a 15) |
 | Bench Press | 70 kg | 04/07/2026 (3×10 pero sets 2-3 a 8.5/9; a 72.5 cuando cierre ≤8 fresco post-deload) |
 | Pull-Up (Extra, 1º) | BW (3×6) | 04/07/2026 (fresco/1º = 3×6 @ ≤8 limpio; empezar a sumar reps en Meso 2) |
 | Lateral Raise (DB) | 12 kg | 04/07/2026 (3×15 @ ≤8.5; consolidar → +peso) |

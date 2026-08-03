@@ -11,10 +11,29 @@
 
 ---
 
-# BLOQUE ACTUAL — Mesociclo 2 (arranca LUNES 03/08/2026)
+# BLOQUE ACTUAL — Mesociclo 2 (arrancó LUNES 03/08/2026)
 
-> 1ª sesión del bloque = **lunes 03/08 (Workout A)**. Las de abajo (Extra 02/08 y A 31/07) fueron
-> **re-escalada pre-bloque** con pesos aún reducidos post-parate — quedan fuera de la progresión.
+> Las de más abajo (Extra 02/08 y A 31/07) fueron **re-escalada pre-bloque** — fuera de progresión.
+
+## ✅ Workout A — Lunes 03/08/2026 (Meso 2, semana 1 — SESIÓN 1 del bloque)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Incline DB Press | 24 kg | 9 / 9 / 9 | 7.5 / 8 / 8.5 |
+| Chin-Up | BW | 7 / 7 / 7 | 7.5 / 8 / 9 |
+| Leg Extension | 77 kg | 10 / 10 / 10 | 7 / 7 / 7.5 |
+| OH Single Carry | 18 kg | 3 × 50" | time-based |
+| Hammer Curl | 12.5 kg | 12 / 12 / 12 | 7 / 7.5 / 8 |
+| Ab Wheel | BW | 10 / 10 / 10 | 7 / 7.5 / 7.5 |
+
+🔗 hevy.com/workout/cf00d9d8-7f07-47cb-b0d0-869de0e0623b
+
+**Lecturas (re-escalada rápida — legs y hammer ya en destino):**
+- **Incline 24 🔼:** apareció mancuerna de 24 (entre 22 y 25). 3×9 @ última 8.5. Consolidar 24 limpio → 25 (destino, ahí 30).
+- **Chin-Up ⚠️:** subió a 3×7 pero la 3ª otra vez a **RPE 9** (2ª vez que grindea el último set al sumar rep). Tiene el 3×7 — ahora el laburo es que la 3ª NO llegue a 9 (cortar en 8). Consolidar 3×7 limpio → 3×8.
+- **Leg Extension ✅:** saltó directo a **77** (destino) y salió FÁCIL, 3×10 @ ≤7.5. Recuperó del todo (fútbol). Sumar reps hacia 3×15.
+- **Hammer 12.5 ✅:** 3×12 @ ≤8 limpio → subir a 15/16.
+- **Ab Wheel:** 3×10 controlado, margen → 3×11-12.
 
 ## ⚠️ Extra — Domingo 02/08/2026 (RE-ESCALADA pre-bloque — última antes del Meso 2)
 
