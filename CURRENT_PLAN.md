@@ -79,10 +79,10 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 | Bicep Curl | 27.5 kg | 04/07/2026 (reset limpio 3×10 @ ≤8 → sumar reps) |
 | Tricep Pushdown | 25 kg | Meso 2 (consolidó 22.5 a 3×12 @ ≤8 el 04/07 → sube a 25, reset reps) |
 | Wrist Curl | 15 kg | Meso 2 (consolidó 12.5 a 3×20 @ ≤8 el 04/07 → sube a 15, reset reps) |
-| Suitcase Carry | 20 kg (3×60") | 24/06/2026 (reconstruyó 60" a 20 kg; cuando cómodo → 22 kg) |
-| Weighted Dips | 12.5 kg lastre | Meso 2 (cerró 10 kg a 3×12 el 03/07 → sube a 12.5, reset reps) |
-| OHP (Barbell) | 45 kg | 03/07/2026 (3×8 sets 2-3 a 8.5 otra vez; consolidar fresco post-deload → 47.5) |
-| Pendlay Row (Barbell) | 62.5 kg | 03/07/2026 (reset limpio 3×8 @ 8 → sumar reps hacia 3×10) |
+| Suitcase Carry | 20 kg (3×50") | 05/08/2026 (quedó en 50"; retomar 55" → 60" = destino) |
+| Weighted Dips | 10 kg lastre → 12.5 | 05/08/2026 (3×10 hasta 8.5; sumar reps a 3×12 → después 12.5) |
+| OHP (Barbell) | 42.5 kg → 45 | 05/08/2026 (CONSOLIDADO 3×8 @ 7.5/8/8, mejor ejecución del historial → subir a 45) |
+| Pendlay Row (Barbell) | 57.5 kg → 60 | 05/08/2026 (3×10 @ 7.5 parejo y sobrado → subir a 60; destino 62.5) |
 
 ## Rutinas del bloque (Mesociclo 2)
 
@@ -99,11 +99,11 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 ### Workout B
 | Ejercicio | Peso | Reps objetivo | RPE objetivo |
 |---|---|---|---|
-| OHP (Barbell) | 45 kg | consolidar 3×8 a ≤8 (sets 2-3 a 8.5) → 47.5 | 7-8 |
-| Pendlay Row (Barbell) | 62.5 kg | 3×9-10 (sumar reps desde 3×8) → después +peso | 7-8 |
+| OHP (Barbell) | 45 kg 🔼 | 3×6-8 (reset; consolidó 42.5 el 05/08) → sumar reps | 7-8 |
+| Pendlay Row (Barbell) | 60 kg 🔼 | 3×8-10 (reset; cerró 57.5 el 05/08) → 62.5 | 7-8 |
 | Leg Curl (Lying — femoral) | 28 kg | 3×11-12 (sumar reps desde 3×10 @ 7.5) | 8 |
-| Suitcase Carry | 20 kg | 3×60" → cuando cómodo, 22 kg | 7-8 |
-| Weighted Dips | 12.5 kg 🔼 | 3×8-10 (reset; cerró 10 kg a 3×12) → sumar reps | 7-8 |
+| Suitcase Carry | 20 kg | 3×55" → 60" | 7-8 |
+| Weighted Dips | 10 kg | 3×11-12 (sumar reps) → después 12.5 | 7-8 |
 | Hanging Leg Raise | BW | 3×10 | 7-8 |
 
 ### Extra (Domingo)

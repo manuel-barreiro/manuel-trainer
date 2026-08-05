@@ -15,6 +15,29 @@
 
 > Las de más abajo (Extra 02/08 y A 31/07) fueron **re-escalada pre-bloque** — fuera de progresión.
 
+## ✅ Workout B — Miércoles 05/08/2026 (Meso 2, semana 1 — sesión 2)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Overhead Press (Barbell) | 42.5 kg | 8 / 8 / 8 | 7.5 / 8 / 8 |
+| Pendlay Row (Barbell) | 57.5 kg | 10 / 10 / 10 | 7.5 / 7.5 / 7.5 |
+| Lying Leg Curl (Machine) | 28 kg | 10 / 10 / 10 | 7.5 / 7.5 / 7.5 |
+| Suitcase Carry | 20 kg | 3 × 50" | time-based |
+| Triceps Dip (Weighted) | 10 kg | 10 / 10 / 10 | 7.5 / 8 / 8.5 |
+| Hanging Leg Raise | BW | 10 / 10 / 10 | 7.5 / 8 / 8.5 |
+
+🔗 hevy.com/workout/5a1055b7-58b6-45f5-b687-5f85427ad10c
+
+**Lecturas (re-escalada casi completa en tirón/empuje vertical):**
+- **OHP 42.5 ✅ CONSOLIDADO:** 3×8 @ 7.5/8/8, las 3 a ≤8 (histórico: siempre se le iba a 8.5). Mejor ejecución de OHP del historial → **subir a 45** (destino).
+- **Pendlay Row 57.5 🔥:** 3×10 @ 7.5/7.5/7.5 parejo y sobrado. Cerró rango → **60** (destino 62.5, llega rápido).
+- **Leg Curl 28:** 3×10 @ 7.5 (no sumó reps, quedó en 10). Hay margen → 3×11-12.
+- **Suitcase:** quedó en 50" (target era 55"). Retomar 55".
+- **Dips 10:** 3×10 @ hasta 8.5, no sumó a 12. Mantener 10 kg, sumar reps → después 12.5.
+- **HLR:** 3×10 @ hasta 8.5.
+
+---
+
 ## ✅ Workout A — Lunes 03/08/2026 (Meso 2, semana 1 — SESIÓN 1 del bloque)
 
 | Ejercicio | Peso | Reps | RPE |
