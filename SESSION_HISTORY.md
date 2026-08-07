@@ -15,6 +15,29 @@
 
 > Las de más abajo (Extra 02/08 y A 31/07) fueron **re-escalada pre-bloque** — fuera de progresión.
 
+## ✅ Workout A — Viernes 07/08/2026 (Meso 2, semana 1 — sesión 3, CIERRA semana 1)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Incline DB Press | 25 kg 🔼 | 9 / 9 / 9 | 7 / 8 / 9 |
+| Chin-Up | BW | 7 / 7 / 7 | 7 / 7.5 / 8.5 |
+| Leg Extension | 77 kg | 10 / 10 / 10 | 6 / 7 / 7 |
+| OH Single Carry | 20 kg 🔼 | 3 × 50" | time-based |
+| Hammer Curl | 15 kg 🔼 | 10 / 10 / 10 | 7.5 / 8 / 8.5 |
+| Ab Wheel | BW | 10 / 10 / 10 | 7.5 / 7.5 / 7.5 |
+
+🔗 hevy.com/workout/d2a37f81-4f01-4d20-ab15-a8a110d53eb7
+
+**Lecturas (cierra semana 1 — re-escalada COMPLETA, todo en destino o arriba):**
+- **Incline 25 🔼 EN DESTINO:** saltó a 25 (no consolidó 24 primero). 3×9 @ 7/8/9 — set 1 sobra (RPE 7), 3ª a 9. Consolidar 25 a 3×9 con 3ª ≤8 → después sumar reps hasta 3×12 (ahí el rack salta a 30).
+- **Chin-Up ✅ MEJOR SET 3 DEL BLOQUE:** 3×7 @ 7/7.5/**8.5** — la 3ª bajó de 9-10 → 8.5. Aplicó el cap. Casi limpio; una más y va a 3×8.
+- **Leg Extension ⚠️ DEMASIADO FÁCIL:** 3×10 @ **6/7/7** (3ª sesión seguida sobrando en 77). No progresó ni en reps ni peso. **Subir a 82.5-85** o ir directo a 3×13-15. Está por debajo del estímulo útil.
+- **OH Single Carry 🔼:** subió a 20 kg (destino) manteniendo 50". Ahora estirar tiempo → 55" → 60".
+- **Hammer 15 🔼:** reset limpio 3×10 @ ≤8.5. Sumar reps hacia 3×12 → después 16.
+- **Ab Wheel:** 3×10 @ 7.5 parejo (no sumó a 11 pese al margen). Empujar a 3×11-12.
+
+---
+
 ## ✅ Workout B — Miércoles 05/08/2026 (Meso 2, semana 1 — sesión 2)
 
 | Ejercicio | Peso | Reps | RPE |
