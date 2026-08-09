@@ -15,6 +15,33 @@
 
 > Las de más abajo (Extra 02/08 y A 31/07) fueron **re-escalada pre-bloque** — fuera de progresión.
 
+## ✅ Extra — Domingo 09/08/2026 (Meso 2, semana 1 — CIERRA semana 1)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Bench Press (Barbell) | 70 kg 🔼 | 10 / 10 / 10 | 7 / 8 / 8.5 |
+| Pull-Up (2º otra vez, post-bench) | BW | 6 / 6 / 6 | 7.5 / 8 / 9 |
+| Leg Extension | 84 kg 🔼 | 10 / 10 / 10 | 7.5 / 8 / 8 |
+| Lateral Raise (DB) | 12 kg | 13 / 13 / 13 | 7.5 / 8 / 8.5 |
+| Bicep Curl (Barbell) | 27.5 kg 🔼 | 10 / 10 / 10 | 7.5 / 7.5 / 8 |
+| Triceps Rope Pushdown | 25 kg 🔼 | 10 / 10 / 10 | 7.5 / 8 / 8 |
+| Seated Palms Up Wrist Curl | 15 / 15 / 12.5 kg | 15 / 15 / 20 | 7.5 / 8 / 8.5 |
+| Crunch (Weighted) | 10 kg | 12 / 12 / 12 | 7 / 7 / 7 |
+| Oblique Crunch | BW | 12 / 12 / 12 | 6 / 6 / 6 |
+
+🔗 hevy.com/workout/75da0fad-793d-46bc-9ffd-ee879d9ab096
+
+**Lecturas (cierra semana 1 del Meso 2 — todo en destino o arriba):**
+- **Leg Extension 84 ✅ CORREGIDO:** por fin en zona de estímulo — 3×10 @ 7.5/8/8 (venía sobrando a 6-7 en 77). 84 es el peso correcto. Sumar reps hacia 3×12-15.
+- **Bench 70 🔼:** 3×10 @ 7/8/8.5. Set 1 a RPE 7 (sobra), 3ª a 8.5. Consolidar 70 con 3ª ≤8 → **72.5** (destino).
+- **Bicep 27.5 🔼 EN DESTINO:** saltó 22.5→27.5 directo y salió limpio 3×10 @ ≤8. Sumar reps → 3×12.
+- **Tricep 25 🔼 EN DESTINO:** 3×10 @ ≤8 limpio. Sumar reps → 3×12.
+- **Lateral 12:** 3×13 @ hasta 8.5 (de 3×12). Sumar hacia 3×15 → después +peso.
+- **Wrist:** 15 kg × 15 en sets 1-2, pero la 3ª bajó a 12.5×20. Definir esquema: quedarse en **15 kg × 3×15** y subir reps parejo (no mezclar).
+- **⚠️ Pull-Up: lo hizo 2º OTRA VEZ** (después del bench) → 3ª a RPE 9, igual que el 02/08 y 21/06. Cuando va 1º (04/07) sale 3×6 @ ≤8 limpio. **3ª vez que el orden se pierde — es EL ajuste pendiente del Extra.**
+
+---
+
 ## ✅ Workout A — Viernes 07/08/2026 (Meso 2, semana 1 — sesión 3, CIERRA semana 1)
 
 | Ejercicio | Peso | Reps | RPE |

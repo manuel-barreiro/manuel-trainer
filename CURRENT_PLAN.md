@@ -6,8 +6,8 @@
 
 ## Estado del mesociclo
 - **Mesociclo:** 2 (continúa la reconstrucción)
-- **Semana:** 1 de 6 — **arranca LUNES 03/08** con Workout A. (A 31/07 y Extra 02/08 fueron
-  re-escalada pre-bloque, fuera de progresión.)
+- **Semana:** 1 COMPLETA ✅ (A 03/08 · B 05/08 · A 07/08 · Extra 09/08). **Re-escalada TERMINADA**
+  — todo en destino o arriba. Desde semana 2 (10/08) = progresión pura.
 - **Inicio del bloque:** 2026-08-03.
 - **⚠️ Re-escalando:** viene de ~1 mes sin pesado (gripe + viajes + semanas livianas). Las
   **primeras 1-2 semanas re-escalan** hacia los pesos del template (los targets Meso 1 son el
@@ -69,16 +69,16 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 |---|---|---|
 | Incline DB Press | 25 kg (EN DESTINO) | 07/08/2026 (3×9 @ 7/8/9; consolidar con 3ª ≤8 → sumar reps hasta 3×12, ahí 30) |
 | Chin-Up | BW | 07/08/2026 (3×7 @ 7/7.5/8.5 — 3ª bajó de 9-10 a 8.5, mejor del bloque; una más → 3×8) |
-| Leg Extension (cuádriceps — días A y Extra) | 77 → 82.5-85 kg | 07/08/2026 (⚠️ 3 sesiones sobrando en 77 @ 6-7; SUBIR peso, está bajo el estímulo útil) |
+| Leg Extension (cuádriceps — días A y Extra) | 84 kg | 09/08/2026 (CORREGIDO: 3×10 @ 7.5/8/8, ya en zona de estímulo → sumar reps hacia 3×12-15) |
 | Leg Curl (Lying — isquios, día B) | 28 kg | 03/07/2026 (2ª sesión: 3×10 @ 7.5 — se acomodó; sumar reps hacia 3×12) |
 | OH Single Carry | 20 kg (3×50") | 07/08/2026 (volvió a 20 kg = destino; ahora estirar 55" → 60") |
 | Hammer Curl | 15 kg | 07/08/2026 (reset limpio 3×10 @ ≤8.5 → sumar reps hacia 3×12, después 16) |
-| Bench Press | 70 kg | 04/07/2026 (3×10 pero sets 2-3 a 8.5/9; a 72.5 cuando cierre ≤8 fresco post-deload) |
-| Pull-Up (Extra, 1º) | BW (3×6) | 04/07/2026 (fresco/1º = 3×6 @ ≤8 limpio; empezar a sumar reps en Meso 2) |
-| Lateral Raise (DB) | 12 kg | 04/07/2026 (3×15 @ ≤8.5; consolidar → +peso) |
-| Bicep Curl | 27.5 kg | 04/07/2026 (reset limpio 3×10 @ ≤8 → sumar reps) |
-| Tricep Pushdown | 25 kg | Meso 2 (consolidó 22.5 a 3×12 @ ≤8 el 04/07 → sube a 25, reset reps) |
-| Wrist Curl | 15 kg | Meso 2 (consolidó 12.5 a 3×20 @ ≤8 el 04/07 → sube a 15, reset reps) |
+| Bench Press | 70 kg → 72.5 | 09/08/2026 (3×10 @ 7/8/8.5; consolidar 3ª ≤8 → 72.5) |
+| Pull-Up (Extra) | BW (3×6) | 09/08/2026 (⚠️ hecho 2º otra vez → 3ª a RPE 9. VA 1º, antes del bench) |
+| Lateral Raise (DB) | 12 kg | 09/08/2026 (3×13 @ hasta 8.5 → sumar hacia 3×15, después +peso) |
+| Bicep Curl | 27.5 kg | 09/08/2026 (EN DESTINO, 3×10 @ ≤8 limpio → sumar reps) |
+| Tricep Pushdown | 25 kg | 09/08/2026 (EN DESTINO, 3×10 @ ≤8 limpio → sumar reps) |
+| Wrist Curl | 15 kg | 09/08/2026 (3×15 en sets 1-2, 3ª bajó a 12.5×20; unificar en 15 × 3×15) |
 | Suitcase Carry | 20 kg (3×50") | 05/08/2026 (quedó en 50"; retomar 55" → 60" = destino) |
 | Weighted Dips | 10 kg lastre → 12.5 | 05/08/2026 (3×10 hasta 8.5; sumar reps a 3×12 → después 12.5) |
 | OHP (Barbell) | 42.5 kg → 45 | 05/08/2026 (CONSOLIDADO 3×8 @ 7.5/8/8, mejor ejecución del historial → subir a 45) |
@@ -109,12 +109,12 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 ### Extra (Domingo)
 | Ejercicio | Peso | Reps objetivo | RPE objetivo |
 |---|---|---|---|
-| **Pull-Up (1º, fresco)** | BW | 3×6 → empezar a sumar reps (3×7). Cap ≤8, sin fallo | 7-8 |
-| Bench Press | 70 kg | 3×10 todas a ≤8 (fresco debería cerrar) → **72.5** | 7-8 |
-| Lateral Raise (DB) + Leg Extension | 12 kg / 77 kg | lateral 3×15 → +peso (14) / leg ext 3×11-12 | 8 |
-| Bicep Curl | 27.5 kg | 3×10 → 3×12 | 8 |
-| Tricep Pushdown | 25 kg 🔼 | 3×10-12 | 8 |
-| Wrist Curl | 15 kg 🔼 | 3×15-20 | 8 |
+| **Pull-Up — SIEMPRE 1º, ANTES del bench** ⚠️ | BW | 3×6 cap ≤8 (1º sale limpio; 2º se va a 9 — pasó 3 veces) → 3×7 | 7-8 |
+| Bench Press | 70 kg | consolidar 3×10 con 3ª ≤8 (09/08: 7/8/8.5) → **72.5** | 7-8 |
+| Lateral Raise (DB) + Leg Extension | 12 kg / 84 kg | lateral 3×14-15 → +peso / leg ext 3×11-12 | 8 |
+| Bicep Curl | 27.5 kg | 3×11-12 (limpio a 3×10 el 09/08) | 8 |
+| Tricep Pushdown | 25 kg | 3×11-12 (limpio a 3×10 el 09/08) | 8 |
+| Wrist Curl | 15 kg | 3×15 PAREJO (no mezclar pesos entre sets) → sumar reps | 8 |
 | Core extra (opcional): Crunch 10 kg + Oblique Crunch | — | 3×12-15 | 7-8 |
 
 > **Bench (Extra):** a 70 kg. El problema NO es el nº de reps (venía 3×10) sino el grinding:
