@@ -78,7 +78,7 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 | Lateral Raise (DB) | 12 kg | 09/08/2026 (3×13 @ hasta 8.5 → sumar hacia 3×15, después +peso) |
 | Bicep Curl | 27.5 kg | 09/08/2026 (EN DESTINO, 3×10 @ ≤8 limpio → sumar reps) |
 | Tricep Pushdown | 25 kg | 09/08/2026 (EN DESTINO, 3×10 @ ≤8 limpio → sumar reps) |
-| Wrist Curl | 15 kg | 09/08/2026 (3×15 en sets 1-2, 3ª bajó a 12.5×20; unificar en 15 × 3×15) |
+| Wrist Curl | 15 kg | 09/08/2026 (reset limpio 3×15 @ ≤8.5 en peso nuevo → sumar reps hacia 3×20) |
 | Suitcase Carry | 20 kg (3×50") | 05/08/2026 (quedó en 50"; retomar 55" → 60" = destino) |
 | Weighted Dips | 10 kg lastre → 12.5 | 05/08/2026 (3×10 hasta 8.5; sumar reps a 3×12 → después 12.5) |
 | OHP (Barbell) | 42.5 kg → 45 | 05/08/2026 (CONSOLIDADO 3×8 @ 7.5/8/8, mejor ejecución del historial → subir a 45) |
@@ -114,7 +114,7 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 | Lateral Raise (DB) + Leg Extension | 12 kg / 84 kg | lateral 3×14-15 → +peso / leg ext 3×11-12 | 8 |
 | Bicep Curl | 27.5 kg | 3×11-12 (limpio a 3×10 el 09/08) | 8 |
 | Tricep Pushdown | 25 kg | 3×11-12 (limpio a 3×10 el 09/08) | 8 |
-| Wrist Curl | 15 kg | 3×15 PAREJO (no mezclar pesos entre sets) → sumar reps | 8 |
+| Wrist Curl | 15 kg | 3×16-17 (reset limpio a 3×15 el 09/08) → hasta 3×20 | 8 |
 | Core extra (opcional): Crunch 10 kg + Oblique Crunch | — | 3×12-15 | 7-8 |
 
 > **Bench (Extra):** a 70 kg. El problema NO es el nº de reps (venía 3×10) sino el grinding:

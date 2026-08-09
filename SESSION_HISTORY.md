@@ -25,7 +25,7 @@
 | Lateral Raise (DB) | 12 kg | 13 / 13 / 13 | 7.5 / 8 / 8.5 |
 | Bicep Curl (Barbell) | 27.5 kg 🔼 | 10 / 10 / 10 | 7.5 / 7.5 / 8 |
 | Triceps Rope Pushdown | 25 kg 🔼 | 10 / 10 / 10 | 7.5 / 8 / 8 |
-| Seated Palms Up Wrist Curl | 15 / 15 / 12.5 kg | 15 / 15 / 20 | 7.5 / 8 / 8.5 |
+| Seated Palms Up Wrist Curl | 15 kg | 15 / 15 / 15 | 7.5 / 8 / 8.5 |
 | Crunch (Weighted) | 10 kg | 12 / 12 / 12 | 7 / 7 / 7 |
 | Oblique Crunch | BW | 12 / 12 / 12 | 6 / 6 / 6 |
 
@@ -37,7 +37,7 @@
 - **Bicep 27.5 🔼 EN DESTINO:** saltó 22.5→27.5 directo y salió limpio 3×10 @ ≤8. Sumar reps → 3×12.
 - **Tricep 25 🔼 EN DESTINO:** 3×10 @ ≤8 limpio. Sumar reps → 3×12.
 - **Lateral 12:** 3×13 @ hasta 8.5 (de 3×12). Sumar hacia 3×15 → después +peso.
-- **Wrist:** 15 kg × 15 en sets 1-2, pero la 3ª bajó a 12.5×20. Definir esquema: quedarse en **15 kg × 3×15** y subir reps parejo (no mezclar).
+- **Wrist 15 🔼:** reset limpio 3×15 @ hasta 8.5 en el peso nuevo. Sumar reps hacia 3×20.
 - **⚠️ Pull-Up: lo hizo 2º OTRA VEZ** (después del bench) → 3ª a RPE 9, igual que el 02/08 y 21/06. Cuando va 1º (04/07) sale 3×6 @ ≤8 limpio. **3ª vez que el orden se pierde — es EL ajuste pendiente del Extra.**
 
 ---
