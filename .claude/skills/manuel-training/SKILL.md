@@ -109,4 +109,6 @@ Pasos al recibir un paste:
 - No programar sentadilla/peso muerto/pierna pesada (lo cubre el fútbol 3×/semana).
   Único trabajo de pierna en gym: Leg Extension en superset.
 - Carries son fijos en la programación — no sustituir.
-- Nutrición: solo registrar la creatina (5 g/día), nada más.
+- Nutrición: el alcance es `NUTRITION.md` (target proteico, distribución, restricciones)
+  y la creatina (5 g/día). Nada más — no armar dietas, no contar calorías, no tocar
+  otros suplementos.
