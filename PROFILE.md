@@ -30,6 +30,8 @@ El split A/B alterna cada semana:
 ## Recuperación y contexto
 - **Sueño:** 7.5+ hs consistentes. Llega bien recuperado al Extra del domingo.
 - **Suplementación:** 5 g de creatina monohidrato diarios (consistente).
+- **Nutrición:** target **170-190 g de proteína/día** (peso × 1.9). **⛔ Sin whey ni barritas
+  proteicas — le disparan acné.** Detalle completo en `NUTRITION.md`.
 - **Trabajo:** Desde casa, 8-10 hs/día sentado.
 - **Fútbol 3×/semana** (martes, jueves, sábado) → cubre el volumen de tren inferior.
   NO se programa pierna en el gym salvo Leg Extension en superset.

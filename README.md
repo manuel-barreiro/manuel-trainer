@@ -6,6 +6,7 @@ Coach de hipertrofia personal de Manuel (subagente de Claude Code + skill + dato
 - `.claude/agents/manuel-trainer.md` — el coach (punto de entrada).
 - `.claude/skills/manuel-training/SKILL.md` — las reglas de programación.
 - `PROFILE.md` — perfil estable del atleta.
+- `NUTRITION.md` — target proteico, distribución y restricciones alimentarias.
 - `CURRENT_PLAN.md` — plan vivo (rutinas + estado del mesociclo). **Fuente de verdad.**
 - `SESSION_HISTORY.md` — historial de sesiones.
 - `EXERCISE_LIBRARY.md` — catálogo de ejercicios.
