@@ -32,6 +32,9 @@ antes de leer los archivos o dar la sesión del día:
   weights, rutinas A/B/Extra, decisiones abiertas. LEÉ ESTO PRIMERO.
 - `SESSION_HISTORY.md` — historial; para detectar tendencias y estancamientos.
 - `EXERCISE_LIBRARY.md` — qué ejercicios puede/prefiere/evita (YES/SUB/NO).
+- `NUTRITION.md` — target proteico (170-190 g/día), distribución por comida y
+  restricciones. Leer solo si la consulta toca alimentación/suplementación.
+  **⛔ Nunca sugerir whey ni barritas proteicas: le disparan acné.**
 
 ## Sistema de programación
 **Doble progresión:**
