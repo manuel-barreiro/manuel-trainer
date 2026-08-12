@@ -15,6 +15,29 @@
 
 > Las de más abajo (Extra 02/08 y A 31/07) fueron **re-escalada pre-bloque** — fuera de progresión.
 
+## ✅ Workout A — Miércoles 12/08/2026 (Meso 2, semana 2 — sesión 2)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Incline DB Press | 25 kg | 10 / 10 / 10 | 7 / 8 / 8 |
+| Chin-Up | BW | 7 / 7 / 7 | 7 / 7.5 / 8 |
+| Leg Extension | 84 kg | 12 / 12 / 12 | 7.5 / 8 / 8 |
+| OH Single Carry | 20 kg | 3 × 55" 🔼 | time-based |
+| Hammer Curl | 15 kg | 12 / 12 / 10 | 7.5 / 8.5 / 8.5 |
+| Ab Wheel | BW | 12 / 12 / 12 | 7.5 / 8 / 8 |
+
+🔗 hevy.com/workout/f89764d5-d301-4b0b-aa26-daf69157801a
+
+**Lecturas (sesión de precisión — cumplió los dos objetivos de consolidación):**
+- **🏆 CHIN-UP RESUELTO:** 3×7 @ 7/7.5/**8** — la 3ª por fin dentro del cap. Historial de la 3ª serie: 9 (03/08) → 8.5 (07/08) → **8 (12/08)**. Problema crónico del Meso 1 (corría a RPE 9-10) **cerrado**. → avanzar a **3×8**.
+- **Incline 25 ✅ DOBLE LOGRO:** consolidó Y sumó rep — 3×10 @ 7/8/8, todas dentro del cap (venía 3×9 con la 3ª a 9). Sumar hacia 3×12 (ahí el rack salta a 30).
+- **Leg Extension 84 ✅:** 3×12 @ 7.5/8/8 en el peso corregido. Rango cerrado limpio → sumar hacia 3×15.
+- **Ab Wheel ✅:** 3×12 @ ≤8 (de 3×10) → 3×13-14.
+- **OH Carry 🔼:** 55" a 20 kg. Falta el último escalón → 60".
+- **⚠️ Hammer 15:** 12/12/**10** @ 7.5/**8.5/8.5** — único que se fue del cap; tuvo que bajar reps en la 3ª. Consolidar 15 kg a 3×12 limpio antes de pensar en 16.
+
+---
+
 ## ✅ Workout B — Lunes 10/08/2026 (Meso 2, semana 2 — sesión 1, progresión pura)
 
 | Ejercicio | Peso | Reps | RPE |
