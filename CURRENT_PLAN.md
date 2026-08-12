@@ -91,7 +91,7 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 |---|---|---|---|
 | Incline DB Press | 25 kg | consolidar 3×9 con 3ª ≤8 → sumar reps hasta 3×12 (ahí rack salta a 30) | 7-8 |
 | Chin-Up | BW | consolidar 3×7 con 3ª ≤8 (07/08 bajó a 8.5, casi) → 3×8 | 7-8 |
-| Leg Extension | 82.5-85 kg 🔼 | 77 quedó FÁCIL 3 sesiones (@6-7) → subir peso, 3×10-12 | 8 |
+| Leg Extension | 84 kg | 3×11-12 (corregido el 09/08: 84 @ 7.5-8 = zona correcta) → hacia 3×15 | 8 |
 | OH Single Carry | 20 kg | 3×55" → 60" (subió a 20 kg el 07/08, ahora estirar tiempo) | 7-8 |
 | Hammer Curl | 15 kg | 3×11-12 (reset limpio el 07/08) → después 16 | 8 |
 | Ab Wheel | BW | 3×11-12 (viene 3×10 @ 7.5 con margen) | 7-8 |
