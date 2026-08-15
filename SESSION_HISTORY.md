@@ -15,6 +15,30 @@
 
 > Las de más abajo (Extra 02/08 y A 31/07) fueron **re-escalada pre-bloque** — fuera de progresión.
 
+## ✅ Workout B — Sábado 15/08/2026 (Meso 2, semana 2 — sesión 3; corrida del viernes)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Overhead Press (Barbell) | 45 kg | 8 / 8 / 8 | 7.5 / 8.5 / **9.5** ⚠️ |
+| Pendlay Row (Barbell) | 62.5 kg 🔼 | 10 / 10 / 10 | 7.5 / 7.5 / 8 |
+| Lying Leg Curl (Machine) | 35 kg 🔼 | 10 / 10 / 10 | 7.5 / 7.5 / 7.5 |
+| Suitcase Carry | 20 kg | 3 × 60" 🔼 | time-based |
+| Triceps Dip (Weighted) | 15 kg 🔼 | 8 / 8 / 8 | 7.5 / 8 / 8 |
+| Hanging Leg Raise | BW | 11 / 11 / 11 | 7.5 / 8 / 8 |
+
+🔗 hevy.com/workout/8e499c0f-df30-4fe2-a871-108c3ed2012d
+
+**Lecturas:**
+- **⚠️ OHP 45 — NO SUBIR a 47.5:** llegó a 3×8 pero @ 7.5/8.5/**9.5**. Por doble progresión, techo de reps con RPE fuera del cap = **consolidar, no subir**. Además 9.5 en compuesto es casi fallo (regla: nunca al fallo en compuestos). Retroceso vs el 10/08, donde dejó caer reps (8/7/7) para respetar el cap — esa era la ejecución correcta. **Repetir 45 kg buscando 3×8 con todas a ≤8.**
+- **Pendlay Row 62.5 🔥:** 3×10 @ 7.5/7.5/8 clavado directo en peso nuevo — **3ª vez consecutiva** que cierra el rango completo al primer intento (57.5 → 60 → 62.5). Ya superó el tope del Meso 1 → **65**.
+- **Leg Curl 35 🔼:** usó 35 (no 32) y salió 3×10 @ 7.5 parejo y sobrado → sumar reps hacia 3×12.
+- **Dips 15 🔼:** usó 15 (no 12.5) y salió 3×8 @ ≤8 limpio → sumar reps hacia 3×10-12.
+- **Suitcase ✅ DESTINO:** 3×60" a 20 kg completo (venía estirando desde 50"). → subir a **22 kg**, reset a 45-50".
+- **HLR:** 3×11 @ ≤8 → 3×12.
+- **Patrón:** viene eligiendo el escalón de arriba del que le indico (leg curl 32→35, dips 12.5→15) y le sale limpio. Bien mientras respete el cap de RPE — el problema hoy fue solo el OHP.
+
+---
+
 ## ✅ Workout A — Miércoles 12/08/2026 (Meso 2, semana 2 — sesión 2)
 
 | Ejercicio | Peso | Reps | RPE |
