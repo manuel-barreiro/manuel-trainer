@@ -6,7 +6,8 @@
 
 ## Estado del mesociclo
 - **Mesociclo:** 2 (continúa la reconstrucción)
-- **Semana:** 2 EN CURSO — B (10/08) ✅ · A (12/08) ✅ · B (15/08) ✅. Falta el **Extra** (dom 16 o lun 17).
+- **Semana:** 2 COMPLETA ✅ (B 10/08 · A 12/08 · B 15/08 · Extra 16/08).
+  **Próxima: semana 3 (17-23/08), patrón A·B·A·Extra, acumulación RPE 8.**
   Semana 1 COMPLETA ✅ (A 03/08 · B 05/08 · A 07/08 · Extra 09/08) — re-escalada terminada.
 - **Inicio del bloque:** 2026-08-03.
 - **⚠️ Re-escalando:** viene de ~1 mes sin pesado (gripe + viajes + semanas livianas). Las
@@ -73,12 +74,12 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 | Leg Curl (Lying — isquios, día B) | 35 kg | 15/08/2026 (3×10 @ 7.5 parejo y sobrado → sumar reps hacia 3×12) |
 | OH Single Carry | 20 kg (3×55") | 12/08/2026 (estiró a 55" → falta 60") |
 | Hammer Curl | 15 kg | 12/08/2026 (⚠️ 12/12/10 @ 7.5/8.5/8.5 — se fue del cap; consolidar 3×12 limpio antes de 16) |
-| Bench Press | 70 kg → 72.5 | 09/08/2026 (3×10 @ 7/8/8.5; consolidar 3ª ≤8 → 72.5) |
-| Pull-Up (Extra) | BW (3×6) | 09/08/2026 (⚠️ hecho 2º otra vez → 3ª a RPE 9. VA 1º, antes del bench) |
-| Lateral Raise (DB) | 12 kg | 09/08/2026 (3×13 @ hasta 8.5 → sumar hacia 3×15, después +peso) |
-| Bicep Curl | 27.5 kg | 09/08/2026 (EN DESTINO, 3×10 @ ≤8 limpio → sumar reps) |
-| Tricep Pushdown | 25 kg | 09/08/2026 (EN DESTINO, 3×10 @ ≤8 limpio → sumar reps) |
-| Wrist Curl | 15 kg | 09/08/2026 (reset limpio 3×15 @ ≤8.5 en peso nuevo → sumar reps hacia 3×20) |
+| Bench Press | 70 kg → 72.5 | 16/08/2026 (CONSOLIDADO 3×10 @ 7.5/8/8 todas en cap → subir a 72.5, reset reps) |
+| Pull-Up (Extra, SIEMPRE 1º) | BW (3×6) | 16/08/2026 (1º/fresco = 3×6 @ ≤8 limpio ✅ hipótesis confirmada → 3×7) |
+| Lateral Raise (DB) | 12.5 kg | 16/08/2026 (subió de 12; 3×12 @ ≤8 limpio → sumar hacia 3×15) |
+| Bicep Curl | 27.5 kg → 30 | 16/08/2026 (CERRÓ 3×12 @ ≤8 → subir a 30, reset reps) |
+| Tricep Pushdown | 25 kg → 27.5 | 16/08/2026 (CERRÓ 3×12 @ 8 → subir a 27.5, reset reps) |
+| Wrist Curl | 15 kg | 16/08/2026 (⚠️ 3×17 pero 3ª a 9.5 = fuera del cap. NO subir: repetir 3×17 todas a ≤8) |
 | Suitcase Carry | 20 kg → 22 | 15/08/2026 (COMPLETÓ 3×60" a 20 kg = destino → subir a 22 kg, reset a 45-50") |
 | Weighted Dips | 15 kg | 15/08/2026 (3×8 @ ≤8 limpio en peso nuevo → sumar reps hacia 3×10-12) |
 | OHP (Barbell) | 45 kg | 15/08/2026 (⚠️ 3×8 pero @ 7.5/8.5/**9.5** — techo de reps FUERA del cap = NO subir. Repetir 45 buscando 3×8 todas a ≤8) |
@@ -109,13 +110,13 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 ### Extra (Domingo)
 | Ejercicio | Peso | Reps objetivo | RPE objetivo |
 |---|---|---|---|
-| **Pull-Up — SIEMPRE 1º, ANTES del bench** ⚠️ | BW | 3×6 cap ≤8 (1º sale limpio; 2º se va a 9 — pasó 3 veces) → 3×7 | 7-8 |
-| Bench Press | 70 kg | consolidar 3×10 con 3ª ≤8 (09/08: 7/8/8.5) → **72.5** | 7-8 |
-| Lateral Raise (DB) + Leg Extension | 12 kg / 84 kg | lateral 3×14-15 → +peso / leg ext 3×11-12 | 8 |
-| Bicep Curl | 27.5 kg | 3×11-12 (limpio a 3×10 el 09/08) | 8 |
-| Tricep Pushdown | 25 kg | 3×11-12 (limpio a 3×10 el 09/08) | 8 |
-| Wrist Curl | 15 kg | 3×16-17 (reset limpio a 3×15 el 09/08) → hasta 3×20 | 8 |
-| Core extra (opcional): Crunch 10 kg + Oblique Crunch | — | 3×12-15 | 7-8 |
+| **Pull-Up — SIEMPRE 1º, ANTES del bench** ✅ | BW | 3×7 🔼 (16/08 cerró 3×6 @ ≤8 yendo 1º — regla validada) | 7-8 |
+| Bench Press | 72.5 kg 🔼 | 3×8-10 (reset; consolidó 70 el 16/08) | 7-8 |
+| Lateral Raise (DB) + Leg Extension | 12.5 kg / 84 kg | lateral 3×13-15 / leg ext consolidar 3×12 @ ≤8 → 3×13-15 | 8 |
+| Bicep Curl | 30 kg 🔼 | 3×10 (reset; cerró 27.5 a 3×12 el 16/08) | 8 |
+| Tricep Pushdown | 27.5 kg 🔼 | 3×10 (reset; cerró 25 a 3×12 el 16/08) | 8 |
+| Wrist Curl | 15 kg | ⚠️ consolidar 3×17 TODAS a ≤8 (16/08 la 3ª a 9.5) → después 3×20 | 8 |
+| Core extra (opcional): Crunch 10 kg + Oblique Crunch | — | 3×15 (subió el 16/08) | 7-8 |
 
 > **Bench (Extra):** a 70 kg. El problema NO es el nº de reps (venía 3×10) sino el grinding:
 > la última se va a 9.5 dos Extras seguidas (31/05 y 07/06) por forzar las 10 con fatiga.

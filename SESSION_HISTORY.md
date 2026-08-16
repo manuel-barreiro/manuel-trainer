@@ -15,6 +15,34 @@
 
 > Las de más abajo (Extra 02/08 y A 31/07) fueron **re-escalada pre-bloque** — fuera de progresión.
 
+## ✅ Extra — Domingo 16/08/2026 (Meso 2, semana 2 — CIERRA semana 2)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| **Pull-Up (1º ✅ por fin)** | BW | 6 / 6 / 6 | 7 / 8 / 8 |
+| Bench Press (Barbell) | 70 kg | 10 / 10 / 10 | 7.5 / 8 / 8 |
+| Leg Extension | 84 kg | 12 / 12 / 12 | 8 / 8 / 8 |
+| Lateral Raise (DB) | 12.5 kg 🔼 | 12 / 12 / 12 | 7.5 / 7.5 / 8 |
+| Bicep Curl (Barbell) | 27.5 kg | 12 / 12 / 12 | 7.5 / 8 / 8 |
+| Triceps Rope Pushdown | 25 kg | 12 / 12 / 12 | 8 / 8 / 8 |
+| Seated Palms Up Wrist Curl | 15 kg | 17 / 17 / 17 | 7 / 8 / **9.5** ⚠️ |
+| Crunch (Weighted) | 10 kg | 15 / 15 / 15 | 7.5 / 8 / 8.5 |
+| Oblique Crunch | BW | 15 / 15 / 15 | 7.5 / 7.5 / 8 |
+
+🔗 hevy.com/workout/e5b03f24-97e2-4b63-9ed4-24c4093caebe
+
+**Lecturas (mejor Extra del bloque — 3 progresiones desbloqueadas):**
+- **🏆 PULL-UP 1º — HIPÓTESIS CONFIRMADA:** por fin lo hizo primero → 3×6 @ 7/**8/8**, limpio y en cap. Comparativa definitiva: 2º/al final (21/06, 02/08, 09/08) = 3ª a **RPE 9** · 1º/fresco (04/07, 16/08) = 3ª a **RPE 8**. El orden era todo. **Mantener 1º siempre** → avanzar a **3×7**.
+- **🔼 BENCH 70 CONSOLIDADO:** 3×10 @ 7.5/8/8 — todas en cap (el 09/08 la 3ª iba a 8.5). Y lo logró con OHP del día anterior encima. → **72.5**.
+- **🔼 Bicep 27.5 CERRADO:** 3×12 @ 7.5/8/8 → **30 kg**, reset reps.
+- **🔼 Tricep 25 CERRADO:** 3×12 @ 8/8/8 → **27.5 kg**, reset reps.
+- **Lateral 12.5 🔼:** subió peso (de 12) y salió 3×12 @ ≤8 limpio → sumar hacia 3×15.
+- **Leg Ext 84:** 3×12 @ 8/8/8 — mismo rango que el 12/08 pero ahora a RPE 8 pleno (antes 7.5/8/8). Consolidar 3×12 → después 3×13-15.
+- **Core 🔼:** crunch y oblique subieron de 3×12 a 3×15.
+- **⚠️ Wrist 15 — NO SUBIR:** 3×17 pero 3ª a **9.5**. Mismo error que el OHP del 15/08: techo de reps fuera del cap = consolidar. **Repetir 3×17 con todas a ≤8.**
+
+---
+
 ## ✅ Workout B — Sábado 15/08/2026 (Meso 2, semana 2 — sesión 3; corrida del viernes)
 
 | Ejercicio | Peso | Reps | RPE |
