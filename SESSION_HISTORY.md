@@ -15,6 +15,38 @@
 
 > Las de más abajo (Extra 02/08 y A 31/07) fueron **re-escalada pre-bloque** — fuera de progresión.
 
+## ✅ Workout A — Lunes 17/08/2026 (Meso 2, semana 3 — sesión 1; 3er día seguido)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Incline DB Press | 25 kg | 11 / 11 / 11 | 7.5 / 8 / **9** ⚠️ |
+| Chin-Up | BW | 8 / 8 / 8 | 7.5 / **8.5** / **9** ⚠️ |
+| Leg Extension | 84 kg | 13 / 13 / 13 | 7.5 / 8 / 8 |
+| OH Single Carry | 20 kg | 3 × 60" ✅ | time-based |
+| Hammer Curl | 17.5 kg 🔼🔼 | 9 / 9 / 9 | 7.5 / 8 / 8.5 |
+| Ab Wheel | BW | 12 / 12 / 12 | 7.5 / 8 / 8 |
+
+🔗 hevy.com/workout/b80ece99-9356-44eb-a52e-ba16aa0c3b67
+
+**Lecturas:**
+- **⚠️ SEÑAL DE FATIGA — entrenó sáb (B) + dom (Extra) + lun (A), 3 días seguidos sin descanso.**
+  3 de 6 ejercicios con la 3ª serie fuera del cap (incline 9, chin-up 9, hammer 8.5). No es un
+  ejercicio puntual: es un patrón de sesión. Sumado a los 9.5 del 15/08 (OHP) y 16/08 (wrist),
+  van **3 sesiones seguidas** con RPE trepando. Respetar el descanso entre sesiones.
+- **⚠️ Chin-Up — REGRESIÓN:** 3×8 @ 7.5/8.5/**9**. Justo lo que había resuelto el 12/08 (3×7 con
+  3ª a 8). Patrón histórico confirmado: **cada vez que suma una rep, la 3ª se va a 9.** Volver a
+  **3×7 limpio** y consolidar de verdad antes de intentar 3×8 otra vez.
+- **Incline 25:** llegó a 3×11 pero 3ª a 9 → NO avanzar a 3×12. Consolidar 3×11 con todas a ≤8.
+- **Leg Extension 84 ✅:** 3×13 @ 7.5/8/8 limpio (el único compuesto/accesorio que respetó el cap
+  hoy) → 3×14.
+- **OH Single Carry ✅ DESTINO COMPLETADO:** 3×60" a 20 kg. Objetivo del bloque cumplido → **22 kg**,
+  reset a 45-50".
+- **Hammer 17.5 🔼🔼:** se salteó el 16 y fue de 15 a 17.5. 3×9 @ 7.5/8/8.5 — aceptable pero la 3ª
+  otra vez arriba. Consolidar 17.5 a 3×9-10 con todas a ≤8.
+- **Ab Wheel:** 3×12 @ ≤8 (no sumó a 13, correcto dado el cansancio).
+
+---
+
 ## ✅ Extra — Domingo 16/08/2026 (Meso 2, semana 2 — CIERRA semana 2)
 
 | Ejercicio | Peso | Reps | RPE |
