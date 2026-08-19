@@ -15,6 +15,34 @@
 
 > Las de más abajo (Extra 02/08 y A 31/07) fueron **re-escalada pre-bloque** — fuera de progresión.
 
+## ✅ Workout B — Miércoles 19/08/2026 (Meso 2, semana 3 — sesión 2; con día de descanso previo)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Overhead Press (Barbell) | 45 kg | 8 / 8 / 8 | 7.5 / 8 / 8.5 |
+| Pendlay Row (Barbell) | 65 kg 🔼 | 8 / 8 / 8 | 7.5 / 7.5 / 8 |
+| Lying Leg Curl (Machine) | 35 kg | 12 / 12 / 12 | 7.5 / 7.5 / 8 |
+| Suitcase Carry | 22 kg 🔼 | 3 × 55" | time-based |
+| Triceps Dip (Weighted) | 15 kg | 10 / 10 / 10 | 7.5 / 8 / 8.5 |
+| Hanging Leg Raise | BW | 11 / 11 / 11 | 7.5 / 8 / 8.5 |
+
+🔗 hevy.com/workout/81c8d9c6-5223-49d7-91fb-e0ed1b782bfc
+
+**Lecturas (el descanso funcionó — RPE máximo bajó de 9-9.5 a 8.5):**
+- **✅ FATIGA CONFIRMADA Y RESUELTA:** tras 1 día de descanso, ningún ejercicio llegó a 9 (el
+  15/08 hubo 9.5 y el 17/08 dos 9). Confirma que el pico de RPE venía de entrenar sáb+dom+lun
+  seguidos, no de que los pesos fueran altos. **Mantener ≥1 día de descanso entre sesiones.**
+- **Pendlay Row 65 🔥 TERRITORIO NUEVO:** 3×8 @ 7.5/7.5/8 limpio en peso récord (tope Meso 1 era
+  62.5). 4ª vez seguida que estrena peso sin despeinarse → sumar reps hacia 3×10.
+- **Leg Curl 35 ✅ CERRADO:** 3×12 @ 7.5/7.5/8 → subir a **38-40**, reset reps.
+- **Suitcase 22 ✅:** 3×55" directo en peso nuevo (se pidió 45-50") → estirar a 60".
+- **OHP 45 — casi:** 3×8 @ 7.5/8/**8.5**. Gran mejora vs el 9.5 del 15/08, pero la 3ª sigue fuera
+  del cap. Una sesión más de consolidación → después 47.5.
+- **Dips 15:** sumó a 3×10 pero 3ª a 8.5 → consolidar 3×10 todas a ≤8.
+- **HLR:** 3×11 @ hasta 8.5 (no sumó a 12). Consolidar.
+
+---
+
 ## ✅ Workout A — Lunes 17/08/2026 (Meso 2, semana 3 — sesión 1; 3er día seguido)
 
 | Ejercicio | Peso | Reps | RPE |
