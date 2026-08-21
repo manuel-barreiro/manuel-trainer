@@ -15,6 +15,35 @@
 
 > Las de más abajo (Extra 02/08 y A 31/07) fueron **re-escalada pre-bloque** — fuera de progresión.
 
+## ✅ Workout A — Viernes 21/08/2026 (Meso 2, semana 3 — sesión 3)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Incline DB Press | 25 kg | 11 / 11 / 11 | 7.5 / 8 / 8 |
+| Chin-Up | BW | 7 / 7 / 7 | 7 / 8 / 8 |
+| Leg Extension | — | **NO SE HIZO** ⚠️ | — |
+| OH Single Carry | 20 kg | 3 × 60" | time-based |
+| Hammer Curl | 16 kg | 12 / 12 / 10 | 7.5 / **8.5** / **8.5** ⚠️ |
+| Ab Wheel | BW | 12 / 12 / 12 | 7 / 7.5 / 8 |
+
+🔗 hevy.com/workout/6b83d06e-b849-473d-97c4-214c8bb0dd87
+
+**Lecturas (dos consolidaciones clavadas — sesión de precisión cumplida):**
+- **✅ INCLINE 25 CONSOLIDADO:** 3×11 @ 7.5/8/**8**, todas en cap (el 17/08 la 3ª iba a 9). →
+  **3×12**, que desbloquea el salto a **30 kg** en el rack.
+- **✅ CHIN-UP 3×7 LIMPIO:** 7/8/**8** — bajó de 3×8 como se indicó y salió en cap. **1ª de las
+  dos sesiones limpias** requeridas; con otra igual, avanzar a 3×8.
+- **Ab Wheel:** 3×12 @ 7/7.5/8 (no sumó a 13, pero limpio y con margen) → 3×13.
+- **⚠️ FALTÓ LEG EXTENSION:** no aparece en el log. Es el único trabajo de cuádriceps del programa
+  (junto al del Extra). Si fue por falta de tiempo/máquina ocupada, ok; si no, retomar la próxima A
+  en 84 kg × 3×14.
+- **⚠️ HAMMER CURL — 3ª sesión seguida fuera del cap:** hoy bajó de 17.5 a 16 y aun así 12/12/**10**
+  @ 7.5/**8.5/8.5**, teniendo que recortar reps en la 3ª. Historial: 12/08 (15 kg) 12/12/10 @ 8.5 ·
+  17/08 (17.5 kg) 3×9 @ 8.5 · 21/08 (16 kg) 12/12/10 @ 8.5. **Patrón claro, no es el peso.**
+  Propuesta: fijar **16 kg × 3×10** (piso más bajo) y subir reps solo con las tres a ≤8.
+
+---
+
 ## ✅ Workout B — Miércoles 19/08/2026 (Meso 2, semana 3 — sesión 2; con día de descanso previo)
 
 | Ejercicio | Peso | Reps | RPE |

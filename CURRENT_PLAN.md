@@ -6,8 +6,8 @@
 
 ## Estado del mesociclo
 - **Mesociclo:** 2 (continúa la reconstrucción)
-- **Semana:** 3 EN CURSO (17-23/08, acumulación RPE 8) — A (17/08) ✅ · B (19/08) ✅. Faltan A · Extra.
-  Semanas 1 y 2 COMPLETAS ✅.
+- **Semana:** 3 EN CURSO (17-23/08, acumulación RPE 8) — A (17/08) ✅ · B (19/08) ✅ · A (21/08) ✅.
+  Falta el **Extra** (dom 23/08). Semanas 1 y 2 COMPLETAS ✅.
 - **✅ Fatiga resuelta:** el pico de RPE (9-9.5 entre el 15 y el 17/08) venía de entrenar
   sáb+dom+lun seguidos. Con 1 día de descanso, el 19/08 ningún ejercicio pasó de 8.5.
   **Regla: mantener ≥1 día de descanso entre sesiones de gym.**
@@ -70,12 +70,12 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 
 | Ejercicio | Peso actual | Última act. |
 |---|---|---|
-| Incline DB Press | 25 kg | 17/08/2026 (3×11 pero 3ª a 9 → consolidar 3×11 todas a ≤8 antes de 3×12/30 kg) |
-| Chin-Up | BW | 17/08/2026 (⚠️ REGRESIÓN: 3×8 @ 7.5/8.5/9. Volver a **3×7 limpio** — cada vez que suma rep se va a 9) |
+| Incline DB Press | 25 kg | 21/08/2026 (✅ CONSOLIDÓ 3×11 @ 7.5/8/8 → ir por 3×12, que desbloquea el salto a 30 kg) |
+| Chin-Up | BW | 21/08/2026 (✅ 3×7 @ 7/8/8 limpio — 1ª de 2 sesiones requeridas; con otra igual → 3×8) |
 | Leg Extension (cuádriceps — días A y Extra) | 84 kg | 17/08/2026 (3×13 @ 7.5/8/8 limpio → 3×14) |
 | Leg Curl (Lying — isquios, día B) | 35 kg → 38-40 | 19/08/2026 (CERRÓ 3×12 @ ≤8 → subir, reset reps) |
-| OH Single Carry | 20 kg → 22 | 17/08/2026 (✅ COMPLETÓ 3×60" a 20 kg = destino del bloque → subir a 22, reset a 45-50") |
-| Hammer Curl | 17.5 kg | 17/08/2026 (saltó 15→17.5; 3×9 @ 7.5/8/8.5 → consolidar 3×9-10 todas a ≤8) |
+| OH Single Carry | 20 kg (3×60") → 22 | 21/08/2026 (repitió 20 kg × 60"; pendiente subir a 22, reset 45-50") |
+| Hammer Curl | 16 kg | 21/08/2026 (⚠️ 3ª sesión seguida fuera del cap con 3 pesos distintos: 12/12/10 @ 8.5/8.5. Fijar 16 kg × 3×10 y subir reps solo con las tres a ≤8) |
 | Bench Press | 70 kg → 72.5 | 16/08/2026 (CONSOLIDADO 3×10 @ 7.5/8/8 todas en cap → subir a 72.5, reset reps) |
 | Pull-Up (Extra, SIEMPRE 1º) | BW (3×6) | 16/08/2026 (1º/fresco = 3×6 @ ≤8 limpio ✅ hipótesis confirmada → 3×7) |
 | Lateral Raise (DB) | 12.5 kg | 16/08/2026 (subió de 12; 3×12 @ ≤8 limpio → sumar hacia 3×15) |
@@ -92,12 +92,12 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 ### Workout A
 | Ejercicio | Peso | Reps objetivo | RPE objetivo |
 |---|---|---|---|
-| Incline DB Press | 25 kg | consolidar 3×11 TODAS a ≤8 (17/08 la 3ª a 9) → 3×12, ahí rack salta a 30 | 7-8 |
-| Chin-Up | BW | ⚠️ VOLVER a 3×7 limpio (17/08 el 3×8 se fue a 9) → 3×8 recién cuando 3×7 salga a ≤8 dos veces | 7-8 |
-| Leg Extension | 84 kg | 3×14 (cerró 3×13 @ ≤8 el 17/08) → hacia 3×15 | 8 |
-| OH Single Carry | 22 kg 🔼 | 3×45-50" (reset; completó 60" a 20 kg el 17/08) | 7-8 |
-| Hammer Curl | 17.5 kg | consolidar 3×9-10 TODAS a ≤8 (17/08 la 3ª a 8.5) | 8 |
-| Ab Wheel | BW | 3×13 (3×12 @ ≤8 el 17/08) | 7-8 |
+| Incline DB Press | 25 kg | **3×12** 🔼 (consolidó 3×11 @ ≤8 el 21/08) → al cerrarlo, salto a 30 kg | 7-8 |
+| Chin-Up | BW | 3×7 limpio otra vez (21/08 fue la 1ª de 2) → recién ahí 3×8 | 7-8 |
+| Leg Extension | 84 kg | 3×14 (⚠️ no se hizo el 21/08 — retomar) → hacia 3×15 | 8 |
+| OH Single Carry | 22 kg 🔼 | 3×45-50" (reset; ya completó 60" a 20 kg) | 7-8 |
+| Hammer Curl | 16 kg | ⚠️ FIJAR 3×10 con las tres a ≤8 (3 sesiones seguidas yéndose a 8.5) → recién ahí sumar reps | 8 |
+| Ab Wheel | BW | 3×13 (3×12 @ ≤8 el 21/08) | 7-8 |
 
 ### Workout B
 | Ejercicio | Peso | Reps objetivo | RPE objetivo |
