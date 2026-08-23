@@ -19,7 +19,7 @@
 
 | Ejercicio | Peso | Reps | RPE |
 |---|---|---|---|
-| **Pull-Up (1º ✅)** | BW | 7 / 7 / 7 | 7.5 / *(sin dato)* / **9** ⚠️ |
+| **Pull-Up (1º ✅)** | BW | 7 / 7 / 7 | 7.5 / **8.5** / **9** ⚠️ |
 | Bench Press (Barbell) | 72.5 kg 🔼 | 8 / 8 / 8 | 7.5 / 7.5 / 8 |
 | Lateral Raise (DB) | 12.5 kg | 14 / 14 / 14 | 7.5 / 8 / 8 |
 | Bicep Curl (Barbell) | 31.5 kg 🔼 | 10 / 10 / 10 | 7 / 7.5 / 8 |
@@ -37,9 +37,9 @@
 - **Bicep 31.5 🔼:** usó 31.5 (no 30) y salió 3×10 @ 7/7.5/8 limpio, la 1ª a RPE 7 → sumar reps.
 - **Lateral 12.5 ✅:** 3×14 @ ≤8 → 3×15, después +peso.
 - **Tricep 27.5 🔼:** 3×10 en peso nuevo pero 3ª a 8.5 → consolidar 3×10 todas a ≤8.
-- **⚠️ PULL-UP a 3×7 → 3ª a RPE 9.** Fue 1º (orden correcto), así que esta vez NO es el orden: es el
-  mismo patrón del chin-up — **al sumar rep, la 3ª se va a 9**. Volver a **3×6 limpio** y pedir dos
-  sesiones en cap antes de reintentar 3×7. (Falta el RPE del set 2 — cargarlo en Hevy.)
+- **⚠️ PULL-UP a 3×7 → 7.5/8.5/9**, dos series fuera del cap (no solo la última). Fue 1º (orden
+  correcto), así que esta vez NO es el orden: es el mismo patrón del chin-up — **al sumar rep, se
+  va de rango**. Volver a **3×6 limpio** y pedir dos sesiones en cap antes de reintentar 3×7.
 - **⚠️ WRIST 15 — 2ª sesión seguida fuera del cap:** 3×17 @ 9 (venía de 9.5). Mejoró pero sigue
   arriba. **Bajar a 3×15** y reconstruir con las tres a ≤8.
 - **Leg Extension:** no se hizo, 2ª vez seguida (21/08 y 23/08). Esta vez con razón declarada
