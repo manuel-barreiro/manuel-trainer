@@ -6,8 +6,11 @@
 
 ## Estado del mesociclo
 - **Mesociclo:** 2 (continúa la reconstrucción)
-- **Semana:** 3 EN CURSO (17-23/08, acumulación RPE 8) — A (17/08) ✅ · B (19/08) ✅ · A (21/08) ✅.
-  Falta el **Extra** (dom 23/08). Semanas 1 y 2 COMPLETAS ✅.
+- **Semana:** 3 COMPLETA ✅ (A 17/08 · B 19/08 · A 21/08 · Extra 23/08). Semanas 1 y 2 también ✅.
+  **Próxima: semana 4 (24-30/08), patrón B·A·B·Extra, acumulación RPE 8** (previa al pico).
+- **🎯 Tema recurrente a vigilar:** al **sumar una rep**, la 3ª serie se va a RPE 9 (pasó con
+  chin-up, pull-up, wrist, hammer). Ya lo corrigió en incline, chin-up y OHP bajando el rango y
+  consolidando. Criterio: **el techo de reps no vale si se sale del cap** — mejor cortar reps.
 - **✅ Fatiga resuelta:** el pico de RPE (9-9.5 entre el 15 y el 17/08) venía de entrenar
   sáb+dom+lun seguidos. Con 1 día de descanso, el 19/08 ningún ejercicio pasó de 8.5.
   **Regla: mantener ≥1 día de descanso entre sesiones de gym.**
@@ -76,12 +79,12 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 | Leg Curl (Lying — isquios, día B) | 35 kg → 38-40 | 19/08/2026 (CERRÓ 3×12 @ ≤8 → subir, reset reps) |
 | OH Single Carry | 20 kg (3×60") → 22 | 21/08/2026 (repitió 20 kg × 60"; pendiente subir a 22, reset 45-50") |
 | Hammer Curl | 16 kg | 21/08/2026 (⚠️ 3ª sesión seguida fuera del cap con 3 pesos distintos: 12/12/10 @ 8.5/8.5. Fijar 16 kg × 3×10 y subir reps solo con las tres a ≤8) |
-| Bench Press | 70 kg → 72.5 | 16/08/2026 (CONSOLIDADO 3×10 @ 7.5/8/8 todas en cap → subir a 72.5, reset reps) |
-| Pull-Up (Extra, SIEMPRE 1º) | BW (3×6) | 16/08/2026 (1º/fresco = 3×6 @ ≤8 limpio ✅ hipótesis confirmada → 3×7) |
-| Lateral Raise (DB) | 12.5 kg | 16/08/2026 (subió de 12; 3×12 @ ≤8 limpio → sumar hacia 3×15) |
-| Bicep Curl | 27.5 kg → 30 | 16/08/2026 (CERRÓ 3×12 @ ≤8 → subir a 30, reset reps) |
-| Tricep Pushdown | 25 kg → 27.5 | 16/08/2026 (CERRÓ 3×12 @ 8 → subir a 27.5, reset reps) |
-| Wrist Curl | 15 kg | 16/08/2026 (⚠️ 3×17 pero 3ª a 9.5 = fuera del cap. NO subir: repetir 3×17 todas a ≤8) |
+| Bench Press | 72.5 kg | 23/08/2026 (🔥 estrenó limpio 3×8 @ 7.5/7.5/8 → sumar reps hacia 3×10) |
+| Pull-Up (Extra, SIEMPRE 1º) | BW | 23/08/2026 (⚠️ 3×7 → 3ª a RPE 9 aun yendo 1º. Volver a **3×6 limpio**, 2 sesiones en cap antes de 3×7) |
+| Lateral Raise (DB) | 12.5 kg | 23/08/2026 (3×14 @ ≤8 → 3×15, después +peso) |
+| Bicep Curl | 31.5 kg | 23/08/2026 (estrenó 3×10 @ 7/7.5/8 limpio → sumar reps) |
+| Tricep Pushdown | 27.5 kg | 23/08/2026 (3×10 en peso nuevo pero 3ª a 8.5 → consolidar todas a ≤8) |
+| Wrist Curl | 15 kg | 23/08/2026 (⚠️ 2ª seguida fuera del cap: 3×17 @ 9 tras 9.5. **Bajar a 3×15** y reconstruir a ≤8) |
 | Suitcase Carry | 22 kg (3×55") | 19/08/2026 (3×55" directo en peso nuevo → estirar a 60") |
 | Weighted Dips | 15 kg | 19/08/2026 (3×10 pero 3ª a 8.5 → consolidar 3×10 todas a ≤8) |
 | OHP (Barbell) | 45 kg | 19/08/2026 (3×8 @ 7.5/8/8.5 — gran mejora vs el 9.5 del 15/08, pero 3ª aún fuera del cap; una más de consolidación → 47.5) |
@@ -112,12 +115,12 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 ### Extra (Domingo)
 | Ejercicio | Peso | Reps objetivo | RPE objetivo |
 |---|---|---|---|
-| **Pull-Up — SIEMPRE 1º, ANTES del bench** ✅ | BW | 3×7 🔼 (16/08 cerró 3×6 @ ≤8 yendo 1º — regla validada) | 7-8 |
-| Bench Press | 72.5 kg 🔼 | 3×8-10 (reset; consolidó 70 el 16/08) | 7-8 |
-| Lateral Raise (DB) + Leg Extension | 12.5 kg / 84 kg | lateral 3×13-15 / leg ext consolidar 3×12 @ ≤8 → 3×13-15 | 8 |
-| Bicep Curl | 30 kg 🔼 | 3×10 (reset; cerró 27.5 a 3×12 el 16/08) | 8 |
-| Tricep Pushdown | 27.5 kg 🔼 | 3×10 (reset; cerró 25 a 3×12 el 16/08) | 8 |
-| Wrist Curl | 15 kg | ⚠️ consolidar 3×17 TODAS a ≤8 (16/08 la 3ª a 9.5) → después 3×20 | 8 |
+| **Pull-Up — SIEMPRE 1º, ANTES del bench** | BW | ⚠️ volver a 3×6 con las tres a ≤8 (23/08 el 3×7 se fue a 9) → 3×7 tras 2 sesiones limpias | 7-8 |
+| Bench Press | 72.5 kg | 3×9-10 (estrenó 3×8 @ ≤8 el 23/08) | 7-8 |
+| Lateral Raise (DB) + Leg Extension | 12.5 kg / 84 kg | lateral 3×15 → +peso / leg ext 3×14 (no se hizo el 23/08) | 8 |
+| Bicep Curl | 31.5 kg | 3×11-12 (estrenó 3×10 @ ≤8 el 23/08) | 8 |
+| Tricep Pushdown | 27.5 kg | consolidar 3×10 todas a ≤8 (23/08 la 3ª a 8.5) | 8 |
+| Wrist Curl | 15 kg | ⚠️ BAJAR a 3×15 y reconstruir con las tres a ≤8 (2 sesiones seguidas a 9-9.5) | 8 |
 | Core extra (opcional): Crunch 10 kg + Oblique Crunch | — | 3×15 (subió el 16/08) | 7-8 |
 
 > **Bench (Extra):** a 70 kg. El problema NO es el nº de reps (venía 3×10) sino el grinding:

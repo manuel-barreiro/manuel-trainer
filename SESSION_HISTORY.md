@@ -15,6 +15,38 @@
 
 > Las de más abajo (Extra 02/08 y A 31/07) fueron **re-escalada pre-bloque** — fuera de progresión.
 
+## ✅ Extra — Domingo 23/08/2026 (Meso 2, semana 3 — CIERRA semana 3)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| **Pull-Up (1º ✅)** | BW | 7 / 7 / 7 | 7.5 / *(sin dato)* / **9** ⚠️ |
+| Bench Press (Barbell) | 72.5 kg 🔼 | 8 / 8 / 8 | 7.5 / 7.5 / 8 |
+| Lateral Raise (DB) | 12.5 kg | 14 / 14 / 14 | 7.5 / 8 / 8 |
+| Bicep Curl (Barbell) | 31.5 kg 🔼 | 10 / 10 / 10 | 7 / 7.5 / 8 |
+| Triceps Rope Pushdown | 27.5 kg 🔼 | 10 / 10 / 10 | 7.5 / 8 / 8.5 |
+| Seated Palms Up Wrist Curl | 15 kg | 17 / 17 / 17 | 7.5 / 8 / **9** ⚠️ |
+| Crunch (Weighted) | 10 kg | 15 / 15 / 15 | 7.5 / 7.5 / 8 |
+| Oblique Crunch | BW | 15 / 15 / 15 | 7 / 7 / 7.5 |
+| Leg Extension | — | **no se hizo** (cargado del fútbol de ayer — decisión válida) | — |
+
+🔗 hevy.com/workout/440246bd-dfb2-4db7-9e0a-e6dee25d36ba
+
+**Lecturas (cierra semana 3):**
+- **🔥 BENCH 72.5 ESTRENADO LIMPIO:** 3×8 @ 7.5/7.5/8, todas en cap, en peso nuevo. Iguala el mejor
+  bench del historial y con margen → sumar reps hacia 3×10.
+- **Bicep 31.5 🔼:** usó 31.5 (no 30) y salió 3×10 @ 7/7.5/8 limpio, la 1ª a RPE 7 → sumar reps.
+- **Lateral 12.5 ✅:** 3×14 @ ≤8 → 3×15, después +peso.
+- **Tricep 27.5 🔼:** 3×10 en peso nuevo pero 3ª a 8.5 → consolidar 3×10 todas a ≤8.
+- **⚠️ PULL-UP a 3×7 → 3ª a RPE 9.** Fue 1º (orden correcto), así que esta vez NO es el orden: es el
+  mismo patrón del chin-up — **al sumar rep, la 3ª se va a 9**. Volver a **3×6 limpio** y pedir dos
+  sesiones en cap antes de reintentar 3×7. (Falta el RPE del set 2 — cargarlo en Hevy.)
+- **⚠️ WRIST 15 — 2ª sesión seguida fuera del cap:** 3×17 @ 9 (venía de 9.5). Mejoró pero sigue
+  arriba. **Bajar a 3×15** y reconstruir con las tres a ≤8.
+- **Leg Extension:** no se hizo, 2ª vez seguida (21/08 y 23/08). Esta vez con razón declarada
+  (piernas cargadas del fútbol del sábado) — autorregulación correcta. Retomar en la próxima A.
+
+---
+
 ## ✅ Workout A — Viernes 21/08/2026 (Meso 2, semana 3 — sesión 3)
 
 | Ejercicio | Peso | Reps | RPE |
