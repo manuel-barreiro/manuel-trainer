@@ -15,6 +15,35 @@
 
 > Las de más abajo (Extra 02/08 y A 31/07) fueron **re-escalada pre-bloque** — fuera de progresión.
 
+## ✅ Workout B — Lunes 24/08/2026 (Meso 2, semana 4 — sesión 1)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Overhead Press (Barbell) | 45 kg | 8 / 8 / 8 | 7.5 / 8 / **9** ⚠️ |
+| Pendlay Row (Barbell) | 65 kg | 10 / 10 / 10 | 7.5 / 8 / 8.5 |
+| Lying Leg Curl (Machine) | 42 kg 🔼 | 10 / 10 / 10 | 7.5 / 7.5 / 7.5 |
+| Suitcase Carry | 20 kg | 3 × 60" | time-based |
+| Triceps Dip (Weighted) | 15 kg | 10 / 10 / 10 | 7.5 / 8 / 8 |
+| Hanging Leg Raise | BW | 12 / 12 / 12 | 8 / 8 / 8 |
+
+🔗 hevy.com/workout/6f36a1db-90e6-4431-b634-03e7c34d2274
+
+**Lecturas:**
+- **🚩 OHP 45 — ESTANCADO, cambiar estrategia.** 4º intento de cerrar 3×8 y 3º fallido seguido:
+  10/08 **8/7/7 @ 8/8/8 ✅** (única vez limpio, dejando caer reps) · 15/08 3×8 @ 9.5 ❌ ·
+  19/08 3×8 @ 8.5 ❌ · 24/08 3×8 @ **9** ❌. Repetir lo mismo no está funcionando.
+  **Decisión: fijar 45 kg × 3×7 con las TRES a ≤8** (el 8/7/7 del 10/08 muestra que ese es el
+  volumen real disponible hoy). Sumar la 8ª rep de a UNA serie por vez (8/7/7 → 8/8/7 → 3×8).
+- **Pendlay Row 65:** cerró el rango 3×10 (de 3×8) pero la 3ª a 8.5 → consolidar 3×10 todas a ≤8
+  antes de 67.5. Igual sigue siendo su mejor ejercicio: 50 → 65 kg en el bloque.
+- **✅ Leg Curl 42 🔼:** usó 42 (más que los 38-40 sugeridos) y salió 3×10 @ 7.5 parejo, sobrado →
+  sumar reps hacia 3×12.
+- **✅ Dips 15 CONSOLIDADO:** 3×10 @ 7.5/8/8, todas en cap (el 19/08 la 3ª iba a 8.5) → 3×11-12.
+- **✅ HLR:** 3×12 @ 8/8/8, cerró rango → sumar o agregar lastre.
+- **⚠️ Suitcase: volvió a 20 kg** (el 19/08 ya lo había hecho a **22 kg × 55"**). Retomar 22 kg.
+
+---
+
 ## ✅ Extra — Domingo 23/08/2026 (Meso 2, semana 3 — CIERRA semana 3)
 
 | Ejercicio | Peso | Reps | RPE |
