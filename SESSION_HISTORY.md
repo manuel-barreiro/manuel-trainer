@@ -15,6 +15,36 @@
 
 > Las de más abajo (Extra 02/08 y A 31/07) fueron **re-escalada pre-bloque** — fuera de progresión.
 
+## ✅ Workout A — Miércoles 26/08/2026 (Meso 2, semana 4 — sesión 2)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Incline DB Press | 25 kg | 12 / 12 / **10** | 7.5 / **8.5** / **8.5** ⚠️ |
+| Chin-Up | BW | 7 / 7 / 7 | 7 / 8 / 8 |
+| Leg Extension | 84 kg | 13 / 13 / 13 | 8 / 8 / 8 |
+| OH Single Carry | 22 kg 🔼 | 3 × 50" | time-based |
+| Hammer Curl | 16 kg | 10 / 10 / 10 | 7.5 / 8 / *(sin dato)* |
+| Ab Wheel | BW | 12 / 12 / 12 | 7.5 / 7.5 / 8 |
+
+🔗 hevy.com/workout/8be51099-6673-4107-9ab8-c3c65eb2ef01
+
+**Lecturas:**
+- **🏆 CHIN-UP DESBLOQUEADO — 2ª sesión limpia consecutiva:** 3×7 @ 7/8/8 (igual que el 21/08).
+  Cumplió el requisito de dos sesiones en cap → **avanzar a 3×8**, con el mismo criterio: si la 3ª
+  pide 9, cortar en 6-7 reps.
+- **⚠️ Incline 25 — no cerró el 3×12:** 12/12/**10** @ 7.5/**8.5/8.5**. Llegó a 12 en las dos primeras
+  pero fuera del cap y tuvo que recortar la 3ª. **NO subir a 30 kg todavía.** Repetir el intento de
+  3×12 con las tres a ≤8 (el 3×11 limpio del 21/08 sigue siendo la base sólida).
+- **Leg Extension 84 ✅ retomado:** 3×13 @ 8/8/8 (el 17/08 fue 3×13 @ 7.5/8/8 — mismo rango, RPE algo
+  mayor tras dos sesiones sin hacerlo). Consolidar 3×13 → 3×14.
+- **OH Single Carry 🔼:** por fin a **22 kg** × 3×50". Estirar hacia 60". *(El log dice "50min",
+  es 50 segundos.)*
+- **Hammer 16 × 3×10 ✅ el reajuste funcionó:** sets 1-2 a 7.5/8, dentro del cap por primera vez en
+  4 sesiones. Bajar el piso de reps (12 → 10) era lo correcto. *(Falta el RPE del set 3.)*
+- **Ab Wheel — 3ª sesión seguida en 3×12 @ ≤8:** hay margen sin usar. Empujar a 3×13-14.
+
+---
+
 ## ✅ Workout B — Lunes 24/08/2026 (Meso 2, semana 4 — sesión 1)
 
 | Ejercicio | Peso | Reps | RPE |
