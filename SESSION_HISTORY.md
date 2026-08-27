@@ -23,7 +23,7 @@
 | Chin-Up | BW | 7 / 7 / 7 | 7 / 8 / 8 |
 | Leg Extension | 84 kg | 13 / 13 / 13 | 8 / 8 / 8 |
 | OH Single Carry | 22 kg 🔼 | 3 × 50" | time-based |
-| Hammer Curl | 16 kg | 10 / 10 / 10 | 7.5 / 8 / *(sin dato)* |
+| Hammer Curl | 16 kg | 10 / 10 / 10 | 7.5 / 8 / 8.5 |
 | Ab Wheel | BW | 12 / 12 / 12 | 7.5 / 7.5 / 8 |
 
 🔗 hevy.com/workout/8be51099-6673-4107-9ab8-c3c65eb2ef01
@@ -37,10 +37,11 @@
   3×12 con las tres a ≤8 (el 3×11 limpio del 21/08 sigue siendo la base sólida).
 - **Leg Extension 84 ✅ retomado:** 3×13 @ 8/8/8 (el 17/08 fue 3×13 @ 7.5/8/8 — mismo rango, RPE algo
   mayor tras dos sesiones sin hacerlo). Consolidar 3×13 → 3×14.
-- **OH Single Carry 🔼:** por fin a **22 kg** × 3×50". Estirar hacia 60". *(El log dice "50min",
-  es 50 segundos.)*
-- **Hammer 16 × 3×10 ✅ el reajuste funcionó:** sets 1-2 a 7.5/8, dentro del cap por primera vez en
-  4 sesiones. Bajar el piso de reps (12 → 10) era lo correcto. *(Falta el RPE del set 3.)*
+- **OH Single Carry 🔼:** por fin a **22 kg** × 3×50". Estirar hacia 60".
+- **Hammer 16 × 3×10 — mejoró pero la 3ª sigue a 8.5:** 7.5/8/**8.5**. Avance real (por 1ª vez en 4
+  sesiones NO tuvo que recortar reps en la 3ª), pero el rango de 10 reps todavía no está limpio.
+  **Consolidar 16 × 3×10 con las TRES a ≤8** antes de sumar. Si en la próxima vuelve a 8.5,
+  probar 15 kg × 3×10.
 - **Ab Wheel — 3ª sesión seguida en 3×12 @ ≤8:** hay margen sin usar. Empujar a 3×13-14.
 
 ---
