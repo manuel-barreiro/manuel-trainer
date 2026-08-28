@@ -6,8 +6,9 @@
 
 ## Estado del mesociclo
 - **Mesociclo:** 2 (continúa la reconstrucción)
-- **Semana:** 4 EN CURSO (24-30/08, acumulación previa al pico) — B (24/08) ✅ · A (26/08) ✅.
-  Faltan B · Extra. Semanas 1, 2 y 3 COMPLETAS ✅.
+- **Semana:** 4 EN CURSO (24-30/08, acumulación previa al pico) — B (24/08) ✅ · A (26/08) ✅ ·
+  B (28/08) ✅. Falta el **Extra** (dom 30/08). Semanas 1, 2 y 3 COMPLETAS ✅.
+  **Después: semana 5 (31/08-06/09) = PICO/MRV**, y semana 6 (07-13/09) = DELOAD.
 - **🎯 Tema recurrente a vigilar:** al **sumar una rep**, la 3ª serie se va a RPE 9 (pasó con
   chin-up, pull-up, wrist, hammer). Ya lo corrigió en incline, chin-up y OHP bajando el rango y
   consolidando. Criterio: **el techo de reps no vale si se sale del cap** — mejor cortar reps.
@@ -85,10 +86,10 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 | Bicep Curl | 31.5 kg | 23/08/2026 (estrenó 3×10 @ 7/7.5/8 limpio → sumar reps) |
 | Tricep Pushdown | 27.5 kg | 23/08/2026 (3×10 en peso nuevo pero 3ª a 8.5 → consolidar todas a ≤8) |
 | Wrist Curl | 15 kg | 23/08/2026 (⚠️ 2ª seguida fuera del cap: 3×17 @ 9 tras 9.5. **Bajar a 3×15** y reconstruir a ≤8) |
-| Suitcase Carry | 22 kg | 24/08/2026 (⚠️ volvió a 20 kg; ya había hecho 22×55" el 19/08 — retomar 22, estirar a 60") |
-| Weighted Dips | 15 kg | 24/08/2026 (✅ CONSOLIDÓ 3×10 @ 7.5/8/8 → sumar reps hacia 3×12) |
-| OHP (Barbell) | 45 kg | 24/08/2026 (🚩 ESTANCADO: 3 intentos fallidos de 3×8 (9.5→8.5→9). **Fijar 3×7 todas a ≤8** y sumar la 8ª rep de a una serie: 8/7/7 → 8/8/7 → 3×8) |
-| Pendlay Row (Barbell) | 65 kg | 24/08/2026 (3×10 pero 3ª a 8.5 → consolidar 3×10 todas a ≤8 antes de 67.5) |
+| Suitcase Carry | 22 kg | 28/08/2026 (⚠️ 3ª sesión en 20 kg; ya hizo 22×55" el 19/08 — retomar 22) |
+| Weighted Dips | 15 kg | 28/08/2026 (3×10 @ 8/8/8.5 — RPE algo más alto que el 24/08; mantener y consolidar) |
+| OHP (Barbell) | 45 kg | 28/08/2026 (🏆 DESTRABADO con el reajuste: 3×7 @ 7/7.5/8 en cap → **8/7/7** → 8/8/7 → 3×8 → 47.5) |
+| Pendlay Row (Barbell) | 65 kg → 67.5 | 28/08/2026 (✅ CONSOLIDÓ 3×10 @ 7.5/8/8 → subir a 67.5, reset reps) |
 
 ## Rutinas del bloque (Mesociclo 2)
 
@@ -105,12 +106,12 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 ### Workout B
 | Ejercicio | Peso | Reps objetivo | RPE objetivo |
 |---|---|---|---|
-| OHP (Barbell) | 45 kg | 🚩 **3×7 con las TRES a ≤8** (3 intentos fallidos de 3×8) → sumar la 8ª rep de a una serie: 8/7/7 → 8/8/7 → 3×8 → recién ahí 47.5 | 7-8 |
-| Pendlay Row (Barbell) | 65 kg | consolidar 3×10 con la 3ª a ≤8 (24/08 quedó en 8.5) → 67.5 | 7-8 |
-| Leg Curl (Lying — femoral) | 42 kg | 3×11-12 (3×10 @ 7.5 sobrado el 24/08) | 8 |
-| Suitcase Carry | 22 kg | 3×55-60" (retomar el peso; el 24/08 volvió a 20) | 7-8 |
-| Weighted Dips | 15 kg | 3×11-12 (consolidó 3×10 @ ≤8 el 24/08) | 7-8 |
-| Hanging Leg Raise | BW | 3×13 o agregar lastre (cerró 3×12 @ 8 el 24/08) | 7-8 |
+| OHP (Barbell) | 45 kg | **8/7/7** (28/08 cerró 3×7 en cap) → 8/8/7 → 3×8 → recién ahí 47.5 | 7-8 |
+| Pendlay Row (Barbell) | 67.5 kg 🔼 | 3×8 (reset; consolidó 65 a 3×10 el 28/08) | 7-8 |
+| Leg Curl (Lying — femoral) | 42 kg | 3×12 (⚠️ no se hizo el 28/08 — retomar) | 8 |
+| Suitcase Carry | 22 kg | 3×55-60" (retomar el peso; lleva 3 sesiones en 20) | 7-8 |
+| Weighted Dips | 15 kg | consolidar 3×10 todas a ≤8 (28/08 la 3ª a 8.5) → 3×11-12 | 7-8 |
+| Hanging Leg Raise | BW | 3×12 consolidar (28/08 la 3ª a 8.5) → 3×13 | 7-8 |
 
 ### Extra (Domingo)
 | Ejercicio | Peso | Reps objetivo | RPE objetivo |

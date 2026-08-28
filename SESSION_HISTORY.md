@@ -15,6 +15,36 @@
 
 > Las de más abajo (Extra 02/08 y A 31/07) fueron **re-escalada pre-bloque** — fuera de progresión.
 
+## ✅ Workout B — Viernes 28/08/2026 (Meso 2, semana 4 — sesión 3)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Overhead Press (Barbell) | 45 kg | 7 / 7 / 7 | 7 / 7.5 / 8 |
+| Pendlay Row (Barbell) | 65 kg | 10 / 10 / 10 | 7.5 / 8 / 8 |
+| Lying Leg Curl | — | **NO SE HIZO** ⚠️ | — |
+| Suitcase Carry | 20 kg | 3 × 60" | time-based |
+| Triceps Dip (Weighted) | 15 kg | 10 / 10 / 10 | 8 / 8 / 8.5 |
+| Hanging Leg Raise | BW | 12 / 12 / 12 | 8 / 8 / 8.5 |
+
+🔗 hevy.com/workout/21d8e2f9-1f45-4b16-ba58-8d3986b0a6c9
+
+**Lecturas:**
+- **🏆 OHP DESTRABADO — el reajuste funcionó:** 45 kg × 3×7 @ 7/7.5/**8**, las tres en cap. Tras 3
+  sesiones fallidas persiguiendo 3×8 (9.5 → 8.5 → 9), bajar el piso a 7 reps resolvió el
+  estancamiento. **Siguiente paso: 8/7/7** (sumar la 8ª rep de a una serie) → 8/8/7 → 3×8 → 47.5.
+- **✅ PENDLAY ROW 65 CONSOLIDADO:** 3×10 @ 7.5/8/**8** — la 3ª bajó de 8.5 a 8. Rango cerrado en cap
+  → **subir a 67.5**, reset reps. Progresión del bloque: 50 → 67.5 kg.
+- **Dips 15:** 3×10 @ 8/8/**8.5** (el 24/08 fue 7.5/8/8 — mismo trabajo, RPE algo más alto).
+  Mantener 3×10 y consolidar.
+- **HLR:** 3×12 @ 8/8/8.5 (el 24/08 fue 3×12 @ 8 parejo). No sumó a 13; mantener.
+- **⚠️ Faltó Lying Leg Curl** — único trabajo de isquios del programa. Retomar la próxima B en
+  42 kg × 3×12.
+- **⚠️ Suitcase en 20 kg otra vez** (3ª sesión): ya lo hizo a **22 kg × 55"** el 19/08. Retomar 22.
+- **Contexto:** RPE levemente más alto que el lunes en dips y HLR con el mismo trabajo — normal en
+  semana 4 (acumulación previa al pico). Vigilar en la semana 5 (MRV).
+
+---
+
 ## ✅ Workout A — Miércoles 26/08/2026 (Meso 2, semana 4 — sesión 2)
 
 | Ejercicio | Peso | Reps | RPE |
