@@ -6,9 +6,13 @@
 
 ## Estado del mesociclo
 - **Mesociclo:** 2 (continúa la reconstrucción)
-- **Semana:** 4 EN CURSO (24-30/08, acumulación previa al pico) — B (24/08) ✅ · A (26/08) ✅ ·
-  B (28/08) ✅. Falta el **Extra** (dom 30/08). Semanas 1, 2 y 3 COMPLETAS ✅.
-  **Después: semana 5 (31/08-06/09) = PICO/MRV**, y semana 6 (07-13/09) = DELOAD.
+- **Semana:** 4 COMPLETA ✅ (B 24/08 · A 26/08 · B 28/08 · Extra 30/08). Semanas 1-3 también ✅.
+  **AHORA: semana 5 (31/08-06/09) = PICO / MRV**, patrón A·B·A·Extra. Después semana 6
+  (07-13/09) = **DELOAD** (~50% volumen, RPE 5-6) — no negociable.
+- **🚩 Fatiga acumulada (fin de semana 4):** el 30/08, **6 de 8 ejercicios** cerraron la 3ª serie
+  en 8.5; el leg extension retrocedió (3×13 → 3×12 con más RPE). Es lo esperable llegando al MRV.
+  **Criterio para la semana 5:** NO cazar PRs; consolidar lo que está a medio punto del cap;
+  priorizar calidad de ejecución sobre sumar reps. Si el RPE sigue trepando, adelantar el deload.
 - **🎯 Tema recurrente a vigilar:** al **sumar una rep**, la 3ª serie se va a RPE 9 (pasó con
   chin-up, pull-up, wrist, hammer). Ya lo corrigió en incline, chin-up y OHP bajando el rango y
   consolidando. Criterio: **el techo de reps no vale si se sale del cap** — mejor cortar reps.
@@ -80,12 +84,12 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 | Leg Curl (Lying — isquios, día B) | 42 kg | 24/08/2026 (3×10 @ 7.5 parejo y sobrado → sumar reps hacia 3×12) |
 | OH Single Carry | 22 kg (3×50") | 26/08/2026 (✅ subió a 22 kg → estirar hacia 60") |
 | Hammer Curl | 16 kg | 26/08/2026 (3×10 @ 7.5/8/8.5 — ya no recorta reps, pero la 3ª sigue fuera. Consolidar 3×10 todas a ≤8; si repite 8.5 → probar 15 kg) |
-| Bench Press | 72.5 kg | 23/08/2026 (🔥 estrenó limpio 3×8 @ 7.5/7.5/8 → sumar reps hacia 3×10) |
-| Pull-Up (Extra, SIEMPRE 1º) | BW | 23/08/2026 (⚠️ 3×7 → 3ª a RPE 9 aun yendo 1º. Volver a **3×6 limpio**, 2 sesiones en cap antes de 3×7) |
-| Lateral Raise (DB) | 12.5 kg | 23/08/2026 (3×14 @ ≤8 → 3×15, después +peso) |
-| Bicep Curl | 31.5 kg | 23/08/2026 (estrenó 3×10 @ 7/7.5/8 limpio → sumar reps) |
-| Tricep Pushdown | 27.5 kg | 23/08/2026 (3×10 en peso nuevo pero 3ª a 8.5 → consolidar todas a ≤8) |
-| Wrist Curl | 15 kg | 23/08/2026 (⚠️ 2ª seguida fuera del cap: 3×17 @ 9 tras 9.5. **Bajar a 3×15** y reconstruir a ≤8) |
+| Bench Press | 72.5 kg | 30/08/2026 (3×9 @ 7.5/8/8.5 → consolidar 3×9 → 3×10) |
+| Pull-Up (Extra, SIEMPRE 1º) | BW | 30/08/2026 (3×6 @ 7/7.5/8.5 — mejor que el 3×7, pero 3ª aún fuera. Repetir 3×6 buscando ≤8) |
+| Lateral Raise (DB) | 12.5 kg | 30/08/2026 (cerró 3×15 pero 3ª a 8.5 → consolidar antes de +peso) |
+| Bicep Curl | 31.5 kg | 30/08/2026 (3×11 @ hasta 8.5 → consolidar) |
+| Tricep Pushdown | 27.5 kg | 30/08/2026 (3×10 @ 7.5/8/8.5, idéntico al 23/08 — mantener y consolidar) |
+| Wrist Curl | 15 kg | 30/08/2026 (✅ el reajuste a 3×15 funcionó: 7/7.5/8 limpio → consolidar y sumar de a poco) |
 | Suitcase Carry | 22 kg | 28/08/2026 (⚠️ 3ª sesión en 20 kg; ya hizo 22×55" el 19/08 — retomar 22) |
 | Weighted Dips | 15 kg | 28/08/2026 (3×10 @ 8/8/8.5 — RPE algo más alto que el 24/08; mantener y consolidar) |
 | OHP (Barbell) | 45 kg | 28/08/2026 (🏆 DESTRABADO con el reajuste: 3×7 @ 7/7.5/8 en cap → **8/7/7** → 8/8/7 → 3×8 → 47.5) |
@@ -116,12 +120,12 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 ### Extra (Domingo)
 | Ejercicio | Peso | Reps objetivo | RPE objetivo |
 |---|---|---|---|
-| **Pull-Up — SIEMPRE 1º, ANTES del bench** | BW | ⚠️ volver a 3×6 con las tres a ≤8 (23/08 el 3×7 se fue a 9) → 3×7 tras 2 sesiones limpias | 7-8 |
-| Bench Press | 72.5 kg | 3×9-10 (estrenó 3×8 @ ≤8 el 23/08) | 7-8 |
-| Lateral Raise (DB) + Leg Extension | 12.5 kg / 84 kg | lateral 3×15 → +peso / leg ext 3×14 (no se hizo el 23/08) | 8 |
-| Bicep Curl | 31.5 kg | 3×11-12 (estrenó 3×10 @ ≤8 el 23/08) | 8 |
-| Tricep Pushdown | 27.5 kg | consolidar 3×10 todas a ≤8 (23/08 la 3ª a 8.5) | 8 |
-| Wrist Curl | 15 kg | ⚠️ BAJAR a 3×15 y reconstruir con las tres a ≤8 (2 sesiones seguidas a 9-9.5) | 8 |
+| **Pull-Up — SIEMPRE 1º, ANTES del bench** | BW | 3×6 con las tres a ≤8 (30/08 la 3ª a 8.5) → 3×7 tras 2 sesiones limpias | 7-8 |
+| Bench Press | 72.5 kg | consolidar 3×9 con la 3ª a ≤8 (30/08 quedó en 8.5) → 3×10 | 7-8 |
+| Lateral Raise (DB) + Leg Extension | 12.5 kg / 84 kg | lateral consolidar 3×15 @ ≤8 → +peso / leg ext 3×12-13 sin forzar (cuádriceps cargado) | 8 |
+| Bicep Curl | 31.5 kg | consolidar 3×11 todas a ≤8 (30/08 la 3ª a 8.5) → 3×12 | 8 |
+| Tricep Pushdown | 27.5 kg | consolidar 3×10 todas a ≤8 (2 sesiones seguidas con la 3ª a 8.5) | 8 |
+| Wrist Curl | 15 kg | 3×15-16 (✅ el reajuste entró en cap el 30/08) → sumar de a poco | 8 |
 | Core extra (opcional): Crunch 10 kg + Oblique Crunch | — | 3×15 (subió el 16/08) | 7-8 |
 
 > **Bench (Extra):** a 70 kg. El problema NO es el nº de reps (venía 3×10) sino el grinding:

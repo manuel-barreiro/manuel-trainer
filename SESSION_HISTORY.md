@@ -15,6 +15,42 @@
 
 > Las de más abajo (Extra 02/08 y A 31/07) fueron **re-escalada pre-bloque** — fuera de progresión.
 
+## ✅ Extra — Domingo 30/08/2026 (Meso 2, semana 4 — CIERRA semana 4)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| **Pull-Up (1º ✅)** | BW | 6 / 6 / 6 | 7 / 7.5 / 8.5 |
+| Bench Press (Barbell) | 72.5 kg | 9 / 9 / 9 | 7.5 / 8 / 8.5 |
+| Leg Extension | 84 kg | 12 / 12 / 12 | 8 / 8 / 8.5 |
+| Lateral Raise (DB) | 12.5 kg | 15 / 15 / 15 | 7.5 / 8 / 8.5 |
+| Bicep Curl (Barbell) | 31.5 kg | 11 / 11 / 11 | 7.5 / 8 / 8.5 |
+| Triceps Rope Pushdown | 27.5 kg | 10 / 10 / 10 | 7.5 / 8 / 8.5 |
+| Seated Palms Up Wrist Curl | 15 kg | 15 / 15 / 15 | 7 / 7.5 / **8** ✅ |
+| Crunch (Weighted) | 10 kg | 15 / 15 / 15 | 7 / 7.5 / 7.5 |
+| Oblique Crunch | BW | 15 / 15 / 15 | 7 / 7.5 / 7.5 |
+
+🔗 hevy.com/workout/480321aa-82fe-4a24-9d4e-b451f06878c0
+
+**Lecturas (cierra semana 4 — fatiga acumulada generalizada, esperable antes del pico):**
+- **🚩 PATRÓN DE FATIGA: 6 de 8 ejercicios terminaron la 3ª serie en exactamente 8.5** (pull-up,
+  bench, leg ext, lateral, bicep, tricep). No es un ejercicio puntual — es fatiga acumulada de fin
+  de semana 4. Ya se había anticipado el 28/08 (dips y HLR +0.5 RPE). **Contexto normal en la
+  antesala del MRV; el deload de la semana 6 NO es negociable.**
+- **✅ WRIST 15 × 3×15 LIMPIO:** 7/7.5/**8** — el reajuste funcionó (venía 9.5 → 9 con 3×17).
+  3er caso de estancamiento resuelto bajando el piso de reps (tras chin-up/hammer y OHP).
+  Consolidar 3×15 → sumar reps de a poco.
+- **Pull-Up 3×6:** mejoró (7/7.5/8.5 vs el 7.5/8.5/9 del 3×7) pero la 3ª aún fuera del cap.
+  Repetir 3×6 buscando las tres a ≤8 — probablemente salga con el deload encima.
+- **Bench 72.5 🔼:** sumó a 3×9 @ 7.5/8/8.5. Progresa bien, la 3ª a 8.5 es aceptable dado el
+  contexto → consolidar 3×9 → 3×10.
+- **Lateral 12.5:** cerró 3×15 (techo del rango) pero 3ª a 8.5 → consolidar antes de +peso.
+- **Bicep 31.5 🔼:** 3×11 (de 3×10) @ hasta 8.5.
+- **Tricep 27.5:** 3×10 @ 7.5/8/8.5 — idéntico al 23/08, no consolidó. Mantener.
+- **⚠️ Leg Extension retrocedió:** 3×12 @ 8/8/8.5 (el 26/08 fue 3×13 @ 8). Menos reps y más RPE =
+  cuádriceps cargado (fútbol + gym). Mantener 84 kg, sin forzar.
+
+---
+
 ## ✅ Workout B — Viernes 28/08/2026 (Meso 2, semana 4 — sesión 3)
 
 | Ejercicio | Peso | Reps | RPE |
