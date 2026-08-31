@@ -7,8 +7,9 @@
 ## Estado del mesociclo
 - **Mesociclo:** 2 (continúa la reconstrucción)
 - **Semana:** 4 COMPLETA ✅ (B 24/08 · A 26/08 · B 28/08 · Extra 30/08). Semanas 1-3 también ✅.
-  **AHORA: semana 5 (31/08-06/09) = PICO / MRV**, patrón A·B·A·Extra. Después semana 6
-  (07-13/09) = **DELOAD** (~50% volumen, RPE 5-6) — no negociable.
+  **AHORA: semana 5 (31/08-06/09) = PICO / MRV** — A (31/08) ✅, faltan B · A · Extra.
+  Después semana 6 (07-13/09) = **DELOAD** (~50% volumen, RPE 5-6) — no negociable.
+- **Post-deload (pendientes con el cuerpo fresco):** reintentar incline 3×12 → salto a 30 kg.
 - **🚩 Fatiga acumulada (fin de semana 4):** el 30/08, **6 de 8 ejercicios** cerraron la 3ª serie
   en 8.5; el leg extension retrocedió (3×13 → 3×12 con más RPE). Es lo esperable llegando al MRV.
   **Criterio para la semana 5:** NO cazar PRs; consolidar lo que está a medio punto del cap;
@@ -78,12 +79,12 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 
 | Ejercicio | Peso actual | Última act. |
 |---|---|---|
-| Incline DB Press | 25 kg | 26/08/2026 (⚠️ 12/12/10 @ 7.5/8.5/8.5 — no cerró el 3×12. Repetir con las tres a ≤8 antes de saltar a 30 kg) |
-| Chin-Up | BW | 26/08/2026 (🏆 2ª sesión limpia seguida 3×7 @ 7/8/8 → **avanzar a 3×8**) |
+| Incline DB Press | 25 kg | 31/08/2026 (2º intento fallido de 3×12, peor que el 1º: 12/12/9 @ 9/8.5. **Volver a 3×11**; reintentar 3×12 y el salto a 30 kg DESPUÉS del deload) |
+| Chin-Up | BW | 31/08/2026 (✅ 3×8 @ 7/8/8.5 — casi limpio, mucho mejor que el intento del 17/08 → consolidar 3×8) |
 | Leg Extension (cuádriceps — días A y Extra) | 84 kg | 26/08/2026 (3×13 @ 8/8/8 → consolidar y pasar a 3×14) |
 | Leg Curl (Lying — isquios, día B) | 42 kg | 24/08/2026 (3×10 @ 7.5 parejo y sobrado → sumar reps hacia 3×12) |
-| OH Single Carry | 22 kg (3×50") | 26/08/2026 (✅ subió a 22 kg → estirar hacia 60") |
-| Hammer Curl | 16 kg | 26/08/2026 (3×10 @ 7.5/8/8.5 — ya no recorta reps, pero la 3ª sigue fuera. Consolidar 3×10 todas a ≤8; si repite 8.5 → probar 15 kg) |
+| OH Single Carry | 22 kg | 31/08/2026 (⚠️ volvió a 20 kg; ya lo hizo a 22 el 26/08 — retomar 22) |
+| Hammer Curl | 16 kg (FIJO) | 31/08/2026 (🚩 5ª sesión fuera del cap y 4º cambio de peso: 15→17.5→16→17.5. **Fijar 16 × 3×10 y NO moverlo** hasta cerrarlo con las tres a ≤8) |
 | Bench Press | 72.5 kg | 30/08/2026 (3×9 @ 7.5/8/8.5 → consolidar 3×9 → 3×10) |
 | Pull-Up (Extra, SIEMPRE 1º) | BW | 30/08/2026 (3×6 @ 7/7.5/8.5 — mejor que el 3×7, pero 3ª aún fuera. Repetir 3×6 buscando ≤8) |
 | Lateral Raise (DB) | 12.5 kg | 30/08/2026 (cerró 3×15 pero 3ª a 8.5 → consolidar antes de +peso) |
@@ -100,12 +101,12 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 ### Workout A
 | Ejercicio | Peso | Reps objetivo | RPE objetivo |
 |---|---|---|---|
-| Incline DB Press | 25 kg | reintentar **3×12 con las TRES a ≤8** (26/08 quedó 12/12/10 @ 8.5) → ahí sí, 30 kg | 7-8 |
-| Chin-Up | BW | **3×8** 🔼 (26/08 cerró la 2ª sesión limpia de 3×7). Si la 3ª pide 9, cortar en 6-7 | 7-8 |
-| Leg Extension | 84 kg | 3×14 (26/08 hizo 3×13 @ 8) → hacia 3×15 | 8 |
-| OH Single Carry | 22 kg | 3×55-60" (llegó a 50" el 26/08) | 7-8 |
-| Hammer Curl | 16 kg | consolidar 3×10 con las TRES a ≤8 (26/08 la 3ª a 8.5) → si repite, probar 15 kg | 8 |
-| Ab Wheel | BW | 3×13-14 (3 sesiones seguidas en 3×12 @ ≤8 — hay margen sin usar) | 7-8 |
+| Incline DB Press | 25 kg | **3×11** (2 intentos fallidos de 3×12 con fatiga) → reintentar 3×12 post-deload | 7-8 |
+| Chin-Up | BW | consolidar **3×8** con la 3ª a ≤8 (31/08 quedó en 8.5) | 7-8 |
+| Leg Extension | 84 kg | 3×12-13 sin forzar (cuádriceps cargado; el 31/08 hizo leg curl en su lugar) | 8 |
+| OH Single Carry | 22 kg | 3×55-60" (retomar el peso; el 31/08 volvió a 20) | 7-8 |
+| Hammer Curl | 16 kg FIJO | 3×10 con las TRES a ≤8 — **no cambiar de peso** hasta cerrarlo | 8 |
+| Ab Wheel | BW | 3×14 (cerró 3×13 @ 8 parejo el 31/08) | 7-8 |
 
 ### Workout B
 | Ejercicio | Peso | Reps objetivo | RPE objetivo |

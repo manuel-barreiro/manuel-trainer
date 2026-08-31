@@ -15,6 +15,38 @@
 
 > Las de más abajo (Extra 02/08 y A 31/07) fueron **re-escalada pre-bloque** — fuera de progresión.
 
+## ✅ Workout A — Lunes 31/08/2026 (Meso 2, semana 5 — PICO/MRV, sesión 1)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Incline DB Press | 25 kg | 12 / 12 / **9** | 7.5 / **9** / **8.5** ⚠️ |
+| Chin-Up | BW | 8 / 8 / 8 🔼 | 7 / 8 / 8.5 |
+| Lying Leg Curl *(en lugar de Leg Extension)* | 42 kg | 12 / 12 / 12 | 7.5 / 8 / 8 |
+| OH Single Carry | 20 kg | 3 × 60" | time-based |
+| Hammer Curl | 17.5 kg | 8 / 8 / 8 | 8 / 8 / 8.5 |
+| Ab Wheel | BW | 13 / 13 / 13 🔼 | 8 / 8 / 8 |
+
+🔗 hevy.com/workout/4a2b884c-38b7-4db6-923c-6d61cc3e3f64
+
+**Lecturas:**
+- **⚠️ INCLINE 25 — 2º intento fallido del 3×12, y PEOR que el 1º:** hoy 12/12/**9** @ 7.5/**9**/8.5
+  (el 26/08 fue 12/12/10 @ 7.5/8.5/8.5). Menos reps totales y RPE más alto = el 3×12 no está
+  disponible con la fatiga del pico. **Decisión: volver a 3×11 (que sí cerró limpio el 21/08) y
+  dejar el intento de 3×12 / salto a 30 kg para DESPUÉS del deload**, con el cuerpo fresco.
+- **✅ CHIN-UP 3×8 🔼 casi limpio:** 7/8/**8.5**. Comparar con el intento apurado del 17/08
+  (7.5/8.5/9): esta vez, con las dos sesiones de 3×7 en cap como base, entró mucho mejor.
+  Falta medio punto → consolidar 3×8.
+- **✅ Ab Wheel 3×13 🔼:** 8/8/8 parejo y limpio (venía 3 sesiones clavado en 3×12) → 3×14.
+- **✅ Leg Curl 42 × 3×12 limpio:** hizo leg curl en vez de leg extension — recupera el que faltó
+  el 28/08. Cerró el rango @ ≤8 → subir peso tras el deload.
+- **🚩 HAMMER — 5ª sesión seguida fuera del cap Y 4º cambio de peso:** 15 (12/08) → 17.5 (17/08) →
+  16 (21, 26/08) → 17.5 (31/08). Hoy 3×8 @ 8/8/8.5. **El problema no es el peso, es que no se
+  queda en uno el tiempo suficiente para consolidar.** Fijar **16 kg × 3×10** y no moverlo hasta
+  cerrarlo con las tres a ≤8.
+- **⚠️ OH Carry volvió a 20 kg** (ya lo hizo a 22 el 26/08). Retomar 22.
+
+---
+
 ## ✅ Extra — Domingo 30/08/2026 (Meso 2, semana 4 — CIERRA semana 4)
 
 | Ejercicio | Peso | Reps | RPE |
