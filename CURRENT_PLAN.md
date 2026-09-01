@@ -29,9 +29,12 @@
 - **Recordatorio de orden:** en el Extra, **Pull-Up va PRIMERO** (el 02/08 lo hizo 2º y corrió hot).
 - **Historial:** Meso 1 cerrado 04/07 (RESUMEN en SESSION_HISTORY). Re-entrada post-gripe 21-26/7
   + mantenimiento Brasil 27-29/7 + re-escalada 31/7-2/8 (todo fuera de progresión).
-- **Rotación:** NINGUNA este bloque (es el bloque 2; la evidencia = rotar accesorios cada 2-5
-  bloques, no antes). Compuestos fijos. Reevaluar rotación al cierre del Meso 2/3 cuando algo se
-  estanque. Pendiente futuro (Meso 3): sumar rear delt/face pull (único hueco real).
+- **Rotación:** ninguna DENTRO del bloque (eso no cambia). Al **cierre del Meso 2** (post-deload,
+  ~13/09) aplica la regla auditada (Kassiano 2025, Baz-Valle 2019): **rotar 2-3 accesorios por
+  rutina**, misma función muscular, eligiendo de los ROTATION POOLS de `EXERCISE_LIBRARY.md`,
+  re-progresando desde el piso del rango. Compuestos y carries fijos. Un accesorio que viene
+  rindiendo a mitad de progresión puede quedarse si Manuel prefiere. Pendiente Meso 3: sumar
+  rear delt/face pull (único hueco real del programa).
 - **Meso 1 cerrado:** 25/05 → 04/07 (ver RESUMEN en SESSION_HISTORY).
 
 ### Calendario del mesociclo (semanas lun→dom)
@@ -95,6 +98,12 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 | Weighted Dips | 15 kg | 28/08/2026 (3×10 @ 8/8/8.5 — RPE algo más alto que el 24/08; mantener y consolidar) |
 | OHP (Barbell) | 45 kg | 28/08/2026 (🏆 DESTRABADO con el reajuste: 3×7 @ 7/7.5/8 en cap → **8/7/7** → 8/8/7 → 3×8 → 47.5) |
 | Pendlay Row (Barbell) | 65 kg → 67.5 | 28/08/2026 (✅ CONSOLIDÓ 3×10 @ 7.5/8/8 → subir a 67.5, reset reps) |
+
+> **RPE de aislamientos (regla auditada, EN PAUSA este bloque):** la skill prescribe última
+> serie de aislamientos a RPE 9-10 (0-1 RIR). Con la fatiga acumulada de la semana 4 (🚩 arriba)
+> y semana 5 = pico, **el resto del Meso 2 se mantiene el cap ≤8 en todas las series**.
+> La regla de 0-1 RIR en la última serie arranca con el **Meso 3**, con el cuerpo fresco
+> post-deload — y nunca habilita grindear ni sumar reps fuera del cap de progresión.
 
 ## Rutinas del bloque (Mesociclo 2)
 
