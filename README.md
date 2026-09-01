@@ -19,13 +19,19 @@ Coach de hipertrofia personal de Manuel (subagente de Claude Code + skill + dato
 > solo — ver Protocolo de arranque en la skill). Un chat suelto sin el repo no persiste
 > nada; siempre abrir la sesión sobre `manuel-trainer`.
 
+**Comandos rápidos (la UX del día a día):**
+| Comando | Qué hace |
+|---|---|
+| `/log` + paste de Hevy | Registra la sesión, actualiza pesos, te dice qué progresar. Acepta varios workouts juntos. |
+| `/hoy` | La sesión del día (A/B/Extra) con pesos, reps y RPE, lista para el gym. |
+| `/resumen` | Cómo venimos (tendencias por ejercicio) y hacia dónde vamos (deload, cierre, rotación, viajes). |
+
 **Flujo oficial (paste manual — sin Hevy Pro, decisión 01/09/2026):**
 1. Al terminar el workout en Hevy: Share → copiar como texto.
-2. Abrir `claude.ai/code`, elegir el repo `manuel-trainer`.
-3. Escribir *"registrá esta sesión"* y pegar el log. Sirve pegar varios workouts juntos
-   si se acumularon sesiones sin registrar.
-4. El agente parsea, actualiza los `.md` y te dice qué ajustar. Cada cambio se commitea
+2. Abrir `claude.ai/code`, elegir el repo `manuel-trainer`, escribir `/log` y pegar.
+3. El agente parsea, actualiza los `.md` y te dice qué ajustar. Cada cambio se commitea
    y pushea a `main`.
+4. Al día siguiente de gym: `/hoy`.
 5. Opcional: una rutina programada (*"/schedule un agente que cada mañana de gym me
    prepare la sesión del día"*) — no necesita la API: lee el plan del repo y te deja
    los pesos/reps objetivo listos antes de llegar al gym.
