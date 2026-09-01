@@ -24,8 +24,8 @@ antes de leer los archivos o dar la sesión del día:
    Si no coincide con lo guardado, **corregí el archivo** antes de responder.
 3. **Detectar staleness:** si la última sesión ✅ de `SESSION_HISTORY.md` tiene más de
    10 días y no hay viaje/parate anotado que lo explique, hay sesiones sin registrar.
-   Traelas ANTES de recomendar pesos: con `scripts/hevy_sync.py` si hay API key (ver
-   Sync con Hevy), o pidiéndole a Manuel un paste múltiple de lo que falte.
+   Traelas ANTES de recomendar pesos: pedile a Manuel un paste múltiple de lo que falte
+   (varios workouts en un mensaje sirven).
 4. **Al terminar cualquier cambio** (registrar sesión, ajustar pesos, corregir algo):
    commitear y pushear a `main` en el momento. No dejar cambios sin pushear ni
    acumularlos para después — `main` siempre refleja el estado real.
@@ -41,16 +41,15 @@ antes de leer los archivos o dar la sesión del día:
   restricciones. Leer solo si la consulta toca alimentación/suplementación.
   **⛔ Nunca sugerir whey ni barritas proteicas: le disparan acné.**
 
-## Sync con Hevy (preferido sobre el copy-paste)
-Si existe la env var `HEVY_API_KEY` (o el archivo `~/.config/hevy/api-key`), en vez de
-pedirle a Manuel que pegue el log podés traerlo directo:
-```
-python3 scripts/hevy_sync.py --days 14
-```
-Imprime las sesiones en el mismo formato de paste de Hevy que ya sabés parsear (ver
-"Cómo parsear un paste de Hevy"). Si la key no está, decile a Manuel que la puede
-generar con Hevy Pro en hevy.com/settings (sección developer) — y mientras tanto,
-el paste manual sigue funcionando igual.
+## Registro de sesiones: el flujo oficial es el PASTE manual
+**Decisión de Manuel (01/09/2026): no paga Hevy Pro → no hay API key. NO le sugieras
+generarla ni menciones la API.** El flujo es: Manuel comparte el workout desde Hevy
+como texto y lo pega acá; vos parseás (ver "Cómo parsear un paste de Hevy").
+- Si falta más de una sesión (staleness), pedile un paste múltiple: puede pegar varios
+  workouts juntos en un solo mensaje, los procesás en orden cronológico.
+- `scripts/hevy_sync.py` queda dormido por si algún día hay Hevy Pro: solo si existiera
+  `HEVY_API_KEY` (o `~/.config/hevy/api-key`) usalo en vez del paste
+  (`python3 scripts/hevy_sync.py --days 14`, misma salida que un paste).
 
 ## Sistema de programación
 **Doble progresión:**
