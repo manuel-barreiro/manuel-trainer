@@ -15,6 +15,34 @@
 
 > Las de más abajo (Extra 02/08 y A 31/07) fueron **re-escalada pre-bloque** — fuera de progresión.
 
+## ✅ Workout B — Miércoles 02/09/2026 (Meso 2, semana 5 — PICO/MRV, sesión 2)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Overhead Press (Barbell) | 45 kg | **8 / 7 / 7** 🔼 | 7.5 / 8 / 8 |
+| Pendlay Row (Barbell) | 67.5 kg 🔼 | 8 / 8 / 8 | 7.5 / 8 / 8 |
+| Leg Extension | 84 kg | 14 / 14 / 14 🔼 | 8 / 8 / 8 |
+| Suitcase Carry | 22 kg ✅ | 3 × 55" | time-based |
+| Triceps Dip (Weighted) | 15 kg | 10 / 10 / 10 | 7.5 / 8 / 8.5 |
+| Hanging Leg Raise | BW | 12 / 12 / 12 | 8 / 8.5 / 8.5 |
+
+🔗 hevy.com/workout/08cfaf81-7f6d-4345-a8eb-9e19c7758aa4
+
+**Lecturas (mejor sesión del pico — 3 progresiones limpias en semana de MRV):**
+- **✅ OHP 8/7/7 EXACTO:** @ 7.5/8/8, las tres en cap. Ejecutó el plan de sumar la rep de a una
+  serie tal cual. Siguiente escalón: **8/8/7** → 3×8 → 47.5.
+- **🔥 PENDLAY ROW 67.5 — nuevo récord limpio:** 3×8 @ 7.5/8/8 en peso nuevo, con fatiga de pico
+  encima. Progresión del bloque: **50 → 67.5 kg**. Sumar reps hacia 3×10.
+- **✅ LEG EXTENSION 84 × 3×14 🔼:** 8/8/8 parejo. **Revierte el retroceso del 30/08** (3×12 con
+  más RPE) — aquello era fatiga puntual, no estancamiento. Mejor marca del bloque → 3×15.
+- **✅ Suitcase 22 kg retomado:** 3×55". Estirar a 60".
+- **Dips 15:** 3×10 @ 7.5/8/**8.5** — 2ª seguida con la 3ª fuera del cap (el 24/08 sí había cerrado
+  en 7.5/8/8). Mantener 3×10; probablemente cierre solo con el deload.
+- **⚠️ HLR:** 3×12 @ 8/**8.5/8.5** (el 28/08 fue 8/8/8.5, el 24/08 3×12 @ 8 parejo). Tendencia de
+  RPE en aumento con el mismo trabajo = fatiga de fin de bloque. Mantener, no sumar.
+
+---
+
 ## ✅ Workout A — Lunes 31/08/2026 (Meso 2, semana 5 — PICO/MRV, sesión 1)
 
 | Ejercicio | Peso | Reps | RPE |
