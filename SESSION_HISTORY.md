@@ -15,6 +15,39 @@
 
 > Las de más abajo (Extra 02/08 y A 31/07) fueron **re-escalada pre-bloque** — fuera de progresión.
 
+## ✅ Workout A — Viernes 04/09/2026 (Meso 2, semana 5 — PICO/MRV, sesión 3)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Incline DB Press | 25 kg | 11 / 11 / 11 | 7 / 7.5 / 8.5 |
+| Chin-Up | BW | 8 / 8 / 8 | 7.5 / 8 / 8.5 |
+| Lying Leg Curl *(activación deliberada)* | 42 kg | 8 / 8 / 8 | 6 / 6 / 6 |
+| OH Single Carry | 22 kg ✅ | 3 × 55" | time-based |
+| Hammer Curl | 16 kg | 10 / 10 / 10 | 7.5 / 8 / 8.5 |
+| Ab Wheel | BW | 14 / 14 / 14 🔼 | 8 / 8 / 8.5 |
+
+🔗 hevy.com/workout/59e0fa76-5da1-498c-b863-fbea41afe658
+
+**Lecturas:**
+- **✅ Leg Curl como ACTIVACIÓN, no progresión:** 42 × 3×8 @ 6 parejo, deliberadamente liviano
+  porque juega al fútbol al día siguiente y no quería llegar cargado. **Autorregulación correcta
+  y comunicada** — no cuenta para la doble progresión.
+- **✅ Ab Wheel 3×14 🔼:** progresó de 13 (última a 8.5). Sigue siendo el accesorio más consistente.
+- **✅ OH Carry 22 kg retomado:** 3×55" → estirar a 60".
+- **✅ Se quedó en Hammer 16 kg** (respetó la consigna de no cambiar de peso).
+- **Incline 3×11:** 7/7.5/**8.5**. Sets 1-2 muy sobrados, pero la 3ª por encima (el 21/08 el mismo
+  3×11 salió 7.5/8/8). Es fatiga de pico, no retroceso real. Mantener 3×11 hasta el deload.
+- **Chin-Up 3×8:** 7.5/8/**8.5**, igual que el 31/08. Se sostiene el rango nuevo pero no consolida
+  con la fatiga acumulada. Mantener; debería cerrar solo post-deload.
+- **🚩 HAMMER — 6ª sesión con la 3ª a 8.5** (idéntico al 26/08, mismo peso y reps). Ahora que el
+  peso quedó fijo se confirma: **el problema es el piso de 10 reps**. Aplicar la receta que ya
+  funcionó 3 veces (OHP, chin-up, wrist): **bajar a 16 × 3×8** con las tres a ≤8, y sumar reps de
+  a una serie desde ahí.
+- **Contexto:** 4 de 6 ejercicios cerrando en 8.5 — perfil típico de fin de fase de acumulación.
+  El deload (07-13/09) llega en el momento justo.
+
+---
+
 ## ✅ Workout B — Miércoles 02/09/2026 (Meso 2, semana 5 — PICO/MRV, sesión 2)
 
 | Ejercicio | Peso | Reps | RPE |

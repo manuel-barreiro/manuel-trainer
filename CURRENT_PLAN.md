@@ -7,7 +7,8 @@
 ## Estado del mesociclo
 - **Mesociclo:** 2 (continúa la reconstrucción)
 - **Semana:** 4 COMPLETA ✅ (B 24/08 · A 26/08 · B 28/08 · Extra 30/08). Semanas 1-3 también ✅.
-  **AHORA: semana 5 (31/08-06/09) = PICO / MRV** — A (31/08) ✅ · B (02/09) ✅, faltan A · Extra.
+  **AHORA: semana 5 (31/08-06/09) = PICO / MRV** — A (31/08) ✅ · B (02/09) ✅ · A (04/09) ✅.
+  Falta el **Extra** (dom 06/09) y ahí cierra el pico.
   Después semana 6 (07-13/09) = **DELOAD** (~50% volumen, RPE 5-6) — no negociable.
 - **Post-deload (pendientes con el cuerpo fresco):** reintentar incline 3×12 → salto a 30 kg.
 - **🚩 Fatiga acumulada (fin de semana 4):** el 30/08, **6 de 8 ejercicios** cerraron la 3ª serie
@@ -83,11 +84,11 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 | Ejercicio | Peso actual | Última act. |
 |---|---|---|
 | Incline DB Press | 25 kg | 31/08/2026 (2º intento fallido de 3×12, peor que el 1º: 12/12/9 @ 9/8.5. **Volver a 3×11**; reintentar 3×12 y el salto a 30 kg DESPUÉS del deload) |
-| Chin-Up | BW | 31/08/2026 (✅ 3×8 @ 7/8/8.5 — casi limpio, mucho mejor que el intento del 17/08 → consolidar 3×8) |
+| Chin-Up | BW | 04/09/2026 (3×8 @ 7.5/8/8.5, igual que el 31/08 — sostiene el rango pero no consolida con fatiga de pico; debería cerrar post-deload) |
 | Leg Extension (cuádriceps — días A y Extra) | 84 kg | 02/09/2026 (✅ 3×14 @ 8/8/8 — mejor marca del bloque, revierte el bajón del 30/08 → 3×15) |
 | Leg Curl (Lying — isquios, día B) | 42 kg | 24/08/2026 (3×10 @ 7.5 parejo y sobrado → sumar reps hacia 3×12) |
-| OH Single Carry | 22 kg | 31/08/2026 (⚠️ volvió a 20 kg; ya lo hizo a 22 el 26/08 — retomar 22) |
-| Hammer Curl | 16 kg (FIJO) | 31/08/2026 (🚩 5ª sesión fuera del cap y 4º cambio de peso: 15→17.5→16→17.5. **Fijar 16 × 3×10 y NO moverlo** hasta cerrarlo con las tres a ≤8) |
+| OH Single Carry | 22 kg (3×55") | 04/09/2026 (✅ retomó 22 kg → estirar a 60") |
+| Hammer Curl | 16 kg (FIJO) | 04/09/2026 (🚩 6ª sesión con la 3ª a 8.5. Peso ya fijo → el problema es el piso de reps. **Bajar a 16 × 3×8** con las tres a ≤8 y sumar de a una serie) |
 | Bench Press | 72.5 kg | 30/08/2026 (3×9 @ 7.5/8/8.5 → consolidar 3×9 → 3×10) |
 | Pull-Up (Extra, SIEMPRE 1º) | BW | 30/08/2026 (3×6 @ 7/7.5/8.5 — mejor que el 3×7, pero 3ª aún fuera. Repetir 3×6 buscando ≤8) |
 | Lateral Raise (DB) | 12.5 kg | 30/08/2026 (cerró 3×15 pero 3ª a 8.5 → consolidar antes de +peso) |
@@ -114,8 +115,8 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 | Chin-Up | BW | consolidar **3×8** con la 3ª a ≤8 (31/08 quedó en 8.5) | 7-8 |
 | Leg Extension | 84 kg | 3×12-13 sin forzar (cuádriceps cargado; el 31/08 hizo leg curl en su lugar) | 8 |
 | OH Single Carry | 22 kg | 3×55-60" (retomar el peso; el 31/08 volvió a 20) | 7-8 |
-| Hammer Curl | 16 kg FIJO | 3×10 con las TRES a ≤8 — **no cambiar de peso** hasta cerrarlo | 8 |
-| Ab Wheel | BW | 3×14 (cerró 3×13 @ 8 parejo el 31/08) | 7-8 |
+| Hammer Curl | 16 kg FIJO | **3×8** con las TRES a ≤8 (bajar piso: 6 sesiones trabadas en 3×10) → sumar de a una serie | 8 |
+| Ab Wheel | BW | 3×15 (cerró 3×14 el 04/09) | 7-8 |
 
 ### Workout B
 | Ejercicio | Peso | Reps objetivo | RPE objetivo |
