@@ -39,10 +39,12 @@
   3×11 salió 7.5/8/8). Es fatiga de pico, no retroceso real. Mantener 3×11 hasta el deload.
 - **Chin-Up 3×8:** 7.5/8/**8.5**, igual que el 31/08. Se sostiene el rango nuevo pero no consolida
   con la fatiga acumulada. Mantener; debería cerrar solo post-deload.
-- **🚩 HAMMER — 6ª sesión con la 3ª a 8.5** (idéntico al 26/08, mismo peso y reps). Ahora que el
-  peso quedó fijo se confirma: **el problema es el piso de 10 reps**. Aplicar la receta que ya
-  funcionó 3 veces (OHP, chin-up, wrist): **bajar a 16 × 3×8** con las tres a ≤8, y sumar reps de
-  a una serie desde ahí.
+- **Hammer 16 × 3×10 @ 7.5/8/8.5 — SIN problema (corrección):** en la lectura inicial se marcó como
+  estancamiento y se propuso bajar a 3×8. **Error de criterio:** se le aplicó el cap de compuestos
+  (≤8) a un **aislamiento**. Manuel reportó que lo sintió bien, los sets 1-2 van a 7.5/8 con margen
+  y 8.5 en la última serie de un aislamiento es aceptable (la regla auditada incluso prescribe
+  9-10 ahí, hoy en pausa por el pico). Lo que faltó las semanas previas fue **consistencia de peso**
+  (4 cambios), no rango. Peso ya fijo en 16 → **sumar reps a 3×11-12**.
 - **Contexto:** 4 de 6 ejercicios cerrando en 8.5 — perfil típico de fin de fase de acumulación.
   El deload (07-13/09) llega en el momento justo.
 

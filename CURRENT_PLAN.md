@@ -88,7 +88,7 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 | Leg Extension (cuádriceps — días A y Extra) | 84 kg | 02/09/2026 (✅ 3×14 @ 8/8/8 — mejor marca del bloque, revierte el bajón del 30/08 → 3×15) |
 | Leg Curl (Lying — isquios, día B) | 42 kg | 24/08/2026 (3×10 @ 7.5 parejo y sobrado → sumar reps hacia 3×12) |
 | OH Single Carry | 22 kg (3×55") | 04/09/2026 (✅ retomó 22 kg → estirar a 60") |
-| Hammer Curl | 16 kg (FIJO) | 04/09/2026 (🚩 6ª sesión con la 3ª a 8.5. Peso ya fijo → el problema es el piso de reps. **Bajar a 16 × 3×8** con las tres a ≤8 y sumar de a una serie) |
+| Hammer Curl | 16 kg | 04/09/2026 (3×10 @ 7.5/8/8.5 y **se sintió bien**. Es AISLAMIENTO: 8.5 en la última es aceptable, no un problema. Sets 1-2 con margen → **sumar reps a 3×11-12**) |
 | Bench Press | 72.5 kg | 30/08/2026 (3×9 @ 7.5/8/8.5 → consolidar 3×9 → 3×10) |
 | Pull-Up (Extra, SIEMPRE 1º) | BW | 30/08/2026 (3×6 @ 7/7.5/8.5 — mejor que el 3×7, pero 3ª aún fuera. Repetir 3×6 buscando ≤8) |
 | Lateral Raise (DB) | 12.5 kg | 30/08/2026 (cerró 3×15 pero 3ª a 8.5 → consolidar antes de +peso) |
@@ -115,7 +115,7 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 | Chin-Up | BW | consolidar **3×8** con la 3ª a ≤8 (31/08 quedó en 8.5) | 7-8 |
 | Leg Extension | 84 kg | 3×12-13 sin forzar (cuádriceps cargado; el 31/08 hizo leg curl en su lugar) | 8 |
 | OH Single Carry | 22 kg | 3×55-60" (retomar el peso; el 31/08 volvió a 20) | 7-8 |
-| Hammer Curl | 16 kg FIJO | **3×8** con las TRES a ≤8 (bajar piso: 6 sesiones trabadas en 3×10) → sumar de a una serie | 8 |
+| Hammer Curl | 16 kg | 3×11-12 (sumar reps; sets 1-2 a 7.5/8 con margen, 8.5 en la última es OK en aislamiento) | 8 |
 | Ab Wheel | BW | 3×15 (cerró 3×14 el 04/09) | 7-8 |
 
 ### Workout B
