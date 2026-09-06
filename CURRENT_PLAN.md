@@ -6,15 +6,18 @@
 
 ## Estado del mesociclo
 - **Mesociclo:** 2 (continúa la reconstrucción)
-- **Semana:** 4 COMPLETA ✅ (B 24/08 · A 26/08 · B 28/08 · Extra 30/08). Semanas 1-3 también ✅.
-  **AHORA: semana 5 (31/08-06/09) = PICO / MRV** — A (31/08) ✅ · B (02/09) ✅ · A (04/09) ✅.
-  Falta el **Extra** (dom 06/09) y ahí cierra el pico.
-  Después semana 6 (07-13/09) = **DELOAD** (~50% volumen, RPE 5-6) — no negociable.
-- **Post-deload (pendientes con el cuerpo fresco):** reintentar incline 3×12 → salto a 30 kg.
-- **🚩 Fatiga acumulada (fin de semana 4):** el 30/08, **6 de 8 ejercicios** cerraron la 3ª serie
-  en 8.5; el leg extension retrocedió (3×13 → 3×12 con más RPE). Es lo esperable llegando al MRV.
-  **Criterio para la semana 5:** NO cazar PRs; consolidar lo que está a medio punto del cap;
-  priorizar calidad de ejecución sobre sumar reps. Si el RPE sigue trepando, adelantar el deload.
+- **Semana:** 🏁 **FASE DE ACUMULACIÓN COMPLETA** (semanas 1-5, 03/08 → 06/09). Semana 5 (pico/MRV)
+  cerrada: A 31/08 · B 02/09 · A 04/09 · Extra 06/09.
+  **AHORA: semana 6 (07-13/09) = DELOAD**, patrón B·A·B·Extra: mismas rutinas y frecuencia,
+  **~50% del volumen (2 series en vez de 3), -10-20% de peso, RPE 5-6, lejos del fallo.**
+  El deload NO es opcional — es lo que permite que el Meso 3 progrese.
+- **Post-deload (con el cuerpo fresco):** reintentar incline 3×12 → salto a 30 kg · cerrar la 3ª
+  serie de chin-up (3×8), pull-up (3×6), bench (3×9) y dips (3×10) a ≤8 · subir peso en leg curl
+  (42) y bicep (31.5), que cerraron rango.
+- **✅ Criterio compuesto vs aislamiento (validado el 06/09):** en **compuestos** el cap ≤8 es
+  estricto (ir al fallo cuesta fatiga y rinde poco). En **aislamientos** la última serie a 8.5
+  es productiva — el cap estricto los estaba frenando de gusto. Al soltarlo, los 4 aislamientos
+  del Extra sumaron reps en una sola sesión.
 - **🎯 Tema recurrente a vigilar:** al **sumar una rep**, la 3ª serie se va a RPE 9 (pasó con
   chin-up, pull-up, wrist, hammer). Ya lo corrigió en incline, chin-up y OHP bajando el rango y
   consolidando. Criterio: **el techo de reps no vale si se sale del cap** — mejor cortar reps.
@@ -86,15 +89,15 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 | Incline DB Press | 25 kg | 31/08/2026 (2º intento fallido de 3×12, peor que el 1º: 12/12/9 @ 9/8.5. **Volver a 3×11**; reintentar 3×12 y el salto a 30 kg DESPUÉS del deload) |
 | Chin-Up | BW | 04/09/2026 (3×8 @ 7.5/8/8.5, igual que el 31/08 — sostiene el rango pero no consolida con fatiga de pico; debería cerrar post-deload) |
 | Leg Extension (cuádriceps — días A y Extra) | 84 kg | 02/09/2026 (✅ 3×14 @ 8/8/8 — mejor marca del bloque, revierte el bajón del 30/08 → 3×15) |
-| Leg Curl (Lying — isquios, día B) | 42 kg | 24/08/2026 (3×10 @ 7.5 parejo y sobrado → sumar reps hacia 3×12) |
+| Leg Curl (Lying — isquios, día B) | 42 kg | 06/09/2026 (✅ CERRÓ 3×12 @ 7.5/7.5/8 → subir peso post-deload) |
 | OH Single Carry | 22 kg (3×55") | 04/09/2026 (✅ retomó 22 kg → estirar a 60") |
 | Hammer Curl | 16 kg | 04/09/2026 (3×10 @ 7.5/8/8.5 y **se sintió bien**. Es AISLAMIENTO: 8.5 en la última es aceptable, no un problema. Sets 1-2 con margen → **sumar reps a 3×11-12**) |
-| Bench Press | 72.5 kg | 30/08/2026 (3×9 @ 7.5/8/8.5 → consolidar 3×9 → 3×10) |
-| Pull-Up (Extra, SIEMPRE 1º) | BW | 30/08/2026 (3×6 @ 7/7.5/8.5 — mejor que el 3×7, pero 3ª aún fuera. Repetir 3×6 buscando ≤8) |
-| Lateral Raise (DB) | 12.5 kg | 30/08/2026 (cerró 3×15 pero 3ª a 8.5 → consolidar antes de +peso) |
-| Bicep Curl | 31.5 kg | 30/08/2026 (3×11 @ hasta 8.5 → consolidar) |
-| Tricep Pushdown | 27.5 kg | 30/08/2026 (3×10 @ 7.5/8/8.5, idéntico al 23/08 — mantener y consolidar) |
-| Wrist Curl | 15 kg | 30/08/2026 (✅ el reajuste a 3×15 funcionó: 7/7.5/8 limpio → consolidar y sumar de a poco) |
+| Bench Press | 72.5 kg | 06/09/2026 (3×9 @ 7.5/8/8.5, igual que el 30/08 — sostuvo en el pico; consolidar post-deload → 3×10) |
+| Pull-Up (Extra, SIEMPRE 1º) | BW | 06/09/2026 (3×6 @ 7/8/8.5 — sostuvo en el pico; la 3ª debería cerrar a ≤8 post-deload) |
+| Lateral Raise (DB) | 12.5 kg | 06/09/2026 (🔼 3×16 @ 7.5/8/8.5 → seguir sumando; +peso cuando el rango tope) |
+| Bicep Curl | 31.5 kg | 06/09/2026 (🔼 CERRÓ 3×12 @ hasta 8.5 → subir peso post-deload) |
+| Tricep Pushdown | 27.5 kg | 06/09/2026 (🔼 3×11 @ 8/8/8.5 → seguir sumando hacia 3×12) |
+| Wrist Curl | 15 kg | 06/09/2026 (🔼 3×16 @ 7.5/8/8.5 → seguir sumando hacia 3×20) |
 | Suitcase Carry | 22 kg (3×55") | 02/09/2026 (✅ retomó 22 kg → estirar a 60") |
 | Weighted Dips | 15 kg | 02/09/2026 (3×10 @ 7.5/8/8.5 — 2ª seguida con la 3ª fuera; mantener, cerrará con el deload) |
 | OHP (Barbell) | 45 kg | 02/09/2026 (✅ 8/7/7 @ 7.5/8/8 exacto y en cap → **8/8/7** → 3×8 → 47.5) |

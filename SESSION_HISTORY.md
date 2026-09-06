@@ -15,6 +15,37 @@
 
 > Las de más abajo (Extra 02/08 y A 31/07) fueron **re-escalada pre-bloque** — fuera de progresión.
 
+## ✅ Extra — Domingo 06/09/2026 (Meso 2, semana 5 — 🏁 CIERRA EL PICO y la fase de acumulación)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| **Pull-Up (1º ✅)** | BW | 6 / 6 / 6 | 7 / 8 / 8.5 |
+| Bench Press (Barbell) | 72.5 kg | 9 / 9 / 9 | 7.5 / 8 / 8.5 |
+| Lying Leg Curl | 42 kg | 12 / 12 / 12 | 7.5 / 7.5 / 8 |
+| Lateral Raise (DB) | 12.5 kg | 16 / 16 / 16 🔼 | 7.5 / 8 / 8.5 |
+| Bicep Curl (Barbell) | 31.5 kg | 12 / 12 / 12 🔼 | 7.5 / 8 / 8.5 |
+| Triceps Rope Pushdown | 27.5 kg | 11 / 11 / 11 🔼 | 8 / 8 / 8.5 |
+| Seated Palms Up Wrist Curl | 15 kg | 16 / 16 / 16 🔼 | 7.5 / 8 / 8.5 |
+| Crunch (Weighted) | 10 kg | 15 / 15 / 15 | 7 / 7.5 / 8 |
+| Oblique Crunch | BW | 15 / 15 / 15 | 7 / 7 / 7.5 |
+
+🔗 hevy.com/workout/49f2a189-5037-43ee-afe2-38e558a8a568
+
+**Lecturas (los 4 aislamientos progresaron — validación del criterio compuesto/aislamiento):**
+- **🔥 LOS CUATRO AISLAMIENTOS SUMARON REPS:** lateral 15→16, bicep 11→12, tricep 10→11,
+  wrist 15→16, todos con la última a 8.5. Se les dio permiso explícito de apretar (tras la
+  corrección del 05/09) y respondieron todos. **Confirma la distinción:** en aislamientos el 8.5
+  final es productivo; el cap ≤8 estricto los estaba frenando de gusto.
+- **Compuestos sostenidos sin degradarse:** Pull-Up 3×6 y Bench 72.5 × 3×9, ambos idénticos al
+  30/08 (7/8/8.5 y 7.5/8/8.5). En la semana de máxima fatiga del bloque, **mantener** es el
+  resultado correcto. Ninguno consolidó la 3ª a ≤8, y eso ya no se fuerza: cierra con el deload.
+- **Leg Curl 42 × 3×12 @ 7.5/7.5/8 limpio.** Rango cerrado → subir peso post-deload.
+- **Core:** crunch y oblique estables en 3×15 @ ≤8.
+
+**🏁 FIN DE LA FASE DE ACUMULACIÓN (semanas 1-5, 03/08 → 06/09).** Mañana arranca el DELOAD.
+
+---
+
 ## ✅ Workout A — Viernes 04/09/2026 (Meso 2, semana 5 — PICO/MRV, sesión 3)
 
 | Ejercicio | Peso | Reps | RPE |
