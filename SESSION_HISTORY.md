@@ -15,6 +15,33 @@
 
 > Las de más abajo (Extra 02/08 y A 31/07) fueron **re-escalada pre-bloque** — fuera de progresión.
 
+## ✅ Workout B — Lunes 07/09/2026 (Meso 2, semana 6 — 🔽 DELOAD, sesión 1)
+
+| Ejercicio | Peso | Series × reps | RPE |
+|---|---|---|---|
+| Overhead Press (Barbell) | 37.5 kg | 2 × 7 | 6 / 6 |
+| Pendlay Row (Barbell) | 55 kg | 2 × 8 | 6 / 6 |
+| Leg Extension | 70 kg | 2 × 12 | 6 / 6 |
+| Suitcase Carry | 17.5 kg | 2 × 55" | time-based |
+| Triceps Dip (Weighted) | 10 kg | 2 × 10 | 6 / 7 |
+| Hanging Leg Raise | BW | 2 × 10 | 7 / 7.5 |
+
+🔗 hevy.com/workout/828a65ae-94f1-4b60-b089-50950fcd6363
+
+**Lecturas (deload ejecutado correctamente):**
+- **✅ Volumen y RPE en target:** 2 series en todo (50% del volumen) y RPE 6 parejo en los 5
+  ejercicios con carga. Es exactamente lo que el deload pide.
+- **Nota de carga:** se usaron los pesos de la prescripción original (-15/20%) en vez del **-10%**
+  que fija la auditoría (Bell 2025). Manuel ya había entrenado cuando se corrigió. **Sin impacto
+  real**: en una semana cuya función es disipar fatiga, ir 8% más liviano no cambia el resultado
+  — el volumen y el RPE son las palancas, y ambas quedaron bien. Aplicar -10% en las 3 sesiones
+  restantes del deload (A 09/09, B 11/09, Extra 13/09).
+- **HLR 2×10 @ 7/7.5:** apenas por encima del target 5-6, pero es peso corporal (para bajar RPE
+  habría que recortar reps). Menor; si se quiere ajustar, 2×8.
+- Sin señales de fatiga residual: el RPE 6 con -18% de carga indica que la descarga entró bien.
+
+---
+
 ## ✅ Extra — Domingo 06/09/2026 (Meso 2, semana 5 — 🏁 CIERRA EL PICO y la fase de acumulación)
 
 | Ejercicio | Peso | Reps | RPE |

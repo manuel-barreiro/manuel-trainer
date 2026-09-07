@@ -8,9 +8,12 @@
 - **Mesociclo:** 2 (continúa la reconstrucción)
 - **Semana:** 🏁 **FASE DE ACUMULACIÓN COMPLETA** (semanas 1-5, 03/08 → 06/09). Semana 5 (pico/MRV)
   cerrada: A 31/08 · B 02/09 · A 04/09 · Extra 06/09.
-  **AHORA: semana 6 (07-13/09) = DELOAD**, patrón B·A·B·Extra: mismas rutinas y frecuencia,
-  **~50% del volumen (2 series en vez de 3), -10-20% de peso, RPE 5-6, lejos del fallo.**
-  El deload NO es opcional — es lo que permite que el Meso 3 progrese.
+  **AHORA: semana 6 (07-13/09) = DELOAD** — B (07/09) ✅, faltan A · B · Extra.
+  Patrón B·A·B·Extra: mismas rutinas y frecuencia, **~50% del volumen (2 series en vez de 3),
+  carga -10% (NO -20%: Bell 2025 vía auditoría 10/06), RPE 5-6, lejos del fallo.**
+  Función del deload = **gestión de fatiga**, no supercompensación (Coleman 2024: el deload
+  programado no mejora la hipertrofia per se). Es un default revisable, y en este bloque está
+  justificado por fatiga documentada (caída de rendimiento en semanas 4-5) y manejo de riesgo.
 - **Post-deload (con el cuerpo fresco):** reintentar incline 3×12 → salto a 30 kg · cerrar la 3ª
   serie de chin-up (3×8), pull-up (3×6), bench (3×9) y dips (3×10) a ≤8 · subir peso en leg curl
   (42) y bicep (31.5), que cerraron rango.
