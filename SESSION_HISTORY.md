@@ -15,6 +15,33 @@
 
 > Las de más abajo (Extra 02/08 y A 31/07) fueron **re-escalada pre-bloque** — fuera de progresión.
 
+## ✅ Workout A — Viernes 11/09/2026 (Meso 2, semana 6 — 🔽 DELOAD, sesión 2)
+
+| Ejercicio | Peso | Series × reps | RPE |
+|---|---|---|---|
+| Incline DB Press | 24 kg | 2 × 10 | 7 / 7 |
+| Chin-Up | BW | 2 × 6 | 7 / 7 |
+| Leg Extension | 77 kg | 2 × 10 | 6 / 6 |
+| OH Single Carry | 20 kg | 2 × 50" | time-based |
+| Hammer Curl | 15 kg | 2 × 9 | 6 / 6 |
+| Ab Wheel | BW | 2 × 10 | 6 / 6 |
+
+🔗 hevy.com/workout/02643506-2340-4b36-8cca-b64601d7d732
+
+**Contexto:** se salteó el miércoles 09/09 por resfrío + dolor de garganta (decisión correcta:
+faltar en deload tiene costo cero y evita estirar el cuadro). Sin fiebre.
+
+**Lecturas (deload ejecutado bien; señal temprana de descarga):**
+- **✅ Volumen en target:** 2 series en todo. RPE 6 en 4 de 6 ejercicios.
+- **🟢 Señal de recuperación:** **Incline 24 × 2×10 @ 7/7 parejo**. En el pico (31/08) el 25 ×
+  3×12 se le iba a 9 y tenía que recortar la 3ª. Con la fatiga bajando, un peso apenas menor
+  entra a RPE 7 sin esfuerzo. **Chin-Up 2×6 @ 7/7** igual (en el bloque la 3ª serie vivía en 8.5).
+- **Cargas apenas por encima de lo prescrito** (incline 24 vs 22.5, leg ext 77 vs 75) — irrelevante:
+  el RPE quedó en 6-7 y el volumen a la mitad, que es lo que define el deload.
+- Incline y chin-up a RPE 7 (target 5-6): un poco arriba, pero con 2 series no acumula fatiga.
+
+---
+
 ## ✅ Workout B — Lunes 07/09/2026 (Meso 2, semana 6 — 🔽 DELOAD, sesión 1)
 
 | Ejercicio | Peso | Series × reps | RPE |

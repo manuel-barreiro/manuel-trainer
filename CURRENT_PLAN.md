@@ -8,7 +8,8 @@
 - **Mesociclo:** 2 (continúa la reconstrucción)
 - **Semana:** 🏁 **FASE DE ACUMULACIÓN COMPLETA** (semanas 1-5, 03/08 → 06/09). Semana 5 (pico/MRV)
   cerrada: A 31/08 · B 02/09 · A 04/09 · Extra 06/09.
-  **AHORA: semana 6 (07-13/09) = DELOAD** — B (07/09) ✅, faltan A · B · Extra.
+  **AHORA: semana 6 (07-13/09) = DELOAD** — B (07/09) ✅ · A (11/09) ✅ · (09/09 salteado por
+  resfrío, sin costo). Falta el **Extra (dom 13/09)** y ahí 🏁 **CIERRA EL MESO 2**.
   Patrón B·A·B·Extra: mismas rutinas y frecuencia, **~50% del volumen (2 series en vez de 3),
   carga -10% (NO -20%: Bell 2025 vía auditoría 10/06), RPE 5-6, lejos del fallo.**
   Función del deload = **gestión de fatiga**, no supercompensación (Coleman 2024: el deload
