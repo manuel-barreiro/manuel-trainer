@@ -8,8 +8,14 @@
 - **Mesociclo:** 2 (continúa la reconstrucción)
 - **Semana:** 🏁 **FASE DE ACUMULACIÓN COMPLETA** (semanas 1-5, 03/08 → 06/09). Semana 5 (pico/MRV)
   cerrada: A 31/08 · B 02/09 · A 04/09 · Extra 06/09.
-  **AHORA: semana 6 (07-13/09) = DELOAD** — B (07/09) ✅ · A (11/09) ✅ · (09/09 salteado por
-  resfrío, sin costo). Falta el **Extra (dom 13/09)** y ahí 🏁 **CIERRA EL MESO 2**.
+  **🏁 MESOCICLO 2 CERRADO (03/08 → 13/09).** Deload completo (B 07/09 · A 11/09 · Extra 13/09;
+  el 09/09 se salteó por resfrío, sin costo). RPE 6 parejo en la última sesión = fatiga disipada.
+  **Ver RESUMEN completo en SESSION_HISTORY.md.**
+
+  **➡️ PRÓXIMO PASO: diseñar el Mesociclo 3 JUNTO a Manuel.** Condicionante clave: el **viaje a
+  USA (05-24/10, ~3 semanas sin gym)** deja solo ~3 semanas hasta la partida (14/09 → 04/10).
+  Opciones a conversar: (a) bloque corto de 3 semanas que cierre antes del viaje, con el viaje
+  como break largo; (b) arrancar bloque completo y cortarlo. Definir con él antes de programar.
   Patrón B·A·B·Extra: mismas rutinas y frecuencia, **~50% del volumen (2 series en vez de 3),
   carga -10% (NO -20%: Bell 2025 vía auditoría 10/06), RPE 5-6, lejos del fallo.**
   Función del deload = **gestión de fatiga**, no supercompensación (Coleman 2024: el deload

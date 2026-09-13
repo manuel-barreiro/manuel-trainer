@@ -15,6 +15,94 @@
 
 > Las de más abajo (Extra 02/08 y A 31/07) fueron **re-escalada pre-bloque** — fuera de progresión.
 
+## 🏁 RESUMEN — MESOCICLO 2 (03/08/2026 → 13/09/2026)
+
+**Estructura real:** 5 semanas de acumulación + 1 de deload. Precedido por re-entrada post-gripe
+(21-26/07), mantenimiento en Brasil (27-29/07) y re-escalada (31/07-02/08).
+**Contexto:** arrancó tras ~1 mes sin cargar pesado (gripe con fiebre + dos viajes). La re-escalada
+a los pesos del Meso 1 tomó **una sola semana**.
+
+### Progresión por ejercicio (inicio → cierre del bloque)
+
+**Compuestos**
+| Ejercicio | Inicio (03/08) | Cierre | Nota |
+|---|---|---|---|
+| **Pendlay Row** | 57.5 kg | **67.5 kg × 3×8** 🔥 | +10 kg. Estrenó peso limpio 4 veces seguidas. El mejor del bloque. |
+| Weighted Dips | 10 kg | **15 kg × 3×10** | +5 kg |
+| Bench Press | 70 kg × 3×10 | **72.5 kg × 3×9** | +2.5 kg |
+| OHP | 42.5 kg | **45 kg × 8/7/7** | +2.5 kg. Destrabado bajando el piso de reps |
+| Incline DB | 22 kg | **25 kg × 3×11** | +3 kg. El 3×12 (→30 kg) quedó pendiente |
+| Chin-Up | 3×6 | **3×8** | +2 reps/serie |
+| Pull-Up | 3×6 | **3×6** | Sostenido; se resolvió el problema de orden |
+
+**Accesorios y carries**
+| Ejercicio | Inicio | Cierre |
+|---|---|---|
+| **Leg Curl** | 28 kg | **42 kg × 3×12** (+14 kg) |
+| **Leg Extension** | 70 kg | **84 kg × 3×14** (+14 kg) |
+| **Bicep Curl** | 22.5 kg | **31.5 kg × 3×12** (+9 kg) |
+| Tricep Pushdown | 22.5 kg | **27.5 kg × 3×11** (+5 kg) |
+| Hammer Curl | 12.5 kg | **16 kg × 3×10** (+3.5 kg) |
+| Wrist Curl | 12.5 kg | **15 kg × 3×16** (+2.5 kg) |
+| Lateral Raise | 12 kg | **12.5 kg × 3×16** |
+| OH Single Carry | 18 kg × 50" | **22 kg × 55"** |
+| Suitcase Carry | 20 kg × 50" | **22 kg × 55"** |
+| Ab Wheel | 3×10 | **3×14** |
+| Hanging Leg Raise | 3×10 | **3×12** |
+
+### Lo que aprendimos (aplicable al Meso 3)
+
+1. **🏆 El orden importa más que el peso (Pull-Up).** 1º/fresco = 3ª serie a RPE 8. 2º/después del
+   bench = RPE 9. Cinco sesiones, patrón perfecto. **Regla fija: pull-up primero, siempre.**
+2. **🔑 Bajar el piso de reps destraba estancamientos.** Funcionó 3 de 3 veces: OHP (3 intentos
+   fallidos de 3×8 → cerró con 3×7 y subida de a una serie), chin-up (3×8 se iba a 9 → 3×7 limpio
+   → después 3×8) y wrist curl (3×17 a 9.5 → 3×15 limpio). **Cuando algo se traba, no es el peso:
+   es que el rango no deja margen.**
+3. **⚖️ Compuesto ≠ aislamiento.** Aplicar el cap ≤8 estricto a los aislamientos los frenaba de
+   gusto. Al soltarlo (06/09), **los 4 aislamientos del Extra sumaron reps en una sola sesión**.
+   Compuestos: cap ≤8 estricto. Aislamientos: la última serie a 8.5 es productiva.
+4. **😴 La fatiga se lee en el RPE, y el descanso la borra rápido.** Entrenar sáb+dom+lun → RPE 9.5.
+   Con **un** día de descanso → máximo 8.5 y récord en row. **Regla: ≥1 día entre sesiones de gym.**
+5. **📌 Consistencia de peso.** El hammer curl no progresó en 6 sesiones — no por el peso, sino por
+   **4 cambios de peso** en el medio. Fijar y consolidar.
+6. **Autorregulación:** saltear pierna con piernas cargadas de fútbol, bajar a activación antes de
+   un partido, faltar resfriado en deload. Todas decisiones correctas y comunicadas.
+
+### Pendientes para el Meso 3
+- **Incline 25 → cerrar 3×12** y saltar a **30 kg** (2 intentos fallidos, ambos con fatiga de pico).
+- **Cerrar la 3ª serie a ≤8** en: chin-up 3×8, pull-up 3×6, bench 3×9, dips 3×10.
+- **Subir peso** en leg curl (42 cerrado) y bicep curl (31.5 cerrado).
+- **Row 67.5** → sumar reps hacia 3×10 → 70 kg.
+- ➕ **Sumar rear delt / face pull** — único hueco real del programa.
+- 🔄 **Rotar 2-3 accesorios por rutina** (Kassiano 2025, Baz-Valle 2019: costo cero, mejora adherencia).
+- ⚠️ **Viaje USA 05-24/10** — condiciona la estructura del bloque.
+
+---
+
+## ✅ Extra — Domingo 13/09/2026 (Meso 2, semana 6 — 🔽 DELOAD, 🏁 CIERRA EL MESOCICLO 2)
+
+| Ejercicio | Peso | Series × reps | RPE |
+|---|---|---|---|
+| Pull-Up (1º) | BW | 2 × 5 | 6 / 7 |
+| Bench Press (Barbell) | 65 kg | 2 × 8 | 6 / 6 |
+| Lying Leg Curl | 42 kg | 2 × 10 | 6 / 6 |
+| Lateral Raise (DB) | 10 kg | 2 × 13 | 6 / 6 |
+| Bicep Curl (Barbell) | 29 kg | 2 × 10 | 6 / 6 |
+| Triceps Rope Pushdown | 25 kg | 2 × 10 | 6 / 7 |
+| Seated Palms Up Wrist Curl | 12.5 kg | 2 × 14 | 6 / 6 |
+| Crunch (Weighted) | 10 kg | 3 × 15 | 7 / 7 / 7.5 |
+| Oblique Crunch | BW | 3 × 15 | 7 / 7 / 7 |
+
+🔗 hevy.com/workout/887db334-9c11-4741-ab65-0eb232a4e923
+
+**Lecturas:**
+- **✅ Deload ejecutado perfecto:** RPE **6 parejo** en los 7 ejercicios con carga, 2 series en todo.
+  Es el mejor indicador de que la fatiga se disipó — el mismo trabajo que en el pico se sentía a 8.5.
+- Core quedó en 3 series (en vez de 2): irrelevante, es bajo costo de fatiga.
+- **Deload completo:** 3 de 4 sesiones (el miércoles 09/09 se salteó por resfrío, sin costo).
+
+---
+
 ## ✅ Workout A — Viernes 11/09/2026 (Meso 2, semana 6 — 🔽 DELOAD, sesión 2)
 
 | Ejercicio | Peso | Series × reps | RPE |
