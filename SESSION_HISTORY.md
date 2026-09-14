@@ -15,6 +15,45 @@
 
 > Las de más abajo (Extra 02/08 y A 31/07) fueron **re-escalada pre-bloque** — fuera de progresión.
 
+# BLOQUE ACTUAL — Mesociclo 3 (arrancó 14/09/2026)
+
+## ✅ Workout A — Lunes 14/09/2026 (Meso 3, semana 1 — sesión 1; estrena rotación)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Incline DB Press | 24 kg | 12 / 12 / 12 | 7.5 / 8 / **9** ⚠️ |
+| Chin-Up | BW | 8 / 8 / 8 | 7 / 8 / **9.5** 🚩 |
+| Leg Extension | 84 kg | 14 / **10** / 13 | 7.5 / 8 / 8 |
+| OH Single Carry | 22 kg | 3 × 55" | time-based |
+| 🆕 Seated Incline Curl (DB) | 12 kg | 10 / 10 / 10 | 6 / 7 / 8 |
+| Ab Wheel | BW | 15 / 15 / 15 🔼 | 7.5 / 7.5 / 8 |
+| 🆕 Rear Delt Reverse Fly (DB) | 7.5 kg | 15 / 15 / 15 | 7 / 7 / 7.5 |
+
+🔗 hevy.com/workout/5b679c2c-8c25-4747-b73f-5f8e70a4ecda
+
+**Rotación estrenada:** Hammer Curl → Seated Incline Curl · ➕ Rear Delt Fly (cubre el hueco de
+deltoide posterior) · Ab Wheel se mantuvo (venía rindiendo; Manuel vetó el Cable Crunch).
+
+**Lecturas:**
+- **✅ Los 3 cambios entraron bien:** Incline Curl 12 kg × 3×10 @ 6/7/8 (calibración perfecta, RPE
+  escalonado) · Rear Delt 7.5 kg × 3×15 @ ≤7.5 (liviano y controlado, como corresponde a un patrón
+  nuevo) · Ab Wheel 3×15 🔼 limpio.
+- **🚩 LOS COMPUESTOS NO MEJORARON POST-DELOAD — contra lo esperado:**
+  - **Chin-Up 3×8 → 3ª a RPE 9.5.** Es el valor **más alto del historial** en ese ejercicio
+    (en el pico vivía en 8.5). Con la fatiga disipada debería haber cerrado a ≤8.
+  - **Incline: usó 24 kg (no 25) y aun así la 3ª a 9.** Menos peso, más RPE que en el bloque.
+  - **Leg Extension irregular:** 14/**10**/13 — la 2ª serie cayó 4 reps sin razón aparente.
+- **Hipótesis a chequear (NO concluir con una sola sesión):**
+  1. **Residuo del resfrío** — estuvo enfermo el 09/09, apenas 5 días antes.
+  2. **Volumen de sesión mayor:** pasó de 6 a **7 ejercicios** (rear delt nuevo + curl), con los
+     nuevos ubicados antes del ab wheel.
+  3. Variabilidad normal de una sesión.
+  4. El deload tuvo 3 sesiones en vez de 4 (faltó el 09/09 por resfrío).
+- **Acción:** preguntar cómo se siente (resfrío/sueño). Si la próxima A repite el patrón, bajar
+  chin-up a **3×7** y revisar si el volumen extra de la sesión está pasando factura.
+
+---
+
 ## 🏁 RESUMEN — MESOCICLO 2 (03/08/2026 → 13/09/2026)
 
 **Estructura real:** 5 semanas de acumulación + 1 de deload. Precedido por re-entrada post-gripe
