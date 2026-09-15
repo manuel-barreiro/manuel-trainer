@@ -17,10 +17,11 @@
   - Semana 2: 21/09 → 27/09 (B·A·B·Extra)
   - Semana 3: 28/09 → 04/10 (A·B·A·Extra) — cierre, sin deload (el viaje lo cubre)
 
-  **🚩 A VIGILAR:** la 1ª sesión post-deload (14/09) **no mostró la mejora esperada en compuestos**
-  (chin-up 3ª a 9.5 = récord histórico; incline con menos peso y más RPE). Hipótesis: residuo del
-  resfrío del 09/09, volumen de sesión mayor (6→7 ejercicios), o variabilidad. Si se repite en la
-  próxima A: bajar chin-up a 3×7 y revisar el volumen agregado.
+  **Nota sobre la 1ª sesión (14/09):** el RPE alto en chin-up (3ª a 9.5) tuvo **causa contextual
+  confirmada por Manuel**: resfrío residual del 09/09 + día de trabajo pesado. El incline en 24 kg
+  fue por **falta de mancuernas de 25**, no retroceso, y el leg extension "irregular" fue un
+  mislog (fueron 3×14 limpios). **No hay señal de estancamiento.** Reintentar chin-up 3×8
+  descansado antes de tocar el rango.
 - **🎯 Objetivos del Meso 3:** cerrar incline 3×12 → salto a **30 kg** · cerrar la 3ª serie a ≤8 en
   chin-up (3×8), pull-up (3×6), bench (3×9) y dips (3×10) · subir peso en leg curl (42) y bicep
   (31.5), que cerraron rango · consolidar los 3 movimientos nuevos.
@@ -101,9 +102,9 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 
 | Ejercicio | Peso actual | Última act. |
 |---|---|---|
-| Incline DB Press | 24-25 kg | 14/09/2026 (⚠️ 24 kg × 3×12 pero 3ª a **9**. Usó 24, no 25. Consolidar 24 × 3×12 a ≤8 → volver a 25 → 3×12 → 30 kg) |
-| Chin-Up | BW | 14/09/2026 (🚩 3×8 @ 7/8/**9.5** — récord histórico de RPE, PEOR que en el pico pese al deload. Si repite: bajar a 3×7) |
-| Leg Extension (cuádriceps — días A y Extra) | 84 kg | 14/09/2026 (irregular: 14/**10**/13 @ ≤8 — la 2ª serie cayó 4 reps. Mantener 84 × 3×14 y observar) |
+| Incline DB Press | 25 kg (24 si no hay) | 14/09/2026 (3×12 en 24 kg — usó 24 porque **no había 25 disponibles**. Cuando haya 25: 3×12 → salto a 30 kg) |
+| Chin-Up | BW | 14/09/2026 (3×8 @ 7/8/9.5 — RPE alto pero con causa: cansancio + resfrío residual. **Reintentar 3×8 descansado** antes de bajar el rango) |
+| Leg Extension (cuádriceps — días A y Extra) | 84 kg | 14/09/2026 (✅ 3×14 @ 7.5/8/8 limpio — iguala la mejor marca → 3×15) |
 | Leg Curl (Lying — isquios, día B) | 42 kg | 06/09/2026 (✅ CERRÓ 3×12 @ 7.5/7.5/8 → subir peso post-deload) |
 | OH Single Carry | 22 kg (3×55") | 14/09/2026 (estable en 55" → estirar a 60") |
 | ~~Hammer Curl~~ → **Seated Incline Curl (DB)** | 12 kg | 14/09/2026 (🆕 rotado en el Meso 3. Calibración perfecta: 3×10 @ 6/7/8 → sumar reps hacia 3×12) |
