@@ -17,6 +17,35 @@
 
 # BLOQUE ACTUAL — Mesociclo 3 (arrancó 14/09/2026)
 
+## ✅ Workout B — Miércoles 16/09/2026 (Meso 3, semana 1 — sesión 2)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| **Overhead Press (Barbell)** | 45 kg | **8 / 8 / 8** 🏆 | 7.5 / 8 / 8 |
+| Pendlay Row (Barbell) | 67.5 kg | 10 / 10 / 10 🔼 | 7.5 / 8 / 8.5 |
+| Lying Leg Curl (Machine) | 49 / 49 / 42 kg 🔼 | 10 / 10 / 10 | 7 / 7.5 / 7.5 |
+| Suitcase Carry | 22 kg | 3 × 55" | time-based |
+| Triceps Dip (Weighted) | 15 kg | 10 / 10 / 10 | 7.5 / 8 / 8.5 |
+| Hanging Leg Raise | BW | 12 / 12 / 12 | 7.5 / 8 / 8.5 |
+
+🔗 hevy.com/workout/49e692ee-c432-4518-afc4-50ec58ed971a
+
+**Lecturas:**
+- **🏆 OHP 45 × 3×8 CERRADO — objetivo de 5 semanas cumplido.** 7.5/8/**8**, las tres en cap.
+  Historial del intento: 15/08 @ 9.5 ❌ · 19/08 @ 8.5 ❌ · 24/08 @ 9 ❌ · 28/08 bajó a 3×7 limpio ✅
+  · 02/09 8/7/7 ✅ · **16/09 3×8 ✅**. La receta de bajar el piso de reps y sumar **de a una serie**
+  funcionó de punta a punta. → **subir a 47.5 kg**, reset de reps.
+- **Pendlay Row 67.5 🔼:** cerró el rango 3×10 (de 3×8) pero la 3ª a 8.5 → consolidar 3×10 a ≤8
+  antes de 70. Sigue siendo su mejor ejercicio (50 → 67.5 kg desde el Meso 1).
+- **Leg Curl: NO rotó a seated** — hizo lying (¿no había máquina seated?). Subió a **49 kg** (de 42):
+  10/10 @ 7/7.5 con margen, bajó a 42 en la 3ª. El 49 está disponible → consolidar **49 × 3×10**.
+- **🚩 Dips 15 — 3ª sesión seguida con la 3ª a 8.5** (28/08, 02/09, 16/09), y ahora **post-deload**,
+  así que la fatiga ya no lo explica. Umbral de estancamiento alcanzado. **Aplicar la receta del
+  OHP: bajar a 15 × 3×8 con las tres a ≤8** y sumar de a una serie.
+- **HLR 3×12 @ hasta 8.5** — estable. **Suitcase quedó en 55"** otra vez (falta el escalón a 60").
+
+---
+
 ## ✅ Workout A — Lunes 14/09/2026 (Meso 3, semana 1 — sesión 1; estrena rotación)
 
 | Ejercicio | Peso | Reps | RPE |
