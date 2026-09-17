@@ -43,10 +43,14 @@
 - **Recordatorio de orden:** en el Extra, **Pull-Up va PRIMERO** (el 02/08 lo hizo 2º y corrió hot).
 - **Historial:** Meso 1 cerrado 04/07 (RESUMEN en SESSION_HISTORY). Re-entrada post-gripe 21-26/7
   + mantenimiento Brasil 27-29/7 + re-escalada 31/7-2/8 (todo fuera de progresión).
-- **🔄 Rotación aplicada al abrir el Meso 3 (14/09), día A:** Hammer Curl → **Seated Incline Curl**
-  · ➕ **Rear Delt Reverse Fly** (cubre el hueco de deltoide posterior) · Ab Wheel se mantuvo
-  (venía rindiendo; Manuel vetó el Cable Crunch). **Pendiente: rotar los días B y Extra** al
-  armarlos. Ninguna rotación DENTRO del bloque. Compuestos y carries fijos.
+- **🔄 Rotación del Meso 3:**
+  - **Día A (14/09):** Hammer Curl → **Seated Incline Curl** · ➕ **Rear Delt Reverse Fly** (cubre
+    el hueco de deltoide posterior) · Ab Wheel se mantuvo (venía rindiendo; vetó el Cable Crunch).
+  - **Día B: SIN rotación posible.** Solo tiene 2 accesorios y ambos están bloqueados — no hay
+    máquina de seated leg curl en el gym (⛔ confirmado 17/09) y el Cable Crunch está vetado.
+    Ambos vienen progresando igual, así que mantenerlos es válido por regla.
+  - **Día Extra: pendiente de rotar** al armarlo (bíceps, tríceps y lateral tienen pool disponible).
+  - Ninguna rotación DENTRO del bloque. Compuestos y carries fijos.
 - **Meso 1 cerrado:** 25/05 → 04/07 (ver RESUMEN en SESSION_HISTORY).
 
 ### Calendario del mesociclo (semanas lun→dom)
@@ -105,7 +109,7 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 | Incline DB Press | 25 kg (24 si no hay) | 14/09/2026 (3×12 en 24 kg — usó 24 porque **no había 25 disponibles**. Cuando haya 25: 3×12 → salto a 30 kg) |
 | Chin-Up | BW | 14/09/2026 (3×8 @ 7/8/9.5 — RPE alto pero con causa: cansancio + resfrío residual. **Reintentar 3×8 descansado** antes de bajar el rango) |
 | Leg Extension (cuádriceps — días A y Extra) | 84 kg | 14/09/2026 (✅ 3×14 @ 7.5/8/8 limpio — iguala la mejor marca → 3×15) |
-| Leg Curl (Lying — isquios, día B) | 49 kg | 16/09/2026 (🔼 subió de 42; 49 × 10/10 @ 7/7.5 con margen, 3ª bajó a 42 → consolidar 49 × 3×10. *No rotó a seated — confirmar si hay máquina*) |
+| Leg Curl (Lying — isquios, día B) | 49 kg | 16/09/2026 (🔼 subió de 42; 49 × 10/10 @ 7/7.5 con margen, 3ª bajó a 42 → consolidar 49 × 3×10. ⛔ **No hay máquina seated en el gym** — el lying queda fijo) |
 | OH Single Carry | 22 kg (3×55") | 14/09/2026 (estable en 55" → estirar a 60") |
 | ~~Hammer Curl~~ → **Seated Incline Curl (DB)** | 12 kg | 14/09/2026 (🆕 rotado en el Meso 3. Calibración perfecta: 3×10 @ 6/7/8 → sumar reps hacia 3×12) |
 | 🆕 Rear Delt Reverse Fly (DB) | 7.5 kg | 14/09/2026 (estreno: 3×15 @ 7/7/7.5, controlado → consolidar técnica antes de subir) |

@@ -166,11 +166,15 @@ Slot curl día A (hoy Hammer Curl, énfasis braquial/braquiorradial):
 Slot core anti-extensión (A — hoy Ab Wheel):
   → Cable Crunch · Plank con lastre
 
-Slot pierna en superset (hoy Leg Extension en A/Extra + Leg Curl en B):
-  → alternar énfasis Leg Extension ↔ Leg Curl (lying/seated) entre bloques
+Slot pierna en superset (hoy Leg Extension en A/Extra + Lying Leg Curl en B):
+  → ⛔ NO HAY máquina de SEATED LEG CURL en el gym (confirmado 17/09/2026) — no proponerla.
+  → Sin alternativa disponible hoy: el slot queda FIJO. El Lying Leg Curl viene progresando
+    (42 → 49 kg), así que mantenerlo es lo correcto. Revisar si el gym suma equipamiento.
 
 Slot core día B (hoy Hanging Leg Raise):
-  → Cable Crunch · Ab Wheel (swap con el slot de A)
+  → Cable Crunch ⛔ VETADO por Manuel (14/09/2026 — no le gusta) · Ab Wheel (ocupado en el slot de A)
+  → Sin alternativa viable hoy: el slot queda FIJO. Candidatos a explorar si se quiere rotar:
+    Dragon Flag, Toes-to-Bar, Decline Sit-Up con lastre.
 
 Slot bíceps Extra (hoy Barbell Curl):
   → Incline Dumbbell Curl · Preacher Curl (machine) · Cable Curl
