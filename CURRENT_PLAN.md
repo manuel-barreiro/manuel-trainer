@@ -13,7 +13,7 @@
   del **viaje a USA (05-24/10)**, que hará de break/deload largo. A la vuelta (25/10): re-entrada
   + Meso 4. *(Estructura asumida por el agente el 14/09 y aún no confirmada explícitamente por
   Manuel — validar.)*
-  - Semana 1: 14/09 → 20/09 (A·B·A·Extra) — A ✅ 14/09 · B ✅ 16/09
+  - Semana 1: 14/09 → 20/09 (A·B·A·Extra) — A ✅ 14/09 · B ✅ 16/09 · A ✅ 18/09
   - Semana 2: 21/09 → 27/09 (B·A·B·Extra)
   - Semana 3: 28/09 → 04/10 (A·B·A·Extra) — cierre, sin deload (el viaje lo cubre)
 
@@ -88,7 +88,7 @@
 ### Calendario Meso 3 (lun→dom) — bloque corto 14/09 → 04/10
 | Semana | Fechas | Patrón · foco |
 |---|---|---|
-| **1** | 14/09 → 20/09 | A ✅ (14/09) · B ✅ (16/09) · A · Extra — acumulación |
+| **1** | 14/09 → 20/09 | A ✅ (14/09) · B ✅ (16/09) · A ✅ (18/09) · Extra — acumulación |
 | **2** | 21/09 → 27/09 | B·A·B·Extra — acumulación |
 | **3** | 28/09 → 04/10 | A·B·A·Extra — **cierre del bloque** (sin deload propio) |
 | 🏖️ OFF | 05/10 → 24/10 | **VIAJE USA (~3 semanas, SIN gym)** = break/deload largo |
@@ -106,14 +106,14 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 
 | Ejercicio | Peso actual | Última act. |
 |---|---|---|
-| Incline DB Press | 25 kg (24 si no hay) | 14/09/2026 (3×12 en 24 kg — usó 24 porque **no había 25 disponibles**. Cuando haya 25: 3×12 → salto a 30 kg) |
-| Chin-Up | BW | 14/09/2026 (3×8 @ 7/8/9.5 — RPE alto pero con causa: cansancio + resfrío residual. **Reintentar 3×8 descansado** antes de bajar el rango) |
-| Leg Extension (cuádriceps — días A y Extra) | 84 kg | 14/09/2026 (✅ 3×14 @ 7.5/8/8 limpio — iguala la mejor marca → 3×15) |
+| Incline DB Press | 25 kg | 18/09/2026 (🚩 3er intento de 3×12 @ 25: completó las 3 series pero 3ª a **9**. Hipótesis: el salto 25→30 es +20%, demasiado. **Verificar si hay 27.5 kg** en el rack) |
+| Chin-Up | BW | 18/09/2026 (✅ 3×8 @ 7.5/8/8.5 descansado — confirma que el 9.5 del 14/09 era fatiga, no estancamiento. Falta ½ punto → consolidar 3×8 → 3×9) |
+| Leg Extension (cuádriceps — días A y Extra) | 84 → **90 kg** | 18/09/2026 (✅ CERRÓ 3×15 @ 7.5/8/8.5 → subir peso, reset reps) |
 | Leg Curl (Lying — isquios, día B) | 49 kg | 16/09/2026 (🔼 subió de 42; 49 × 10/10 @ 7/7.5 con margen, 3ª bajó a 42 → consolidar 49 × 3×10. ⛔ **No hay máquina seated en el gym** — el lying queda fijo) |
-| OH Single Carry | 22 kg (3×55") | 14/09/2026 (estable en 55" → estirar a 60") |
-| ~~Hammer Curl~~ → **Seated Incline Curl (DB)** | 12 kg | 14/09/2026 (🆕 rotado en el Meso 3. Calibración perfecta: 3×10 @ 6/7/8 → sumar reps hacia 3×12) |
-| 🆕 Rear Delt Reverse Fly (DB) | 7.5 kg | 14/09/2026 (estreno: 3×15 @ 7/7/7.5, controlado → consolidar técnica antes de subir) |
-| Ab Wheel | BW | 14/09/2026 (🔼 3×15 @ 7.5/7.5/8 limpio → 3×16) |
+| OH Single Carry | 22 kg (3×55") | 18/09/2026 (⚠️ viene alternando 22×55" ↔ 20×60" = cargas equivalentes, sin progresión real. **FIJAR 22 kg** y progresar solo tiempo: 55" → 60") |
+| ~~Hammer Curl~~ → **Seated Incline Curl (DB)** | 12.5 kg | 18/09/2026 (🔼 subió peso Y reps en su 2ª sesión: 3×11 @ 7.5/8/9 → seguir sumando hacia 3×12) |
+| Rear Delt Reverse Fly (DB) | 7.5 → **10 kg** | 18/09/2026 (✅ consolidó 3×15 @ ≤8 en su 2ª sesión → subir a 10, reset reps) |
+| Ab Wheel | BW | 18/09/2026 (🔼 3×16 — el accesorio más consistente del programa → 3×17) |
 | Bench Press | 72.5 kg | 06/09/2026 (3×9 @ 7.5/8/8.5, igual que el 30/08 — sostuvo en el pico; consolidar post-deload → 3×10) |
 | Pull-Up (Extra, SIEMPRE 1º) | BW | 06/09/2026 (3×6 @ 7/8/8.5 — sostuvo en el pico; la 3ª debería cerrar a ≤8 post-deload) |
 | Lateral Raise (DB) | 12.5 kg | 06/09/2026 (🔼 3×16 @ 7.5/8/8.5 → seguir sumando; +peso cuando el rango tope) |

@@ -17,6 +17,41 @@
 
 # BLOQUE ACTUAL — Mesociclo 3 (arrancó 14/09/2026)
 
+## ✅ Workout A — Viernes 18/09/2026 (Meso 3, semana 1 — sesión 3, CIERRA semana 1)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Incline DB Press | 25 kg | 12 / 12 / 12 | 7.5 / 8 / **9** |
+| Chin-Up | BW | 8 / 8 / 8 | 7.5 / 8 / 8.5 |
+| Leg Extension | 84 kg | 15 / 15 / 15 🔼 | 7.5 / 8 / 8.5 |
+| OH Single Carry | 20 kg | 3 × 60" | *"duro, llegué con lo justo"* |
+| Seated Incline Curl (DB) | 12.5 kg 🔼 | 11 / 11 / 11 🔼 | 7.5 / 8 / 9 |
+| Ab Wheel | BW | 16 / 16 / 16 🔼 | 8 / 8.5 / 8.5 |
+| Rear Delt Reverse Fly (DB) | 7.5 kg | 15 / 15 / 15 | 7.5 / 7.5 / 8 |
+
+🔗 hevy.com/workout/d21581bb-3c0d-42a1-8146-a63104385fed
+
+**Lecturas:**
+- **✅ CHIN-UP: hipótesis del cansancio CONFIRMADA.** Mismo 3×8, pero descansado: la 3ª pasó de
+  **9.5 (14/09, con resfrío + día heavy)** a **8.5 hoy**. El lunes no era estancamiento, era fatiga
+  extra-gimnasio. **No bajar el rango.** Falta medio punto para consolidar 3×8 → 3×9.
+- **✅ Leg Extension 84 × 3×15 CERRADO** (de 3×14) → **subir peso** (~90 kg), reset de reps.
+- **🔼 Seated Incline Curl 12.5 × 3×11:** subió peso Y reps en la 2ª sesión del ejercicio. Progresa
+  más rápido que el hammer al que reemplazó. La 3ª a 9 es aceptable en aislamiento.
+- **🔼 Ab Wheel 3×16** (de 3×15) — sigue siendo el accesorio más consistente del programa.
+- **✅ Rear Delt 7.5 × 3×15 @ ≤8 consolidado** en su 2ª sesión → subir a 10 kg, reset reps.
+- **🚩 INCLINE: 3er intento del 3×12 a 25 kg, y el mejor — pero la 3ª sigue en 9.**
+  Historial: 26/08 12/12/**10** @ 8.5 · 31/08 12/12/**9** @ 9 · **18/09 3×12 @ 9**. Completó las 3
+  series por primera vez, pero fuera del cap. **Hipótesis nueva: el problema es el salto siguiente.**
+  25 → 30 kg es **+20%**, un escalón enorme para mancuernas. **Verificar si el rack tiene 27.5 kg**
+  (+10%): si existe, subir ahí resuelve el atasco. Si no, considerar 25 × 3×12 como techo del
+  ejercicio y progresar por otra vía.
+- **⚠️ OH Carry — esquema inconsistente:** hoy hizo **20 kg × 60"** y reportó *"duro, llegué con lo
+  justo"*. Viene alternando entre 22×55" y 20×60" — son cargas equivalentes, así que no hay
+  progresión real. **Fijar 22 kg × 55"** y progresar SOLO tiempo desde ahí (55" → 60").
+
+---
+
 ## ✅ Workout B — Miércoles 16/09/2026 (Meso 3, semana 1 — sesión 2)
 
 | Ejercicio | Peso | Reps | RPE |
