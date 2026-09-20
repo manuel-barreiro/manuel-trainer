@@ -17,6 +17,45 @@
 
 # BLOQUE ACTUAL — Mesociclo 3 (arrancó 14/09/2026)
 
+## ✅ Extra — Domingo 20/09/2026 (Meso 3, semana 1 — CIERRA semana 1; estrena rotación del Extra)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Pull-Up (1º) | BW | 6 / 6 / 6 | **9** / 8 / 8.5 ⚠️ |
+| Bench Press (Barbell) | 72.5 kg | 9 / 9 / 9 | 7.5 / 8 / 8.5 |
+| Leg Extension | 91 kg 🔼 | 10 / 10 / 10 | 7.5 / 7.5 / 7.5 |
+| Lateral Raise (DB) | 12.5 kg | 16 / 16 / 16 | 7.5 / 8.5 / 8.5 |
+| 🆕 Preacher Curl (Barbell) | 31.5 / 29 / 29 kg | 10 / 10 / 10 | 8 / 8 / 8 |
+| 🆕 Overhead Triceps Ext (Cable) | 30 kg | 12 / 12 / 12 | 7.5 / 7 / 8 |
+| Seated Palms Up Wrist Curl | 15 kg | 17 / 17 / 17 | 7 / 8 / **9** |
+| Crunch (Weighted) | 10 kg | 15 / 15 / 15 | 6 / 7 / 7.5 |
+| Oblique Crunch | BW | 15 / 15 / 15 | 6 / 7 / 7.5 |
+
+🔗 hevy.com/workout/9beaa964-b998-440b-94df-1dcbeabf1224
+
+**Rotación del Extra estrenada:** Barbell Curl → **Preacher Curl** · Tricep Pushdown → **Overhead
+Triceps Extension (cable)**. Lateral Raise y Wrist Curl se mantuvieron.
+
+**Lecturas:**
+- **✅ Leg Extension 91 kg × 3×10 @ 7.5 parejo** — estrenó el peso nuevo y salió **sobrado**.
+  Sumar reps con confianza hacia 3×15.
+- **✅ Los 2 nuevos calibraron bien:** Preacher 29 kg × 3×10 @ 8 parejo (arrancó en 31.5 y ajustó
+  a 29 — buen autoajuste) · **Overhead Tricep 30 kg × 3×12 @ 7.5/7/8**, con MÁS peso que el
+  pushdown al que reemplazó (27.5) y sobrado. Ambos listos para progresar.
+- **⚠️ PULL-UP con RPE INVERTIDO: 9 / 8 / 8.5.** La 1ª serie fue la más dura — patrón nunca visto
+  en el historial (la 1ª siempre es la más fácil: 7-7.5). Sospecha: **falta de calentamiento**
+  (fue el 1er ejercicio del día). Las series 2-3 se normalizaron. **Preguntar si calentó.**
+- **🚩 BENCH 72.5 — 3ª serie en 8.5 por 3ª sesión consecutiva** (30/08, 06/09, 20/09) y ahora
+  post-deload, igual que pasó con los dips. Mismo diagnóstico, misma receta: **bajar a 3×7 con las
+  tres a ≤8 y sumar de a una serie** (8/7/7 → 8/8/7 → 3×8 → 3×9). Es lo que destrabó el OHP.
+- **Wrist 15 × 3×17 → 3ª a 9** (3ª vez que el 3×17 se va de rango: 16/08 @ 9.5, 23/08 @ 9, hoy @ 9).
+  **3×17 es el techo real en 15 kg.** Quedarse en 3×16 limpio o subir peso y resetear reps.
+- **Lateral 12.5 × 3×16** estable @ hasta 8.5. **Core** sobrado (RPE 6-7.5).
+
+**🏁 Semana 1 del Meso 3 COMPLETA** (A 14/09 · B 16/09 · A 18/09 · Extra 20/09).
+
+---
+
 ## ✅ Workout A — Viernes 18/09/2026 (Meso 3, semana 1 — sesión 3, CIERRA semana 1)
 
 | Ejercicio | Peso | Reps | RPE |

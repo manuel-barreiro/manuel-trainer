@@ -13,7 +13,7 @@
   del **viaje a USA (05-24/10)**, que hará de break/deload largo. A la vuelta (25/10): re-entrada
   + Meso 4. *(Estructura asumida por el agente el 14/09 y aún no confirmada explícitamente por
   Manuel — validar.)*
-  - Semana 1: 14/09 → 20/09 (A·B·A·Extra) — A ✅ 14/09 · B ✅ 16/09 · A ✅ 18/09
+  - Semana 1: 14/09 → 20/09 ✅ COMPLETA (A 14/09 · B 16/09 · A 18/09 · Extra 20/09)
   - Semana 2: 21/09 → 27/09 (B·A·B·Extra)
   - Semana 3: 28/09 → 04/10 (A·B·A·Extra) — cierre, sin deload (el viaje lo cubre)
 
@@ -49,7 +49,8 @@
   - **Día B: SIN rotación posible.** Solo tiene 2 accesorios y ambos están bloqueados — no hay
     máquina de seated leg curl en el gym (⛔ confirmado 17/09) y el Cable Crunch está vetado.
     Ambos vienen progresando igual, así que mantenerlos es válido por regla.
-  - **Día Extra: pendiente de rotar** al armarlo (bíceps, tríceps y lateral tienen pool disponible).
+  - **Día Extra (20/09):** Barbell Curl → **Preacher Curl** · Tricep Pushdown → **Overhead
+    Triceps Ext (cable)**. Lateral Raise y Wrist Curl se mantuvieron (rinden / fijo por rehab).
   - Ninguna rotación DENTRO del bloque. Compuestos y carries fijos.
 - **Meso 1 cerrado:** 25/05 → 04/07 (ver RESUMEN en SESSION_HISTORY).
 
@@ -88,7 +89,7 @@
 ### Calendario Meso 3 (lun→dom) — bloque corto 14/09 → 04/10
 | Semana | Fechas | Patrón · foco |
 |---|---|---|
-| **1** | 14/09 → 20/09 | A ✅ (14/09) · B ✅ (16/09) · A ✅ (18/09) · Extra — acumulación |
+| **1** | 14/09 → 20/09 | ✅ COMPLETA — A (14/09) · B (16/09) · A (18/09) · Extra (20/09) |
 | **2** | 21/09 → 27/09 | B·A·B·Extra — acumulación |
 | **3** | 28/09 → 04/10 | A·B·A·Extra — **cierre del bloque** (sin deload propio) |
 | 🏖️ OFF | 05/10 → 24/10 | **VIAJE USA (~3 semanas, SIN gym)** = break/deload largo |
@@ -108,18 +109,18 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 |---|---|---|
 | Incline DB Press | 25 kg | 18/09/2026 (🚩 3er intento de 3×12 @ 25: completó las 3 series pero 3ª a **9**. Hipótesis: el salto 25→30 es +20%, demasiado. **Verificar si hay 27.5 kg** en el rack) |
 | Chin-Up | BW | 18/09/2026 (✅ 3×8 @ 7.5/8/8.5 descansado — confirma que el 9.5 del 14/09 era fatiga, no estancamiento. Falta ½ punto → consolidar 3×8 → 3×9) |
-| Leg Extension (cuádriceps — días A y Extra) | 84 → **90 kg** | 18/09/2026 (✅ CERRÓ 3×15 @ 7.5/8/8.5 → subir peso, reset reps) |
+| Leg Extension (cuádriceps — días A y Extra) | 91 kg | 20/09/2026 (✅ estrenó 91 × 3×10 @ 7.5 parejo y sobrado → sumar reps hacia 3×15) |
 | Leg Curl (Lying — isquios, día B) | 49 kg | 16/09/2026 (🔼 subió de 42; 49 × 10/10 @ 7/7.5 con margen, 3ª bajó a 42 → consolidar 49 × 3×10. ⛔ **No hay máquina seated en el gym** — el lying queda fijo) |
 | OH Single Carry | 22 kg (3×55") | 18/09/2026 (⚠️ viene alternando 22×55" ↔ 20×60" = cargas equivalentes, sin progresión real. **FIJAR 22 kg** y progresar solo tiempo: 55" → 60") |
 | ~~Hammer Curl~~ → **Seated Incline Curl (DB)** | 12.5 kg | 18/09/2026 (🔼 subió peso Y reps en su 2ª sesión: 3×11 @ 7.5/8/9 → seguir sumando hacia 3×12) |
 | Rear Delt Reverse Fly (DB) | 7.5 → **10 kg** | 18/09/2026 (✅ consolidó 3×15 @ ≤8 en su 2ª sesión → subir a 10, reset reps) |
 | Ab Wheel | BW | 18/09/2026 (🔼 3×16 — el accesorio más consistente del programa → 3×17) |
-| Bench Press | 72.5 kg | 06/09/2026 (3×9 @ 7.5/8/8.5, igual que el 30/08 — sostuvo en el pico; consolidar post-deload → 3×10) |
-| Pull-Up (Extra, SIEMPRE 1º) | BW | 06/09/2026 (3×6 @ 7/8/8.5 — sostuvo en el pico; la 3ª debería cerrar a ≤8 post-deload) |
-| Lateral Raise (DB) | 12.5 kg | 06/09/2026 (🔼 3×16 @ 7.5/8/8.5 → seguir sumando; +peso cuando el rango tope) |
-| Bicep Curl | 31.5 kg | 06/09/2026 (🔼 CERRÓ 3×12 @ hasta 8.5 → subir peso post-deload) |
-| Tricep Pushdown | 27.5 kg | 06/09/2026 (🔼 3×11 @ 8/8/8.5 → seguir sumando hacia 3×12) |
-| Wrist Curl | 15 kg | 06/09/2026 (🔼 3×16 @ 7.5/8/8.5 → seguir sumando hacia 3×20) |
+| Bench Press | 72.5 kg | 20/09/2026 (🚩 3ª sesión seguida con la 3ª a 8.5, ahora POST-deload → **bajar a 3×7** y sumar de a una serie, receta del OHP) |
+| Pull-Up (Extra, SIEMPRE 1º) | BW | 20/09/2026 (⚠️ RPE invertido 9/8/8.5 — la 1ª fue la más dura, patrón inédito. Probable falta de calentamiento; confirmar) |
+| Lateral Raise (DB) | 12.5 kg | 20/09/2026 (3×16 estable @ hasta 8.5 → sumar reps o +peso) |
+| ~~Bicep Curl (Barbell)~~ → **Preacher Curl** | 29 kg | 20/09/2026 (🆕 rotado en el Meso 3. Calibró 31.5→29, 3×10 @ 8 parejo → sumar reps) |
+| ~~Tricep Pushdown~~ → **Overhead Triceps Ext (cable)** | 30 kg | 20/09/2026 (🆕 rotado. Estrenó 3×12 @ 7.5/7/8 sobrado, con más peso que el pushdown → sumar reps/peso) |
+| Wrist Curl | 15 kg | 20/09/2026 (3×17 se fue a 9 por 3ª vez → **3×17 es el techo en 15 kg**. Quedarse en 3×16 limpio o subir peso y resetear) |
 | Suitcase Carry | 22 kg (3×55") | 16/09/2026 (estable en 55"; falta el escalón a 60") |
 | Weighted Dips | 15 kg | 16/09/2026 (🚩 3ª sesión seguida con la 3ª a 8.5, ahora POST-deload → la fatiga no lo explica. **Bajar a 3×8** y sumar de a una serie, como el OHP) |
 | OHP (Barbell) | 45 kg → **47.5** | 16/09/2026 (🏆 CERRÓ 3×8 @ 7.5/8/8 tras 5 semanas y 3 intentos fallidos → subir a 47.5, reset reps) |
