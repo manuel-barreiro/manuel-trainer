@@ -14,7 +14,7 @@
   + Meso 4. *(Estructura asumida por el agente el 14/09 y aún no confirmada explícitamente por
   Manuel — validar.)*
   - Semana 1: 14/09 → 20/09 ✅ COMPLETA (A 14/09 · B 16/09 · A 18/09 · Extra 20/09)
-  - Semana 2: 21/09 → 27/09 (B·A·B·Extra)
+  - Semana 2: 21/09 → 27/09 (B·A·B·Extra) — B ✅ 21/09
   - Semana 3: 28/09 → 04/10 (A·B·A·Extra) — cierre, sin deload (el viaje lo cubre)
 
   **Nota sobre la 1ª sesión (14/09):** el RPE alto en chin-up (3ª a 9.5) tuvo **causa contextual
@@ -90,7 +90,7 @@
 | Semana | Fechas | Patrón · foco |
 |---|---|---|
 | **1** | 14/09 → 20/09 | ✅ COMPLETA — A (14/09) · B (16/09) · A (18/09) · Extra (20/09) |
-| **2** | 21/09 → 27/09 | B·A·B·Extra — acumulación |
+| **2** | 21/09 → 27/09 | B ✅ (21/09) · A · B · Extra — acumulación |
 | **3** | 28/09 → 04/10 | A·B·A·Extra — **cierre del bloque** (sin deload propio) |
 | 🏖️ OFF | 05/10 → 24/10 | **VIAJE USA (~3 semanas, SIN gym)** = break/deload largo |
 | re-entrada | 25/10 → | Re-entrada suave + arranque del **Meso 4** |
@@ -110,7 +110,7 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 | Incline DB Press | 25 kg | 18/09/2026 (🚩 3er intento de 3×12 @ 25: completó las 3 series pero 3ª a **9**. Hipótesis: el salto 25→30 es +20%, demasiado. **Verificar si hay 27.5 kg** en el rack) |
 | Chin-Up | BW | 18/09/2026 (✅ 3×8 @ 7.5/8/8.5 descansado — confirma que el 9.5 del 14/09 era fatiga, no estancamiento. Falta ½ punto → consolidar 3×8 → 3×9) |
 | Leg Extension (cuádriceps — días A y Extra) | 91 kg | 20/09/2026 (✅ estrenó 91 × 3×10 @ 7.5 parejo y sobrado → sumar reps hacia 3×15) |
-| Leg Curl (Lying — isquios, día B) | 49 kg | 16/09/2026 (🔼 subió de 42; 49 × 10/10 @ 7/7.5 con margen, 3ª bajó a 42 → consolidar 49 × 3×10. ⛔ **No hay máquina seated en el gym** — el lying queda fijo) |
+| Leg Curl (Lying — isquios, día B) | 49/49/42 kg | 21/09/2026 (2ª vez con el mismo patrón descendente — es autorregulación consistente. Opciones: fijar **45 × 3×10** parejo o adoptar el descendente. Preguntar. ⛔ No hay seated en el gym) |
 | OH Single Carry | 22 kg (3×55") | 18/09/2026 (⚠️ viene alternando 22×55" ↔ 20×60" = cargas equivalentes, sin progresión real. **FIJAR 22 kg** y progresar solo tiempo: 55" → 60") |
 | ~~Hammer Curl~~ → **Seated Incline Curl (DB)** | 12.5 kg | 18/09/2026 (🔼 subió peso Y reps en su 2ª sesión: 3×11 @ 7.5/8/9 → seguir sumando hacia 3×12) |
 | Rear Delt Reverse Fly (DB) | 7.5 → **10 kg** | 18/09/2026 (✅ consolidó 3×15 @ ≤8 en su 2ª sesión → subir a 10, reset reps) |
@@ -121,10 +121,10 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 | ~~Bicep Curl (Barbell)~~ → **Preacher Curl** | 29 kg | 20/09/2026 (🆕 rotado en el Meso 3. Calibró 31.5→29, 3×10 @ 8 parejo → sumar reps) |
 | ~~Tricep Pushdown~~ → **Overhead Triceps Ext (cable)** | 30 kg | 20/09/2026 (🆕 rotado. Estrenó 3×12 @ 7.5/7/8 sobrado, con más peso que el pushdown → sumar reps/peso) |
 | Wrist Curl | 15 kg | 20/09/2026 (3×17 se fue a 9 por 3ª vez → **3×17 es el techo en 15 kg**. Quedarse en 3×16 limpio o subir peso y resetear) |
-| Suitcase Carry | 22 kg (3×55") | 16/09/2026 (estable en 55"; falta el escalón a 60") |
-| Weighted Dips | 15 kg | 16/09/2026 (🚩 3ª sesión seguida con la 3ª a 8.5, ahora POST-deload → la fatiga no lo explica. **Bajar a 3×8** y sumar de a una serie, como el OHP) |
-| OHP (Barbell) | 45 kg → **47.5** | 16/09/2026 (🏆 CERRÓ 3×8 @ 7.5/8/8 tras 5 semanas y 3 intentos fallidos → subir a 47.5, reset reps) |
-| Pendlay Row (Barbell) | 67.5 kg | 16/09/2026 (cerró 3×10 pero 3ª a 8.5 → consolidar 3×10 todas a ≤8 antes de 70) |
+| Suitcase Carry | 20 kg (3×60") | 21/09/2026 (⚠️ 3ª sesión seguida en 20×60" pese a la indicación de 22×55" → probablemente prefiere este esquema. **Adoptarlo como base** y progresar desde ahí. Confirmar) |
+| Weighted Dips | 15 kg | 21/09/2026 (🔄 el 3×8 tampoco cerró a ≤8 → **el rango no era el problema**. NO está estancado: subió 10→12.5→15 kg en el bloque. El 8.5 en la última es su patrón normal y productivo. **Volver a 3×10** y dejar de perseguir el ≤8) |
+| OHP (Barbell) | 47.5 kg | 21/09/2026 (🔼 estrenó 3×6 @ 7.5/8/8.5 → consolidar 3×6 a ≤8, después sumar de a una serie) |
+| Pendlay Row (Barbell) | 67.5 → **70 kg** | 21/09/2026 (✅ CONSOLIDÓ 3×10 @ 7.5/8/8 → subir a 70, reset reps. Progresión del programa: 50 → 70 kg) |
 
 > **RPE de aislamientos (regla auditada, EN PAUSA este bloque):** la skill prescribe última
 > serie de aislamientos a RPE 9-10 (0-1 RIR). Con la fatiga acumulada de la semana 4 (🚩 arriba)

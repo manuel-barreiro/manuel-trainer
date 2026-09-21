@@ -17,6 +17,40 @@
 
 # BLOQUE ACTUAL — Mesociclo 3 (arrancó 14/09/2026)
 
+## ✅ Workout B — Lunes 21/09/2026 (Meso 3, semana 2 — sesión 1)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Overhead Press (Barbell) | 47.5 kg 🔼 | 6 / 6 / 6 | 7.5 / 8 / 8.5 |
+| **Pendlay Row (Barbell)** | 67.5 kg | 10 / 10 / 10 | 7.5 / 8 / **8** ✅ |
+| Lying Leg Curl (Machine) | 49 / 49 / 42 kg | 10 / 10 / 10 | 7.5 / 7.5 / 7.5 |
+| Suitcase Carry | 20 kg | 3 × 60" | time-based |
+| Triceps Dip (Weighted) | 15 kg | 8 / 8 / 8 | 7.5 / 8 / 8.5 |
+| Hanging Leg Raise | BW | 12 / 12 / 12 | 8 / 8 / 8.5 |
+
+🔗 hevy.com/workout/933d6aeb-61ee-4343-8fec-202a398c5dfa
+
+**Lecturas:**
+- **✅ PENDLAY ROW 67.5 CONSOLIDADO:** 3×10 @ 7.5/8/**8** — la 3ª bajó de 8.5 a 8 → **subir a 70 kg**,
+  reset de reps. Progresión del ejercicio desde el Meso 1: **50 → 70 kg**.
+- **🔼 OHP 47.5 estrenado:** 3×6 @ 7.5/8/8.5. La 3ª apenas fuera del cap, normal en peso nuevo →
+  consolidar 3×6 a ≤8, después sumar de a una serie (la receta que ya funcionó a 45).
+- **🔄 DIPS — corrección de diagnóstico (el rango NO era el problema):** se bajó de 3×10 a **3×8**
+  siguiendo la receta del OHP y **la 3ª siguió en 8.5** (7.5/8/8.5). Eso descarta la hipótesis del
+  piso de reps. Revisando el historial: **los dips NO están estancados** — subieron 10 → 12.5 → 15 kg
+  dentro del bloque. **El 8.5 en la última serie es simplemente su patrón normal y es productivo**
+  (mismo error de criterio que con el hammer curl: se le exigía un cap de compuesto pesado a un
+  empuje accesorio). **Acción: volver a 3×10 en 15 kg y dejar de perseguir el ≤8 ahí.**
+- **Leg Curl:** 2ª vez seguida que baja a 42 kg en la 3ª serie (49/49/42). Es autorregulación
+  consistente, no un error. Opciones: fijar **45 kg × 3×10** parejo, o aceptar el esquema
+  49/49/42 como descendente intencional. **Preguntar qué prefiere.**
+- **⚠️ Suitcase: 3ª sesión seguida en 20 kg × 60"** pese a la indicación de fijar 22 × 55".
+  Probablemente **prefiere ese esquema**. Dejar de insistir: adoptar **20 kg × 60" como base**
+  y progresar desde ahí (→ 22 kg × 50" o 20 kg × 65"). **Confirmar con él.**
+- **HLR 3×12 @ hasta 8.5** — estable.
+
+---
+
 ## ✅ Extra — Domingo 20/09/2026 (Meso 3, semana 1 — CIERRA semana 1; estrena rotación del Extra)
 
 | Ejercicio | Peso | Reps | RPE |
