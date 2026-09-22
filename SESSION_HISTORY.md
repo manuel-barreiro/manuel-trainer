@@ -23,7 +23,7 @@
 |---|---|---|---|
 | Overhead Press (Barbell) | 47.5 kg 🔼 | 6 / 6 / 6 | 7.5 / 8 / 8.5 |
 | **Pendlay Row (Barbell)** | 67.5 kg | 10 / 10 / 10 | 7.5 / 8 / **8** ✅ |
-| Lying Leg Curl (Machine) | 49 / 49 / 42 kg | 10 / 10 / 10 | 7.5 / 7.5 / 7.5 |
+| Lying Leg Curl (Machine) | 49 kg | 10 / 10 / 10 | 7.5 / 7.5 / 7.5 |
 | Suitcase Carry | 20 kg | 3 × 60" | time-based |
 | Triceps Dip (Weighted) | 15 kg | 8 / 8 / 8 | 7.5 / 8 / 8.5 |
 | Hanging Leg Raise | BW | 12 / 12 / 12 | 8 / 8 / 8.5 |
@@ -41,12 +41,10 @@
   dentro del bloque. **El 8.5 en la última serie es simplemente su patrón normal y es productivo**
   (mismo error de criterio que con el hammer curl: se le exigía un cap de compuesto pesado a un
   empuje accesorio). **Acción: volver a 3×10 en 15 kg y dejar de perseguir el ≤8 ahí.**
-- **Leg Curl:** 2ª vez seguida que baja a 42 kg en la 3ª serie (49/49/42). Es autorregulación
-  consistente, no un error. Opciones: fijar **45 kg × 3×10** parejo, o aceptar el esquema
-  49/49/42 como descendente intencional. **Preguntar qué prefiere.**
-- **⚠️ Suitcase: 3ª sesión seguida en 20 kg × 60"** pese a la indicación de fijar 22 × 55".
-  Probablemente **prefiere ese esquema**. Dejar de insistir: adoptar **20 kg × 60" como base**
-  y progresar desde ahí (→ 22 kg × 50" o 20 kg × 65"). **Confirmar con él.**
+- **✅ Leg Curl 49 × 3×10 @ 7.5 parejo** — las 3 series fueron con 49 (el 42 de la 3ª era mislog:
+  Hevy pre-llena con el peso anterior). Limpio y con margen → sumar reps hacia 3×12.
+- **Suitcase 20 kg × 60":** no estaba la mancuerna de 22 (equipamiento, no preferencia). Target
+  sigue siendo **22 kg × 55-60"** cuando esté; 20 × 60" es el fallback válido.
 - **HLR 3×12 @ hasta 8.5** — estable.
 
 ---
