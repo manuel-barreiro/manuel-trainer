@@ -17,6 +17,36 @@
 
 # BLOQUE ACTUAL — Mesociclo 3 (arrancó 14/09/2026)
 
+## ✅ Workout A — Miércoles 23/09/2026 (Meso 3, semana 2 — sesión 2)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Incline DB Press | 25 kg | 12 / 12 / 12 | 7.5 / 8 / **9** |
+| Chin-Up | BW | 8 / 8 / 8 | 7 / 8 / **9** |
+| Leg Extension | 91 kg | 12 / 12 / 12 🔼 | 8 / 8 / 8 |
+| OH Single Carry | 20 kg | 3 × 60" | time-based |
+| Seated Incline Curl (DB) | 12.5 kg | 12 / 12 / 12 🔼 | 7.5 / 8 / 9 |
+| Ab Wheel | BW | 17 / 17 / 17 🔼 | 7 / 8 / 8.5 |
+| Rear Delt Reverse Fly (DB) | 10 kg 🔼 | 12 / 12 / 12 | 7.5 / 8 / 8 |
+
+🔗 hevy.com/workout/669cb0fe-8e2c-44b0-b6f5-a8d868b26fdc
+
+**Lecturas:**
+- **🚩 INCLINE 25 — meseta en el techo del rango:** 3×12 @ 7.5/8/9, **idéntico al 18/09**. 4 sesiones
+  seguidas con la 3ª a 9 (26/08, 31/08, 18/09, 23/09). No hay 27.5 (volvió a usar 25). Ya no hay nada
+  que ganar repitiendo. **Decisión: saltar a 30 kg × 3×6** (reset). Cuenta: 25×12 con 1 RIR ≈ e1RM
+  ~35-36 kg → 30 kg da ~6-7 reps a RPE 8. Desde ahí, doble progresión 6 → 12.
+- **🚩 CHIN-UP 3×8 — 3ª sesión sin consolidar:** 3ª serie 9.5 (14/09) → 8.5 (18/09) → **9** (hoy).
+  Oscila 8.5-9 sin cerrar. Umbral de estancamiento (3 sesiones) → respuesta graduada: **8/8/7**
+  (se corta solo la última serie) y se vuelve a sumar de a una.
+- **✅ Leg Extension 91 × 3×12 @ 8 parejo** → 3×13-14.
+- **✅ Seated Incline Curl 12.5 × 3×12 — rango cerrado** (aislamiento: 9 en la última es aceptable)
+  → **subir a 14-15 kg** (salto real del rack), reset a 3×10.
+- **✅ Ab Wheel 3×17** 🔼 · **✅ Rear Delt 10 kg × 3×12 @ ≤8** limpio en peso nuevo → 3×13-15.
+- **OH Carry 20 × 60"** (fallback, no había 22).
+
+---
+
 ## ✅ Workout B — Lunes 21/09/2026 (Meso 3, semana 2 — sesión 1)
 
 | Ejercicio | Peso | Reps | RPE |
