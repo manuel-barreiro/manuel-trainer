@@ -17,6 +17,35 @@
 
 # BLOQUE ACTUAL — Mesociclo 3 (arrancó 14/09/2026)
 
+## ✅ Workout B — Viernes 25/09/2026 (Meso 3, semana 2 — sesión 3)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| **Overhead Press (Barbell)** | 47.5 kg | 6 / 6 / 6 | 7.5 / 8 / **8** ✅ |
+| Lying Leg Curl (Machine) | 49 / 49 / 42* kg | 11 / 11 / 11 🔼 | 7 / 7.5 / 7.5 |
+| **Pendlay Row (Barbell)** | **70 kg** 🔼 | 8 / 8 / 8 | 7.5 / 8 / 8 |
+| Suitcase Carry | **22 kg** ✅ | 3 × 55" | time-based |
+| **Triceps Dip (Weighted)** | 15 kg | 10 / 10 / 10 | 7.5 / 8 / **8** ✅ |
+| Hanging Leg Raise | BW | 12 / 12 / 12 | 8 / 8 / 8.5 |
+
+🔗 hevy.com/workout/4b8fb8ad-6d49-40ed-bfe4-f60d46f5c531
+
+\* El 42 de la 3ª serie de leg curl es probablemente el mismo pre-llenado de Hevy del 21/09
+(ahí confirmó que fueron 49 las tres). **Pendiente de confirmar.**
+
+**Lecturas (sesión redonda — 4 de 6 ejercicios con avance):**
+- **🔥 PENDLAY ROW 70 kg estrenado limpio:** 3×8 @ 7.5/8/8. Récord del programa (50 → 70 kg desde el
+  Meso 1). → sumar reps hacia 3×10.
+- **✅ OHP 47.5 CONSOLIDADO:** 3×6 @ 7.5/8/**8** — la 3ª bajó de 8.5 a 8 en la 2ª sesión con el peso.
+  → sumar de a una serie: **7/6/6** → 7/7/6 → 3×7 → 3×8.
+- **✅ DIPS 15 × 3×10 CERRÓ A ≤8** (7.5/8/8) — **la primera vez en 4 sesiones**, justo cuando se dejó
+  de perseguir el cap. Confirma la corrección del 21/09: no estaban estancados. → 3×11-12.
+- **✅ Suitcase 22 kg × 55"** — estaba la mancuerna. → 60".
+- **Leg Curl 49 × 3×11** 🔼 (de 3×10) @ ≤7.5 → 3×12.
+- **HLR 3×12** estable @ hasta 8.5.
+
+---
+
 ## ✅ Workout A — Miércoles 23/09/2026 (Meso 3, semana 2 — sesión 2)
 
 | Ejercicio | Peso | Reps | RPE |
