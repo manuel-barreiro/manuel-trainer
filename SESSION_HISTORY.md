@@ -17,6 +17,40 @@
 
 # BLOQUE ACTUAL — Mesociclo 3 (arrancó 14/09/2026)
 
+## ✅ Extra — Domingo 27/09/2026 (Meso 3, semana 2 — CIERRA semana 2)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Pull-Up (1º, con calentamiento) | BW | 6 / 6 / 6 | 7 / 7.5 / 8.5 |
+| **Bench Press (Barbell)** | 72.5 kg | 9 / 9 / 9 | 7 / 7.5 / **8** ✅ |
+| Lateral Raise (DB) | 12.5 kg | 17 / 17 / 17 🔼 | 7 / 8 / 8.5 |
+| Preacher Curl (Barbell) | 29 kg | 12 / 12 / 12 🔼 | 7.5 / 8 / 8 |
+| Overhead Triceps Ext (Cable) | 30 kg | 12 / 12 / 12 | 7 / 7.5 / 7.5 |
+| Seated Palms Up Wrist Curl | 17.5 kg 🔼 | 12 / 12 / 12 | 7 / 7.5 / 7.5 |
+| Crunch (Weighted) | 15 kg 🔼 | 10 / 10 / 10 | 7 / 7.5 / 7.5 |
+| Oblique Crunch | BW | 15 / 15 / 15 | 7 / 7.5 / 7.5 |
+| Leg Extension | — | no se hizo (piernas del partido del sábado — correcto) | — |
+
+🔗 hevy.com/workout/71b4d584-b80b-4cb6-b9ae-895d48cf7cf3
+
+**Lecturas:**
+- **🏆 BENCH 72.5 × 3×9 CONSOLIDADO:** 7/7.5/**8** — la 3ª cerró a ≤8 por primera vez tras 3 sesiones
+  en 8.5. Se pautó bajar a 3×7 pero hizo 3×9 igual y salió limpio: **la bajada no hacía falta**.
+  → 3×10, después 75 kg.
+- **✅ Pull-Up — el calentamiento resolvió el RPE invertido:** curva normal 7/7.5/8.5 (el 20/09 fue
+  9/8/8.5 sin calentar). La 3ª sigue ½ punto arriba; mantener 3×6 con calentamiento.
+- **✅ Preacher 29 × 3×12 CERRADO** (@ ≤8) → subir a 31.5 kg, reset 3×10.
+- **Overhead Tricep 30 × 3×12 @ ≤7.5 — sobrado** (no sumó reps pero sobró mucho) → subir peso
+  (32.5-35 kg), reset 3×10.
+- **✅ Wrist 17.5 × 3×12 @ ≤7.5** — el salto de peso entró fácil → sumar reps hacia 3×15.
+- **✅ Lateral 12.5 × 3×17** → rango alto; subir a 14-15 kg y resetear a 3×12.
+- **Crunch subió a 15 kg × 3×10** 🔼, fácil.
+
+**🏁 Semana 2 del Meso 3 COMPLETA** (B 21/09 · A 23/09 · B 25/09 · Extra 27/09). Queda la semana 3
+(28/09-04/10), la última antes del viaje.
+
+---
+
 ## ✅ Workout B — Viernes 25/09/2026 (Meso 3, semana 2 — sesión 3)
 
 | Ejercicio | Peso | Reps | RPE |
