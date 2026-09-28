@@ -17,6 +17,33 @@
 
 # BLOQUE ACTUAL — Mesociclo 3 (arrancó 14/09/2026)
 
+## ✅ Workout A — Lunes 28/09/2026 (Meso 3, semana 3 — sesión 1)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| **Incline DB Press** | **30 kg** 🔼 | 6 / 6 / 6 | 7 / 7 / 7.5 |
+| **Chin-Up** | BW | 8 / 8 / 7 | 7 / 7.5 / 8 ✅ |
+| Leg Extension | 91 kg | 13 / 13 / 13 🔼 | 8 / 8 / 8.5 |
+| OH Single Carry | 20 kg | 3 × 60" | time-based |
+| Seated Incline Curl (DB) | **14 kg** 🔼 | 10 / 10 / 10 | 7.5 / 8 / 8 |
+| Rear Delt Reverse Fly (DB) | 10 kg | 14 / 14 / 14 🔼 | 7 / 7.5 / 8 |
+| Ab Wheel | BW | 18 / 18 / 18 🔼 | 8 / 8.5 / 9 |
+
+🔗 hevy.com/workout/5e956895-417e-4b3c-86fd-62ed4701b74b
+
+**Lecturas:**
+- **🏆 INCLINE 30 kg — MESETA ROTA:** 3×6 @ **7/7/7.5**, más fácil de lo estimado (se esperaba RPE 8).
+  Tras 4 sesiones trabado en 25 × 3×12, el salto destrabó el ejercicio. El diagnóstico era
+  correcto: el techo era el rango, no la fuerza. → sumar reps: **3×7-8**.
+- **✅ CHIN-UP 8/8/7 limpio:** 7/7.5/**8**, las tres en cap. La respuesta graduada funcionó al primer
+  intento → **8/8/8**.
+- **✅ Seated Incline Curl 14 × 3×10 @ ≤8** — peso nuevo entró limpio → 3×11-12.
+- **Leg Ext 91 × 3×13** 🔼 · **Rear Delt 10 × 3×14** 🔼 · **Ab Wheel 3×18** 🔼 (la 3ª a 9 — el rango ya
+  está alto; en el Meso 4 conviene sumar dificultad en vez de reps).
+- **OH Carry 20 × 60"** (fallback).
+
+---
+
 ## ✅ Extra — Domingo 27/09/2026 (Meso 3, semana 2 — CIERRA semana 2)
 
 | Ejercicio | Peso | Reps | RPE |
