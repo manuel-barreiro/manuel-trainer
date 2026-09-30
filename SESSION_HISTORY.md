@@ -17,6 +17,32 @@
 
 # BLOQUE ACTUAL — Mesociclo 3 (arrancó 14/09/2026)
 
+## ✅ Workout B — Miércoles 30/09/2026 (Meso 3, semana 3 — sesión 2; último B antes del viaje)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Overhead Press (Barbell) | 47.5 kg | 7 / 6 / 6 🔼 | 7.5 / 8 / 8 |
+| Pendlay Row (Barbell) | 70 kg | 9 / 9 / 9 🔼 | 7.5 / 8 / 8 |
+| Suitcase Carry | 22 kg | 3 × 60" ✅ | time-based |
+| Lying Leg Curl (Machine) | 49 / 49 / 42* kg | 12 / 12 / 12 🔼 | 7.5 / 8 / 8 |
+| Triceps Dip (Weighted) | 15 kg | 11 / 11 / 11 🔼 | 7.5 / 8 / 8.5 |
+| Hanging Leg Raise | BW | 13 / 13 / 13 🔼 | 7.5 / 8 / 8 |
+
+🔗 hevy.com/workout/2431424c-3401-4569-916e-bf360757d3b6
+
+\* 3ª vez que la 3ª serie de leg curl aparece en 42 (21/09 confirmó que era pre-llenado de Hevy).
+Se asume 49 × 3; la plantilla de la rutina en Hevy probablemente tiene 42 guardado en la serie 3.
+
+**Lecturas (6 de 6 ejercicios progresaron — mejor B del bloque):**
+- **✅ OHP 7/6/6 limpio** @ 7.5/8/8 → **7/7/6**.
+- **✅ Row 70 × 3×9** @ 7.5/8/8 → **3×10**, después 72.5.
+- **✅ Suitcase 22 kg × 60" — DESTINO COMPLETO** (venía estirando desde 50"). → 24 kg en el Meso 4.
+- **✅ Leg Curl 49 × 3×12 — rango cerrado** @ ≤8 → subir peso en el Meso 4.
+- **✅ Dips 15 × 3×11** @ hasta 8.5 → 3×12, después 17.5.
+- **✅ HLR 3×13** → 3×14.
+
+---
+
 ## ✅ Workout A — Lunes 28/09/2026 (Meso 3, semana 3 — sesión 1)
 
 | Ejercicio | Peso | Reps | RPE |
