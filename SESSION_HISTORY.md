@@ -17,6 +17,31 @@
 
 # BLOQUE ACTUAL — Mesociclo 3 (arrancó 14/09/2026)
 
+## ✅ Workout A — Viernes 02/10/2026 (Meso 3, semana 3 — sesión 3; último A antes del viaje)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Incline DB Press | 30 kg | 7 / 7 / 7 🔼 | 7.5 / 7.5 / 8 |
+| Leg Extension | 91 kg | 13 / 13 / 13 | 8 / 8 / 8 |
+| Chin-Up | BW | 8 / 8 / 8 🔼 | 7.5 / 8 / 8.5 |
+| OH Single Carry | 22 kg | 3 × 55" | time-based |
+| Seated Incline Curl (DB) | 14 kg | 11 / 11 / 11 🔼 | 7 / 8 / 9 |
+| Ab Wheel | BW | 18 / 18 / 18 | 7.5 / 8 / 8 |
+| Rear Delt Reverse Fly (DB) | 10 kg | 15 / 15 / 15 🔼 | 7.5 / 8 / 8 |
+
+🔗 hevy.com/workout/17f3e9bd-b288-40f1-bb7f-505169284ed1
+
+**Lecturas:**
+- **✅ Incline 30 × 3×7** @ 7.5/7.5/8, en cap → 3×8 (doble progresión 6→12 en marcha).
+- **🔼 Chin-Up 3×8** @ 7.5/8/8.5 — reps completas; la 3ª ½ punto arriba. Mismo lugar que en
+  agosto pero con el camino 8/8/7 → 8/8/8 recorrido. Consolidar en el Meso 4.
+- **✅ Leg Ext 91 × 3×13** @ 8 parejo (no se sumó, a propósito: partido al día siguiente).
+- **✅ Rear Delt 10 × 3×15** — rango cerrado → subir peso en Meso 4.
+- **🔼 Incline Curl 14 × 3×11** · **Ab Wheel 3×18** estable y más fácil (7.5/8/8 vs 8/8.5/9).
+- **✅ OH Carry 22 × 55"** (estaba la mancuerna).
+
+---
+
 ## ✅ Workout B — Miércoles 30/09/2026 (Meso 3, semana 3 — sesión 2; último B antes del viaje)
 
 | Ejercicio | Peso | Reps | RPE |

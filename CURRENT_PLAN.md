@@ -15,7 +15,7 @@
   Manuel — validar.)*
   - Semana 1: 14/09 → 20/09 ✅ COMPLETA (A 14/09 · B 16/09 · A 18/09 · Extra 20/09)
   - Semana 2: 21/09 → 27/09 ✅ COMPLETA (B 21/09 · A 23/09 · B 25/09 · Extra 27/09)
-  - Semana 3: 28/09 → 04/10 (A·B·A·Extra) — cierre, sin deload (el viaje lo cubre) — A ✅ 28/09 · B ✅ 30/09
+  - Semana 3: 28/09 → 04/10 (A·B·A·Extra) — cierre, sin deload (el viaje lo cubre) — A ✅ 28/09 · B ✅ 30/09 · A ✅ 02/10
 
   **Nota sobre la 1ª sesión (14/09):** el RPE alto en chin-up (3ª a 9.5) tuvo **causa contextual
   confirmada por Manuel**: resfrío residual del 09/09 + día de trabajo pesado. El incline en 24 kg
@@ -91,7 +91,7 @@
 |---|---|---|
 | **1** | 14/09 → 20/09 | ✅ COMPLETA — A (14/09) · B (16/09) · A (18/09) · Extra (20/09) |
 | **2** | 21/09 → 27/09 | ✅ COMPLETA — B (21/09) · A (23/09) · B (25/09) · Extra (27/09) |
-| **3** | 28/09 → 04/10 | A ✅ (28/09) · B ✅ (30/09) · A · Extra — **cierre del bloque** (sin deload propio) |
+| **3** | 28/09 → 04/10 | A ✅ (28/09) · B ✅ (30/09) · A ✅ (02/10) · Extra — **cierre del bloque** (sin deload propio) |
 | 🏖️ OFF | 05/10 → 24/10 | **VIAJE USA (~3 semanas, SIN gym)** = break/deload largo |
 | re-entrada | 25/10 → | Re-entrada suave + arranque del **Meso 4** |
 
@@ -107,14 +107,14 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 
 | Ejercicio | Peso actual | Última act. |
 |---|---|---|
-| Incline DB Press | 30 kg | 28/09/2026 (🏆 MESETA ROTA: 3×6 @ 7/7/7.5, más fácil de lo estimado → sumar reps hacia 3×8, doble progresión 6→12) |
-| Chin-Up | BW | 28/09/2026 (✅ 8/8/7 @ 7/7.5/8 limpio → 8/8/8) |
-| Leg Extension (cuádriceps — días A y Extra) | 91 kg | 28/09/2026 (🔼 3×13 @ 8/8/8.5 → 3×14) |
+| Incline DB Press | 30 kg | 02/10/2026 (✅ 3×7 @ ≤8 → 3×8, doble progresión hasta 3×12) |
+| Chin-Up | BW | 02/10/2026 (3×8 @ 7.5/8/8.5 — reps completas, 3ª ½ punto arriba → consolidar en Meso 4) |
+| Leg Extension (cuádriceps — días A y Extra) | 91 kg | 02/10/2026 (3×13 @ 8 parejo → 3×14) |
 | Leg Curl (Lying — isquios, día B) | 49 kg | 30/09/2026 (✅ CERRÓ 3×12 @ ≤8 → subir peso en Meso 4. ⚠️ Hevy sigue pre-llenando 42 en la serie 3: corregir la plantilla. ⛔ No hay seated) |
-| OH Single Carry | 22 kg (3×55") | 18/09/2026 (⚠️ viene alternando 22×55" ↔ 20×60" = cargas equivalentes, sin progresión real. **FIJAR 22 kg** y progresar solo tiempo: 55" → 60") |
-| ~~Hammer Curl~~ → **Seated Incline Curl (DB)** | 14 kg | 28/09/2026 (✅ estrenó 14 × 3×10 @ ≤8 → 3×11-12) |
-| Rear Delt Reverse Fly (DB) | 10 kg | 28/09/2026 (🔼 3×14 @ ≤8 → 3×15) |
-| Ab Wheel | BW | 28/09/2026 (🔼 3×18, 3ª a 9 — rango alto; en Meso 4 sumar dificultad (desde de pie / lastre) en vez de reps) |
+| OH Single Carry | 22 kg | 02/10/2026 (22 × 55" → 60". Fallback 20 × 60") |
+| ~~Hammer Curl~~ → **Seated Incline Curl (DB)** | 14 kg | 02/10/2026 (🔼 3×11 → 3×12, después subir) |
+| Rear Delt Reverse Fly (DB) | 10 kg | 02/10/2026 (✅ CERRÓ 3×15 @ ≤8 → subir peso en Meso 4) |
+| Ab Wheel | BW | 02/10/2026 (3×18 @ 7.5/8/8 — más fácil que el 28/09; en Meso 4 sumar dificultad en vez de reps) |
 | Bench Press | 72.5 kg | 27/09/2026 (🏆 CONSOLIDÓ 3×9 @ 7/7.5/8 → 3×10, después 75 kg) |
 | Pull-Up (Extra, SIEMPRE 1º) | BW | 27/09/2026 (3×6 @ 7/7.5/8.5 — con **calentamiento** la curva de RPE se normalizó. Mantener 3×6 + 2 series de aproximación) |
 | Lateral Raise (DB) | 12.5 → 14-15 kg | 27/09/2026 (3×17 — rango alto → subir peso, reset 3×12) |
