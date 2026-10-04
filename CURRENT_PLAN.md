@@ -5,53 +5,34 @@
 > cerrar cada bloque (rutinas nuevas).
 
 ## Estado del mesociclo
-- **Mesociclo:** 3 (bloque corto pre-viaje)
-- **Semana:** 3 de 3 (28/09 → 04/10) — la última antes del viaje. Semanas 1 y 2 ✅.
-  **🏁 MESOCICLO 2 CERRADO (03/08 → 13/09).** Ver RESUMEN completo en SESSION_HISTORY.md.
-
-  **➡️ AHORA: MESOCICLO 3 — bloque corto de 3 semanas (14/09 → 04/10)**, para que cierre antes
-  del **viaje a USA (05-24/10)**, que hará de break/deload largo. A la vuelta (25/10): re-entrada
-  + Meso 4. *(Estructura asumida por el agente el 14/09 y aún no confirmada explícitamente por
-  Manuel — validar.)*
-  - Semana 1: 14/09 → 20/09 ✅ COMPLETA (A 14/09 · B 16/09 · A 18/09 · Extra 20/09)
-  - Semana 2: 21/09 → 27/09 ✅ COMPLETA (B 21/09 · A 23/09 · B 25/09 · Extra 27/09)
-  - Semana 3: 28/09 → 04/10 (A·B·A·Extra) — cierre, sin deload (el viaje lo cubre) — A ✅ 28/09 · B ✅ 30/09 · A ✅ 02/10
-
-  **Nota sobre la 1ª sesión (14/09):** el RPE alto en chin-up (3ª a 9.5) tuvo **causa contextual
-  confirmada por Manuel**: resfrío residual del 09/09 + día de trabajo pesado. El incline en 24 kg
-  fue por **falta de mancuernas de 25**, no retroceso, y el leg extension "irregular" fue un
-  mislog (fueron 3×14 limpios). **No hay señal de estancamiento.** Reintentar chin-up 3×8
-  descansado antes de tocar el rango.
-- **🎯 Objetivos del Meso 3:** cerrar incline 3×12 → salto a **30 kg** · cerrar la 3ª serie a ≤8 en
-  chin-up (3×8), pull-up (3×6), bench (3×9) y dips (3×10) · subir peso en leg curl (42) y bicep
-  (31.5), que cerraron rango · consolidar los 3 movimientos nuevos.
-- **📋 Receta del deload (para el próximo):** ~50% del volumen (2 series), carga **-10%** (NO -20%:
-  Bell 2025 vía auditoría 10/06), RPE 5-6, misma frecuencia. Su función es **gestión de fatiga**,
-  no supercompensación (Coleman 2024). Default revisable, no dogma.
-- **✅ Criterio compuesto vs aislamiento (validado el 06/09):** en **compuestos** el cap ≤8 es
-  estricto (ir al fallo cuesta fatiga y rinde poco). En **aislamientos** la última serie a 8.5
-  es productiva — el cap estricto los estaba frenando de gusto. Al soltarlo, los 4 aislamientos
-  del Extra sumaron reps en una sola sesión.
-- **🎯 Tema recurrente a vigilar:** al **sumar una rep**, la 3ª serie se va a RPE 9 (pasó con
-  chin-up, pull-up, wrist, hammer). Ya lo corrigió en incline, chin-up y OHP bajando el rango y
-  consolidando. Criterio: **el techo de reps no vale si se sale del cap** — mejor cortar reps.
-- **✅ Fatiga resuelta:** el pico de RPE (9-9.5 entre el 15 y el 17/08) venía de entrenar
-  sáb+dom+lun seguidos. Con 1 día de descanso, el 19/08 ningún ejercicio pasó de 8.5.
-  **Regla: mantener ≥1 día de descanso entre sesiones de gym.**
-- **Inicio del bloque:** 2026-09-14.
-- **Estructura:** 3 semanas de acumulación, SIN deload propio (el viaje a USA lo cubre).
-- **Recordatorio de orden:** en el Extra, **Pull-Up va PRIMERO** (el 02/08 lo hizo 2º y corrió hot).
-- **Historial:** Meso 1 cerrado 04/07 (RESUMEN en SESSION_HISTORY). Re-entrada post-gripe 21-26/7
-  + mantenimiento Brasil 27-29/7 + re-escalada 31/7-2/8 (todo fuera de progresión).
-- **🔄 Rotación del Meso 3:**
-  - **Día A (14/09):** Hammer Curl → **Seated Incline Curl** · ➕ **Rear Delt Reverse Fly** (cubre
-    el hueco de deltoide posterior) · Ab Wheel se mantuvo (venía rindiendo; vetó el Cable Crunch).
-  - **Día B: SIN rotación posible.** Solo tiene 2 accesorios y ambos están bloqueados — no hay
-    máquina de seated leg curl en el gym (⛔ confirmado 17/09) y el Cable Crunch está vetado.
-    Ambos vienen progresando igual, así que mantenerlos es válido por regla.
-  - **Día Extra (20/09):** Barbell Curl → **Preacher Curl** · Tricep Pushdown → **Overhead
-    Triceps Ext (cable)**. Lateral Raise y Wrist Curl se mantuvieron (rinden / fijo por rehab).
-  - Ninguna rotación DENTRO del bloque. Compuestos y carries fijos.
+- **🏁 MESOCICLO 3 CERRADO (14/09 → 04/10).** 12/12 sesiones. Ver RESUMEN en SESSION_HISTORY.md.
+- **AHORA: ✈️ VIAJE A USA 05/10 → 24/10 (~3 semanas, sin gym)** = break / deload largo.
+  - Opcional: peso corporal 2×/semana (~20-30 min, RPE 6-7) — flexiones, pike push-ups,
+    split squats, remo invertido/toalla, plancha. Descansar del todo también es válido.
+  - Sostener: proteína en el rango de NUTRITION.md, creatina 5 g/día, dormir bien.
+- **VUELTA — re-entrada (lun 26/10 → dom 01/11):** mismas rutinas A/B/Extra, **~85-90% de los
+  pesos de cierre, 2-3 series, RPE 6-7, sin cazar PRs.** Precedente: en julio la re-escalada
+  post-parate tomó ~1 semana. Si algo sale muy fácil, se sube en la sesión siguiente.
+- **MESOCICLO 4 — arranque real lun 02/11:** 6 semanas + deload (cierra ~13/12). Al abrirlo:
+  rotar 2-3 accesorios por rutina (días A y Extra; el B no tiene alternativas en este gym) y
+  atacar los pendientes del RESUMEN del Meso 3 (bench → 75, incline 30 → 3×12, chin-up 3×8
+  limpio, OHP → 3×8 @ 47.5, row → 72.5, subir leg curl / rear delt / suitcase, ab wheel más difícil).
+- **📋 Receta del deload:** ~50% del volumen (2 series), carga **-10%** (Bell 2025 vía auditoría
+  10/06), RPE 5-6, misma frecuencia. Función = **gestión de fatiga**, no supercompensación
+  (Coleman 2024). Default revisable, no dogma.
+- **✅ Criterio compuesto vs aislamiento:** compuestos pesados (bench, OHP, row, chin/pull-up,
+  incline) → cap ≤8 estricto. Aislamientos y empujes auxiliares (dips) → la última serie a 8.5 es
+  productiva. **Antes de diagnosticar estancamiento, mirar la tendencia de carga.**
+- **🔑 Dos recetas para destrabar:** (1) *fatiga / rango sin margen* → bajar el piso de reps y
+  sumar de a una serie (OHP, chin-up, wrist); (2) *reps al tope y salto del rack muy grande* →
+  saltar de peso y reiniciar la doble progresión (incline 25 → 30).
+- **Reglas fijas:** ≥1 día de descanso entre sesiones de gym · pull-up/chin-up con 2 series de
+  aproximación · pull-up SIEMPRE 1º en el Extra · confirmar mislogs/equipamiento antes de cambiar
+  el plan (Hevy pre-llena la 3ª serie del leg curl con 42).
+- **Rotaciones vigentes (desde Meso 3):** A: Seated Incline Curl + Rear Delt Fly · Extra: Preacher
+  Curl + Overhead Triceps Ext · B: sin cambios (no hay seated leg curl; cable crunch vetado).
+- **Historial:** Meso 1 25/05 → 04/07 · Meso 2 03/08 → 13/09 · Meso 3 14/09 → 04/10 (RESÚMENES en
+  SESSION_HISTORY).
 - **Meso 1 cerrado:** 25/05 → 04/07 (ver RESUMEN en SESSION_HISTORY).
 
 ### Calendario del mesociclo (semanas lun→dom)
@@ -91,9 +72,10 @@
 |---|---|---|
 | **1** | 14/09 → 20/09 | ✅ COMPLETA — A (14/09) · B (16/09) · A (18/09) · Extra (20/09) |
 | **2** | 21/09 → 27/09 | ✅ COMPLETA — B (21/09) · A (23/09) · B (25/09) · Extra (27/09) |
-| **3** | 28/09 → 04/10 | A ✅ (28/09) · B ✅ (30/09) · A ✅ (02/10) · Extra — **cierre del bloque** (sin deload propio) |
+| **3** | 28/09 → 04/10 | ✅ COMPLETA — A (28/09) · B (30/09) · A (02/10) · Extra (04/10) — 🏁 **bloque cerrado** |
 | 🏖️ OFF | 05/10 → 24/10 | **VIAJE USA (~3 semanas, SIN gym)** = break/deload largo |
-| re-entrada | 25/10 → | Re-entrada suave + arranque del **Meso 4** |
+| re-entrada | 26/10 → 01/11 | A·B·A·Extra suave: ~85-90% de los pesos de cierre, 2-3 series, RPE 6-7 |
+| **Meso 4** | 02/11 → ~13/12 | 6 semanas + deload, con rotación de accesorios |
 
 ### ⚠️ Viaje USA: 05/10 → 24/10 (~3 semanas, sin gym)
 - Parate largo: 3 semanas sin entrenar generan algo de desentrenamiento, **recuperable rápido**
@@ -109,18 +91,18 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 |---|---|---|
 | Incline DB Press | 30 kg | 02/10/2026 (✅ 3×7 @ ≤8 → 3×8, doble progresión hasta 3×12) |
 | Chin-Up | BW | 02/10/2026 (3×8 @ 7.5/8/8.5 — reps completas, 3ª ½ punto arriba → consolidar en Meso 4) |
-| Leg Extension (cuádriceps — días A y Extra) | 91 kg | 02/10/2026 (3×13 @ 8 parejo → 3×14) |
+| Leg Extension (cuádriceps — días A y Extra) | 91 kg | 04/10/2026 (✅ 3×14 @ 7/7.5/8 → 3×15, después subir) |
 | Leg Curl (Lying — isquios, día B) | 49 kg | 30/09/2026 (✅ CERRÓ 3×12 @ ≤8 → subir peso en Meso 4. ⚠️ Hevy sigue pre-llenando 42 en la serie 3: corregir la plantilla. ⛔ No hay seated) |
 | OH Single Carry | 22 kg | 02/10/2026 (22 × 55" → 60". Fallback 20 × 60") |
 | ~~Hammer Curl~~ → **Seated Incline Curl (DB)** | 14 kg | 02/10/2026 (🔼 3×11 → 3×12, después subir) |
 | Rear Delt Reverse Fly (DB) | 10 kg | 02/10/2026 (✅ CERRÓ 3×15 @ ≤8 → subir peso en Meso 4) |
 | Ab Wheel | BW | 02/10/2026 (3×18 @ 7.5/8/8 — más fácil que el 28/09; en Meso 4 sumar dificultad en vez de reps) |
-| Bench Press | 72.5 kg | 27/09/2026 (🏆 CONSOLIDÓ 3×9 @ 7/7.5/8 → 3×10, después 75 kg) |
+| Bench Press | 72.5 kg | 04/10/2026 (🔼 3×10 @ 7.5/8/8.5 → consolidar la 3ª a ≤8 → 75 kg) |
 | Pull-Up (Extra, SIEMPRE 1º) | BW | 27/09/2026 (3×6 @ 7/7.5/8.5 — con **calentamiento** la curva de RPE se normalizó. Mantener 3×6 + 2 series de aproximación) |
-| Lateral Raise (DB) | 12.5 → 14-15 kg | 27/09/2026 (3×17 — rango alto → subir peso, reset 3×12) |
-| ~~Bicep Curl (Barbell)~~ → **Preacher Curl** | 29 → 31.5 kg | 27/09/2026 (✅ CERRÓ 3×12 @ ≤8 → subir a 31.5, reset 3×10) |
-| ~~Tricep Pushdown~~ → **Overhead Triceps Ext (cable)** | 30 → 32.5-35 kg | 27/09/2026 (3×12 @ ≤7.5 sobrado → subir peso, reset 3×10) |
-| Wrist Curl | 17.5 kg | 27/09/2026 (🔼 subió de 15; 3×12 @ ≤7.5 fácil → sumar hacia 3×15) |
+| Lateral Raise (DB) | 14 kg | 04/10/2026 (✅ estrenó 3×12 @ ≤8 → sumar reps) |
+| ~~Bicep Curl (Barbell)~~ → **Preacher Curl** | 31.5 kg | 04/10/2026 (✅ estrenó 3×10 @ ≤8 → sumar reps) |
+| ~~Tricep Pushdown~~ → **Overhead Triceps Ext (cable)** | 30 kg (?) | 04/10/2026 (⚠️ hizo 20 × 3×10 @ hasta 8.5 vs 30 × 3×12 @ ≤7.5 el 27/09 — ¿otra polea/accesorio o mislog? Aclarar) |
+| Wrist Curl | 17.5 kg | 04/10/2026 (🔼 3×14 → 3×15) |
 | Suitcase Carry | 22 kg | 30/09/2026 (✅ DESTINO COMPLETO 3×60" → 24 kg en Meso 4, reset 45-50") |
 | Weighted Dips | 15 kg | 30/09/2026 (🔼 3×11 @ hasta 8.5 → 3×12, después 17.5) |
 | OHP (Barbell) | 47.5 kg | 30/09/2026 (✅ 7/6/6 @ ≤8 → 7/7/6 → 3×7 → 3×8) |

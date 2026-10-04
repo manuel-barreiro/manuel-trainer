@@ -17,6 +17,98 @@
 
 # BLOQUE ACTUAL — Mesociclo 3 (arrancó 14/09/2026)
 
+## 🏁 RESUMEN — MESOCICLO 3 (14/09/2026 → 04/10/2026)
+
+**Estructura:** bloque corto de 3 semanas de acumulación, sin deload propio — el viaje a USA
+(05-24/10, sin gym) cumple esa función. 12 sesiones de 12 programadas.
+**Rotación aplicada:** día A (hammer → seated incline curl, + rear delt fly) · día Extra (barbell
+curl → preacher curl, pushdown → overhead triceps ext) · día B sin rotación (no hay seated leg curl;
+cable crunch vetado).
+
+### Progresión por ejercicio (inicio → cierre)
+
+**Compuestos**
+| Ejercicio | Inicio (14/09) | Cierre (04/10) | Nota |
+|---|---|---|---|
+| **Incline DB Press** | 25 kg × 3×12 (3ª a 9, meseta) | **30 kg × 3×7** 🏆 | Meseta de 4 sesiones rota saltando de peso |
+| **OHP** | 45 kg × 3×8 (sin cerrar) | **47.5 kg × 7/6/6** | 3×8 @ 45 cerrado el 16/09 tras 5 semanas |
+| **Pendlay Row** | 67.5 kg × 3×10 | **70 kg × 3×9** | Programa completo: 50 → 70 kg |
+| Bench Press | 72.5 kg × 3×9 (3ª a 8.5) | **72.5 kg × 3×10** | 3ª a 8.5 → consolidar antes de 75 |
+| Weighted Dips | 15 kg × 3×10 (3ª a 8.5) | **15 kg × 3×11** | Nunca estuvo estancado |
+| Chin-Up | 3×8 (3ª a 9.5) | **3×8** (3ª a 8.5) | Vía 8/8/7 → 8/8/8 |
+| Pull-Up | 3×6 | **3×6** (3ª a 8.5) | Estable; calentamiento corrigió el RPE invertido |
+
+**Accesorios y carries**
+| Ejercicio | Inicio | Cierre |
+|---|---|---|
+| Leg Curl | 42 kg × 3×12 | **49 kg × 3×12** (+7) |
+| Leg Extension | 84 kg × 3×14 | **91 kg × 3×14** (+7) |
+| 🆕 Seated Incline Curl | 12 kg × 3×10 | **14 kg × 3×11** |
+| 🆕 Rear Delt Fly | 7.5 kg × 3×15 | **10 kg × 3×15** |
+| 🆕 Preacher Curl | 29 kg × 3×10 | **31.5 kg × 3×10** |
+| 🆕 Overhead Triceps Ext | 30 kg × 3×12 | 20 kg × 3×10 (⚠️ ver nota 04/10) |
+| Lateral Raise | 12.5 kg × 3×16 | **14 kg × 3×12** |
+| Wrist Curl | 15 kg × 3×17 | **17.5 kg × 3×14** |
+| Suitcase Carry | 20-22 kg × 55" | **22 kg × 60"** ✅ objetivo |
+| OH Single Carry | 20-22 kg | **22 kg × 55"** |
+| Ab Wheel | 3×15 | **3×18** |
+| Hanging Leg Raise | 3×12 | **3×13** |
+
+### Lo que aprendimos (para el Meso 4)
+1. **🏆 Techo de rango ≠ techo de fuerza (incline).** Con las reps al tope y el siguiente
+   escalón del rack muy lejos (25 → 30 = +20%), repetir no sirve: **saltar de peso** rompió una
+   meseta de 4 sesiones al primer intento (30 × 6 @ RPE 7). Es la receta opuesta a "bajar el
+   piso", y aplica cuando el problema es el rango, no la fatiga.
+2. **🔎 No todo 8.5 en la última serie es estancamiento.** Dips y hammer: se diagnosticó
+   estancamiento cuando en realidad venían subiendo peso. **Mirar la tendencia de carga antes
+   de cambiar el plan.** En empujes auxiliares y aislamientos, 8.5 al final es productivo.
+3. **🔥 Calentar importa.** Pull-up sin aproximación = RPE invertido (9/8/8.5); con 2 series
+   de aproximación la curva volvió a lo normal (7/7.5/8.5). Queda fijo.
+4. **😷 La fatiga de afuera infla el RPE.** 14/09 (resfrío + día laboral pesado): chin-up a 9.5;
+   descansado, 8.5 con lo mismo. **Antes de tocar un rango, preguntar cómo vino el día.**
+5. **📋 Ruido de registro y equipamiento.** Varias "regresiones" fueron mislogs de Hevy
+   (leg curl con 42 pre-llenado, leg ext 14/10/13) o mancuernas que no estaban (25, 22).
+   **Confirmar antes de reaccionar.**
+
+### Pendientes para el Meso 4
+- **Bench 72.5 × 3×10** → consolidar la 3ª a ≤8 → **75 kg**.
+- **Incline 30 kg** → 3×8 → doble progresión hasta 3×12.
+- **Chin-Up 3×8** → cerrar la 3ª a ≤8 → 3×9.
+- **OHP 47.5** → 7/7/6 → 3×7 → 3×8 → 50 kg.
+- **Row 70** → 3×10 → 72.5 kg.
+- **Subir peso:** leg curl (49), rear delt (10), suitcase (22 → 24).
+- **Ab Wheel:** 3×18 es rango alto → más dificultad (más recorrido / de pie) en vez de reps.
+- **Overhead Triceps Ext:** aclarar el peso real (ver nota del 04/10).
+
+---
+
+## ✅ Extra — Domingo 04/10/2026 (Meso 3, semana 3 — 🏁 CIERRA EL MESOCICLO 3)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Pull-Up (1º, con calentamiento) | BW | 6 / 6 / 6 | 7 / 7.5 / 8.5 |
+| Bench Press (Barbell) | 72.5 kg | 10 / 10 / 10 🔼 | 7.5 / 8 / 8.5 |
+| Leg Extension | 91 kg | 14 / 14 / 14 🔼 | 7 / 7.5 / 8 |
+| Lateral Raise (DB) | 14 kg 🔼 | 12 / 12 / 12 | 7.5 / 8 / 8 |
+| Preacher Curl (Barbell) | 31.5 kg 🔼 | 10 / 10 / 10 | 7.5 / 7.5 / 8 |
+| Overhead Triceps Ext (Cable) | 20 kg ⚠️ | 10 / 10 / 10 | 7.5 / 8 / 8.5 |
+| Seated Palms Up Wrist Curl | 17.5 kg | 14 / 14 / 14 🔼 | 7 / 8 / 9 |
+| Crunch (Weighted) | 15 kg | 12 / 12 / 12 🔼 | 7 / 7.5 / 7.5 |
+| Oblique Crunch | BW | 15 / 15 / 15 | 6 / 7 / 7.5 |
+
+🔗 hevy.com/workout/5edfbaa6-aafc-4576-9bab-20139bb3525e
+
+**Lecturas:**
+- **🔼 Bench 72.5 × 3×10** — llegó al techo del rango; la 3ª a 8.5 → consolidar antes de 75.
+- **✅ Leg Ext 91 × 3×14** @ 7/7.5/8, sobrado (piernas frescas: no hubo partido el sábado) → 3×15.
+- **✅ Lateral 14 kg y Preacher 31.5** — los dos pesos nuevos entraron limpios @ ≤8.
+- **⚠️ Overhead Triceps Ext a 20 kg @ hasta 8.5** — el 27/09 hizo **30 kg × 3×12 @ ≤7.5**. Bajar
+  10 kg y que cueste más no cierra: probablemente **otra polea / otro accesorio** (relación de
+  carga distinta) o un mislog. **Preguntar.**
+- **Wrist 17.5 × 3×14** 🔼 (3ª a 9, aislamiento) · **Crunch 15 × 3×12** 🔼 · Pull-up 3×6 estable.
+
+---
+
 ## ✅ Workout A — Viernes 02/10/2026 (Meso 3, semana 3 — sesión 3; último A antes del viaje)
 
 | Ejercicio | Peso | Reps | RPE |
