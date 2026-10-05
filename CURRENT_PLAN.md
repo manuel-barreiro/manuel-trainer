@@ -101,7 +101,7 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 | Pull-Up (Extra, SIEMPRE 1º) | BW | 27/09/2026 (3×6 @ 7/7.5/8.5 — con **calentamiento** la curva de RPE se normalizó. Mantener 3×6 + 2 series de aproximación) |
 | Lateral Raise (DB) | 14 kg | 04/10/2026 (✅ estrenó 3×12 @ ≤8 → sumar reps) |
 | ~~Bicep Curl (Barbell)~~ → **Preacher Curl** | 31.5 kg | 04/10/2026 (✅ estrenó 3×10 @ ≤8 → sumar reps) |
-| ~~Tricep Pushdown~~ → **Overhead Triceps Ext (cable)** | 30 kg (?) | 04/10/2026 (⚠️ hizo 20 × 3×10 @ hasta 8.5 vs 30 × 3×12 @ ≤7.5 el 27/09 — ¿otra polea/accesorio o mislog? Aclarar) |
+| ~~Tricep Pushdown~~ → **Overhead Triceps Ext (cable)** | 30 kg (polea habitual) / 20 kg (polea pesada) | 04/10/2026 (✅ aclarado: el 04/10 usó **otra polea, mucho más pesada** — 20 kg ahí > 30 kg en la de siempre. No es regresión. **Anotar en Hevy qué polea se usa**; en Meso 4 arrancar con la habitual: 30 × 3×12 → subir) |
 | Wrist Curl | 17.5 kg | 04/10/2026 (🔼 3×14 → 3×15) |
 | Suitcase Carry | 22 kg | 30/09/2026 (✅ DESTINO COMPLETO 3×60" → 24 kg en Meso 4, reset 45-50") |
 | Weighted Dips | 15 kg | 30/09/2026 (🔼 3×11 @ hasta 8.5 → 3×12, después 17.5) |

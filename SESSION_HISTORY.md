@@ -46,7 +46,7 @@ cable crunch vetado).
 | 🆕 Seated Incline Curl | 12 kg × 3×10 | **14 kg × 3×11** |
 | 🆕 Rear Delt Fly | 7.5 kg × 3×15 | **10 kg × 3×15** |
 | 🆕 Preacher Curl | 29 kg × 3×10 | **31.5 kg × 3×10** |
-| 🆕 Overhead Triceps Ext | 30 kg × 3×12 | 20 kg × 3×10 (⚠️ ver nota 04/10) |
+| 🆕 Overhead Triceps Ext | 30 kg × 3×12 | 30 kg × 3×12 (polea habitual) · el 04/10, 20 kg en una polea más pesada |
 | Lateral Raise | 12.5 kg × 3×16 | **14 kg × 3×12** |
 | Wrist Curl | 15 kg × 3×17 | **17.5 kg × 3×14** |
 | Suitcase Carry | 20-22 kg × 55" | **22 kg × 60"** ✅ objetivo |
@@ -78,7 +78,7 @@ cable crunch vetado).
 - **Row 70** → 3×10 → 72.5 kg.
 - **Subir peso:** leg curl (49), rear delt (10), suitcase (22 → 24).
 - **Ab Wheel:** 3×18 es rango alto → más dificultad (más recorrido / de pie) en vez de reps.
-- **Overhead Triceps Ext:** aclarar el peso real (ver nota del 04/10).
+- **Overhead Triceps Ext:** registrar siempre qué polea se usa (no son comparables entre sí).
 
 ---
 
@@ -102,9 +102,9 @@ cable crunch vetado).
 - **🔼 Bench 72.5 × 3×10** — llegó al techo del rango; la 3ª a 8.5 → consolidar antes de 75.
 - **✅ Leg Ext 91 × 3×14** @ 7/7.5/8, sobrado (piernas frescas: no hubo partido el sábado) → 3×15.
 - **✅ Lateral 14 kg y Preacher 31.5** — los dos pesos nuevos entraron limpios @ ≤8.
-- **⚠️ Overhead Triceps Ext a 20 kg @ hasta 8.5** — el 27/09 hizo **30 kg × 3×12 @ ≤7.5**. Bajar
-  10 kg y que cueste más no cierra: probablemente **otra polea / otro accesorio** (relación de
-  carga distinta) o un mislog. **Preguntar.**
+- **Overhead Triceps Ext a 20 kg @ hasta 8.5** — **confirmado por Manuel (05/10): usó otra polea,
+  mucho más pesada.** 20 kg en esa > 30 kg en la habitual. No es regresión. Cargas entre poleas no
+  son comparables: anotar en Hevy cuál se usa.
 - **Wrist 17.5 × 3×14** 🔼 (3ª a 9, aislamiento) · **Crunch 15 × 3×12** 🔼 · Pull-up 3×6 estable.
 
 ---
