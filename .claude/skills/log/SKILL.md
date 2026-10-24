@@ -21,3 +21,7 @@ description: Registrar una sesión de gym de Manuel. Usar cuando invoca /log, pe
    - Cierre: qué sesión toca la próxima y cuándo; si viene deload/cierre de bloque,
      avisarlo acá.
    - Flags (datos faltantes, fatiga, RPE trepando) al final, si los hay.
+6. **Recovery (opcional):** si Manuel agrega datos de Bevel/Fitbit Air (horas de sueño,
+   recovery, HRV vs su baseline), anotalos en una línea debajo de la tabla de la sesión y
+   usalos solo como contexto del RPE (ver "Wearable y apps" en `PROFILE.md`). Nunca los pidas
+   como dato faltante ni decidas una progresión por ellos.

@@ -36,6 +36,18 @@ El split A/B alterna cada semana:
 - **Fútbol 3×/semana** (martes, jueves, sábado) → cubre el volumen de tren inferior.
   NO se programa pierna en el gym salvo Leg Extension en superset.
 
+## Wearable y apps (desde 24/10/2026)
+- **Fitbit Air** (pulsera sin pantalla) → **Google Health** → **Bevel** (iPhone, integración
+  directa con Google Health). Se usa para **sueño, HRV, FC en reposo y recovery**.
+- **Hevy sigue siendo EL registro de entrenamiento** (recomendación del coach 24/10/2026,
+  a confirmar por Manuel). Bevel tiene
+  Strength Builder, pero no tiene RPE por serie (es feature request) y no hay forma de
+  importar el historial de Hevy. Todo el sistema de progresión depende del RPE por serie.
+- **Cómo se usa el dato del wearable:** solo como **contexto de recuperación** (sueño corto,
+  HRV bajo baseline, recovery bajo → explica un RPE inflado; ver lección 4 del Meso 3). **No**
+  decide progresiones y la FC/strain de la pulsera durante pesas no es confiable (la óptica de
+  muñeca falla con flexión de muñeca y cambios bruscos de FC).
+
 ## Características conocidas del logging (NO son datos faltantes)
 - **Carries sin RPE — por diseño, no es un hueco.** Los ejercicios time-based en Hevy
   (Suitcase Carry, OH Single Carry) NO permiten registrar RPE. Por lo tanto ningún

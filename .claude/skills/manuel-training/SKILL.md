@@ -54,6 +54,9 @@ generarla ni menciones la API.** El flujo es: Manuel comparte el workout desde H
 como texto y lo pega acá; vos parseás (ver "Cómo parsear un paste de Hevy").
 - Si falta más de una sesión (staleness), pedile un paste múltiple: puede pegar varios
   workouts juntos en un solo mensaje, los procesás en orden cronológico.
+- **Bevel / Fitbit Air (desde 24/10/2026):** Hevy sigue siendo el logger; el wearable
+  aporta contexto de recuperación, no reemplaza el registro (ver `PROFILE.md`). Si algún
+  día Bevel suma RPE por serie y exportar en texto, se puede reevaluar al abrir un bloque.
 - `scripts/hevy_sync.py` queda dormido por si algún día hay Hevy Pro: solo si existiera
   `HEVY_API_KEY` (o `~/.config/hevy/api-key`) usalo en vez del paste
   (`python3 scripts/hevy_sync.py --days 14`, misma salida que un paste).

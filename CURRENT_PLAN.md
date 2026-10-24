@@ -6,13 +6,19 @@
 
 ## Estado del mesociclo
 - **🏁 MESOCICLO 3 CERRADO (14/09 → 04/10).** 12/12 sesiones. Ver RESUMEN en SESSION_HISTORY.md.
-- **AHORA: ✈️ VIAJE A USA 05/10 → 24/10 (~3 semanas, sin gym)** = break / deload largo.
-  - Opcional: peso corporal 2×/semana (~20-30 min, RPE 6-7) — flexiones, pike push-ups,
-    split squats, remo invertido/toalla, plancha. Descansar del todo también es válido.
-  - Sostener: proteína en el rango de NUTRITION.md, creatina 5 g/día, dormir bien.
-- **VUELTA — re-entrada (lun 26/10 → dom 01/11):** mismas rutinas A/B/Extra, **~85-90% de los
-  pesos de cierre, 2-3 series, RPE 6-7, sin cazar PRs.** Precedente: en julio la re-escalada
-  post-parate tomó ~1 semana. Si algo sale muy fácil, se sube en la sesión siguiente.
+- **✈️ VIAJE A USA 05/10 → 24/10 (~3 semanas, sin gym)** = break / deload largo. Volvió el 24/10.
+- **AHORA: RE-ENTRADA (dom 25/10 → dom 01/11)** — adelantada un día (vuelve a entrenar el
+  domingo). Detalle sesión por sesión en **"Rutinas de la re-entrada"** más abajo.
+  **Dom 25 Extra · Lun 26 descanso · Mié 28 A · Vie 30 B · Dom 01/11 Extra.**
+  - Lunes 26 libre a propósito: la primera sesión después de 3 semanas da el DOMS más fuerte
+    del ciclo y el A repite pecho/espalda/bíceps del Extra.
+  - Escalera de carga: sesión 1 ~85-90% de los pesos de cierre, 2 series, RPE 6-7 → sesiones
+    2-3 ~90%, 3 series, RPE 7 → Extra 01/11 ~95%, 3 series, RPE 7-8 (puente al Meso 4).
+  - **Autorregulación:** si un ejercicio sale a RPE ≤6, en la próxima sesión de ese ejercicio se
+    va directo al peso de cierre. No cazar PRs ni sumar series. Nada de esto cuenta para la progresión.
+  - Precedente (julio): Manuel tiende a empujar a RPE 8 en la re-entrada y re-agarró en ~1 semana.
+    Esta vez el cap de RPE 7 va en serio: lo que se gana apurando son 3-4 días y lo que se arriesga
+    es arrancar el Meso 4 con DOMS y fatiga.
 - **MESOCICLO 4 — arranque real lun 02/11:** 6 semanas + deload (cierra ~13/12). Al abrirlo:
   rotar 2-3 accesorios por rutina (días A y Extra; el B no tiene alternativas en este gym) y
   atacar los pendientes del RESUMEN del Meso 3 (bench → 75, incline 30 → 3×12, chin-up 3×8
@@ -74,7 +80,7 @@
 | **2** | 21/09 → 27/09 | ✅ COMPLETA — B (21/09) · A (23/09) · B (25/09) · Extra (27/09) |
 | **3** | 28/09 → 04/10 | ✅ COMPLETA — A (28/09) · B (30/09) · A (02/10) · Extra (04/10) — 🏁 **bloque cerrado** |
 | 🏖️ OFF | 05/10 → 24/10 | **VIAJE USA (~3 semanas, SIN gym)** = break/deload largo |
-| re-entrada | 26/10 → 01/11 | A·B·A·Extra suave: ~85-90% de los pesos de cierre, 2-3 series, RPE 6-7 |
+| re-entrada | 25/10 → 01/11 | Extra (25/10) · descanso (26/10) · A (28/10) · B (30/10) · Extra (01/11) — ver "Rutinas de la re-entrada" |
 | **Meso 4** | 02/11 → ~13/12 | 6 semanas + deload, con rotación de accesorios |
 
 ### ⚠️ Viaje USA: 05/10 → 24/10 (~3 semanas, sin gym)
@@ -113,6 +119,61 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 > y semana 5 = pico, **el resto del Meso 2 se mantiene el cap ≤8 en todas las series**.
 > La regla de 0-1 RIR en la última serie arranca con el **Meso 3**, con el cuerpo fresco
 > post-deload — y nunca habilita grindear ni sumar reps fuera del cap de progresión.
+
+## Rutinas de la re-entrada (25/10 → 01/11, post-viaje USA)
+
+> Pesos calculados sobre los de cierre del Meso 3, redondeados al rack real. Calentar como
+> siempre (pull-up/chin-up con 2 series de aproximación). Donde el salto del rack es grande
+> (incline, rear delt) se baja reps en vez de peso. Registrar todo en Hevy como siempre.
+
+### 1 · Extra — Dom 25/10 (~85-90%, 2 series, RPE 6-7)
+| Ejercicio | Peso | Series×Reps | RPE cap |
+|---|---|---|---|
+| Pull-Up (1º, + 2 aproximaciones) | BW | 2×5 | 7 |
+| Bench Press | 65 kg | 2×8 | 7 |
+| Leg Extension | 77 kg | 2×12 | 7 (el martes hay fútbol) |
+| Lateral Raise (DB) | 12.5 kg | 2×12 | 7 |
+| Preacher Curl | 29 kg | 2×8 | 7 |
+| Overhead Triceps Ext (polea habitual) | 27.5 kg | 2×10 | 7 |
+| Wrist Curl | 15 kg | 2×12 | 7 |
+| Crunch (Weighted) + Oblique (opcional) | 10 kg / BW | 2×12 | 7 |
+
+### 2 · Workout A — Mié 28/10 (~90%, 3 series, RPE 7)
+| Ejercicio | Peso | Series×Reps | RPE cap |
+|---|---|---|---|
+| Incline DB Press | 25 kg | 3×10 | 7 |
+| Chin-Up (+ 2 aproximaciones) | BW | 3×6 | 7 |
+| Leg Extension | 84 kg | 3×12 | 7 |
+| OH Single Carry | 20 kg | 3×50" | — |
+| Seated Incline Curl (DB) | 12 kg | 3×10 | 7 |
+| Rear Delt Reverse Fly (DB) | 10 kg | 3×12 | 7 |
+| Ab Wheel | BW | 3×12 | 7 |
+
+### 3 · Workout B — Vie 30/10 (~90%, 3 series, RPE 7)
+| Ejercicio | Peso | Series×Reps | RPE cap |
+|---|---|---|---|
+| OHP (Barbell) | 42.5 kg | 3×7 | 7 |
+| Pendlay Row (Barbell) | 62.5 kg | 3×8 | 7 |
+| Lying Leg Curl | 42 kg | 3×10 | 7 (partido el sábado) |
+| Suitcase Carry | 20 kg | 3×50" | — |
+| Weighted Dips | 10 kg | 3×9 | 7 |
+| Hanging Leg Raise | BW | 3×10 | 7 |
+
+### 4 · Extra — Dom 01/11 (~95%, 3 series, RPE 7-8, puente al Meso 4)
+| Ejercicio | Peso | Series×Reps | RPE cap |
+|---|---|---|---|
+| Pull-Up (1º, + 2 aproximaciones) | BW | 3×6 | 8 |
+| Bench Press | 70 kg | 3×8 | 7-8 |
+| Leg Extension | 84 kg | 3×12 | 7 (piernas del partido) |
+| Lateral Raise (DB) | 12.5 kg | 3×14 | 8 |
+| Preacher Curl | 29 kg | 3×10 | 8 |
+| Overhead Triceps Ext (polea habitual) | 30 kg | 3×10 | 8 |
+| Wrist Curl | 15 kg | 3×14 | 8 |
+| Crunch (Weighted) + Oblique (opcional) | 12.5 kg / BW | 3×12 | 7-8 |
+
+> Si alguna sesión de la escalera sale a RPE ≤6 → el ejercicio salta al peso de cierre en la
+> siguiente. Si algo duele o el DOMS no se fue → repetir el peso anterior, no subir.
+> El Meso 4 (lun 02/11) arranca desde los **working weights de cierre** de la tabla de arriba.
 
 ## Rutinas del bloque (Mesociclo 2)
 
