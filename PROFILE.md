@@ -47,6 +47,12 @@ El split A/B alterna cada semana:
   HRV bajo baseline, recovery bajo → explica un RPE inflado; ver lección 4 del Meso 3). **No**
   decide progresiones y la FC/strain de la pulsera durante pesas no es confiable (la óptica de
   muñeca falla con flexión de muñeca y cambios bruscos de FC).
+- **Cómo aparece una sesión de gym en Bevel (visto el 25/10/2026):** la Fitbit Air la detecta
+  sola → Google Health → Bevel como "Traditional Strength Training" con duración, FC media,
+  kcal y strain. Bevel la muestra **"Muscular 0% / Cardio 100%"** y "Muscle Breakdown: No Data":
+  es esperable, porque solo tiene el pulso (el desglose muscular necesita registrar los
+  ejercicios en Bevel y además es Pro). No se registra doble: el detalle por músculo lo hace el
+  coach con Hevy. En Bevel conviene cargar el **Perceived Effort** (1-10) de la sesión.
 
 ## Características conocidas del logging (NO son datos faltantes)
 - **Carries sin RPE — por diseño, no es un hueco.** Los ejercicios time-based en Hevy

@@ -25,7 +25,7 @@
 | Leg Extension | 77 kg | 12 / 12 | 7 / 7.5 |
 | Lateral Raise (DB) | 12.5 kg | 12 / 12 | 7 / 7.5 |
 | Preacher Curl (Barbell) | 29 kg | 8 / 8 | 7 / 7 |
-| Overhead Triceps Ext (Cable) | 25 kg (¿polea habitual?) | 15 / 10 | 6 / 7 |
+| Overhead Triceps Ext (Cable) | 25 kg (polea habitual ✅) | 15 / 10 | 6 / 7 |
 | Seated Palms Up Wrist Curl | 15 kg | 15 / 12 | 6 / 7 |
 | Crunch (Weighted) | 10 kg | 15 / 15 / 15 | 6 / 7 / 7 |
 | Oblique Crunch | BW | 15 / 15 / 15 | 6 / 7 / 7 |
@@ -37,8 +37,10 @@
 - **Bench 65 × 8 @ 6/7** y **Pull-Up 5/5 @ 7/7.5** → escalera sin cambios: 70 × 3×8 y 3×6 el 01/11.
 - **Leg Ext 77 × 12 @ 7/7.5** — ½ punto arriba del cap; cuádriceps es lo que más perdió (y vuelve
   el fútbol) → el miércoles **se queda en 77** × 3×12 en vez de 84; 84 recién el 01/11.
-- **Overhead Tricep:** usó 25 kg (no 27.5) × 15 @ 6 — sobrado. Si fue la polea habitual, el 01/11 va
-  30 × 3×10 como estaba.
+- **Overhead Tricep:** usó 25 kg (no 27.5) × 15 @ 6 en la **polea habitual** (confirmado) — sobrado →
+  el 01/11 va 30 × 3×10 como estaba.
+- **Wearable:** la Fitbit Air detectó sola la sesión (16:27-17:09, 42', FC media 105, 261 kcal) →
+  Google Health → Bevel (strain 17, "bajo"). Primera sesión con el wearable funcionando.
 - Wrist, lateral, preacher y crunch en cap, sin novedad.
 
 ---
