@@ -11,6 +11,38 @@
 
 ---
 
+# RE-ENTRADA post-viaje USA (25/10 → 01/11/2026 — NO es progresión; Meso 4 arranca 02/11)
+
+## ✅ Extra — Domingo 25/10/2026 (RE-ENTRADA, sesión 1 de 4 — 2 series, RPE cap 6-7)
+
+> Primera sesión tras 3 semanas sin gym (viaje USA 05-24/10). Volvió el 24/10 tras 24 hs de viaje,
+> con bronquitis/moco pero sintiéndose bien. Bevel 25/10: recovery 73% · sueño 85% · estrés bajo.
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Pull-Up (1º, con calentamiento) | BW | 5 / 5 | 7 / 7.5 |
+| Bench Press (Barbell) | 65 kg | 8 / 8 | 6 / 7 |
+| Leg Extension | 77 kg | 12 / 12 | 7 / 7.5 |
+| Lateral Raise (DB) | 12.5 kg | 12 / 12 | 7 / 7.5 |
+| Preacher Curl (Barbell) | 29 kg | 8 / 8 | 7 / 7 |
+| Overhead Triceps Ext (Cable) | 25 kg (¿polea habitual?) | 15 / 10 | 6 / 7 |
+| Seated Palms Up Wrist Curl | 15 kg | 15 / 12 | 6 / 7 |
+| Crunch (Weighted) | 10 kg | 15 / 15 / 15 | 6 / 7 / 7 |
+| Oblique Crunch | BW | 15 / 15 / 15 | 6 / 7 / 7 |
+
+🔗 hevy.com/workout/68143e56-a4a9-4b83-aa2f-c1d082e66c3d
+
+**Lecturas (re-entrada de manual — esta vez respetó el cap):**
+- **Todo en 6-7.5, nada grindeado.** A diferencia de julio, no empujó a 8. Base intacta tras 3 semanas.
+- **Bench 65 × 8 @ 6/7** y **Pull-Up 5/5 @ 7/7.5** → escalera sin cambios: 70 × 3×8 y 3×6 el 01/11.
+- **Leg Ext 77 × 12 @ 7/7.5** — ½ punto arriba del cap; cuádriceps es lo que más perdió (y vuelve
+  el fútbol) → el miércoles **se queda en 77** × 3×12 en vez de 84; 84 recién el 01/11.
+- **Overhead Tricep:** usó 25 kg (no 27.5) × 15 @ 6 — sobrado. Si fue la polea habitual, el 01/11 va
+  30 × 3×10 como estaba.
+- Wrist, lateral, preacher y crunch en cap, sin novedad.
+
+---
+
 # BLOQUE ACTUAL — Mesociclo 2 (arrancó LUNES 03/08/2026)
 
 > Las de más abajo (Extra 02/08 y A 31/07) fueron **re-escalada pre-bloque** — fuera de progresión.

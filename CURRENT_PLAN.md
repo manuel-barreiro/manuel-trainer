@@ -131,7 +131,7 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 > (incline, rear delt) se baja reps en vez de peso. Registrar todo en Hevy como siempre.
 > Post-bronquitis: descansos largos (2-3'), y si respirar cuesta → cortar la sesión.
 
-### 1 · Extra — Dom 25/10 (~85-90%, 2 series, RPE 6-7)
+### 1 · Extra — Dom 25/10 (~85-90%, 2 series, RPE 6-7) ✅ HECHA (todo en 6-7.5)
 | Ejercicio | Peso | Series×Reps | RPE cap |
 |---|---|---|---|
 | Pull-Up (1º, + 2 aproximaciones) | BW | 2×5 | 7 |
@@ -148,7 +148,7 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 |---|---|---|---|
 | Incline DB Press | 25 kg | 3×10 | 7 |
 | Chin-Up (+ 2 aproximaciones) | BW | 3×6 | 7 |
-| Leg Extension | 84 kg | 3×12 | 7 |
+| Leg Extension | 77 kg | 3×12 | 7 (el 25/10 dio 7.5 a 77 → no subir todavía) |
 | OH Single Carry | 20 kg | 3×50" | — |
 | Seated Incline Curl (DB) | 12 kg | 3×10 | 7 |
 | Rear Delt Reverse Fly (DB) | 10 kg | 3×12 | 7 |
