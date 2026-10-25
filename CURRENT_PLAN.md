@@ -7,13 +7,16 @@
 ## Estado del mesociclo
 - **🏁 MESOCICLO 3 CERRADO (14/09 → 04/10).** 12/12 sesiones. Ver RESUMEN en SESSION_HISTORY.md.
 - **✈️ VIAJE A USA 05/10 → 24/10 (~3 semanas, sin gym)** = break / deload largo. Volvió el 24/10.
-- **AHORA: RE-ENTRADA (dom 25/10 → dom 01/11)** — adelantada un día (vuelve a entrenar el
-  domingo). Detalle sesión por sesión en **"Rutinas de la re-entrada"** más abajo.
-  **Dom 25 Extra · Lun 26 descanso · Mié 28 A · Vie 30 B · Dom 01/11 Extra.**
-  - Lunes 26 libre a propósito: la primera sesión después de 3 semanas da el DOMS más fuerte
-    del ciclo y el A repite pecho/espalda/bíceps del Extra.
-  - Escalera de carga: sesión 1 ~85-90% de los pesos de cierre, 2 series, RPE 6-7 → sesiones
-    2-3 ~90%, 3 series, RPE 7 → Extra 01/11 ~95%, 3 series, RPE 7-8 (puente al Meso 4).
+- **AHORA: RE-ENTRADA (lun 26/10 → dom 01/11)** — volvió del viaje (24 hs, Los Ángeles) con
+  **bronquitis/moco**; el 25/10 descansó (primera noche buena de sueño el 24/10; Bevel 25/10:
+  recovery 73%, sueño 85%). Detalle sesión por sesión en **"Rutinas de la re-entrada"** más abajo.
+  **Lun 26 A · Mié 28 B · Vie 30 A (opcional, según el pecho) · Dom 01/11 Extra.**
+  - **Chequeo antes de cada sesión:** sin fiebre, sin pecho cerrado y con la tos que no empeora →
+    entrena. Si algo de eso aparece → ese día no, se corre la sesión. Si la tos de pecho sigue
+    más de ~1 semana o hay fiebre → médico.
+  - Fútbol del martes: con bronquitis, correr exige más al pulmón que las pesas → mejor saltearlo.
+  - Escalera de carga: sesión 1 ~85% de los pesos de cierre, 2 series, RPE 6-7 → sesión 2 ~90%,
+    3 series, RPE 7 → sesiones 3-4 ~90-95%, 3 series, RPE 7 (puente al Meso 4).
   - **Autorregulación:** si un ejercicio sale a RPE ≤6, en la próxima sesión de ese ejercicio se
     va directo al peso de cierre. No cazar PRs ni sumar series. Nada de esto cuenta para la progresión.
   - Precedente (julio): Manuel tiende a empujar a RPE 8 en la re-entrada y re-agarró en ~1 semana.
@@ -80,7 +83,7 @@
 | **2** | 21/09 → 27/09 | ✅ COMPLETA — B (21/09) · A (23/09) · B (25/09) · Extra (27/09) |
 | **3** | 28/09 → 04/10 | ✅ COMPLETA — A (28/09) · B (30/09) · A (02/10) · Extra (04/10) — 🏁 **bloque cerrado** |
 | 🏖️ OFF | 05/10 → 24/10 | **VIAJE USA (~3 semanas, SIN gym)** = break/deload largo |
-| re-entrada | 25/10 → 01/11 | Extra (25/10) · descanso (26/10) · A (28/10) · B (30/10) · Extra (01/11) — ver "Rutinas de la re-entrada" |
+| re-entrada | 26/10 → 01/11 | A (26/10) · B (28/10) · A opcional (30/10) · Extra (01/11) — ver "Rutinas de la re-entrada" |
 | **Meso 4** | 02/11 → ~13/12 | 6 semanas + deload, con rotación de accesorios |
 
 ### ⚠️ Viaje USA: 05/10 → 24/10 (~3 semanas, sin gym)
@@ -126,30 +129,20 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 > siempre (pull-up/chin-up con 2 series de aproximación). Donde el salto del rack es grande
 > (incline, rear delt) se baja reps en vez de peso. Registrar todo en Hevy como siempre.
 
-### 1 · Extra — Dom 25/10 (~85-90%, 2 series, RPE 6-7)
+### 1 · Workout A — Lun 26/10 (~85%, 2 series, RPE 6-7)
+> Post-bronquitis: descansos largos entre series (2-3'), sin apurar. Si respirando cuesta → cortar.
+
 | Ejercicio | Peso | Series×Reps | RPE cap |
 |---|---|---|---|
-| Pull-Up (1º, + 2 aproximaciones) | BW | 2×5 | 7 |
-| Bench Press | 65 kg | 2×8 | 7 |
-| Leg Extension | 77 kg | 2×12 | 7 (el martes hay fútbol) |
-| Lateral Raise (DB) | 12.5 kg | 2×12 | 7 |
-| Preacher Curl | 29 kg | 2×8 | 7 |
-| Overhead Triceps Ext (polea habitual) | 27.5 kg | 2×10 | 7 |
-| Wrist Curl | 15 kg | 2×12 | 7 |
-| Crunch (Weighted) + Oblique (opcional) | 10 kg / BW | 2×12 | 7 |
+| Incline DB Press | 25 kg | 2×10 | 6-7 |
+| Chin-Up (+ 2 aproximaciones) | BW | 2×5 | 7 |
+| Leg Extension | 77 kg | 2×12 | 6-7 |
+| OH Single Carry | 20 kg | 2×45" | — |
+| Seated Incline Curl (DB) | 12 kg | 2×10 | 7 |
+| Rear Delt Reverse Fly (DB) | 10 kg | 2×10 | 7 |
+| Ab Wheel | BW | 2×10 | 7 |
 
-### 2 · Workout A — Mié 28/10 (~90%, 3 series, RPE 7)
-| Ejercicio | Peso | Series×Reps | RPE cap |
-|---|---|---|---|
-| Incline DB Press | 25 kg | 3×10 | 7 |
-| Chin-Up (+ 2 aproximaciones) | BW | 3×6 | 7 |
-| Leg Extension | 84 kg | 3×12 | 7 |
-| OH Single Carry | 20 kg | 3×50" | — |
-| Seated Incline Curl (DB) | 12 kg | 3×10 | 7 |
-| Rear Delt Reverse Fly (DB) | 10 kg | 3×12 | 7 |
-| Ab Wheel | BW | 3×12 | 7 |
-
-### 3 · Workout B — Vie 30/10 (~90%, 3 series, RPE 7)
+### 2 · Workout B — Mié 28/10 (~90%, 3 series, RPE 7 — 2 series si el pecho sigue cargado)
 | Ejercicio | Peso | Series×Reps | RPE cap |
 |---|---|---|---|
 | OHP (Barbell) | 42.5 kg | 3×7 | 7 |
@@ -159,17 +152,32 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 | Weighted Dips | 10 kg | 3×9 | 7 |
 | Hanging Leg Raise | BW | 3×10 | 7 |
 
-### 4 · Extra — Dom 01/11 (~95%, 3 series, RPE 7-8, puente al Meso 4)
+### 3 · Workout A — Vie 30/10 (OPCIONAL, ~95%, 3 series, RPE 7)
+> Solo si el pecho está bien y las dos primeras sesiones salieron cómodas. Si no → descanso.
+
 | Ejercicio | Peso | Series×Reps | RPE cap |
 |---|---|---|---|
-| Pull-Up (1º, + 2 aproximaciones) | BW | 3×6 | 8 |
-| Bench Press | 70 kg | 3×8 | 7-8 |
-| Leg Extension | 84 kg | 3×12 | 7 (piernas del partido) |
-| Lateral Raise (DB) | 12.5 kg | 3×14 | 8 |
-| Preacher Curl | 29 kg | 3×10 | 8 |
-| Overhead Triceps Ext (polea habitual) | 30 kg | 3×10 | 8 |
-| Wrist Curl | 15 kg | 3×14 | 8 |
-| Crunch (Weighted) + Oblique (opcional) | 12.5 kg / BW | 3×12 | 7-8 |
+| Incline DB Press | 30 kg | 3×6 | 7 |
+| Chin-Up (+ 2 aproximaciones) | BW | 3×6 | 7 |
+| Leg Extension | 84 kg | 3×12 | 7 (partido el sábado) |
+| OH Single Carry | 20 kg | 3×50" | — |
+| Seated Incline Curl (DB) | 12 kg | 3×12 | 7 |
+| Rear Delt Reverse Fly (DB) | 10 kg | 3×12 | 7 |
+| Ab Wheel | BW | 3×12 | 7 |
+
+### 4 · Extra — Dom 01/11 (~90-95%, 3 series, RPE 7, puente al Meso 4)
+> Primer Extra post-viaje: bench y pull-up no se tocan desde el 04/10 → arrancan un escalón abajo.
+
+| Ejercicio | Peso | Series×Reps | RPE cap |
+|---|---|---|---|
+| Pull-Up (1º, + 2 aproximaciones) | BW | 3×5 | 7 |
+| Bench Press | 67.5 kg | 3×8 | 7 |
+| Leg Extension | 84 kg | 3×12 | 7 (piernas del partido; saltear si están cargadas) |
+| Lateral Raise (DB) | 12.5 kg | 3×12 | 7-8 |
+| Preacher Curl | 29 kg | 3×8 | 7-8 |
+| Overhead Triceps Ext (polea habitual) | 27.5 kg | 3×10 | 7-8 |
+| Wrist Curl | 15 kg | 3×12 | 7-8 |
+| Crunch (Weighted) + Oblique (opcional) | 10 kg / BW | 3×12 | 7 |
 
 > Si alguna sesión de la escalera sale a RPE ≤6 → el ejercicio salta al peso de cierre en la
 > siguiente. Si algo duele o el DOMS no se fue → repetir el peso anterior, no subir.
