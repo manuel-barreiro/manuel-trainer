@@ -53,6 +53,10 @@ El split A/B alterna cada semana:
   es esperable, porque solo tiene el pulso (el desglose muscular necesita registrar los
   ejercicios en Bevel y además es Pro). No se registra doble: el detalle por músculo lo hace el
   coach con Hevy. En Bevel conviene cargar el **Perceived Effort** (1-10) de la sesión.
+- **Una sola fuente por sesión: la Fitbit.** El 25/10 Bevel mostró la sesión duplicada ("Workout
+  Extra" de Hevy vía Apple Health + "Strength training" de la Fitbit vía Google Health). Se
+  apagó la escritura de entrenamientos de **Hevy → Apple Health**; la sesión entra a Bevel solo
+  por la Fitbit (auto-detección). Apple Watch: solo cronómetro, nunca un entrenamiento.
 
 ## Características conocidas del logging (NO son datos faltantes)
 - **Carries sin RPE — por diseño, no es un hueco.** Los ejercicios time-based en Hevy
