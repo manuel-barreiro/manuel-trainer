@@ -175,7 +175,7 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 | Rear Delt Reverse Fly (DB) | 10 kg | 3×12 | 7 |
 | Ab Wheel | BW | 3×12 | 7 |
 
-### 3 · Workout B — Vie 30/10 (~90%, 3 series, RPE 7)
+### 3 · Workout B — Vie 30/10 (~90%, 3 series, RPE 7) ✅ HECHA (OHP 40 × 3×8; leg curl no registrado)
 | Ejercicio | Peso | Series×Reps | RPE cap |
 |---|---|---|---|
 | OHP (Barbell) | 42.5 kg | 3×7 | 7 |
@@ -189,7 +189,7 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 | Ejercicio | Peso | Series×Reps | RPE cap |
 |---|---|---|---|
 | Pull-Up (1º, + 2 aproximaciones) | BW | 3×6 | 8 |
-| Bench Press | 70 kg | 3×8 | 7-8 |
+| Bench Press | 67.5 kg (si la 1ª sale ≥8 → 65) | 3×8 | 7-8 (los empujes perdieron ~12-15%: 70 × 8 hoy sería RPE ~9-10) |
 | Leg Extension | 77 kg | 3×12 | 7 (28/10 dio 7.5 a 77; piernas del partido; saltear si están cargadas) |
 | Lateral Raise (DB) | 12.5 kg | 3×14 | 8 |
 | Preacher Curl | 31.5 kg | 3×10 | 8 (28/10: 29 × 3×12 @ ≤8 → peso de cierre) |
@@ -203,15 +203,17 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 
 ## Rutinas del Mesociclo 4 (02/11 → 13/12)
 
-> Pesos de arranque = cierre del Meso 3, ajustables según cómo salga la re-entrada (B 30/10 y
-> Extra 01/11). Doble progresión dentro del rango; subir peso cuando las 3 series tocan el techo
+> **Pesos de arranque ajustados con la re-entrada (30/10):** los empujes volvieron ~12-15% abajo
+> del cierre del Meso 3 y la tracción ~8% → el bloque arranca ~1 escalón abajo en esos lifts.
+> **🔁 Regla de rebote (semanas 1-2):** si las 3 series tocan el techo del rango a RPE ≤ objetivo,
+> se salta **directo al peso de cierre del Meso 3** (no de a 2.5 kg). Es fuerza que vuelve, no nueva. Doble progresión dentro del rango; subir peso cuando las 3 series tocan el techo
 > con todas a RPE ≤ objetivo. Compuestos cap ≤8; aislamientos: última serie a 8.5-9 está OK.
 > 🆕 = ejercicio nuevo: la 1ª sesión es para encontrar el peso (3 series en el piso del rango @ RPE 7).
 
 ### Workout A
 | Ejercicio | Peso inicio | Rango | RPE |
 |---|---|---|---|
-| Incline DB Press | 30 kg (**test**: si la 1ª serie sale ≥8.5 → 24-25 × 3×10 y se re-escala) | 3×6-12 | 7-8 |
+| Incline DB Press | 25 kg (24 si no está) → rebote a 30 | 3×8-12 | 7-8 |
 | Chin-Up (+ 2 aproximaciones) | BW | 3×6-8 → consolidar 3×8 limpio | 7-8 |
 | 🆕 Seated Cable Row | a encontrar | 3×10-12 | 7-8 |
 | Leg Extension | 84 kg | 3×12-15 | 8 |
@@ -223,19 +225,19 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 ### Workout B
 | Ejercicio | Peso inicio | Rango | RPE |
 |---|---|---|---|
-| OHP (Barbell) | 47.5 kg (45 si el B 30/10 sale pesado) | 3×6-8 | 7-8 |
-| Pendlay Row (Barbell) | 70 kg | 3×8-10 → 72.5 | 7-8 |
-| Lying Leg Curl | siguiente placa sobre 49 (cerró 3×12) | 3×10-12 | 8 |
-| Suitcase Carry | 24 kg | 3×45-60" | — |
-| Weighted Dips | 15 kg | 3×10-12 → 17.5 | 7-8 (última 8.5 OK) |
-| Hanging Leg Raise | BW | 3×12-15 | 7-8 |
+| OHP (Barbell) | 42.5 kg → 45 → rebote a 47.5 | 3×6-8 | 7-8 |
+| Pendlay Row (Barbell) | 67.5 kg → rebote a 70 | 3×8-10 → 72.5 | 7-8 |
+| Lying Leg Curl | 49 kg (no se hizo en la re-entrada) → 3×12 → siguiente placa | 3×10-12 | 8 |
+| Suitcase Carry | 22 kg → 24 (30/10: 20 × 60" ✅) | 3×45-60" | — |
+| Weighted Dips | 12.5 kg → rebote a 15 | 3×10-12 → 17.5 | 7-8 (última 8.5 OK) |
+| Hanging Leg Raise | BW (30/10: 3×10) | 3×10-15 | 7-8 |
 | 🆕 Cable Lateral Raise (1 brazo) | a encontrar | 3×12-15 | 8 (última 9) |
 
 ### Extra (Domingo)
 | Ejercicio | Peso inicio | Rango | RPE |
 |---|---|---|---|
 | Pull-Up — SIEMPRE 1º (+ 2 aproximaciones) | BW | 3×6-8 | 7-8 |
-| Bench Press | 72.5 kg | 3×8-10 → 3×10 limpio → 75 | 7-8 |
+| Bench Press | 67.5-70 kg (según el 01/11) → rebote a 72.5 | 3×8-10 → 3×10 limpio → 75 | 7-8 |
 | Leg Extension (superset con lateral) | 84 kg | 3×12-15 | 8 (saltear si el partido dejó las piernas cargadas) |
 | 🆕 Cable Lateral Raise (1 brazo) | el del B | 3×12-15 | 8 (última 9) |
 | Preacher Curl | 31.5 kg | 3×10-12 | 8 (última 9) |

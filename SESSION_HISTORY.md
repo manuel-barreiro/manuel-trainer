@@ -13,6 +13,38 @@
 
 # RE-ENTRADA post-viaje USA (25/10 → 01/11/2026 — NO es progresión; Meso 4 arranca 02/11)
 
+## ✅ Workout B — Viernes 30/10/2026 (RE-ENTRADA, sesión 3 de 4 — 3 series, RPE cap 7)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Overhead Press (Barbell) | 40 kg | 8 / 8 / 8 | 7 / 7 / 8 |
+| Pendlay Row (Barbell) | 65 kg | 8 / 8 / 8 | 7.5 / 7.5 / 7.5 |
+| Suitcase Carry | 20 kg | 3 × 60" | time-based |
+| Triceps Dip (Weighted) | 10 kg | 9 / 9 / 9 | 7 / 7.5 / 8 |
+| Hanging Leg Raise | BW | 10 / 10 / 10 | 7.5 / 7.5 / 8 |
+| Lying Leg Curl | — | no registrado (¿salteado por el partido del sábado?) | — |
+
+🔗 hevy.com/workout/7e3ff9b8-705d-42a9-b9eb-50b9e6fc7b4e
+
+**Lecturas — el dato de la re-entrada: los EMPUJES perdieron ~12-15%, la TRACCIÓN ~8%:**
+| Lift | Cierre Meso 3 (e1RM aprox.) | Re-entrada (e1RM aprox.) | Δ |
+|---|---|---|---|
+| OHP | 47.5 × 7 @ 7.5 (~62) | 40 × 8 @ 8 (~53) | -15% |
+| Incline DB (28/10) | 30 × 7 @ 8 (~39) | 24 × 11 @ 9 (~34) | -13% |
+| Bench (25/10) | 72.5 × 10 @ 8.5 (~100) | 65 × 8 @ 7 (~89) | -12% |
+| Dips (BW+lastre) | +15 × 11 @ 8.5 | +10 × 9 @ 8 | ~-12% |
+| Pendlay Row | 70 × 9 @ 8 (~96) | 65 × 8 @ 7.5 (~88) | -8% |
+
+(e1RM por Epley con RIR; con series a RPE 6-8 es una estimación conservadora.)
+- Es desentrenamiento de 3 semanas + bronquitis, no pérdida de músculo real: la fuerza vuelve en
+  1-3 semanas (precedente julio: ~1 semana). **Consecuencia:** el Meso 4 arranca ~1 escalón abajo
+  del cierre en los empujes, con **regla de rebote** (ver CURRENT_PLAN) para volver rápido.
+- **OHP:** eligió 40 de entrada (pautado 42.5 con fallback a 40) e hizo 8 en vez de 7 — 3ª a 8.
+- **Row 65 × 3×8 @ 7.5** parejo (pautado 62.5 @ 7) · **Suitcase 20 × 60"** ✅ · **Dips 10 × 3×9** ✅ ·
+  **HLR 3×10** (pre-viaje 3×13).
+
+---
+
 ## ✅ Workout A — Miércoles 28/10/2026 (RE-ENTRADA, sesión 2 de 4 — 3 series, RPE cap 7)
 
 | Ejercicio | Peso | Reps | RPE |
