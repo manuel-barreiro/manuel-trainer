@@ -143,7 +143,7 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 | Wrist Curl | 15 kg | 2×12 | 7 |
 | Crunch (Weighted) + Oblique (opcional) | 10 kg / BW | 2×12 | 7 |
 
-### 2 · Workout A — Mié 28/10 (~90%, 3 series, RPE 7 — 2 series si el pecho sigue cargado)
+### 2 · Workout A — Mié 28/10 (~90%, 3 series, RPE 7 — 2 series si el pecho sigue cargado) ✅ HECHA (incline se fue a 9 por sumar reps)
 | Ejercicio | Peso | Series×Reps | RPE cap |
 |---|---|---|---|
 | Incline DB Press | 25 kg | 3×10 | 7 |
@@ -169,9 +169,9 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 |---|---|---|---|
 | Pull-Up (1º, + 2 aproximaciones) | BW | 3×6 | 8 |
 | Bench Press | 70 kg | 3×8 | 7-8 |
-| Leg Extension | 84 kg | 3×12 | 7 (piernas del partido; saltear si están cargadas) |
+| Leg Extension | 77 kg | 3×12 | 7 (28/10 dio 7.5 a 77; piernas del partido; saltear si están cargadas) |
 | Lateral Raise (DB) | 12.5 kg | 3×14 | 8 |
-| Preacher Curl | 29 kg | 3×10 | 8 |
+| Preacher Curl | 31.5 kg | 3×10 | 8 (28/10: 29 × 3×12 @ ≤8 → peso de cierre) |
 | Overhead Triceps Ext (polea habitual) | 30 kg | 3×10 | 8 |
 | Wrist Curl | 15 kg | 3×14 | 8 |
 | Crunch (Weighted) + Oblique (opcional) | 12.5 kg / BW | 3×12 | 7-8 |

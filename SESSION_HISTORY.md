@@ -13,6 +13,35 @@
 
 # RE-ENTRADA post-viaje USA (25/10 → 01/11/2026 — NO es progresión; Meso 4 arranca 02/11)
 
+## ✅ Workout A — Miércoles 28/10/2026 (RE-ENTRADA, sesión 2 de 4 — 3 series, RPE cap 7)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Incline DB Press | 24 kg | 11 / 11 / 11 | 7.5 / 8 / 9 ⚠️ |
+| Chin-Up (con calentamiento) | BW | 6 / 6 / 6 | 7 / 7.5 / 8 |
+| Leg Extension | 77 kg | 12 / 12 / 12 | 7.5 / 7.5 / 7.5 |
+| OH Single Carry | 20 kg | 3 × 55" | time-based |
+| Preacher Curl (Barbell) — *en lugar del Seated Incline Curl* | 29 kg | 12 / 12 / 12 | 7.5 / 7.5 / 8 |
+| Rear Delt Reverse Fly (DB) | 10 kg | 12 / 12 / 12 | 7 / 7.5 / 7.5 |
+| Ab Wheel | BW | 12 / 12 / 12 | 7.5 / 8.5 / 8.5 |
+
+🔗 hevy.com/workout/nSab2NZwLKz
+
+**Lecturas:**
+- **⚠️ Incline 24 × 3×11 con la 3ª a 9** — pautado 25 × 3×10 @ ≤7. Sumó una rep por serie y la 3ª
+  se fue a 9: el patrón conocido (al sumar una rep, la 3ª se dispara). Además es el lift que más
+  perdió: ~34 kg de 1RM estimado vs ~39 al cierre (30 × 7 @ 8). Parte es parate + bronquitis.
+  → Meso 4: el 30 se testea en la 1ª serie; si sale ≥8.5, el bloque arranca en 24-25 × 3×10.
+- **✅ Chin-Up 3×6 @ 7/7.5/8** — clavado.
+- **Leg Ext 77 × 3×12 @ 7.5** parejo — sigue ½ punto arriba → el domingo (post-partido) se queda en 77.
+- **Preacher 29 × 3×12 @ ≤8** (hizo preacher en vez del incline curl) — rinde por encima del cierre
+  (31.5 × 3×10) → el domingo va 31.5 × 3×10.
+- **OH Carry 20 × 55"** ✅ (pautado 50") · **Rear Delt 10 × 3×12 @ ≤7.5** ✅.
+- **Ab Wheel 3×12 @ 7.5/8.5/8.5** — más duro que antes del viaje (3×18 @ ≤8). El core es lo que más
+  se resintió (¿tos?). En el Meso 4 primero recuperar reps, después sumar dificultad.
+
+---
+
 ## ✅ Extra — Domingo 25/10/2026 (RE-ENTRADA, sesión 1 de 4 — 2 series, RPE cap 6-7)
 
 > Primera sesión tras 3 semanas sin gym (viaje USA 05-24/10). Volvió el 24/10 tras 24 hs de viaje,
