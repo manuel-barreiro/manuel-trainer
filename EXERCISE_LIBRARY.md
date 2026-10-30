@@ -73,8 +73,8 @@ Arnold Press              [ ]
 Seated Machine Press      [ ]
 Landmine Press            [ ]
 Lateral Raise (DB)        [YES] — en superset con Leg Extension (Extra)
-Lateral Raise (cable)     [ ]
-Rear Delt Fly (DB)        [ ]
+Lateral Raise (cable)     [YES] — Meso 4: días B y Extra (reemplaza al DB)
+Rear Delt Fly (DB)        [YES] — Día A desde Meso 3
 Rear Delt Fly (machine)   [ ]
 Face Pull (cable)         [ ]
 
@@ -84,7 +84,7 @@ UPPER BODY — PULL (HORIZONTAL)
 
 Barbell Bent Over Row     [SUB] — reemplazado por Pendlay Row en el Día B
 Dumbbell Row              [ ]
-Cable Row (seated)        [ ]
+Cable Row (seated)        [YES] — Día A desde Meso 4 (tracción horizontal extra)
 Machine Row               [ ]
 Chest Supported Row       [ ]
 Meadows Row               [ ]
@@ -108,13 +108,13 @@ ARMS
 
 Barbell Curl              [YES] — Bicep Curl del Extra (bloque actual)
 Dumbbell Curl             [YES] — histórico (superset con Ab Wheel pre-lesión)
-Incline Dumbbell Curl     [ ]
+Incline Dumbbell Curl     [YES] — Seated Incline Curl, Día A desde Meso 3
 Cable Curl                [ ]
 Hammer Curl               [YES] — Día A (bloque actual)
-Preacher Curl (machine)   [ ]
+Preacher Curl (machine)   [YES] — (barra) Extra desde Meso 3
 Close Grip Bench Press    [ ]
 Tricep Pushdown (cable)   [YES] — Tricep Curl, ejercicio del Extra
-Overhead Tricep Ext (cable)[ ]
+Overhead Tricep Ext (cable)[YES] — Extra desde Meso 3 (anotar qué polea)
 Skull Crushers            [ ]
 Dips (tricep)             [YES] — con lastre, en superset con Leg Raise (Día B)
 Wrist Curl (DB)           [YES] — antebrazo, Extra (añadido)
