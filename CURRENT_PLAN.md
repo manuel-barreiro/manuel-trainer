@@ -7,22 +7,10 @@
 ## Estado del mesociclo
 - **🏁 MESOCICLO 3 CERRADO (14/09 → 04/10).** 12/12 sesiones. Ver RESUMEN en SESSION_HISTORY.md.
 - **✈️ VIAJE A USA 05/10 → 24/10 (~3 semanas, sin gym)** = break / deload largo. Volvió el 24/10.
-- **AHORA: RE-ENTRADA (dom 25/10 → dom 01/11)** — volvió del viaje (24 hs, Los Ángeles) con
-  **bronquitis/moco**, pero se sintió bien y arrancó el domingo 25 (Bevel 25/10: recovery 73%,
-  sueño 85%). Detalle sesión por sesión en **"Rutinas de la re-entrada"** más abajo.
-  **Dom 25 Extra · Lun 26 descanso · Mié 28 A · Vie 30 B · Dom 01/11 Extra.**
-  - Lunes 26 libre a propósito: la primera sesión después de 3 semanas da el DOMS más fuerte
-    del ciclo y el A repite pecho/espalda/bíceps del Extra.
-  - **Chequeo antes de cada sesión:** sin fiebre, sin pecho cerrado y con la tos que no empeora →
-    entrena. Si algo de eso aparece → ese día no, se corre la sesión. Si la tos de pecho sigue
-    más de ~1 semana o hay fiebre → médico. Fútbol del martes 27: mejor saltearlo.
-  - Escalera de carga: sesión 1 ~85-90% de los pesos de cierre, 2 series, RPE 6-7 → sesiones
-    2-3 ~90%, 3 series, RPE 7 → Extra 01/11 ~95%, 3 series, RPE 7-8 (puente al Meso 4).
-  - **Autorregulación:** si un ejercicio sale a RPE ≤6, en la próxima sesión de ese ejercicio se
-    va directo al peso de cierre. No cazar PRs ni sumar series. Nada de esto cuenta para la progresión.
-  - Precedente (julio): Manuel tiende a empujar a RPE 8 en la re-entrada y re-agarró en ~1 semana.
-    Esta vez el cap de RPE 7 va en serio: lo que se gana apurando son 3-4 días y lo que se arriesga
-    es arrancar el Meso 4 con DOMS y fatiga.
+- **AHORA: MESOCICLO 4, semana 1 (lun 02/11 → dom 08/11): A·B·A·Extra.**
+- **✅ Re-entrada post-viaje CERRADA (25/10 → 01/11):** 4 sesiones (Extra · A · B · Extra), con
+  bronquitis/moco sin rebote. Brazos y aislamientos volvieron al cierre; empujes ~10-15% abajo,
+  tracción ~8%. 🚩 Pull-up 01/11 con la 3ª a RPE 10 → arranca el Meso 4 en 3×5. Detalle en SESSION_HISTORY.
 - **MESOCICLO 4 — lun 02/11 → dom 13/12** (6 semanas, la 6ª = deload). **Diseño aprobado por
   Manuel el 30/10** — ver "Rutinas del Mesociclo 4" más abajo. Cambios vs Meso 3:
   - **+ Seated Cable Row en el A** (hueco de tracción horizontal: el row estaba solo en el B →
@@ -185,7 +173,7 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 | Weighted Dips | 10 kg | 3×9 | 7 |
 | Hanging Leg Raise | BW | 3×10 | 7 |
 
-### 4 · Extra — Dom 01/11 (~95%, 3 series, RPE 7-8, puente al Meso 4)
+### 4 · Extra — Dom 01/11 (~95%, 3 series, RPE 7-8, puente al Meso 4) ✅ HECHA (pull-up 3ª a RPE 10 🚩)
 | Ejercicio | Peso | Series×Reps | RPE cap |
 |---|---|---|---|
 | Pull-Up (1º, + 2 aproximaciones) | BW | 3×6 | 8 |
@@ -216,7 +204,7 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 | Incline DB Press | 25 kg (24 si no está) → rebote a 30 | 3×8-12 | 7-8 |
 | Chin-Up (+ 2 aproximaciones) | BW | 3×6-8 → consolidar 3×8 limpio | 7-8 |
 | 🆕 Seated Cable Row | a encontrar | 3×10-12 | 7-8 |
-| Leg Extension | 84 kg | 3×12-15 | 8 |
+| Leg Extension | 77 kg (01/11: 3×12 @ 7.5-8) → 84 | 3×12-15 | 8 |
 | OH Single Carry | 22 kg | 3×50-60" | — |
 | Seated Incline Curl (DB) | 14 kg | 3×10-12 | 8 (última 9) |
 | Rear Delt Reverse Fly (DB) | 12 kg (cerró 10 × 3×15) | 3×12-15 | 8 (última 9) |
@@ -236,14 +224,14 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 ### Extra (Domingo)
 | Ejercicio | Peso inicio | Rango | RPE |
 |---|---|---|---|
-| Pull-Up — SIEMPRE 1º (+ 2 aproximaciones) | BW | 3×6-8 | 7-8 |
-| Bench Press | 67.5-70 kg (según el 01/11) → rebote a 72.5 | 3×8-10 → 3×10 limpio → 75 | 7-8 |
-| Leg Extension (superset con lateral) | 84 kg | 3×12-15 | 8 (saltear si el partido dejó las piernas cargadas) |
+| Pull-Up — SIEMPRE 1º (+ 2 aproximaciones) | BW — 🚩 01/11 la 3ª a RPE 10 | **3×5** con las 3 a ≤8 → 3×6-8 | ≤8 estricto |
+| Bench Press | 67.5 kg (01/11: 3×8 @ ≤8) → rebote a 72.5 | 3×8-10 → 3×10 limpio → 75 | 7-8 |
+| Leg Extension (superset con lateral) | 77 kg → 84 | 3×12-15 | 8 (saltear si el partido dejó las piernas cargadas) |
 | 🆕 Cable Lateral Raise (1 brazo) | el del B | 3×12-15 | 8 (última 9) |
 | Preacher Curl | 31.5 kg | 3×10-12 | 8 (última 9) |
-| Overhead Triceps Ext (**polea habitual**) | 30-32.5 kg (según el 01/11) | 3×10-12 | 8 (última 9) |
+| Overhead Triceps Ext (**polea habitual**) | 30 kg (01/11: 12/12/10) → 3×12 → 32.5 | 3×10-12 | 8 (última 9) |
 | Wrist Curl | 17.5 kg | 3×12-15 | 8 (última 9) |
-| Crunch (Weighted) + Oblique | 15 kg / BW | 3×12-15 | 7-8 |
+| Crunch (Weighted) + Oblique | 15 kg (01/11: 3×15 @ ≤8) → 17.5 / BW | 3×12-15 | 7-8 |
 
 ## Decisiones abiertas
 1. ~~**Chin-Up — post-lesión de mano + corre hot.**~~ → **RESUELTA (confirmada por Manuel,

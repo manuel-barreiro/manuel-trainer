@@ -13,6 +13,39 @@
 
 # RE-ENTRADA post-viaje USA (25/10 → 01/11/2026 — NO es progresión; Meso 4 arranca 02/11)
 
+## ✅ Extra — Domingo 01/11/2026 (RE-ENTRADA, sesión 4 de 4 — 🏁 CIERRA LA RE-ENTRADA)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Pull-Up (1º, con calentamiento) | BW | 6 / 6 / 6 | 7.5 / 8 / **10** 🚩 |
+| Bench Press (Barbell) | 67.5 kg | 8 / 8 / 8 | 7 / 7.5 / 8 |
+| Leg Extension | 77 kg | 12 / 12 / 12 | 7.5 / 8 / 8 |
+| Lateral Raise (DB) | 12.5 kg | 13 / 13 / 13 | 7.5 / 7.5 / 8 |
+| Preacher Curl (Barbell) | 31.5 kg | 10 / 10 / 10 | 7 / 7.5 / 8 |
+| Overhead Triceps Ext (Cable, polea habitual) | 30 kg | 12 / 12 / 10 | 7 / 8 / 8.5 |
+| Seated Palms Up Wrist Curl | 15 kg | 15 / 15 / 14 | 7 / 7.5 / 8 |
+| Crunch (Weighted) | 15 kg | 15 / 15 / 15 | 7 / 7.5 / 8 |
+| Oblique Crunch | BW | 15 / 15 / 15 | 6 / 7 / 7.5 |
+
+🔗 hevy.com/workout/646164b6-c537-424d-b2a7-867b0d6823e5
+
+**Lecturas:**
+- **🚩 Pull-Up 3ª serie a RPE 10** (6/6/6 @ 7.5/8/10) — fallo en un compuesto, fuera de la regla. Pre-viaje
+  la 3ª iba a 8.5. Es el lift más "hot" del programa y la regla dice que es lo primero que se recorta.
+  → Meso 4: **3×5** con las tres a ≤8, recién después 3×6. Si la 3ª se va arriba de 8.5, cortar en 4-5 reps.
+- **✅ Bench 67.5 × 3×8 @ 7/7.5/8** — en cap; e1RM ~90, igual que el 25/10 (~-10% vs cierre). → Meso 4
+  arranca 67.5 sumando reps a 3×10, rebote a 72.5.
+- **Leg Ext 77 × 3×12 @ 7.5/8/8** (post-partido) → el Meso 4 arranca en 77, no en 84.
+- **✅ Brazos de vuelta al cierre:** Preacher 31.5 × 3×10 @ ≤8 · Overhead Tri 30 × 12/12/10 (polea
+  habitual) · Wrist 15 × 15/15/14 · Crunch subió solo a 15 kg × 3×15.
+
+### 🏁 Cierre de la re-entrada (25/10 → 01/11)
+4 sesiones (Extra · A · B · Extra), sin rebotes de la bronquitis. **Aislamientos y brazos volvieron
+al nivel de cierre en una semana; los empujes quedaron ~10-15% abajo y la tracción ~8%.** El Meso 4
+arranca un escalón abajo en esos lifts con regla de rebote al peso de cierre.
+
+---
+
 ## ✅ Workout B — Viernes 30/10/2026 (RE-ENTRADA, sesión 3 de 4 — 3 series, RPE cap 7)
 
 | Ejercicio | Peso | Reps | RPE |
