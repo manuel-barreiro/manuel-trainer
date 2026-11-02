@@ -11,6 +11,34 @@
 
 ---
 
+# BLOQUE ACTUAL — Mesociclo 4 (arrancó LUNES 02/11/2026)
+
+## ✅ Workout A — Lunes 02/11/2026 (Meso 4, semana 1 — sesión 1)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Incline DB Press | 25 kg | 10 / 10 / 10 | 7 / 7.5 / 8 ✅ |
+| Chin-Up (con calentamiento) | BW | 6 / 6 / 6 | 7 / 7.5 / 8 ✅ |
+| Lying Leg Curl (Machine) — *en lugar de la Leg Extension* | 42 kg (¿o pre-llenado de Hevy?) | 12 / 12 / 12 | 7 / 7 / 7.5 |
+| 🆕 Seated Cable Row (V Grip) | 45 kg | 10 / 10 / 10 | 6 / 7 / 7 |
+| OH Single Carry | 20 kg | 3 × 55" | time-based |
+| Seated Incline Curl (DB) | 14 kg | 10 / 10 / 10 | 7.5 / 8 / 8.5 |
+| Rear Delt Reverse Fly (DB) | 12 kg 🔼 | 12 / 12 / 12 | 7.5 / 8 / 8.5 |
+| Ab Wheel | BW | 12 / 12 / 12 | 7 / 7.5 / 8 |
+
+🔗 hevy.com/workout/087588da-8801-470c-b220-8a7a7edfc2b3
+
+**Lecturas (primera sesión del bloque, todo en cap):**
+- **✅ Incline 25 × 3×10 @ 7/7.5/8** — respetó el techo de reps esta vez y la 3ª quedó en 8 → 3×11.
+- **✅ Chin-Up 3×6 @ 7/7.5/8** — limpio, un día después del pull-up al fallo → 3×7.
+- **🆕 Seated Cable Row V-grip 45 × 3×10 @ 6/7/7** — peso encontrado, con margen → 45 × 3×12 → 50.
+- **✅ Rear Delt 12 kg × 3×12** — el peso nuevo entró (3ª a 8.5, aislamiento) → 3×13.
+- **Incline Curl 14 × 3×10** (3ª a 8.5) → 3×11 · **Ab Wheel 3×12 @ ≤8** (mejor que el 28/10) → 3×13.
+- **⚠️ Hizo Leg Curl en vez de Leg Extension, y con 42 (no 49)** — pendiente confirmar por qué
+  (¿máquina ocupada?) y si el 42 es real o el pre-llenado de Hevy. · **OH Carry 20 × 55"** (pautado 22).
+
+---
+
 # RE-ENTRADA post-viaje USA (25/10 → 01/11/2026 — NO es progresión; Meso 4 arranca 02/11)
 
 ## ✅ Extra — Domingo 01/11/2026 (RE-ENTRADA, sesión 4 de 4 — 🏁 CIERRA LA RE-ENTRADA)
