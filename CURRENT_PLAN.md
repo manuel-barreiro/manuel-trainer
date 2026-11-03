@@ -17,6 +17,12 @@
     3 series en semanas A·B·A). Ahora ~9 series/semana de remo en cualquier semana.
   - **Lateral Raise pasa a polea y se suma al B** (hombro lateral tenía 3 series directas/semana →
     6-9). En el Extra también va en polea.
+  - **🦵 Pierna alternada por DÍA DE SEMANA, no por rutina (idea de Manuel, 03/11):** Lun y Vie =
+    **Leg Curl** · Mié y Dom = **Leg Extension**, toque lo que toque (A, B o Extra). Antes, con
+    A·B·A, el cuádriceps tenía 9 series/semana y el isquio 3; ahora 6 y 6 todas las semanas. El
+    isquio es además el músculo que más se lesiona en el fútbol. Leg curl del viernes (día antes
+    del partido) con cap 8 estricto, nunca al fallo. Leg ext del domingo: saltear si el partido dejó
+    las piernas cargadas.
   - **Ab Wheel:** primero recuperar reps (28/10 dio 3×12 @ hasta 8.5 vs 3×18 pre-viaje), recién
     con 3×15 limpio se suma dificultad (más recorrido / pausa).
   - Se quedan: accesorios del Meso 3 (solo tuvieron 3 semanas y progresan), compuestos (todos
@@ -204,8 +210,8 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 | Incline DB Press | 25 kg (24 si no está) → rebote a 30 | 3×8-12 | 7-8 |
 | Chin-Up (+ 2 aproximaciones) | BW | 3×6-8 → consolidar 3×8 limpio | 7-8 |
 | Seated Cable Row (V grip) | 45 kg (02/11: 3×10 @ ≤7) → 3×12 → 50 | 3×10-12 | 7-8 |
-| Leg Extension | 77 kg (01/11: 3×12 @ 7.5-8) → 84 | 3×12-15 | 8 |
-| OH Single Carry | 22 kg | 3×50-60" | — |
+| 🦵 Pierna del día (Lun/Vie: Leg Curl · Mié: Leg Extension) | curl 49 · ext 77 → 84 | 3×10-12 curl · 3×12-15 ext | 8 |
+| OH Single Carry | 20 kg → 60" → 22 (cuando Manuel se sienta listo) | 3×50-60" | — |
 | Seated Incline Curl (DB) | 14 kg | 3×10-12 | 8 (última 9) |
 | Rear Delt Reverse Fly (DB) | 12 kg (cerró 10 × 3×15) | 3×12-15 | 8 (última 9) |
 | Ab Wheel | BW | 3×12-15 → recién ahí más dificultad | 7-8 |
@@ -215,7 +221,7 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 |---|---|---|---|
 | OHP (Barbell) | 42.5 kg → 45 → rebote a 47.5 | 3×6-8 | 7-8 |
 | Pendlay Row (Barbell) | 67.5 kg → rebote a 70 | 3×8-10 → 72.5 | 7-8 |
-| Lying Leg Curl | 49 kg (no se hizo en la re-entrada) → 3×12 → siguiente placa | 3×10-12 | 8 |
+| 🦵 Pierna del día (Lun/Vie: Leg Curl · Mié: Leg Extension) | curl 49 → 3×12 → siguiente placa · ext 77 → 84 | 3×10-12 curl · 3×12-15 ext | 8 |
 | Suitcase Carry | 22 kg → 24 (30/10: 20 × 60" ✅) | 3×45-60" | — |
 | Weighted Dips | 12.5 kg → rebote a 15 | 3×10-12 → 17.5 | 7-8 (última 8.5 OK) |
 | Hanging Leg Raise | BW (30/10: 3×10) | 3×10-15 | 7-8 |
@@ -226,7 +232,7 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 |---|---|---|---|
 | Pull-Up — SIEMPRE 1º (+ 2 aproximaciones) | BW — 🚩 01/11 la 3ª a RPE 10 | **3×5** con las 3 a ≤8 → 3×6-8 | ≤8 estricto |
 | Bench Press | 67.5 kg (01/11: 3×8 @ ≤8) → rebote a 72.5 | 3×8-10 → 3×10 limpio → 75 | 7-8 |
-| Leg Extension (superset con lateral) | 77 kg → 84 | 3×12-15 | 8 (saltear si el partido dejó las piernas cargadas) |
+| Leg Extension (superset con lateral — el domingo siempre ext) | 77 kg → 84 | 3×12-15 | 8 (saltear si el partido dejó las piernas cargadas) |
 | 🆕 Cable Lateral Raise (1 brazo) | el del B | 3×12-15 | 8 (última 9) |
 | Preacher Curl | 31.5 kg | 3×10-12 | 8 (última 9) |
 | Overhead Triceps Ext (**polea habitual**) | 30 kg (01/11: 12/12/10) → 3×12 → 32.5 | 3×10-12 | 8 (última 9) |

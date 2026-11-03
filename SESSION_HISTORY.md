@@ -34,8 +34,10 @@
 - **🆕 Seated Cable Row V-grip 45 × 3×10 @ 6/7/7** — peso encontrado, con margen → 45 × 3×12 → 50.
 - **✅ Rear Delt 12 kg × 3×12** — el peso nuevo entró (3ª a 8.5, aislamiento) → 3×13.
 - **Incline Curl 14 × 3×10** (3ª a 8.5) → 3×11 · **Ab Wheel 3×12 @ ≤8** (mejor que el 28/10) → 3×13.
-- **⚠️ Hizo Leg Curl en vez de Leg Extension, y con 42 (no 49)** — pendiente confirmar por qué
-  (¿máquina ocupada?) y si el 42 es real o el pre-llenado de Hevy. · **OH Carry 20 × 55"** (pautado 22).
+- **Leg Curl en vez de Leg Extension — a propósito (Manuel, 03/11):** venía de 4 sesiones seguidas con
+  extensión y 5 semanas sin curl. Origina la regla nueva: pierna alternada por día de semana (ver
+  CURRENT_PLAN). 42 × 3×12 @ ≤7.5 real → próximo curl (vie 06/11) a 49.
+- **OH Carry 20 × 55"** (pautado 22) — eligió 20 porque todavía le cuesta: OK, 22 cuando esté listo.
 
 ---
 
