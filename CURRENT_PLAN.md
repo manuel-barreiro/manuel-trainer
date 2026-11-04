@@ -95,7 +95,7 @@
 ### Calendario Meso 4 (lun→dom) — 02/11 → 13/12
 | Semana | Fechas | Patrón · foco |
 |---|---|---|
-| **1** | 02/11 → 08/11 | A ✅ (02/11) · B (04/11) · A (06/11) · Extra (08/11) — arranque con regla de rebote |
+| **1** | 02/11 → 08/11 | A ✅ (02/11) · B ✅ (04/11) · A (06/11) · Extra (08/11) — arranque con regla de rebote |
 | **2** | 09/11 → 15/11 | B·A·B·Extra — acumulación (RPE 7-8) |
 | **3** | 16/11 → 22/11 | A·B·A·Extra — acumulación (RPE 8) |
 | **4** | 23/11 → 29/11 | B·A·B·Extra — acumulación (RPE 8) |
@@ -223,9 +223,9 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 | Pendlay Row (Barbell) | 67.5 kg → rebote a 70 | 3×8-10 → 72.5 | 7-8 |
 | 🦵 Pierna del día (Lun/Vie: Leg Curl · Mié: Leg Extension) | curl 49 → 3×12 → siguiente placa · ext 77 → 84 | 3×10-12 curl · 3×12-15 ext | 8 |
 | Suitcase Carry | 22 kg → 24 (30/10: 20 × 60" ✅) | 3×45-60" | — |
-| Weighted Dips | 12.5 kg → rebote a 15 | 3×10-12 → 17.5 | 7-8 (última 8.5 OK) |
+| Weighted Dips | 10 kg (04/11: 11/11/9) → 12.5 → rebote a 15 | 3×10-12 → 17.5 | 7-8 (última 8.5 OK) |
 | Hanging Leg Raise | BW (30/10: 3×10) | 3×10-15 | 7-8 |
-| 🆕 Cable Lateral Raise (1 brazo) | a encontrar | 3×12-15 | 8 (última 9) |
+| Cable Lateral Raise (1 brazo) | 10 kg (04/11: 3×12 @ ≤7.5) | 3×12-15 | 8 (última 9) |
 
 ### Extra (Domingo)
 | Ejercicio | Peso inicio | Rango | RPE |
@@ -233,7 +233,7 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 | Pull-Up — SIEMPRE 1º (+ 2 aproximaciones) | BW — 🚩 01/11 la 3ª a RPE 10 | **3×5** con las 3 a ≤8 → 3×6-8 | ≤8 estricto |
 | Bench Press | 67.5 kg (01/11: 3×8 @ ≤8) → rebote a 72.5 | 3×8-10 → 3×10 limpio → 75 | 7-8 |
 | Leg Extension (superset con lateral — el domingo siempre ext) | 77 kg → 84 | 3×12-15 | 8 (saltear si el partido dejó las piernas cargadas) |
-| 🆕 Cable Lateral Raise (1 brazo) | el del B | 3×12-15 | 8 (última 9) |
+| Cable Lateral Raise (1 brazo) | 10 kg (el del B) | 3×12-15 | 8 (última 9) |
 | Preacher Curl | 31.5 kg | 3×10-12 | 8 (última 9) |
 | Overhead Triceps Ext (**polea habitual**) | 30 kg (01/11: 12/12/10) → 3×12 → 32.5 | 3×10-12 | 8 (última 9) |
 | Wrist Curl | 17.5 kg | 3×12-15 | 8 (última 9) |

@@ -13,6 +13,31 @@
 
 # BLOQUE ACTUAL — Mesociclo 4 (arrancó LUNES 02/11/2026)
 
+## ✅ Workout B — Miércoles 04/11/2026 (Meso 4, semana 1 — sesión 2)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Overhead Press (Barbell) | 42.5 kg | 7 / 7 / 7 | 7 / 7 / 7.5 ✅ |
+| Pendlay Row (Barbell) | 67.5 kg | 8 / 8 / 8 | 7.5 / 8 / 8 ✅ |
+| 🆕 Single Arm Lateral Raise (Cable) | 10 kg | 12 / 12 / 12 | 7 / 7.5 / 7.5 |
+| Leg Extension (pierna del miércoles) | 77 kg | 13 / 13 / 13 | 7 / 7 / 7 |
+| Suitcase Carry | 20 kg | 3 × 60" | time-based |
+| Triceps Dip (Weighted) | 10 kg | 11 / 11 / 9 | 7.5 / 8 / 8.5 |
+| Hanging Leg Raise | BW | 11 / 11 / 11 | 7.5 / 8 / 8.5 |
+
+🔗 hevy.com/workout/7fdcdf9d-c46f-4f8d-a1d8-8f31d037105c
+
+**Lecturas (sesión limpia, respetó reps en los compuestos):**
+- **✅ OHP 42.5 × 3×7 @ 7/7/7.5** — sobrado, la fuerza vuelve rápido (el 30/10 40 × 8 ya era 8) →
+  42.5 × 3×8 y, si sale limpio, **rebote a 47.5**.
+- **✅ Row 67.5 × 3×8 @ ≤8** — en cap → 3×9.
+- **🆕 Cable Lateral 10 kg × 3×12 @ ≤7.5** — peso encontrado → 3×13-14.
+- **✅ Leg Ext 77 × 3×13 @ 7 parejo** (post-fútbol) → **rebote a 84** el domingo (saltear si el partido pesa).
+- **Dips +10 (pautado +12.5) × 11/11/9 @ hasta 8.5** — la 3ª cayó a 9 → +10 × 3×11 limpio, después 12.5.
+- **HLR 3×11 @ ≤8.5** → 3×12 · **Suitcase 20 × 60"** ✅ (22 cuando Manuel lo sienta).
+
+---
+
 ## ✅ Workout A — Lunes 02/11/2026 (Meso 4, semana 1 — sesión 1)
 
 | Ejercicio | Peso | Reps | RPE |
