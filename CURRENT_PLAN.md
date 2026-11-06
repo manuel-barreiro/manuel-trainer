@@ -95,7 +95,7 @@
 ### Calendario Meso 4 (lun→dom) — 02/11 → 13/12
 | Semana | Fechas | Patrón · foco |
 |---|---|---|
-| **1** | 02/11 → 08/11 | A ✅ (02/11) · B ✅ (04/11) · A (06/11) · Extra (08/11) — arranque con regla de rebote |
+| **1** | 02/11 → 08/11 | A ✅ (02/11) · B ✅ (04/11) · A ✅ (06/11) · Extra (08/11) — arranque con regla de rebote |
 | **2** | 09/11 → 15/11 | B·A·B·Extra — acumulación (RPE 7-8) |
 | **3** | 16/11 → 22/11 | A·B·A·Extra — acumulación (RPE 8) |
 | **4** | 23/11 → 29/11 | B·A·B·Extra — acumulación (RPE 8) |
@@ -207,13 +207,13 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 ### Workout A
 | Ejercicio | Peso inicio | Rango | RPE |
 |---|---|---|---|
-| Incline DB Press | 25 kg (24 si no está) → rebote a 30 | 3×8-12 | 7-8 |
-| Chin-Up (+ 2 aproximaciones) | BW | 3×6-8 → consolidar 3×8 limpio | 7-8 |
-| Seated Cable Row (V grip) | 45 kg (02/11: 3×10 @ ≤7) → 3×12 → 50 | 3×10-12 | 7-8 |
+| Incline DB Press | 25 kg (06/11: 3×11, 3ª a 8.5 → consolidar) → rebote a 30 | 3×8-12 | 7-8 |
+| Chin-Up (+ 2 aproximaciones) | BW — ⚠️ 06/11: 3×7 @ 7.5/8.5/9 → **7/6/6** | 3×6-8 → consolidar 3×8 limpio | ≤8 estricto |
+| Seated Cable Row (V grip) | **50 kg** (06/11: 45 × 3×12 @ ≤7.5 ✅) | 3×10-12 | 7-8 |
 | 🦵 Pierna del día (Lun/Vie: Leg Curl · Mié: Leg Extension) | curl 49 · ext 77 → 84 | 3×10-12 curl · 3×12-15 ext | 8 |
 | OH Single Carry | 20 kg → 60" → 22 (cuando Manuel se sienta listo) | 3×50-60" | — |
 | Seated Incline Curl (DB) | 14 kg | 3×10-12 | 8 (última 9) |
-| Rear Delt Reverse Fly (DB) | 12 kg (cerró 10 × 3×15) | 3×12-15 | 8 (última 9) |
+| Rear Delt Reverse Fly (DB) | 14 kg (06/11: 3×10 @ ≤8.5) | 3×10-15 | 8 (última 9) |
 | Ab Wheel | BW | 3×12-15 → recién ahí más dificultad | 7-8 |
 
 ### Workout B
