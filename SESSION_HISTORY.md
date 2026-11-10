@@ -15,7 +15,7 @@
 
 ## ⏸️ Pinamar — sáb 07/11 → lun 09/11 (sin gym)
 
-Se perdieron el Extra del 08/11 y el B del 09/11. Semana 2 rearmada: Extra mar 10 · B vie 13 · A dom 15.
+Se perdieron el Extra del 08/11 y el B del 09/11. Semana 2 rearmada: Extra mar 10 · B mié 11 · A vie 13 · Extra dom 15.
 
 ---
 
