@@ -13,6 +13,34 @@
 
 # BLOQUE ACTUAL — Mesociclo 4 (arrancó LUNES 02/11/2026)
 
+## ✅ Extra — Martes 10/11/2026 (Meso 4, semana 2 — primer Extra del bloque, post-Pinamar)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Pull-Up (1º, con calentamiento) | BW | 5 / 5 / 5 | 7 / 7.5 / 8 ✅ |
+| Bench Press (Barbell) | **70 kg** 🔼 (pautado 67.5 × 9) | 9 / 9 / 9 | 7 / 7.5 / 8.5 |
+| Lying Leg Curl (pierna del martes) | 49 kg | 11 / 11 / 11 🔼 | 6 / 7 / 7.5 ✅ |
+| Single Arm Lateral Raise (Cable) | 7.5 kg ⚠️ | 10 / 10 / 10 | 7 / 7.5 / 8.5 |
+| Preacher Curl (Barbell) | 31.5 kg | 11 / 11 / 11 🔼 | 7.5 / 8 / 8.5 |
+| Overhead Triceps Ext (Cable, polea habitual) | 30 kg | 12 / 12 / 12 ✅ | 7 / 7.5 / 8 |
+| Seated Palms Up Wrist Curl | 18 kg 🔼 | 11 / 11 / 11 | 7.5 / 8 / 8 |
+| Crunch (Weighted) | 15 kg | 15 / 15 / 15 | 7 / 8 / 9 |
+| Oblique Crunch | BW | 15 / 15 / 15 | 6 / 7 / 7.5 |
+
+🔗 hevy.com/workout/ebd1751e-534f-40c1-bbef-b099348fd297
+
+**Lecturas (4 días de descanso no restaron nada — buena sesión):**
+- **✅ Pull-Up 3×5 @ 7/7.5/8** — respetó el cap; la curva volvió a la normalidad → 6/5/5.
+- **Bench: subió solo a 70 × 3×9 @ 7/7.5/8.5** — e1RM ~94 (vs ~90 el 01/11): el rebote viene. La 3ª
+  medio punto arriba del cap → consolidar 70 × 3×9 con la 3ª a ≤8 → 3×10 → 72.5.
+- **✅ Leg Curl 49 × 3×11 @ ≤7.5** → 3×12 el viernes.
+- **⚠️ Cable Lateral 7.5 × 3×10** (el 04/11: 10 × 3×12 @ ≤7.5) — ¿otra polea/máquina? Pendiente confirmar.
+- **✅ Overhead Tri 30 × 3×12 @ ≤8** — techo del rango limpio → **32.5 × 3×10**.
+- **Preacher 31.5 × 3×11** (3ª 8.5, aislamiento OK) → 3×12 · **Wrist 18 × 3×11** → 3×12 · **Crunch 15 × 3×15**
+  (3ª a 9, permitido) → 17.5 × 3×12.
+
+---
+
 ## ⏸️ Pinamar — sáb 07/11 → lun 09/11 (sin gym)
 
 Se perdieron el Extra del 08/11 y el B del 09/11. Semana 2 rearmada: Extra mar 10 · B mié 11 · A vie 13 · Extra dom 15.
