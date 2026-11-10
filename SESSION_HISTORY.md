@@ -13,6 +13,12 @@
 
 # BLOQUE ACTUAL — Mesociclo 4 (arrancó LUNES 02/11/2026)
 
+## ⏸️ Pinamar — sáb 07/11 → lun 09/11 (sin gym)
+
+Se perdieron el Extra del 08/11 y el B del 09/11. Semana 2 rearmada: Extra mar 10 · B vie 13 · A dom 15.
+
+---
+
 ## ✅ Workout A — Viernes 06/11/2026 (Meso 4, semana 1 — sesión 3)
 
 | Ejercicio | Peso | Reps | RPE |

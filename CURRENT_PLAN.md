@@ -7,7 +7,10 @@
 ## Estado del mesociclo
 - **🏁 MESOCICLO 3 CERRADO (14/09 → 04/10).** 12/12 sesiones. Ver RESUMEN en SESSION_HISTORY.md.
 - **✈️ VIAJE A USA 05/10 → 24/10 (~3 semanas, sin gym)** = break / deload largo. Volvió el 24/10.
-- **AHORA: MESOCICLO 4, semana 1 (lun 02/11 → dom 08/11): A·B·A·Extra.**
+- **AHORA: MESOCICLO 4, semana 2 (lun 09/11 → dom 15/11) — rearmada por Pinamar.** Último gym vie 06/11
+  (A); se perdieron el Extra 08/11 y el B 09/11 (viaje 07-09/11). Se retoma por la rutina más atrasada
+  y sin bajar pesos (4 días de descanso no desentrenan): **Mar 10 Extra · Vie 13 B · Dom 15 A**. Desde
+  la semana 3 se invierte la paridad (B·A·B / A·B·A) para que no queden dos A seguidos dom→lun.
 - **✅ Re-entrada post-viaje CERRADA (25/10 → 01/11):** 4 sesiones (Extra · A · B · Extra), con
   bronquitis/moco sin rebote. Brazos y aislamientos volvieron al cierre; empujes ~10-15% abajo,
   tracción ~8%. 🚩 Pull-up 01/11 con la 3ª a RPE 10 → arranca el Meso 4 en 3×5. Detalle en SESSION_HISTORY.
@@ -95,12 +98,12 @@
 ### Calendario Meso 4 (lun→dom) — 02/11 → 13/12
 | Semana | Fechas | Patrón · foco |
 |---|---|---|
-| **1** | 02/11 → 08/11 | A ✅ (02/11) · B ✅ (04/11) · A ✅ (06/11) · Extra (08/11) — arranque con regla de rebote |
-| **2** | 09/11 → 15/11 | B·A·B·Extra — acumulación (RPE 7-8) |
-| **3** | 16/11 → 22/11 | A·B·A·Extra — acumulación (RPE 8) |
-| **4** | 23/11 → 29/11 | B·A·B·Extra — acumulación (RPE 8) |
-| **5** | 30/11 → 06/12 | A·B·A·Extra — **pico** |
-| **6** | 07/12 → 13/12 | B·A·B·Extra — **DELOAD** (~50% series, -10% peso, RPE 5-6) |
+| **1** | 02/11 → 08/11 | A ✅ (02/11) · B ✅ (04/11) · A ✅ (06/11) · ~~Extra (08/11)~~ ❌ Pinamar — arranque con regla de rebote |
+| **2** | 09/11 → 15/11 | ~~B (09/11)~~ ❌ Pinamar · **Extra (mar 10/11)** · B (vie 13/11) · A (dom 15/11) — acumulación (RPE 7-8) |
+| **3** | 16/11 → 22/11 | B·A·B·Extra — acumulación (RPE 8) |
+| **4** | 23/11 → 29/11 | A·B·A·Extra — acumulación (RPE 8) |
+| **5** | 30/11 → 06/12 | B·A·B·Extra — **pico** |
+| **6** | 07/12 → 13/12 | A·B·A·Extra — **DELOAD** (~50% series, -10% peso, RPE 5-6) |
 
 ### ⚠️ Viaje USA: 05/10 → 24/10 (~3 semanas, sin gym)
 - Parate largo: 3 semanas sin entrenar generan algo de desentrenamiento, **recuperable rápido**
