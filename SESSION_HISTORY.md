@@ -13,6 +13,32 @@
 
 # BLOQUE ACTUAL — Mesociclo 4 (arrancó LUNES 02/11/2026)
 
+## ✅ Workout B — Miércoles 11/11/2026 (Meso 4, semana 2 — día seguido al Extra del 10/11)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Overhead Press (Barbell) | 42.5 kg | 8 / 8 / 8 🔼 | 8 / 8 / 8.5 |
+| Leg Extension (pierna del miércoles) | 84 kg 🔼 | 12 / 12 / 12 | 7 / 7.5 / 8 ✅ |
+| Pendlay Row (Barbell) | 67.5 kg | 9 / 9 / 9 🔼 | 7.5 / 8 / 8.5 |
+| Single Arm Lateral Raise (Cable) | 7.5 kg | 10 / 10 / 10 | 7.5 / 8 / 8.5 |
+| Suitcase Carry | 22 kg 🔼 | 3 × 55" | time-based |
+| Triceps Dip (Weighted) | 10 kg | 11 / 11 / 11 🔼 | 8 / 8 / 8.5 ✅ |
+| Hanging Leg Raise | BW | 12 / 12 / 12 🔼 | 8 / 8.5 / 8.5 |
+
+🔗 hevy.com/workout/b6bf80ae-ec56-42c5-8c96-5023531f6bfe
+
+**Lecturas — todo ½ punto más caliente que el 04/11: costo esperable de entrenar dos días seguidos:**
+- **OHP 42.5 × 3×8 @ 8/8/8.5** — reps completas, 3ª ½ punto arriba. e1RM ~56 (igual que el 04/11) vs ~62
+  al cierre del Meso 3: **el salto directo a 47.5 sería ~RPE 9.5 → no todavía.** Próximo B: **45 × 3×6-8**.
+- **✅ Leg Ext 84 × 3×12 @ ≤8** — rebote logrado → 3×13.
+- **Row 67.5 × 3×9, 3ª a 8.5** → consolidar 3×9 a ≤8.
+- **✅ Dips +10 × 3×11** (la 3ª a 8.5 vale en dips) → **+12.5 × 3×10**.
+- **✅ Suitcase subió a 22 × 55"** → 60" · **HLR 3×12 @ ≤8.5** → consolidar.
+- **Cable Lateral 7.5 × 3×10 @ ≤8.5** — 2ª sesión seguida con 7.5: se toma 7.5 como referencia (el 10 kg
+  del 04/11 fue, casi seguro, otra máquina — sin confirmar).
+
+---
+
 ## ✅ Extra — Martes 10/11/2026 (Meso 4, semana 2 — primer Extra del bloque, post-Pinamar)
 
 | Ejercicio | Peso | Reps | RPE |
