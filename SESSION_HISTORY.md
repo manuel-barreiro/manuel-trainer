@@ -13,6 +13,35 @@
 
 # BLOQUE ACTUAL — Mesociclo 4 (arrancó LUNES 02/11/2026)
 
+## ✅ Workout A — Viernes 13/11/2026 (Meso 4, semana 2 — sesión 3)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Incline DB Press | 25 kg | 11 / 11 / 11 | 7.5 / 8 / 8.5 |
+| Chin-Up | BW | 7 / 6 / 6 | 7.5 / 7.5 / 8 ✅ |
+| Lying Leg Curl (pierna del viernes) | 49 kg | 10 / 10 / 10 | 7 / 7 / 7.5 |
+| Seated Cable Row (V Grip) | 50 kg 🔼 | 10 / 10 / 10 | 7.5 / 7.5 / 7.5 ✅ |
+| OH Single Carry | 20 kg | 3 × 60" | time-based |
+| Seated Incline Curl (DB) | **12.5 kg** ⚠️ (pautado 14 × 11) | 12 / 12 / 10 | 7 / 7.5 / 8.5 |
+| Rear Delt Reverse Fly (DB) | 14 kg | 11 / 11 / 11 🔼 | 7 / 8 / 8 ✅ |
+| Ab Wheel | BW | 13 / 13 / 13 | 7 / 8 / 8.5 |
+
+🔗 hevy.com/workout/9d35f0ea-0824-4f2a-887a-a9d5a628a1f0
+
+**Lecturas:**
+- **✅ Chin-Up 7/6/6 @ 7.5/7.5/8** — la receta 1 funcionó, curva en cap → **7/7/6**.
+- **Incline 25 × 3×11 @ 7.5/8/8.5** — 2ª sesión seguida con la 3ª a 8.5 (06/11: 7/7.5/8.5). No consolidó →
+  repetir 3×11; si vuelve a salir 8.5, probar 12/11/11 igual (la carga está estable, no trepa).
+- **✅ Cable Row 50 × 3×10 @ 7.5 parejo** — el peso nuevo entró → 3×11.
+- **Leg Curl 49 × 3×10 @ ≤7.5** (pautado 3×12; el 10/11 hizo 3×11) — sobrado, día antes del partido → 3×11-12.
+- **⚠️ Incline Curl bajó a 12.5 kg** × 12/12/10 (venía 14 × 11/11/8). Sin confirmar el motivo (¿no había 14?).
+  Referencia sigue en 14 × 3×11.
+- **✅ Rear Delt 14 × 3×11 @ ≤8** → 3×12.
+- **Ab Wheel 3×13 @ 7/8/8.5** — apenas mejor que el 06/11 → consolidar 3×13.
+- **OH Carry 20 × 60"** otra vez — destino cumplido a 20; 22 cuando Manuel quiera.
+
+---
+
 ## ✅ Workout B — Miércoles 11/11/2026 (Meso 4, semana 2 — día seguido al Extra del 10/11)
 
 | Ejercicio | Peso | Reps | RPE |
