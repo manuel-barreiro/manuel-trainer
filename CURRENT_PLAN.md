@@ -236,9 +236,9 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 ### Extra (Domingo)
 | Ejercicio | Peso inicio | Rango | RPE |
 |---|---|---|---|
-| Pull-Up — SIEMPRE 1º (+ 2 aproximaciones) | BW — 🚩 01/11 la 3ª a RPE 10 | **3×5** con las 3 a ≤8 → 3×6-8 | ≤8 estricto |
+| Pull-Up — SIEMPRE 1º (+ 2 aproximaciones) | BW (10/11: 3×5 @ 7/7.5/8 ✅) → **6/5/5** → sumar de a una serie | 3×5-8 | ≤8 estricto |
 | Bench Press | 70 kg (10/11: 3×9, 3ª a 8.5 → consolidar) → 3×10 → 72.5 | 3×8-10 → 3×10 limpio → 75 | 7-8 |
-| Leg Extension (superset con lateral — el domingo siempre ext) | 77 kg → 84 | 3×12-15 | 8 (saltear si el partido dejó las piernas cargadas) |
+| Leg Extension (superset con lateral — el domingo siempre ext) | 84 kg (11/11: 3×12 @ ≤8 ✅) → 3×13 | 3×12-15 | 8 (saltear si el partido dejó las piernas cargadas) |
 | Cable Lateral Raise (1 brazo) | 7.5 kg (el del B) | 3×10-15 | 8 (última 9) |
 | Preacher Curl | 31.5 kg | 3×10-12 | 8 (última 9) |
 | Overhead Triceps Ext (**polea habitual**) | **32.5 kg** (10/11: 30 × 3×12 @ ≤8 ✅) | 3×10-12 | 8 (última 9) |
