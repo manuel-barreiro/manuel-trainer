@@ -13,6 +13,39 @@
 
 # BLOQUE ACTUAL — Mesociclo 4 (arrancó LUNES 02/11/2026)
 
+## ✅ Extra — Domingo 15/11/2026 (Meso 4, semana 2 — 🏁 CIERRA la semana 2; post-partido)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Pull-Up (1º, con calentamiento) | BW | 6 / 5 / 5 🔼 | 7 / 8 / **9** ⚠️ |
+| Bench Press (Barbell) | 70 kg | 9 / 9 / 9 | 7 / 7.5 / 8.5 |
+| Leg Extension (pierna del domingo) | 84 kg | 13 / 13 / 13 🔼 | 8 / 8 / 8 ✅ |
+| Single Arm Lateral Raise (Cable) | **10 kg** (máquina del 04/11) | 11 / 11 / 11 | 7 / 7 / 7.5 ✅ |
+| Preacher Curl (Barbell) | 31.5 kg | 12 / 12 / 12 🔼 | 7.5 / 8 / 8 ✅ |
+| Overhead Triceps Ext (Cable, polea habitual) | **35 kg** 🔼 (pautado 32.5) | 10 / 10 / 10 | 7 / 7.5 / 7.5 ✅ |
+| Seated Palms Up Wrist Curl | 18 kg | 12 / 12 / 12 🔼 | 7.5 / 8 / 8 ✅ |
+| Crunch (Weighted) | 15 kg (pautado 17.5 × 12) | 15 / 15 / 15 | 7 / 7.5 / 7.5 |
+| Oblique Crunch | BW | 15 / 15 / 15 | 6 / 7 / 7 |
+
+🔗 hevy.com/workout/9df3425e-c430-4ce6-ba5b-d8bbd7e10a71
+
+**Lecturas:**
+- **⚠️ Pull-Up 6/5/5 con la 3ª a 9** — la rep extra de la 1ª serie se pagó en la 3ª (el 10/11, 5/5/5 terminó
+  en 8). Día post-partido. → próximo Extra: **6/5/5 pero la 3ª se corta donde llegue a RPE 8** (5 o 4 reps).
+- **Bench 70 × 3×9, 3ª a 8.5 — 2ª sesión idéntica.** No es estancamiento todavía (2 sesiones, carga estable,
+  e1RM ~94), pero el cap de compuesto es ≤8 → próximo Extra **9/9/8** para clavar la 3ª a ≤8 y de ahí
+  sumar. Si a la 3ª sesión sigue igual → respuesta graduada del protocolo.
+- **✅ Leg Ext 84 × 3×13 @ 8 parejo** (post-partido) → 3×14.
+- **✅ Cable Lateral 10 kg × 3×11 @ ≤7.5** — confirma DOS máquinas: la de 10 kg (04 y 15/11) y la de 7.5
+  (10 y 11/11). Hay que anotar en Hevy cuál se usa.
+- **✅ Preacher 31.5 × 3×12 @ ≤8** — techo del rango → **34 × 3×10**.
+- **✅ Overhead Tri subió a 35** (la polea salta de a 5) × 3×10 @ ≤7.5, sobrado → 3×11-12.
+- **✅ Wrist 18 × 3×12** → 3×13 · **Crunch** quedó en 15 × 3×15 fácil → 17.5 × 3×12 pendiente.
+
+**🏁 Semana 2 del Meso 4 COMPLETA** (Extra 10 · B 11 · A 13 · Extra 15, post-Pinamar).
+
+---
+
 ## ✅ Workout A — Viernes 13/11/2026 (Meso 4, semana 2 — sesión 3)
 
 | Ejercicio | Peso | Reps | RPE |

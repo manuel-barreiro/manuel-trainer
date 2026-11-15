@@ -7,13 +7,9 @@
 ## Estado del mesociclo
 - **🏁 MESOCICLO 3 CERRADO (14/09 → 04/10).** 12/12 sesiones. Ver RESUMEN en SESSION_HISTORY.md.
 - **✈️ VIAJE A USA 05/10 → 24/10 (~3 semanas, sin gym)** = break / deload largo. Volvió el 24/10.
-- **AHORA: MESOCICLO 4, semana 2 (lun 09/11 → dom 15/11) — rearmada por Pinamar.** Último gym vie 06/11
-  (A); se perdieron el Extra 08/11 y el B 09/11 (viaje 07-09/11). Sin bajar pesos (4 días de descanso
-  no desentrenan). Manuel quiere ir **mar · mié · vie · dom** → **Mar 10 Extra · Mié 11 B · Vie 13 A ·
-  Dom 15 Extra**. Mar+mié seguidos = excepción de esta semana a la regla de ≥1 día de descanso (son 2
-  días, no 3; Extra→B es el par con menos solapamiento). Si el martes el RPE corre alto o hay DOMS, el B
-  va con 2 series en OHP y dips. Pierna: mar curl · mié ext · vie curl · dom ext (nunca el mismo dos
-  días seguidos). Desde la semana 3 se invierte la paridad (B·A·B / A·B·A) para balancear A/B.
+- **AHORA: MESOCICLO 4, semana 3 (lun 16/11 → dom 22/11): B · A · B · Extra** (paridad invertida desde
+  esta semana). Pierna: lun curl · mié ext · vie curl · dom ext.
+- **Semana 2 (rearmada por Pinamar 07-09/11) COMPLETA:** Extra mar 10 · B mié 11 · A vie 13 · Extra dom 15.
 - **✅ Re-entrada post-viaje CERRADA (25/10 → 01/11):** 4 sesiones (Extra · A · B · Extra), con
   bronquitis/moco sin rebote. Brazos y aislamientos volvieron al cierre; empujes ~10-15% abajo,
   tracción ~8%. 🚩 Pull-up 01/11 con la 3ª a RPE 10 → arranca el Meso 4 en 3×5. Detalle en SESSION_HISTORY.
@@ -102,7 +98,7 @@
 | Semana | Fechas | Patrón · foco |
 |---|---|---|
 | **1** | 02/11 → 08/11 | A ✅ (02/11) · B ✅ (04/11) · A ✅ (06/11) · ~~Extra (08/11)~~ ❌ Pinamar — arranque con regla de rebote |
-| **2** | 09/11 → 15/11 | ~~B (09/11)~~ ❌ Pinamar · Extra ✅ (mar 10) · B ✅ (mié 11) · A ✅ (vie 13) · Extra (dom 15) — acumulación (RPE 7-8) |
+| **2** | 09/11 → 15/11 | ~~B (09/11)~~ ❌ Pinamar · Extra ✅ (mar 10) · B ✅ (mié 11) · A ✅ (vie 13) · Extra ✅ (dom 15) — acumulación (RPE 7-8) |
 | **3** | 16/11 → 22/11 | B·A·B·Extra — acumulación (RPE 8) |
 | **4** | 23/11 → 29/11 | A·B·A·Extra — acumulación (RPE 8) |
 | **5** | 30/11 → 06/12 | B·A·B·Extra — **pico** |
@@ -231,19 +227,19 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 | Suitcase Carry | 22 kg (11/11: 3×55") → 60" → 24 | 3×45-60" | — |
 | Weighted Dips | **12.5 kg** (11/11: 10 × 3×11 ✅) → rebote a 15 | 3×10-12 → 17.5 | 7-8 (última 8.5 OK) |
 | Hanging Leg Raise | BW (30/10: 3×10) | 3×10-15 | 7-8 |
-| Cable Lateral Raise (1 brazo) | 7.5 kg (10 y 11/11: 3×10; el 10 kg del 04/11 fue otra máquina) | 3×10-15 | 8 (última 9) |
+| Cable Lateral Raise (1 brazo) | **DOS máquinas — anotar cuál en Hevy:** 10 kg (15/11: 3×11 @ ≤7.5) · 7.5 kg (11/11: 3×10) | 3×10-15 | 8 (última 9) |
 
 ### Extra (Domingo)
 | Ejercicio | Peso inicio | Rango | RPE |
 |---|---|---|---|
-| Pull-Up — SIEMPRE 1º (+ 2 aproximaciones) | BW (10/11: 3×5 @ 7/7.5/8 ✅) → **6/5/5** → sumar de a una serie | 3×5-8 | ≤8 estricto |
-| Bench Press | 70 kg (10/11: 3×9, 3ª a 8.5 → consolidar) → 3×10 → 72.5 | 3×8-10 → 3×10 limpio → 75 | 7-8 |
-| Leg Extension (superset con lateral — el domingo siempre ext) | 84 kg (11/11: 3×12 @ ≤8 ✅) → 3×13 | 3×12-15 | 8 (saltear si el partido dejó las piernas cargadas) |
-| Cable Lateral Raise (1 brazo) | 7.5 kg (el del B) | 3×10-15 | 8 (última 9) |
-| Preacher Curl | 31.5 kg | 3×10-12 | 8 (última 9) |
-| Overhead Triceps Ext (**polea habitual**) | **32.5 kg** (10/11: 30 × 3×12 @ ≤8 ✅) | 3×10-12 | 8 (última 9) |
-| Wrist Curl | 18 kg (10/11: 3×11) | 3×12-15 | 8 (última 9) |
-| Crunch (Weighted) + Oblique | 17.5 kg (10/11: 15 × 3×15 ✅) / BW | 3×12-15 | 7-8 |
+| Pull-Up — SIEMPRE 1º (+ 2 aproximaciones) | BW (15/11: 6/5/5 @ 7/8/**9**) → 6/5/5 con la **3ª cortada en RPE 8** | 3×5-8 | ≤8 estricto |
+| Bench Press | 70 kg (10 y 15/11: 3×9, 3ª a 8.5 las dos) → **9/9/8** con la 3ª a ≤8 → 3×9 → 3×10 → 72.5 | 3×8-10 → 3×10 limpio → 75 | 7-8 |
+| Leg Extension (superset con lateral — el domingo siempre ext) | 84 kg (15/11: 3×13 @ 8 ✅) → 3×14 | 3×12-15 | 8 (saltear si el partido dejó las piernas cargadas) |
+| Cable Lateral Raise (1 brazo) | 10 kg (máquina del 15/11) / 7.5 kg (la otra) | 3×10-15 | 8 (última 9) |
+| Preacher Curl | **34 kg** (15/11: 31.5 × 3×12 @ ≤8 ✅) | 3×10-12 | 8 (última 9) |
+| Overhead Triceps Ext (**polea habitual**) | 35 kg (15/11: 3×10 @ ≤7.5; la polea salta de a 5) → 3×12 | 3×10-12 | 8 (última 9) |
+| Wrist Curl | 18 kg (15/11: 3×12 ✅) → 3×13 | 3×12-15 | 8 (última 9) |
+| Crunch (Weighted) + Oblique | 17.5 kg (15/11 siguió con 15 × 3×15 fácil) / BW | 3×12-15 | 7-8 |
 
 ## Decisiones abiertas
 1. ~~**Chin-Up — post-lesión de mano + corre hot.**~~ → **RESUELTA (confirmada por Manuel,
