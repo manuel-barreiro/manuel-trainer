@@ -13,6 +13,33 @@
 
 # BLOQUE ACTUAL — Mesociclo 4 (arrancó LUNES 02/11/2026)
 
+## ✅ Workout B — Lunes 16/11/2026 (Meso 4, semana 3 — sesión 1)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Overhead Press (Barbell) | **45 kg** 🔼 | 7 / 7 / 7 | 7.5 / 8 / 8 ✅ |
+| Lying Leg Curl (pierna del lunes) | 49 kg | 12 / 12 / 12 🔼 | 7.5 / 7.5 / 8 ✅ |
+| Pendlay Row (Barbell) | 67.5 kg | 9 / 9 / 9 | 7.5 / 8 / 8 ✅ |
+| Single Arm Lateral Raise (Cable, máquina de 10 kg) | 10 kg | 11 / 11 / 11 | 7 / 7 / 7.5 |
+| Suitcase Carry | 22 kg | 3 × 55" | time-based |
+| Triceps Dip (Weighted) | 10 kg (pautado 12.5 × 10) | 12 / 12 / 12 🔼 | 7.5 / 8 / **9** |
+| Hanging Leg Raise | BW | 12 / 12 / 12 | 8 / 8.5 / 9 |
+
+🔗 hevy.com/workout/a958e8ab-ccc3-40b6-8cca-e0898f0e2ddc
+
+**Lecturas (compuestos todos en cap — mejor B del bloque):**
+- **✅ OHP 45 × 3×7 @ 7.5/8/8** — el peso nuevo entró en cap → 45 × 3×8.
+- **✅ Row 67.5 × 3×9 @ ≤8** — consolidado (el 11/11 la 3ª fue 8.5) → 3×10, después rebote a 70.
+- **✅ Leg Curl 49 × 3×12 @ ≤8** — techo del rango cerrado → **56 × 3×8-10** (mismo salto que 42 → 49 en
+  el Meso 3, que entró a 3×10).
+- **Dips: se quedó en +10 e hizo 12/12/12, la 3ª a 9** (pasado el 8.5 que se tolera en dips) → techo del
+  rango tocado → **+12.5 × 3×10**. Motivo de no subir sin confirmar (¿faltaba el disco de 2.5?).
+- **Cable Lateral 10 × 3×11 @ ≤7.5** (misma máquina que el 15/11 ✅) → 3×12 · **Suitcase 22 × 55"** → 60".
+- **HLR 3×12 @ 8/8.5/9** — más duro que el 11/11 (venía después de dips a 9). Mantener 3×12; si vuelve
+  a 9, bajar a 3×11.
+
+---
+
 ## ✅ Extra — Domingo 15/11/2026 (Meso 4, semana 2 — 🏁 CIERRA la semana 2; post-partido)
 
 | Ejercicio | Peso | Reps | RPE |
