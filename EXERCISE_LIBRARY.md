@@ -72,8 +72,8 @@ Dumbbell OHP              [YES] — sub del OHP cuando no hay barra libre
 Arnold Press              [ ]
 Seated Machine Press      [ ]
 Landmine Press            [ ]
-Lateral Raise (DB)        [YES] — en superset con Leg Extension (Extra)
-Lateral Raise (cable)     [YES] — Meso 4: días B y Extra (reemplaza al DB)
+Lateral Raise (DB)        [YES] — en superset con Leg Extension (Extra); 1 y 1 con la polea del B
+Lateral Raise (cable)     [YES] — Día B desde Meso 4 (el gym tiene 2 máquinas: usar siempre la misma)
 Rear Delt Fly (DB)        [YES] — Día A desde Meso 3
 Rear Delt Fly (machine)   [ ]
 Face Pull (cable)         [ ]

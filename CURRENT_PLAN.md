@@ -17,8 +17,10 @@
   Manuel el 30/10** — ver "Rutinas del Mesociclo 4" más abajo. Cambios vs Meso 3:
   - **+ Seated Cable Row en el A** (hueco de tracción horizontal: el row estaba solo en el B →
     3 series en semanas A·B·A). Ahora ~9 series/semana de remo en cualquier semana.
-  - **Lateral Raise pasa a polea y se suma al B** (hombro lateral tenía 3 series directas/semana →
-    6-9). En el Extra también va en polea.
+  - **Lateral Raise se suma al B** (hombro lateral tenía 3 series directas/semana → 6-9). **Desde el
+    16/11 (decisión de Manuel): B = polea (siempre la misma máquina) · Extra = mancuerna en superset
+    con la leg extension**, como antes. Motivo: la polea suma tensión abajo, pero el gym tiene dos
+    máquinas con cargas distintas y el superset con mancuerna es más práctico.
   - **🦵 Pierna alternada por DÍA DE SEMANA, no por rutina (idea de Manuel, 03/11):** Lun y Vie =
     **Leg Curl** · Mié y Dom = **Leg Extension**, toque lo que toque (A, B o Extra). Antes, con
     A·B·A, el cuádriceps tenía 9 series/semana y el isquio 3; ahora 6 y 6 todas las semanas. El
@@ -45,7 +47,7 @@
   el plan (Hevy pre-llena la 3ª serie del leg curl con 42).
 - **Rotaciones vigentes:** Meso 3 → A: Seated Incline Curl + Rear Delt Fly · Extra: Preacher Curl +
   Overhead Triceps Ext. Meso 4 → A: + Seated Cable Row · B: + Cable Lateral Raise · Extra: Lateral
-  DB → cable. (No hay seated leg curl; cable crunch vetado.)
+  DB (volvió el 16/11; la polea quedó solo en el B). (No hay seated leg curl; cable crunch vetado.)
 - **Historial de ejercicios en el gym:** los compuestos (incline, chin-up, bench, pull-up, OHP, row,
   dips) vienen desde mayo — se mantienen mientras progresen (especificidad; Kassiano 2022/2025).
 - **Historial:** Meso 1 25/05 → 04/07 · Meso 2 03/08 → 13/09 · Meso 3 14/09 → 04/10 (RESÚMENES en
@@ -227,7 +229,7 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 | Suitcase Carry | 22 kg (11/11: 3×55") → 60" → 24 | 3×45-60" | — |
 | Weighted Dips | **12.5 kg** (11/11: 10 × 3×11 ✅) → rebote a 15 | 3×10-12 → 17.5 | 7-8 (última 8.5 OK) |
 | Hanging Leg Raise | BW (30/10: 3×10) | 3×10-15 | 7-8 |
-| Cable Lateral Raise (1 brazo) | **DOS máquinas — anotar cuál en Hevy:** 10 kg (15/11: 3×11 @ ≤7.5) · 7.5 kg (11/11: 3×10) | 3×10-15 | 8 (última 9) |
+| Cable Lateral Raise (1 brazo) — **siempre la misma máquina**, anotarla en Hevy | 10 kg (15/11: 3×11 @ ≤7.5) · en la otra máquina 7.5 kg (11/11: 3×10) | 3×10-15 | 8 (última 9) |
 
 ### Extra (Domingo)
 | Ejercicio | Peso inicio | Rango | RPE |
@@ -235,7 +237,7 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 | Pull-Up — SIEMPRE 1º (+ 2 aproximaciones) | BW (15/11: 6/5/5 @ 7/8/**9**) → 6/5/5 con la **3ª cortada en RPE 8** | 3×5-8 | ≤8 estricto |
 | Bench Press | 70 kg (10 y 15/11: 3×9, 3ª a 8.5 las dos) → **9/9/8** con la 3ª a ≤8 → 3×9 → 3×10 → 72.5 | 3×8-10 → 3×10 limpio → 75 | 7-8 |
 | Leg Extension (superset con lateral — el domingo siempre ext) | 84 kg (15/11: 3×13 @ 8 ✅) → 3×14 | 3×12-15 | 8 (saltear si el partido dejó las piernas cargadas) |
-| Cable Lateral Raise (1 brazo) | 10 kg (máquina del 15/11) / 7.5 kg (la otra) | 3×10-15 | 8 (última 9) |
+| Lateral Raise (DB) — en superset con la leg extension | 12.5 kg (último: 01/11, 3×13 @ ≤8) | 3×12-15 → 14 | 8 (última 9) |
 | Preacher Curl | **34 kg** (15/11: 31.5 × 3×12 @ ≤8 ✅) | 3×10-12 | 8 (última 9) |
 | Overhead Triceps Ext (**polea habitual**) | 35 kg (15/11: 3×10 @ ≤7.5; la polea salta de a 5) → 3×12 | 3×10-12 | 8 (última 9) |
 | Wrist Curl | 18 kg (15/11: 3×12 ✅) → 3×13 | 3×12-15 | 8 (última 9) |
