@@ -13,6 +13,35 @@
 
 # BLOQUE ACTUAL — Mesociclo 4 (arrancó LUNES 02/11/2026)
 
+## ✅ Workout A — Miércoles 18/11/2026 (Meso 4, semana 3 — sesión 2)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Incline DB Press | 25 kg | 11 / 11 / 11 | 7 / 7.5 / 8 ✅ |
+| Chin-Up (con calentamiento) | BW | 7 / 7 / 6 🔼 | 7 / 7.5 / 7.5 ✅ |
+| Leg Extension (pierna del miércoles) | 84 kg | 14 / 14 / 14 🔼 | 7.5 / 8 / 8 ✅ |
+| Dumbbell Row — *en lugar del Seated Cable Row* | 22 kg | 12 / 12 / 12 | 7.5 / 8 / 8 |
+| OH Single Carry | **22 kg** 🔼 | 3 × 55" | time-based |
+| Seated Incline Curl (DB) | 14 kg | 10 / 10 / 10 | 7 / 8 / 9 |
+| Rear Delt Reverse Fly (DB) | 14 kg | 12 / 12 / 12 🔼 | 7.5 / 8 / 8.5 ✅ |
+| Ab Wheel | BW | 13 / 13 / 13 | 7.5 / 8 / 8.5 |
+
+🔗 hevy.com/workout/84fc2a53-b083-475a-8e58-b5fcebc7b8cf
+
+**Lecturas:**
+- **✅ Incline 25 × 3×11 @ 7/7.5/8** — consolidó al 3er intento (la 3ª por fin a 8) → **3×12**, después rebote a 30.
+- **✅ Chin-Up 7/7/6 @ ≤7.5** — sobrado → 7/7/7.
+- **✅ Leg Ext 84 × 3×14 @ ≤8** → 3×15, después subir.
+- **⚠️ Hizo Dumbbell Row (22 × 3×12) en vez del Seated Cable Row** — motivo sin confirmar (¿polea ocupada?).
+  No comparable con la polea; la referencia del slot sigue en cable row 50 × 3×11.
+- **✅ OH Carry subió a 22 × 55"** → 60".
+- **Seated Incline Curl 14 × 10/10/10, la 3ª a 9** — 3ª sesión con 14 sin pasar de 10-11 (02/11 10/10/10,
+  06/11 11/11/8, 13/11 bajó a 12.5). Meseta leve de aislamiento, con el bíceps pre-fatigado por chin + row.
+  → repetir 14 × 3×10 buscando la 3ª a ≤8.5; si a la próxima no se mueve, 12.5 × 3×12-15 y reconstruir.
+- **✅ Rear Delt 14 × 3×12** → 3×13 · **Ab Wheel 3×13 @ ≤8.5** (3ª sesión igual) → mantener.
+
+---
+
 ## ✅ Workout B — Lunes 16/11/2026 (Meso 4, semana 3 — sesión 1)
 
 | Ejercicio | Peso | Reps | RPE |
