@@ -101,7 +101,7 @@
 |---|---|---|
 | **1** | 02/11 → 08/11 | A ✅ (02/11) · B ✅ (04/11) · A ✅ (06/11) · ~~Extra (08/11)~~ ❌ Pinamar — arranque con regla de rebote |
 | **2** | 09/11 → 15/11 | ~~B (09/11)~~ ❌ Pinamar · Extra ✅ (mar 10) · B ✅ (mié 11) · A ✅ (vie 13) · Extra ✅ (dom 15) — acumulación (RPE 7-8) |
-| **3** | 16/11 → 22/11 | B ✅ (lun 16) · A ✅ (mié 18) · B (vie 20) · Extra (dom 22) — acumulación (RPE 8) |
+| **3** | 16/11 → 22/11 | B ✅ (lun 16) · A ✅ (mié 18) · B ✅ (vie 20) · Extra (dom 22) — acumulación (RPE 8) |
 | **4** | 23/11 → 29/11 | A·B·A·Extra — acumulación (RPE 8) |
 | **5** | 30/11 → 06/12 | B·A·B·Extra — **pico** |
 | **6** | 07/12 → 13/12 | A·B·A·Extra — **DELOAD** (~50% series, -10% peso, RPE 5-6) |
@@ -223,12 +223,12 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 ### Workout B
 | Ejercicio | Peso inicio | Rango | RPE |
 |---|---|---|---|
-| OHP (Barbell) | 45 kg (16/11: 3×7 @ ≤8 ✅) → 3×8 → 47.5 | 3×6-8 | 7-8 |
-| Pendlay Row (Barbell) | 67.5 kg (16/11: 3×9 @ ≤8 ✅) → 3×10 → rebote a 70 | 3×8-10 → 72.5 | 7-8 |
-| 🦵 Pierna del día (Lun/Vie: Leg Curl · Mié: Leg Extension) | curl **56** (16/11: 49 × 3×12 @ ≤8 ✅) × 3×8-10 · ext 84 | 3×8-12 curl · 3×12-15 ext | 8 |
-| Suitcase Carry | 22 kg (11 y 16/11: 3×55") → 60" → 24 | 3×45-60" | — |
-| Weighted Dips | **12.5 kg** (16/11: 10 × 3×12, 3ª a 9 → techo tocado) → rebote a 15 | 3×10-12 → 17.5 | 7-8 (última 8.5 OK) |
-| Hanging Leg Raise | BW (16/11: 3×12 @ 8/8.5/9 → mantener; si vuelve a 9, 3×11) | 3×10-15 | 7-8 |
+| OHP (Barbell) | 45 kg (20/11: 3×8, 3ª a 9) → **8/8/7** a ≤8 → 3×8 limpio → 47.5 | 3×6-8 | 7-8 |
+| Pendlay Row (Barbell) | 67.5 kg (20/11: 3×10, 3ª a 8.5) → consolidar 3×10 a ≤8 → rebote a 70 | 3×8-10 → 72.5 | 7-8 |
+| 🦵 Pierna del día (Lun/Vie: Leg Curl · Mié: Leg Extension) | curl 56 (20/11: 3×8 @ ≤8 ✅) → 3×9 · ext 84 × 3×15 | 3×8-12 curl · 3×12-15 ext | 8 |
+| Suitcase Carry | 22 kg (11, 16 y 20/11: 3×55") → 60" → 24 | 3×45-60" | — |
+| Weighted Dips | **15 kg** (20/11: 3×8 @ ≤8 ✅ — el lastre va de a 5: no hay disco de 2.5) → 3×9 → 3×12 → 20 | 3×8-12 | 7-8 (última 8.5 OK) |
+| Hanging Leg Raise | BW (20/11: 3×12 @ ≤8 ✅) → 3×13 | 3×10-15 | 7-8 |
 | Cable Lateral Raise (1 brazo) — **siempre la misma máquina**, anotarla en Hevy | 10 kg (15/11: 3×11 @ ≤7.5) · en la otra máquina 7.5 kg (11/11: 3×10) | 3×10-15 | 8 (última 9) |
 
 ### Extra (Domingo)

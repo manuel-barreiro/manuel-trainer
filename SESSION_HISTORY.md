@@ -13,6 +13,32 @@
 
 # BLOQUE ACTUAL — Mesociclo 4 (arrancó LUNES 02/11/2026)
 
+## ✅ Workout B — Viernes 20/11/2026 (Meso 4, semana 3 — sesión 3)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Overhead Press (Barbell) | 45 kg | 8 / 8 / 8 🔼 | 7.5 / 8 / **9** |
+| Lying Leg Curl (pierna del viernes) | **56 kg** 🔼 | 8 / 8 / 8 | 7 / 7 / 8 ✅ |
+| Pendlay Row (Barbell) | 67.5 kg | 10 / 10 / 10 🔼 | 7.5 / 8 / 8.5 |
+| Single Arm Lateral Raise (Cable, máquina de 10 kg) | 10 kg | 12 / 12 / 12 🔼 | 7 / 7.5 / 8 ✅ |
+| Suitcase Carry | 22 kg | 3 × 55" | time-based |
+| Triceps Dip (Weighted) | **15 kg** 🔼 (pautado 12.5 × 10) | 8 / 8 / 8 | 7.5 / 8 / 8 ✅ |
+| Hanging Leg Raise | BW | 12 / 12 / 12 | 7.5 / 8 / 8 ✅ |
+
+🔗 hevy.com/workout/1c623364-12da-48c1-b581-f7297a41a9ec
+
+**Lecturas:**
+- **OHP 45 × 3×8, la 3ª a 9** — reps completas pero fuera del cap de compuesto → no se sube: **8/8/7** con
+  la 3ª a ≤8, después 3×8 limpio → 47.5.
+- **✅ Leg Curl 56 × 3×8 @ 7/7/8** — el salto entró limpio el día antes del partido → 3×9.
+- **Row 67.5 × 3×10, la 3ª a 8.5** — techo del rango con la 3ª ½ arriba → consolidar 3×10 a ≤8 → rebote a 70.
+- **✅ Dips: subió a +15** (todo indica que el gym no tiene disco de 2.5: el lastre va 10 → 15 → 20) ×
+  3×8 @ ≤8 → **volvió al peso de cierre del Meso 3**. Reinicia la doble progresión: +15 × 3×9 → 3×12 → +20.
+- **✅ Cable Lateral 10 × 3×12 @ ≤8** → 3×13 · **✅ HLR 3×12 @ ≤8** (mejor que el 16/11) → 3×13.
+- **Suitcase 22 × 55"** — 3ª sesión en 55" → seguir buscando 60" (carry: sin apuro).
+
+---
+
 ## ✅ Workout A — Miércoles 18/11/2026 (Meso 4, semana 3 — sesión 2)
 
 | Ejercicio | Peso | Reps | RPE |
