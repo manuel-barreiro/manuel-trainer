@@ -13,6 +13,35 @@
 
 # BLOQUE ACTUAL — Mesociclo 4 (arrancó LUNES 02/11/2026)
 
+## ✅ Extra — Domingo 22/11/2026 (Meso 4, semana 3 — 🏁 CIERRA la semana 3; post-partido)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Pull-Up (1º, con calentamiento) | BW | 6 / 5 / 5 | 7.5 / 7.5 / 8 ✅ |
+| Bench Press (Barbell) | 70 kg | 9 / 9 / 9 | 7.5 / 7.5 / 8 ✅ |
+| Leg Extension (pierna del domingo) | 84 kg | 15 / 15 / 15 🔼 | 7.5 / 8 / 8.5 |
+| Lateral Raise (DB) — superset con leg ext | 12.5 kg | 14 / 14 / 14 🔼 | 7.5 / 8 / 8.5 |
+| Preacher Curl (Barbell) | **34 kg** 🔼 | 10 / 10 / 10 | 8 / 8.5 / 9 |
+| Overhead Triceps Ext (Cable, polea habitual) | 35 kg | 11 / 11 / 11 🔼 | 7.5 / 8 / 8.5 |
+| Seated Palms Up Wrist Curl | 18 kg | 13 / 13 / 13 🔼 | 7.5 / 8 / 8.5 |
+| Crunch (Weighted) | 15 kg (pautado 17.5 × 12) | 15 / 15 / 15 | 7 / 8 / 8.5 |
+| Oblique Crunch | BW | 15 / 15 / 15 | 6 / 7 / 7.5 |
+
+🔗 hevy.com/workout/e449d8c7-3495-4338-8e3d-368242efbbf6
+
+**Lecturas (todo en cap o en la tolerancia de aislamiento — buen cierre de semana):**
+- **✅ Bench 70 × 3×9 @ 7.5/7.5/8** — a la 3ª sesión la 3ª serie cerró a 8 (hizo 9 en vez de las 8 pautadas
+  y salió igual). Consolidado → **3×10** → 72.5.
+- **✅ Pull-Up 6/5/5 @ ≤8** — con el corte de la 3ª en mente, la curva quedó en cap → 6/6/5.
+- **✅ Leg Ext 84 × 3×15** (techo del rango, 3ª 8.5) → **91 × 3×12**, el peso de cierre del Meso 3.
+- **Lateral DB 12.5 × 3×14** → 3×15 → 14 kg · **OH Tri 35 × 3×11** → 3×12 · **Wrist 18 × 3×13** → 3×14.
+- **Preacher 34 × 3×10 @ 8/8.5/9** — el peso nuevo entró, exigente → consolidar 34 × 3×10 antes de sumar.
+- **Crunch: 2ª vez que se queda en 15 kg** (pautado 17.5) — se respeta: 15 × 3×15 es su referencia.
+
+**🏁 Semana 3 del Meso 4 COMPLETA** (B 16 · A 18 · B 20 · Extra 22). Vienen semana 4 (acumulación) y 5 (pico).
+
+---
+
 ## ✅ Workout B — Viernes 20/11/2026 (Meso 4, semana 3 — sesión 3)
 
 | Ejercicio | Peso | Reps | RPE |
