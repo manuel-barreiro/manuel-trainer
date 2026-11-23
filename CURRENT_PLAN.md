@@ -103,7 +103,7 @@
 | **1** | 02/11 → 08/11 | A ✅ (02/11) · B ✅ (04/11) · A ✅ (06/11) · ~~Extra (08/11)~~ ❌ Pinamar — arranque con regla de rebote |
 | **2** | 09/11 → 15/11 | ~~B (09/11)~~ ❌ Pinamar · Extra ✅ (mar 10) · B ✅ (mié 11) · A ✅ (vie 13) · Extra ✅ (dom 15) — acumulación (RPE 7-8) |
 | **3** | 16/11 → 22/11 | B ✅ (lun 16) · A ✅ (mié 18) · B ✅ (vie 20) · Extra ✅ (dom 22) — acumulación (RPE 8) |
-| **4** | 23/11 → 29/11 | A·B·A·Extra — acumulación (RPE 8) |
+| **4** | 23/11 → 29/11 | A ✅ (lun 23) · B (mié 25) · A (vie 27) · Extra (dom 29) — acumulación (RPE 8) |
 | **5** | 30/11 → 06/12 | B·A·B·Extra — **pico** |
 | **6** | 07/12 → 13/12 | A·B·A·Extra — **DELOAD** (~50% series, -10% peso, RPE 5-6) |
 
@@ -212,21 +212,21 @@ NO son máximos de 1 rep. No calcular porcentajes. Progresar solo vía RPE / dob
 ### Workout A
 | Ejercicio | Peso inicio | Rango | RPE |
 |---|---|---|---|
-| Incline DB Press | 25 kg (18/11: 3×11 @ ≤8 ✅) → **3×12** → rebote a 30 | 3×8-12 | 7-8 |
-| Chin-Up (+ 2 aproximaciones) | BW — ✅ 18/11: 7/7/6 @ ≤7.5 → **7/7/7** | 3×6-8 → consolidar 3×8 limpio | ≤8 estricto |
-| Seated Cable Row (V grip) | 50 kg × 3×11 (13/11: 3×10 @ 7.5 ✅; el 18/11 hizo DB Row 22 × 3×12 en su lugar) | 3×10-12 | 7-8 |
-| 🦵 Pierna del día (Lun/Vie: Leg Curl · Mié: Leg Extension) | curl 56 · ext 84 × 3×15 (18/11: 3×14 @ ≤8 ✅) | 3×8-12 curl · 3×12-15 ext | 8 |
+| Incline DB Press | **30 kg** (23/11: 3×8, 3ª a 9 — rebote completo, e1RM = cierre Meso 3) → **8/8/7** a ≤8 → 3×8 → 3×12 | 3×6-12 | 7-8 |
+| Chin-Up (+ 2 aproximaciones) | BW — ✅ 23/11: 7/7/7 @ ≤8 → **8/7/7** | 3×6-8 → consolidar 3×8 limpio | ≤8 estricto |
+| Seated Cable Row (V grip) | 54.4 kg (= 120 lb; 23/11: 3×11 @ ≤7.5 ✅) → 3×12 → siguiente placa | 3×10-12 | 7-8 |
+| 🦵 Pierna del día (Lun/Vie: Leg Curl · Mié: Leg Extension) | curl 56 (23/11: 3×9 ✅) → 3×10 · ext 91 × 3×12 | 3×8-12 curl · 3×12-15 ext | 8 |
 | OH Single Carry | 22 kg (18/11: 3×55") → 60" | 3×50-60" | — |
-| Seated Incline Curl (DB) | 14 kg × 3×10 (18/11: 10/10/10, 3ª a 9 — meseta leve; si no se mueve, 12.5 × 3×12-15) | 3×10-12 | 8 (última 9) |
-| Rear Delt Reverse Fly (DB) | 14 kg (18/11: 3×12 ✅) → 3×13 | 3×10-15 | 8 (última 9) |
-| Ab Wheel | BW | 3×12-15 → recién ahí más dificultad | 7-8 |
+| Seated Incline Curl (DB) | 14 kg (23/11: 3×10, 3ª a 8.5 — salió de la meseta) → 3×11 | 3×10-12 | 8 (última 9) |
+| Rear Delt Reverse Fly (DB) | 14 kg (23/11: 3×13 ✅) → 3×14 | 3×10-15 | 8 (última 9) |
+| Ab Wheel | BW (23/11: 3×13 @ ≤8 ✅) → 3×14 | 3×12-15 → recién ahí más dificultad | 7-8 |
 
 ### Workout B
 | Ejercicio | Peso inicio | Rango | RPE |
 |---|---|---|---|
 | OHP (Barbell) | 45 kg (20/11: 3×8, 3ª a 9) → **8/8/7** a ≤8 → 3×8 limpio → 47.5 | 3×6-8 | 7-8 |
 | Pendlay Row (Barbell) | 67.5 kg (20/11: 3×10, 3ª a 8.5) → consolidar 3×10 a ≤8 → rebote a 70 | 3×8-10 → 72.5 | 7-8 |
-| 🦵 Pierna del día (Lun/Vie: Leg Curl · Mié: Leg Extension) | curl 56 (20/11: 3×8 @ ≤8 ✅) → 3×9 · ext **91 × 3×12** (22/11: 84 × 3×15 ✅) | 3×8-12 curl · 3×12-15 ext | 8 |
+| 🦵 Pierna del día (Lun/Vie: Leg Curl · Mié: Leg Extension) | curl 56 (23/11: 3×9 ✅) → 3×10 · ext **91 × 3×12** (22/11: 84 × 3×15 ✅) | 3×8-12 curl · 3×12-15 ext | 8 |
 | Suitcase Carry | 22 kg (11, 16 y 20/11: 3×55") → 60" → 24 | 3×45-60" | — |
 | Weighted Dips | **15 kg** (20/11: 3×8 @ ≤8 ✅ — el lastre va de a 5: no hay disco de 2.5) → 3×9 → 3×12 → 20 | 3×8-12 | 7-8 (última 8.5 OK) |
 | Hanging Leg Raise | BW (20/11: 3×12 @ ≤8 ✅) → 3×13 | 3×10-15 | 7-8 |

@@ -13,6 +13,34 @@
 
 # BLOQUE ACTUAL — Mesociclo 4 (arrancó LUNES 02/11/2026)
 
+## ✅ Workout A — Lunes 23/11/2026 (Meso 4, semana 4 — sesión 1)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Incline DB Press | **30 kg** 🔼 (pautado 25 × 3×12) | 8 / 8 / 8 | 7.5 / 8 / **9** |
+| Chin-Up (con calentamiento) | BW | 7 / 7 / 7 🔼 | 7 / 7.5 / 8 ✅ |
+| Lying Leg Curl (pierna del lunes) | 56 kg | 9 / 9 / 9 🔼 | 7 / 7.5 / 8 ✅ |
+| Seated Cable Row (V Grip) | 54.4 kg 🔼 (¿stack en libras? 120 lb) | 11 / 11 / 11 | 7 / 7 / 7.5 ✅ |
+| OH Single Carry | 22 kg | 3 × 55" | time-based |
+| Seated Incline Curl (DB) | 14 kg | 10 / 10 / 10 | 7 / 7.5 / 8.5 ✅ |
+| Rear Delt Reverse Fly (DB) | 14 kg | 13 / 13 / 13 🔼 | 7 / 8 / 8 ✅ |
+| Ab Wheel | BW | 13 / 13 / 13 | 7 / 7.5 / 8 ✅ |
+
+🔗 hevy.com/workout/c5395e80-0442-4713-9b67-a3c27ac44d27
+
+**Lecturas (gran sesión — 7 de 8 en cap):**
+- **🏆 Incline: saltó solo a 30 kg × 3×8 @ 7.5/8/9** — e1RM ~39, **igual que al cierre del Meso 3**: el
+  rebote del empuje en el A está completo. La 3ª a 9 está fuera del cap → **30 × 8/8/7** con la 3ª a ≤8, y de
+  ahí doble progresión hacia 3×12.
+- **✅ Chin-Up 7/7/7 @ ≤8** — primera vez 3×7 limpio en el bloque → 8/7/7.
+- **✅ Leg Curl 56 × 3×9 @ ≤8** → 3×10.
+- **✅ Cable Row 54.4 × 3×11 @ ≤7.5** — sobrado. El 54.4 sugiere un stack en libras (120 lb) → 3×12 y subir.
+- **✅ Incline Curl 14 × 3×10, 3ª a 8.5** — salió de la meseta (el 18/11 fue 9) → 3×11.
+- **✅ Rear Delt 14 × 3×13** → 3×14 · **✅ Ab Wheel 3×13 @ ≤8** — por fin cómodo → 3×14.
+- OH Carry 22 × 55" (sin cambios; 60" cuando salga).
+
+---
+
 ## ✅ Extra — Domingo 22/11/2026 (Meso 4, semana 3 — 🏁 CIERRA la semana 3; post-partido)
 
 | Ejercicio | Peso | Reps | RPE |
