@@ -13,7 +13,7 @@ verificación y el respaldo.
    los objetivos correctos.
 2. Determiná qué toca HOY con el calendario de `CURRENT_PLAN.md`:
    - Si hoy no es día de gym → decilo en una línea y tirá la próxima sesión con fecha.
-   - Semana de **deload** → prescripción de deload (2 series, -10%, RPE 5-6).
+   - Semana de **deload** → 2 series por ejercicio, -10% de peso, RPE 5-6.
 3. **Chequeá la rutina de Hevy** (`get_user_routines`) contra "Próximo objetivo" del plan,
    incluida la pierna del día. Si difiere, corregila (`HEVY.md`) y avisá en una línea.
 4. Output para mirar EN el gym desde el celu:

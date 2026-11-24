@@ -21,21 +21,25 @@ La fuente de verdad es **una sola: la rama `main` del repo**. No hay branches pa
 Toda confusión pasada vino de leer datos viejos o de un branch desincronizado. Entonces,
 antes de leer los archivos o dar la sesión del día:
 
-1. **Sincronizar con main:** `git fetch origin main` y poner el working tree al día con
-   `origin/main` (estás en `main`; si por lo que sea estás en otra rama, volvé a `main`).
-   NUNCA trabajes los archivos del plan en un branch que no sea `main`.
+1. **Sincronizar con main:** `git fetch origin main` y dejar el working tree igual a
+   `origin/main` antes de leer nada.
+   - **Sesión en la nube con rama asignada** (`claude/...`): es lo normal y está bien. Poné esa
+     rama al día con `git merge --ff-only origin/main`, commiteá ahí, y al terminar pusheá
+     **la rama y también main**: `git push origin HEAD:main` (solo fast-forward, nunca force).
+     Pushear a `main` en este repo es regla permanente de Manuel. Si el push a `main` es
+     rechazado, decíselo explícitamente: el cambio NO está en la fuente de verdad.
+   - Los archivos del plan nunca quedan solo en una rama: si no llegó a `main`, no pasó.
 2. **Recalcular la semana del mesociclo desde las FECHAS, no del número guardado.**
-   El campo "Semana: X" del `CURRENT_PLAN.md` es un cache que puede quedar viejo.
-   Calculá la semana real = `floor((hoy − Inicio del bloque) / 7) + 1`, contando
-   semanas lunes→domingo, y cruzá contra las fechas reales de `SESSION_HISTORY.md`.
-   Si no coincide con lo guardado, **corregí el archivo** antes de responder.
+   La línea "AHORA: semana N" de "Estado" en `CURRENT_PLAN.md` es un cache que puede quedar
+   viejo. Semana real = `floor((hoy − inicio del bloque) / 7) + 1`, contando semanas
+   lunes→domingo. Si no coincide con lo guardado, **corregí el archivo** antes de responder.
 3. **Detectar sesiones sin registrar:** traé los últimos workouts de Hevy
    (`get_user_workouts`, `page=1, pageSize=3`) y compará sus IDs contra `SESSION_HISTORY.md`.
    Si hay workouts sin registrar, registralos ANTES de recomendar pesos (en orden
    cronológico; si los 3 son nuevos, pedí más páginas hasta encontrar uno ya registrado).
    Si el conector no está disponible, avisalo en una línea y seguí con lo último conocido.
 4. **Al terminar cualquier cambio** (registrar sesión, ajustar pesos, corregir algo):
-   commitear y pushear a `main` en el momento. No dejar cambios sin pushear ni
+   commitear y pushear a `main` en el momento (ver paso 1). No dejar cambios sin pushear ni
    acumularlos para después — `main` siempre refleja el estado real.
 
 ## Fuentes de verdad (leer al empezar, ya sincronizado con main)
@@ -70,8 +74,10 @@ el próximo objetivo. Pasos en "Cómo registrar una sesión" más abajo.
 1. Arrancar en el piso del rango de reps con el RPE objetivo.
 2. Sumar reps cada sesión hasta que TODAS las series lleguen al techo del rango con
    el RPE objetivo.
-3. **Subir peso solo cuando las 3 series llegan al techo del rango con TODAS a RPE ≤
-   objetivo.** Si pegó el techo de reps pero alguna serie se fue por encima del RPE
+3. **Subir peso solo cuando las 3 series llegan al techo del rango con TODAS en cap.**
+   "En cap" significa: **compuestos** → las 3 series a RPE ≤8 · **aislamientos** → las dos
+   primeras ≤8 y la última ≤9 · **dips** → las dos primeras ≤8 y la última ≤8.5 · **pierna**
+   (leg curl / leg extension) → las 3 a ≤8, por el fútbol. Si pegó el techo de reps pero alguna serie se fue por encima del RPE
    objetivo (ej. 3×12 pero la última a RPE 8.5 con objetivo 8), todavía NO se sube:
    una sesión más de consolidación para clavar el techo a RPE limpio. Recién ahí se
    sube el peso y se vuelve al piso del rango. **El techo de reps no vale si se sale
@@ -82,8 +88,9 @@ el próximo objetivo. Pasos en "Cómo registrar una sesión" más abajo.
 
 **RPE objetivo:**
 - Compuestos: RPE 7-8 (2-3 reps en reserva). NUNCA al fallo en compuestos.
-- Aislamientos/accesorios: **última serie a RPE 9-10 (0-1 rep en reserva)**; las
-  anteriores a RPE 8. El costo de fatiga es bajo y la evidencia (Robinson 2024
+- Aislamientos/accesorios: **última serie a RPE 9 (objetivo; un 10 ocasional no es
+  problema, pero no se busca)**; las anteriores a RPE 8. Excepciones: **pierna** cap 8 en
+  todas las series; **dips** se programan como compuesto fijo pero toleran la última a 8.5. El costo de fatiga es bajo y la evidencia (Robinson 2024
   dose-response, Refalo 2024) muestra un pequeño extra hipertrófico al acercarse al
   fallo SOLO acá, no en compuestos. **Ojo:** esto es RIR bajo *planificado* en la
   última serie — no es licencia para grindear reps extra ni para que las 3 series
@@ -93,16 +100,23 @@ el próximo objetivo. Pasos en "Cómo registrar una sesión" más abajo.
 **Incrementos al progresar:**
 - Compuestos con barra (tren superior): +2.5 kg
 - Mancuernas/cables accesorios: +2 kg
-- Carries: +2 kg cuando se siente cómodo
-- Dominadas: llegar a 3×12 limpio antes de agregar 2.5 kg de lastre
+- Carries (sin RPE): al completar 3×60" se sube +2 kg y se vuelve al **piso del rango** de
+  tiempo del slot.
+- Dominadas (chin-up / pull-up): progresan por reps. El rango del bloque es un escalón
+  (hoy 3×6-8 y 3×5-8): al cerrarlo limpio, el rango sube (→ 3×8-10 → 3×10-12). **Lastre recién
+  con 3×12 limpio**, con el disco más chico que haya (ver `EQUIPMENT.md`).
+- **Al cambiar de peso** (subida normal o rebote a un peso anterior): la primera sesión va al
+  **piso del rango** de reps, salvo que el plan diga otra cosa.
 
 ## Mesociclo (6 semanas) + deload
 - El bloque dura **6 semanas**. Sumar series dentro del bloque es **opcional y guiado por
   rendimiento**, no un mandato: si al mismo peso caen las reps o trepa el RPE, NO se suman
   series. (El dose-response de volumen es real —Pelland 2025— pero nadie demostró que el ramp
   MEV→MRV supere al volumen constante; no fuerces el ramp.)
+- **Semana 5 = pico:** misma estructura y mismas series (no se suma volumen). Es la semana
+  para concretar los saltos de peso que quedaron a una consolidación. Los caps NO cambian.
 - **Semana 6 = deload (default revisable, enfoque híbrido):** mismas rutinas y frecuencia,
-  ~50% del volumen (mitad de series), **-10% de peso**, lejos del fallo (RPE 5-6).
+  **2 series por ejercicio** (en vez de 3), **-10% de peso**, lejos del fallo (RPE 5-6).
   - Al llegar a la semana 6, evaluar readiness (progresión del bloque, tendencia de RPE,
     sueño, calendario de fútbol) y proponer adelantarlo o estirarlo ±1 semana si corresponde.
   - **Regla de seguridad: nunca saltear el deload dos bloques seguidos.**
@@ -152,12 +166,15 @@ Mirar `SESSION_HISTORY.md` y avisar cuando:
    caps de RPE y `EQUIPMENT.md`.
 3. **Guardar la lectura** ARRIBA del bloque actual en `SESSION_HISTORY.md`, con el formato
    del encabezado de ese archivo (ID de Hevy + lecturas con números; sin tabla de series).
-4. **Actualizar `CURRENT_PLAN.md`:** columnas "Último", "Próximo objetivo" y "Nota Hevy" de la
+4. **Actualizar `CURRENT_PLAN.md`:** columnas "Último", "Próximo objetivo" y "Consigna" de la
    rutina registrada (y de otras rutinas si comparten un ejercicio que cambió, ej. pierna);
    "Estado" (última sesión, semana recalculada por fechas); calendario (✅).
 5. **Reescribir las rutinas de Hevy** con `update_hevy_routine` siguiendo las reglas duras de
    `HEVY.md` (rutina entera, reps fijas, RPE en la nota, pierna del día de la PRÓXIMA sesión
-   de esa rutina). Releer con `get_user_routines` y verificar que quedó igual que el plan.
+   de esa rutina). Se reescribe la rutina registrada y toda otra rutina donde cambió el
+   objetivo de un ejercicio compartido. El slot de pierna de cada rutina lleva siempre el
+   **objetivo pendiente hoy** de ese ejercicio; si una sesión intermedia lo mueve, el `/log`
+   de esa sesión vuelve a reescribirla. Releer con `get_user_routines` y verificar que quedó igual que el plan.
    Actualizar la fecha de "Rutinas de Hevy sincronizadas" en `CURRENT_PLAN.md`.
 6. **Flaggear datos faltantes** — los carries no llevan RPE por diseño (NO pedirlo). Si un
    peso o equipamiento no cierra (mislog, otra máquina), preguntar antes de cambiar el plan.

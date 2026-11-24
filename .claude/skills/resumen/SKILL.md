@@ -23,4 +23,6 @@ description: Resumen del entrenamiento de Manuel. Usar cuando invoca /resumen o 
      arranque del meso siguiente con los cambios ya decididos (ej. rear delt, regla
      0-1 RIR), viajes/parates anotados.
    - **⚠️ Flags** solo si existen: fatiga acumulada, sueño, sesiones sin registrar.
-4. Read-only. Sin preguntas al final: cierre limpio.
+4. No cambia el plan ni las rutinas. Única excepción: si el Protocolo de arranque encontró
+   workouts sin registrar, registralos primero con el flujo de `/log` (eso sí commitea) y
+   después armá el resumen. Sin preguntas al final: cierre limpio.

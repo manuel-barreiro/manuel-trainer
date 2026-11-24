@@ -4,14 +4,13 @@
 > `mcp__Hevy__*`. Hevy es la fuente de verdad de **lo hecho**; el repo, de **lo prescripto**.
 > Si las herramientas no están disponibles en la sesión, el fallback es el paste manual.
 
-## Rutinas (cuenta free: máximo 4 — NUNCA crear rutinas nuevas, siempre actualizar)
+## Rutinas (cuenta free: máximo 4, hay 3 — no crear rutinas sin pedido de Manuel)
 
 | Rutina | `routine_id` |
 |---|---|
 | Workout A | `45fa4768-8b79-42b9-92c4-7052b592c260` |
 | Workout B | `19b43832-0c0c-433c-af40-6a1a40f26639` |
 | Workout Extra | `c1970ae6-a80f-46fe-80aa-52670417de05` |
-| PIERNA + CORE (vieja, sin usar desde mayo; sirve de banco de pruebas) | `0451bd69-70df-4ed0-aab4-c86915a01373` |
 
 Folder "Abril 2026": `folder_id` **2646352** (A, B y Extra viven ahí).
 
@@ -42,6 +41,7 @@ Folder "Abril 2026": `folder_id` **2646352** (A, B y Extra viven ahí).
 | Seated Palms Up Wrist Curl | `1006DF48` | peso × reps |
 | Crunch (Weighted) | `D928C232` | peso × reps |
 | Oblique Crunch | `DBE341AA` | BW reps |
+| Dumbbell Row *(sustituto del cable row, usado el 18/11)* | `F1E57334` | peso × reps |
 | Face Pull *(candidato de rotación)* | `BE640BA0` | peso × reps |
 
 Un ejercicio que no esté acá: `search_hevy_exercises` y agregarlo a esta tabla. Custom nuevos
@@ -67,8 +67,8 @@ solo como último recurso (límite free: 7) y avisándole a Manuel.
    corresponde.
 2. **Reps fijas por serie, nunca `rep_range`.** El objetivo es concreto (ej. 8/8/7). Riesgo
    reportado por la comunidad: un rango con inicio ≠ fin deja las reps en blanco para siempre y
-   solo se arregla creando otra rutina — y no hay cupo. Si algún día se quiere probar, primero
-   en "PIERNA + CORE".
+   solo se arregla creando otra rutina. Si algún día se quiere probar, hacerlo en una rutina
+   de prueba nueva (queda 1 cupo) y con el OK de Manuel, nunca en A, B o Extra.
 3. **El RPE no va en las series** (Hevy lo rechaza en rutinas): va en `notes` del ejercicio,
    corto y accionable. Ej.: `Obj 8/8/7 · cortar la 3ª en RPE 8`.
 4. **Pierna del día:** el slot de pierna de la rutina se cambia según el DÍA de la próxima
@@ -77,16 +77,21 @@ solo como último recurso (límite free: 7) y avisándole a Manuel.
 5. **Cuándo:** después de cada `/log`, reescribir la rutina recién registrada (Hevy la pisó
    con lo hecho) y cualquier otra que comparta un ejercicio cuyo objetivo cambió (pierna, o un
    ajuste del plan). Después de escribir, releer con `get_user_routines` y verificar.
-6. **Deload:** la semana 6 se carga con 2 series, -10% de peso y nota `DELOAD · RPE 5-6`.
-7. `routine.notes` (nota general): `Coach · [fecha de carga] · Meso N sem X · próxima: [día fecha]`.
+6. **Deload:** la semana 6 se carga con 2 series por ejercicio, -10% de peso (redondeado a un
+   peso que exista, ver `EQUIPMENT.md`) y nota `DELOAD · RPE 5-6`.
+7. **No usar `routine.notes`** (nota general de la rutina): el conector no la devuelve al
+   leer, así que no se puede verificar. Todo lo importante va en la nota de cada ejercicio.
+   **Todo ejercicio lleva nota**, como mínimo con su cap de RPE (los carries, con el objetivo
+   de tiempo). La columna "Consigna" de `CURRENT_PLAN.md` es la idea; el texto en Hevy puede
+   ser más largo.
 8. No usar `create_hevy_routine`, `create_hevy_plan` ni `create_hevy_routine_folder` salvo
    pedido explícito de Manuel.
 
 ## Verificado el 24/11/2026
 - `update_hevy_routine` aceptó A, B y Extra con reps fijas, notas por ejercicio, carries por
   `duration_seconds`, cambio de ejercicio de pierna y supersets intactos.
-- La respuesta NO devuelve `routine.notes` (nota general): no se sabe si se guarda. No
-  depender de ella; lo importante va en la nota de cada ejercicio.
+- Ni la respuesta ni `get_user_routines` devuelven `routine.notes` (nota general) → no se usa.
+- "PIERNA + CORE" fue borrada por Manuel el 24/11: quedan 3 rutinas.
 
 ## Pendiente de validar (ver plan 2026-11-24, tareas 9-10)
 - Qué queda en la rutina (notas, reps) después de terminar un workout y aceptar "update routine".

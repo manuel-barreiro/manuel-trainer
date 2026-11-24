@@ -24,18 +24,22 @@ Patrón: semana impar **A · B · A · Extra** · semana par **B · A · B · Ex
 | 3 | 16/11 → 22/11 | B ✅ · A ✅ · B ✅ · Extra ✅ |
 | **4** | 23/11 → 29/11 | A ✅ (lun 23) · **B (mié 25)** · A (vie 27) · Extra (dom 29) — acumulación (RPE 8) |
 | 5 | 30/11 → 06/12 | B · A · B · Extra — **pico** |
-| 6 | 07/12 → 13/12 | A · B · A · Extra — **DELOAD** (2 series, -10% peso, RPE 5-6) |
+| 6 | 07/12 → 13/12 | A · B · A · Extra — **DELOAD** (2 series por ejercicio, -10% peso, RPE 5-6) |
 
 ## Reglas del bloque (además de la skill)
 - **🦵 Pierna por DÍA DE SEMANA, no por rutina:** Lun y Vie = **Leg Curl** · Mié y Dom =
   **Leg Extension**, toque la rutina que toque (6 y 6 series por semana). Curl del viernes
   (víspera del partido): cap 8 estricto. Extensión del domingo: saltear si el partido dejó las
   piernas cargadas.
-- **Compuestos** (incline, chin-up, pull-up, bench, OHP, row): cap ≤8 estricto. **Aislamientos y
-  dips:** la última serie a 8.5-9 es productiva.
+- **Caps (definición completa en la skill):** compuestos (incline, chin-up, pull-up, bench, OHP,
+  row) las 3 series ≤8 · aislamientos: dos primeras ≤8, última ≤9 · dips: última ≤8.5 ·
+  pierna: las 3 ≤8.
 - **Regla de rebote:** un lift que todavía está debajo del cierre del Meso 3 y toca el techo del
-  rango en cap salta directo al peso de cierre (es fuerza que vuelve). Quedan: bench → 72.5,
-  row → 70, OHP → 47.5.
+  rango en cap salta directo al peso de cierre (es fuerza que vuelve) y entra en el **piso del
+  rango**. Quedan: bench → 72.5 × 3×8, row → 70 × 3×8, OHP → 47.5 × 3×6.
+- **Semana 5 (pico):** mismas series y mismos caps; es la semana para concretar los saltos
+  pendientes. **Semana 6 (deload):** 2 series por ejercicio, -10%, RPE 5-6.
+- **Carries:** al completar 3×60" → +2 kg y vuelta al piso del rango (A: 50" · B: 45").
 - **Dos recetas para destrabar:** (1) fatiga / rango sin margen → bajar el piso de reps y sumar
   de a una serie (8/8/7 → 3×8); (2) reps al tope y salto de peso grande → saltar y reiniciar
   desde el piso (ver `EQUIPMENT.md`).
@@ -49,35 +53,35 @@ Patrón: semana impar **A · B · A · Extra** · semana par **B · A · B · Ex
 
 ## Rutinas del Mesociclo 4
 
-> "Próximo objetivo" es lo que está cargado en la rutina de Hevy. "Nota Hevy" es el texto de la
-> nota del ejercicio en la app. Doble progresión dentro del rango; subir peso cuando las 3
+> "Próximo objetivo" es lo que está cargado en la rutina de Hevy. "Consigna" es la idea de la
+> nota del ejercicio en la app (allá puede ser más larga; todo ejercicio lleva nota). Doble progresión dentro del rango; subir peso cuando las 3
 > series tocan el techo con todas en cap.
 
 ### Workout A — próxima: vie 27/11
-| Ejercicio | Último | Próximo objetivo | Rango → siguiente paso | Cap | Nota Hevy |
+| Ejercicio | Último | Próximo objetivo | Rango → siguiente paso | Cap | Consigna |
 |---|---|---|---|---|---|
 | Incline DB Press | 23/11: 30 × 8/8/8 @ 7.5/8/**9** | 30 × 8/8/7 | 3×6-12 → 3×8 limpio → sumar reps | ≤8 | Cortar la 3ª en RPE 8 |
 | Chin-Up (+2 aproximaciones) | 23/11: 7/7/7 @ ≤8 ✅ | BW × 8/7/7 | 3×6-8 → 3×8 limpio | ≤8 estricto | 2 aproximaciones antes · cap 8 |
 | 🦵 Pierna (vie = Leg Curl) | 23/11: 56 × 3×9 ✅ | 56 × 3×10 | curl 3×8-12 · ext 3×12-15 | 8 | Víspera de partido: cap 8 estricto |
 | Seated Cable Row (V) | 23/11: 54.4 × 3×11 @ ≤7.5 ✅ | 54.4 × 3×12 | 3×10-12 → 130 lb | 7-8 | 120 lb |
-| OH Single Carry | 23/11: 22 × 3×55" | 22 × 3×60" | 3×50-60" → 24 kg | — | — |
+| OH Single Carry | 23/11: 22 × 3×55" | 22 × 3×60" | 3×50-60" → 24 kg × 50" | — | Objetivo 60" |
 | Seated Incline Curl (DB) | 23/11: 14 × 3×10 (3ª 8.5) | 14 × 3×11 | 3×10-12 → siguiente mancuerna | 8 (última 9) | Última serie hasta RPE 9 |
 | Rear Delt Reverse Fly (DB) | 23/11: 14 × 3×13 ✅ | 14 × 3×14 | 3×10-15 → subir | 8 (última 9) | Última serie hasta RPE 9 |
 | Ab Wheel | 23/11: 3×13 @ ≤8 ✅ | BW × 3×14 | 3×12-15 → más dificultad | 7-8 | — |
 
 ### Workout B — próxima: mié 25/11
-| Ejercicio | Último | Próximo objetivo | Rango → siguiente paso | Cap | Nota Hevy |
+| Ejercicio | Último | Próximo objetivo | Rango → siguiente paso | Cap | Consigna |
 |---|---|---|---|---|---|
 | OHP (Barbell) | 20/11: 45 × 8/8/8 @ 7.5/8/**9** | 45 × 8/8/7 | 3×6-8 → 3×8 limpio → 47.5 | ≤8 | Cortar la 3ª en RPE 8 |
 | 🦵 Pierna (mié = Leg Extension) | ext 22/11: 84 × 3×15 ✅ · curl 23/11: 56 × 3×9 | ext 91 × 3×12 | ext 3×12-15 · curl 3×8-12 | 8 | Miércoles = extensión |
 | Pendlay Row (Barbell) | 20/11: 67.5 × 3×10 (3ª 8.5) | 67.5 × 3×10 | consolidar a ≤8 → 70 | ≤8 | Consolidar: las 3 a RPE ≤8 |
 | Cable Lateral Raise (1 brazo) | 20/11: 10 × 3×12 @ ≤8 ✅ | 10 × 3×13 | 3×10-15 → siguiente placa | 8 (última 9) | Máquina de 10 kg, siempre la misma |
-| Suitcase Carry | 20/11: 22 × 3×55" | 22 × 3×60" | 3×45-60" → 24 kg | — | — |
+| Suitcase Carry | 20/11: 22 × 3×55" | 22 × 3×60" | 3×45-60" → 24 kg × 45" | — | Objetivo 60" |
 | Weighted Dips | 20/11: +15 × 3×8 @ ≤8 ✅ | +15 × 3×9 | 3×8-12 → +20 | 7-8 (última 8.5) | Última serie hasta 8.5 |
 | Hanging Leg Raise | 20/11: 3×12 @ ≤8 ✅ | BW × 3×13 | 3×10-15 | 7-8 | — |
 
 ### Extra — próxima: dom 29/11
-| Ejercicio | Último | Próximo objetivo | Rango → siguiente paso | Cap | Nota Hevy |
+| Ejercicio | Último | Próximo objetivo | Rango → siguiente paso | Cap | Consigna |
 |---|---|---|---|---|---|
 | Pull-Up — SIEMPRE 1º (+2 aproximaciones) | 22/11: 6/5/5 @ ≤8 ✅ | BW × 6/6/5 | 3×5-8 | ≤8 estricto | 2 aproximaciones antes · cortar en RPE 8 |
 | Bench Press | 22/11: 70 × 3×9 @ 7.5/7.5/8 ✅ | 70 × 3×10 | 3×8-10 → 72.5 → 75 | ≤8 | Las 3 a RPE ≤8 → sube a 72.5 |

@@ -15,7 +15,8 @@ Hevy son el canal de entrega de la prescripción.
 - `get_user_exercise_history` trae un ejercicio por rango de fechas en una llamada.
 - `update_hevy_routine` REEMPLAZA la rutina entera (no hace patch).
 - Hevy pisa la rutina con lo hecho al terminar un workout → hay que reescribirla tras cada log.
-- Cuenta free: máximo 4 rutinas (ya hay 4) y 7 ejercicios custom → nunca crear rutinas.
+- Cuenta free: máximo 4 rutinas y 7 ejercicios custom. Había 4; Manuel borró "PIERNA + CORE"
+  el 24/11 → quedan 3. Igual, nunca crear rutinas sin pedido.
 - No hay webhooks, ni escritura de workouts, ni borrado de rutinas.
 - Gotchas reportados por la comunidad (ioandev/hevy, claude-hevy-coach), no verificados con el
   conector oficial: un `rep_range` con inicio ≠ fin puede dejar las reps en blanco para
@@ -48,7 +49,7 @@ Hevy son el canal de entrega de la prescripción.
 - [x] **3. Archivar** — mover `SESSION_HISTORY.md` desde el Meso 3 hacia atrás y el
       `CURRENT_PLAN.md` completo a `docs/archive/` (sin borrar nada).
 - [x] **4. `CURRENT_PLAN.md` nuevo** — estado, calendario Meso 4, tablas por rutina con
-      columnas `Último | Próximo objetivo | Rango | RPE cap | Nota Hevy`.
+      columnas `Último | Próximo objetivo | Rango | Cap | Consigna`.
 - [x] **5. Skills y agente** — reescribir registro, `/log`, `/hoy`, `/resumen`, tools del agente.
 - [x] **6. `TEORIA.md`** — deload híbrido -10%, ramp opcional, rotación por bloque, aislamientos
       última serie 9-10.
@@ -60,6 +61,13 @@ Hevy son el canal de entrega de la prescripción.
       ¿qué queda en la rutina después de terminar el workout? Ajustar `HEVY.md` con lo aprendido.
 - [ ] **10. (Opcional, después del 9) Tarea programada** — corrida nocturna los días de gym que
       haga `/log` sola y mande push. Falta verificar que las escrituras a Hevy corran sin aprobación.
+
+## Correcciones post-auditoría (24/11, sesión nueva de solo lectura)
+- Protocolo de ramas para sesiones en la nube (commit en la rama asignada + push a `main`).
+- Caps de RPE definidos por tipo de ejercicio; regla de lastre en dominadas; carries objetivos.
+- Pico (sem 5) y deload (2 series) definidos igual en skill, plan, `HEVY.md` y `TEORIA.md`.
+- `routine.notes` deja de usarse (no se puede verificar); todo ejercicio lleva nota.
+- `/resumen` aclara su excepción al solo-lectura; `TEORIA.md` §2, §9 y TL;DR actualizados.
 
 ## Decisiones de entrenamiento pendientes de Manuel (NO incluidas en este cambio)
 1. Probar 3:00 de descanso en compuestos (hipótesis: la 3ª serie a 9 es descanso corto).

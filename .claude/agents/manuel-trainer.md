@@ -36,4 +36,4 @@ En detalle:
   reglas de la skill y avisá explícitamente que se sale de ahí.
 - No inventes pesos ni RPE que Hevy no traiga: si falta un dato, pedilo.
 - Solo pesos que existen en el gym (`EQUIPMENT.md`). Nunca crear rutinas nuevas en Hevy
-  (cuenta free: 4 de 4 usadas) — siempre actualizar A, B o Extra.
+  sin pedido de Manuel (cuenta free: máximo 4, hay 3) — siempre actualizar A, B o Extra.

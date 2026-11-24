@@ -23,7 +23,7 @@ Las tres palancas que manejamos:
 ## 2. El mesociclo: bloques de ~6 semanas
 
 Un **mesociclo** es un bloque de entrenamiento con un objetivo y una curva. El nuestro dura
-**~6 semanas**. La idea no es hacer lo mismo 6 semanas seguidas, sino **rampear**: empezás
+**~6 semanas**. La idea no es hacer lo mismo 6 semanas seguidas, sino **progresar**: empezás
 suave y vas subiendo el estímulo semana a semana, hasta que tocás un techo. Ahí descargás
 (deload) y arrancás un bloque nuevo, más fuerte que el anterior.
 
@@ -82,7 +82,7 @@ progresión por carga/reps en lugar de meter volumen basura.
 ## 4. El deload: la pieza que casi todos se saltean
 
 El **deload** es una semana de **carga reducida**: mismas rutinas y frecuencia, pero
-**~50% del volumen** (mitad de series), **-10% de peso**, y **lejos del fallo (RPE 5-6)**.
+**2 series por ejercicio en vez de 3**, **-10% de peso**, y **lejos del fallo (RPE 5-6)**.
 
 **¿Para qué?** Durante el bloque vas acumulando fatiga más rápido de lo que la recuperás
 (por eso el rendimiento al final cuesta más). El deload deja que la fatiga caiga **sin perder
@@ -126,7 +126,9 @@ más de consolidación para clavarlo limpio. Esto evita subir de peso arrastrand
 - Compuestos con barra (OHP, Row, Bench): **+2.5 kg**
 - Mancuernas / cables: **+2 kg** o el salto real que exista (ver `EQUIPMENT.md`)
 - Carries: **+2 kg** cuando se siente cómodo
-- Dominadas/dips con lastre: llegar a 3×10-12 limpio antes de agregar disco
+- Dominadas: progresan por reps; lastre recién con **3×12 limpio**
+- Dips con lastre: techo del rango en cap → siguiente disco que exista (ver `EQUIPMENT.md`)
+- Carries: al completar 3×60" → +2 kg y vuelta al piso del rango de tiempo
 
 ---
 
@@ -194,24 +196,26 @@ mareo, dolor agudo, coordinación rara.
 ## 9. Cómo se arma TODO junto en tu semana
 
 - **Frecuencia:** 4 sesiones de gym (A · B · Extra + el día que se repite) + fútbol 3×/semana.
-- **Reparto:**
-  - **Workout A:** empuje horizontal (incline), tracción vertical (chin-up), cuádriceps
-    (leg ext), carry, bíceps, core.
-  - **Workout B:** empuje vertical (OHP), tracción horizontal (row), carry, dips, core.
-  - **Extra:** bench, tracción vertical (pull-up), laterales, brazos, antebrazo, core.
-- **Pierna pesada:** la cubre el fútbol. En gym solo Leg Extension (no programamos
-  sentadilla/peso muerto — redundante y fatiga de más sobre el fútbol).
-- **Carries:** son fijos, miden en tiempo (ej. 3×55"). No llevan RPE (Hevy no lo permite en
-  ejercicios por tiempo); se autorregulan por peso y duración.
+- **Reparto (Meso 4; el detalle vivo está en `CURRENT_PLAN.md`):**
+  - **Workout A:** incline, chin-up, cable row, pierna del día, carry, curl, deltoide
+    posterior, core.
+  - **Workout B:** OHP, Pendlay row, pierna del día, lateral en polea, carry, dips, core.
+  - **Extra:** pull-up, bench, leg extension + lateral, bíceps, tríceps, antebrazo, core.
+- **Pierna:** el fútbol cubre el trabajo pesado (no programamos sentadilla ni peso muerto).
+  En el gym va un ejercicio por sesión según el día: **Lun/Vie Leg Curl · Mié/Dom Leg
+  Extension** (6 y 6 series por semana). El fútbol no reemplaza el estímulo de hipertrofia de
+  pierna: es una decisión de prioridades.
+- **Carries:** son fijos y van por tiempo (ej. 3×55"). No llevan RPE: Hevy no lo registra en
+  ejercicios por tiempo, así que se autorregulan por peso y duración.
 
 ---
 
 ## TL;DR — la idea en 5 líneas
 
-1. **Mesociclo** = bloque de ~6 semanas que rampea el estímulo y termina en deload.
-2. **MEV → MAV → MRV** = piso, zona dulce y techo de volumen. Vivís en el MAV, tocás el MRV
-   en el pico, no te pasás (volumen basura).
-3. **Deload** = semana suave para soltar fatiga (-10% de peso, mitad de series). Default
+1. **Mesociclo** = bloque de ~6 semanas que progresa por reps y carga y termina en deload.
+2. **MEV → MAV → MRV** = piso, zona dulce y techo de volumen. Vivís en el MAV y no te pasás
+   del MRV (volumen basura). Las series quedan fijas; no se fuerza un ramp.
+3. **Deload** = semana suave para soltar fatiga (-10% de peso, 2 series por ejercicio). Default
    revisable ±1 semana; nunca saltearlo dos bloques seguidos.
 4. **Doble progresión** = sumás reps hasta el techo del rango a RPE objetivo, ahí subís peso.
 5. **RPE 7-8 en compuestos (nunca al fallo); en aislamientos, última serie a 9-10.**
