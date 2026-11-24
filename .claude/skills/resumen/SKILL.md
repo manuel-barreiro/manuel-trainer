@@ -6,8 +6,10 @@ description: Resumen del entrenamiento de Manuel. Usar cuando invoca /resumen o 
 # /resumen — cómo venimos y hacia dónde vamos
 
 1. Cargá la skill **`manuel-training`** y ejecutá su **Protocolo de arranque**.
-2. Leé `SESSION_HISTORY.md` (el bloque actual completo, y el resumen del bloque
-   anterior para comparar) y `CURRENT_PLAN.md`.
+2. Leé `CURRENT_PLAN.md` y `SESSION_HISTORY.md` (bloque actual). Para las tendencias usá
+   `get_user_exercise_history` (IDs en `HEVY.md`) desde el inicio del bloque, solo para los
+   compuestos y para lo que esté consolidando o en atención — no para todo. Para comparar con
+   el bloque anterior, buscá su "RESUMEN" en `docs/archive/SESSION_HISTORY-hasta-2026-10.md`.
 3. Estructura fija de la respuesta:
    - **📍 Dónde estamos:** Meso N, semana X/6, fase (acumulación/pico/deload), qué se
      hizo y qué falta de la semana en curso.

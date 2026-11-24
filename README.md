@@ -7,37 +7,36 @@ Coach de hipertrofia personal de Manuel (subagente de Claude Code + skill + dato
 - `.claude/skills/manuel-training/SKILL.md` — las reglas de programación.
 - `PROFILE.md` — perfil estable del atleta.
 - `NUTRITION.md` — target proteico, distribución y restricciones alimentarias.
-- `CURRENT_PLAN.md` — plan vivo (rutinas + estado del mesociclo). **Fuente de verdad.**
-- `SESSION_HISTORY.md` — historial de sesiones.
+- `CURRENT_PLAN.md` — lo **prescripto**: estado del mesociclo y próximo objetivo por ejercicio.
+- `SESSION_HISTORY.md` — lecturas del coach por sesión + ID de Hevy (bloque actual).
+- `HEVY.md` — IDs y reglas del conector de Hevy.
+- `EQUIPMENT.md` — pesos y saltos reales del gym.
 - `EXERCISE_LIBRARY.md` — catálogo de ejercicios + pools de rotación por slot.
 - `TEORIA.md` — base teórica del sistema.
-- `scripts/hevy_sync.py` — trae las últimas sesiones desde la API de Hevy (Hevy Pro).
+- `docs/archive/` — historial y planes de bloques anteriores.
 
-## Cómo usarlo desde el celular
+## Cómo funciona
 
-> Regla de oro: **todo pasa por este repo, rama `main`** (el agente sincroniza y pushea
-> solo — ver Protocolo de arranque en la skill). Un chat suelto sin el repo no persiste
-> nada; siempre abrir la sesión sobre `manuel-trainer`.
+**Hevy guarda lo que hiciste; el repo guarda lo que el coach prescribe y por qué; las rutinas
+de Hevy te muestran la próxima sesión.** Requiere el conector de Hevy conectado en Claude
+(funciona sin Hevy Pro).
 
-**Comandos rápidos (la UX del día a día):**
+1. Entrenás con la rutina de Hevy (A, B o Extra): ya tiene pesos y reps objetivo, y el cap
+   de RPE en la nota de cada ejercicio.
+2. Al terminar, abrís Claude sobre el repo `manuel-trainer` y escribís `/log` — sin pegar
+   nada. Podés sumar contexto ("dormí mal", "usé la otra polea").
+3. El coach lee el workout, decide la progresión, guarda la lectura, y **reescribe la rutina
+   en Hevy** con el próximo objetivo.
+4. La próxima vez que vayas al gym, abrís Hevy y listo.
+
 | Comando | Qué hace |
 |---|---|
-| `/log` + paste de Hevy | Registra la sesión, actualiza pesos, te dice qué progresar. Acepta varios workouts juntos. |
-| `/hoy` | La sesión del día (A/B/Extra) con pesos, reps y RPE, lista para el gym. |
-| `/resumen` | Cómo venimos (tendencias por ejercicio) y hacia dónde vamos (deload, cierre, rotación, viajes). |
+| `/log` | Registra lo que falte desde Hevy, actualiza el plan y las rutinas, te dice qué cambia. |
+| `/hoy` | Confirma que la rutina de hoy está cargada en Hevy y te la muestra (respaldo). |
+| `/resumen` | Cómo venimos (tendencias por ejercicio) y hacia dónde vamos. |
 
-**Flujo oficial (paste manual — sin Hevy Pro, decisión 01/09/2026):**
-1. Al terminar el workout en Hevy: Share → copiar como texto.
-2. Abrir `claude.ai/code`, elegir el repo `manuel-trainer`, escribir `/log` y pegar.
-3. El agente parsea, actualiza los `.md` y te dice qué ajustar. Cada cambio se commitea
-   y pushea a `main`.
-4. Al día siguiente de gym: `/hoy`.
-5. Opcional: una rutina programada (*"/schedule un agente que cada mañana de gym me
-   prepare la sesión del día"*) — no necesita la API: lee el plan del repo y te deja
-   los pesos/reps objetivo listos antes de llegar al gym.
-
-**Flujo con API** (`scripts/hevy_sync.py`): dormido — solo aplica si algún día hay
-Hevy Pro (key en hevy.com/settings → `~/.config/hevy/api-key`), y elimina el paste.
+> Regla de oro: **todo pasa por este repo, rama `main`.** Un chat suelto sin el repo no
+> persiste nada. Si el conector no está disponible, el paste manual sigue funcionando.
 
 ## Flujo del mesociclo
 Bloque de 6 semanas → sesión a sesión ajusta pesos → semana 6 deload → cierre +

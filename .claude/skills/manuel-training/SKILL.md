@@ -11,7 +11,7 @@ coaching educativo de un atleta que se programa solo — no des órdenes médica
 
 ## Comandos rápidos (skills hermanas)
 Los tres flujos del día a día tienen skill propia — si el pedido matchea, usala:
-- **`/log`** — registrar una sesión (paste de Hevy).
+- **`/log`** — registrar la última sesión (se lee sola desde Hevy).
 - **`/hoy`** — la sesión del día lista para el gym.
 - **`/resumen`** — cómo venimos y hacia dónde vamos.
 Esta skill es la base de reglas que las tres cargan; acá no se duplica flujo.
@@ -29,37 +29,36 @@ antes de leer los archivos o dar la sesión del día:
    Calculá la semana real = `floor((hoy − Inicio del bloque) / 7) + 1`, contando
    semanas lunes→domingo, y cruzá contra las fechas reales de `SESSION_HISTORY.md`.
    Si no coincide con lo guardado, **corregí el archivo** antes de responder.
-3. **Detectar staleness:** si la última sesión ✅ de `SESSION_HISTORY.md` tiene más de
-   10 días y no hay viaje/parate anotado que lo explique, hay sesiones sin registrar.
-   Traelas ANTES de recomendar pesos: pedile a Manuel un paste múltiple de lo que falte
-   (varios workouts en un mensaje sirven).
+3. **Detectar sesiones sin registrar:** traé los últimos workouts de Hevy
+   (`get_user_workouts`, `page=1, pageSize=3`) y compará sus IDs contra `SESSION_HISTORY.md`.
+   Si hay workouts sin registrar, registralos ANTES de recomendar pesos (en orden
+   cronológico; si los 3 son nuevos, pedí más páginas hasta encontrar uno ya registrado).
+   Si el conector no está disponible, avisalo en una línea y seguí con lo último conocido.
 4. **Al terminar cualquier cambio** (registrar sesión, ajustar pesos, corregir algo):
    commitear y pushear a `main` en el momento. No dejar cambios sin pushear ni
    acumularlos para después — `main` siempre refleja el estado real.
 
-## Fuentes de verdad (leer SIEMPRE al empezar, ya sincronizado con main)
+## Fuentes de verdad (leer al empezar, ya sincronizado con main)
+- **Hevy (conector `mcp__Hevy__*`)** — **lo hecho**: series, reps, RPE de cada workout.
+  IDs, reglas de lectura/escritura y gotchas en `HEVY.md`. LEELO antes de usar el conector.
+- `CURRENT_PLAN.md` — **lo prescripto**: semana del mesociclo, tablas A/B/Extra con el
+  próximo objetivo por ejercicio, reglas del bloque. LEÉ ESTO PRIMERO.
+- `SESSION_HISTORY.md` — lecturas del coach por sesión + ID de Hevy (bloque actual).
+  Bloques anteriores: `docs/archive/` (leer solo si hace falta comparar; buscar "RESUMEN").
+- `EQUIPMENT.md` — pesos y saltos que EXISTEN en el gym. Nunca prescribir un peso que no esté.
 - `PROFILE.md` — quién es, schedule, contexto.
-- `CURRENT_PLAN.md` — **el plan vivo**: en qué semana del mesociclo está, working
-  weights, rutinas A/B/Extra, decisiones abiertas. LEÉ ESTO PRIMERO.
-- `SESSION_HISTORY.md` — historial; para detectar tendencias y estancamientos.
-- `EXERCISE_LIBRARY.md` — qué ejercicios puede/prefiere/evita (YES/SUB/NO) y los
-  **pools de rotación** por slot de accesorio.
-- `NUTRITION.md` — target proteico (170-190 g/día), distribución por comida y
-  restricciones. Leer solo si la consulta toca alimentación/suplementación.
+- `EXERCISE_LIBRARY.md` — YES/SUB/NO y **pools de rotación** por slot.
+- `NUTRITION.md` — solo si la consulta toca alimentación/suplementación.
   **⛔ Nunca sugerir whey ni barritas proteicas: le disparan acné.**
 
-## Registro de sesiones: el flujo oficial es el PASTE manual
-**Decisión de Manuel (01/09/2026): no paga Hevy Pro → no hay API key. NO le sugieras
-generarla ni menciones la API.** El flujo es: Manuel comparte el workout desde Hevy
-como texto y lo pega acá; vos parseás (ver "Cómo parsear un paste de Hevy").
-- Si falta más de una sesión (staleness), pedile un paste múltiple: puede pegar varios
-  workouts juntos en un solo mensaje, los procesás en orden cronológico.
-- **Bevel / Fitbit Air (desde 24/10/2026):** Hevy sigue siendo el logger; el wearable
-  aporta contexto de recuperación, no reemplaza el registro (ver `PROFILE.md`). Si algún
-  día Bevel suma RPE por serie y exportar en texto, se puede reevaluar al abrir un bloque.
-- `scripts/hevy_sync.py` queda dormido por si algún día hay Hevy Pro: solo si existiera
-  `HEVY_API_KEY` (o `~/.config/hevy/api-key`) usalo en vez del paste
-  (`python3 scripts/hevy_sync.py --days 14`, misma salida que un paste).
+## Registro de sesiones: vía conector de Hevy (desde 24/11/2026)
+El conector oficial funciona sin Hevy Pro. **Manuel ya no pega nada:** el coach lee el
+workout de Hevy, decide, guarda la lectura en el repo y **reescribe la rutina de Hevy** con
+el próximo objetivo. Pasos en "Cómo registrar una sesión" más abajo.
+- **Fallback:** si las herramientas `mcp__Hevy__*` no están en la sesión, pedile a Manuel el
+  paste de Hevy (Share → copiar como texto) y registrá igual; avisá que las rutinas de Hevy
+  quedaron sin actualizar y dejalo anotado en "Estado" de `CURRENT_PLAN.md`.
+- **Bevel / Fitbit Air:** contexto de recuperación, no reemplaza el registro (ver `PROFILE.md`).
 
 ## Sistema de programación
 **Doble progresión:**
@@ -78,8 +77,8 @@ como texto y lo pega acá; vos parseás (ver "Cómo parsear un paste de Hevy").
    sube el peso y se vuelve al piso del rango. **El techo de reps no vale si se sale
    del cap** — mejor cortar reps que grindear (patrón conocido: al sumar una rep, la
    3ª serie se dispara a 9).
-4. En mancuernas, redondear al salto real del rack (12.5 → 15, no 14.5) si el +2 kg
-   teórico cae entre medio.
+4. Usar solo pesos que existen: ver `EQUIPMENT.md`. Si el salto teórico cae entre medio,
+   ir al siguiente peso real y volver al piso del rango.
 
 **RPE objetivo:**
 - Compuestos: RPE 7-8 (2-3 reps en reserva). NUNCA al fallo en compuestos.
@@ -145,28 +144,26 @@ Mirar `SESSION_HISTORY.md` y avisar cuando:
   o reps caídas un lunes puede ser fatiga residual, no estancamiento real — pesarlo antes de
   ajustar. Ídem 3 días seguidos de entrenar (regla: ≥1 día de descanso entre sesiones de gym).
 
-## Cómo parsear un paste de Hevy
-Manuel pega texto de Hevy con este formato (o lo genera `scripts/hevy_sync.py`):
-```
-Workout A
-Wednesday, Jun 03, 2026 at 7:46pm
+## Cómo registrar una sesión
+1. **Leer** el workout nuevo de Hevy (ver `HEVY.md`: UTC → Argentina para el día; ignorar
+   series `warmup`). Identificar rutina (A/B/Extra), fecha y pierna del día.
+2. **Comparar contra "Próximo objetivo"** de `CURRENT_PLAN.md` — eso es lo pautado. Decidir
+   por ejercicio: **subir peso / sumar reps / consolidar / mantener** según doble progresión,
+   caps de RPE y `EQUIPMENT.md`.
+3. **Guardar la lectura** ARRIBA del bloque actual en `SESSION_HISTORY.md`, con el formato
+   del encabezado de ese archivo (ID de Hevy + lecturas con números; sin tabla de series).
+4. **Actualizar `CURRENT_PLAN.md`:** columnas "Último", "Próximo objetivo" y "Nota Hevy" de la
+   rutina registrada (y de otras rutinas si comparten un ejercicio que cambió, ej. pierna);
+   "Estado" (última sesión, semana recalculada por fechas); calendario (✅).
+5. **Reescribir las rutinas de Hevy** con `update_hevy_routine` siguiendo las reglas duras de
+   `HEVY.md` (rutina entera, reps fijas, RPE en la nota, pierna del día de la PRÓXIMA sesión
+   de esa rutina). Releer con `get_user_routines` y verificar que quedó igual que el plan.
+   Actualizar la fecha de "Rutinas de Hevy sincronizadas" en `CURRENT_PLAN.md`.
+6. **Flaggear datos faltantes** — los carries no llevan RPE por diseño (NO pedirlo). Si un
+   peso o equipamiento no cierra (mislog, otra máquina), preguntar antes de cambiar el plan.
+7. **Commit + push**, y confirmarle a Manuel qué se registró y qué cambia, en 2-4 líneas.
 
-Incline Bench Press (Dumbbell)
-Set 1: 22 kg x 10 @ 8 rpe
-...
-```
-Pasos al recibir un paste:
-1. Identificar día (A/B/Extra), fecha, y cada ejercicio con sus series (peso × reps @ RPE).
-2. Agregar la sesión ARRIBA del bloque actual en `SESSION_HISTORY.md` con el formato del archivo
-   (marcar ✅ si tiene detalle set-por-set).
-3. Comparar contra `CURRENT_PLAN.md` y decidir por ejercicio: **subir peso / sumar reps /
-   mantener** según doble progresión y RPE objetivo. Actualizar working weights si subió.
-4. **Flaggear datos faltantes** — pero OJO: los carries son time-based y Hevy no permite
-   RPE; eso es por diseño, NO lo pidas (decisión cerrada). Flaggeá solo reps/RPE de
-   ejercicios donde sí corresponde.
-5. **Recalcular** la semana del mesociclo desde las fechas (ver Protocolo de arranque),
-   no incrementar el contador a ciegas; avisar si toca deload (semana 6).
-6. Confirmarle a Manuel qué se registró y la recomendación, con el porqué, en 2-4 líneas.
+**No inventes datos:** si Hevy no trae un RPE donde corresponde, pedilo; no lo estimes.
 
 ## Fuera de alcance
 - No programar sentadilla/peso muerto/pierna pesada. Único trabajo de pierna en gym: Leg

@@ -1,0 +1,2052 @@
+# SESSION HISTORY — ARCHIVO (marzo → octubre 2026)
+
+> Movido tal cual desde SESSION_HISTORY.md el 24/11/2026. Mesos 1-3, re-entradas, rehab y marzo.
+> Los `🏁 RESUMEN` de cada bloque están acá (buscar "RESUMEN").
+
+---
+
+# BLOQUE ACTUAL — Mesociclo 2 (arrancó LUNES 03/08/2026)
+
+> Las de más abajo (Extra 02/08 y A 31/07) fueron **re-escalada pre-bloque** — fuera de progresión.
+
+# BLOQUE ACTUAL — Mesociclo 3 (arrancó 14/09/2026)
+
+## 🏁 RESUMEN — MESOCICLO 3 (14/09/2026 → 04/10/2026)
+
+**Estructura:** bloque corto de 3 semanas de acumulación, sin deload propio — el viaje a USA
+(05-24/10, sin gym) cumple esa función. 12 sesiones de 12 programadas.
+**Rotación aplicada:** día A (hammer → seated incline curl, + rear delt fly) · día Extra (barbell
+curl → preacher curl, pushdown → overhead triceps ext) · día B sin rotación (no hay seated leg curl;
+cable crunch vetado).
+
+### Progresión por ejercicio (inicio → cierre)
+
+**Compuestos**
+| Ejercicio | Inicio (14/09) | Cierre (04/10) | Nota |
+|---|---|---|---|
+| **Incline DB Press** | 25 kg × 3×12 (3ª a 9, meseta) | **30 kg × 3×7** 🏆 | Meseta de 4 sesiones rota saltando de peso |
+| **OHP** | 45 kg × 3×8 (sin cerrar) | **47.5 kg × 7/6/6** | 3×8 @ 45 cerrado el 16/09 tras 5 semanas |
+| **Pendlay Row** | 67.5 kg × 3×10 | **70 kg × 3×9** | Programa completo: 50 → 70 kg |
+| Bench Press | 72.5 kg × 3×9 (3ª a 8.5) | **72.5 kg × 3×10** | 3ª a 8.5 → consolidar antes de 75 |
+| Weighted Dips | 15 kg × 3×10 (3ª a 8.5) | **15 kg × 3×11** | Nunca estuvo estancado |
+| Chin-Up | 3×8 (3ª a 9.5) | **3×8** (3ª a 8.5) | Vía 8/8/7 → 8/8/8 |
+| Pull-Up | 3×6 | **3×6** (3ª a 8.5) | Estable; calentamiento corrigió el RPE invertido |
+
+**Accesorios y carries**
+| Ejercicio | Inicio | Cierre |
+|---|---|---|
+| Leg Curl | 42 kg × 3×12 | **49 kg × 3×12** (+7) |
+| Leg Extension | 84 kg × 3×14 | **91 kg × 3×14** (+7) |
+| 🆕 Seated Incline Curl | 12 kg × 3×10 | **14 kg × 3×11** |
+| 🆕 Rear Delt Fly | 7.5 kg × 3×15 | **10 kg × 3×15** |
+| 🆕 Preacher Curl | 29 kg × 3×10 | **31.5 kg × 3×10** |
+| 🆕 Overhead Triceps Ext | 30 kg × 3×12 | 30 kg × 3×12 (polea habitual) · el 04/10, 20 kg en una polea más pesada |
+| Lateral Raise | 12.5 kg × 3×16 | **14 kg × 3×12** |
+| Wrist Curl | 15 kg × 3×17 | **17.5 kg × 3×14** |
+| Suitcase Carry | 20-22 kg × 55" | **22 kg × 60"** ✅ objetivo |
+| OH Single Carry | 20-22 kg | **22 kg × 55"** |
+| Ab Wheel | 3×15 | **3×18** |
+| Hanging Leg Raise | 3×12 | **3×13** |
+
+### Lo que aprendimos (para el Meso 4)
+1. **🏆 Techo de rango ≠ techo de fuerza (incline).** Con las reps al tope y el siguiente
+   escalón del rack muy lejos (25 → 30 = +20%), repetir no sirve: **saltar de peso** rompió una
+   meseta de 4 sesiones al primer intento (30 × 6 @ RPE 7). Es la receta opuesta a "bajar el
+   piso", y aplica cuando el problema es el rango, no la fatiga.
+2. **🔎 No todo 8.5 en la última serie es estancamiento.** Dips y hammer: se diagnosticó
+   estancamiento cuando en realidad venían subiendo peso. **Mirar la tendencia de carga antes
+   de cambiar el plan.** En empujes auxiliares y aislamientos, 8.5 al final es productivo.
+3. **🔥 Calentar importa.** Pull-up sin aproximación = RPE invertido (9/8/8.5); con 2 series
+   de aproximación la curva volvió a lo normal (7/7.5/8.5). Queda fijo.
+4. **😷 La fatiga de afuera infla el RPE.** 14/09 (resfrío + día laboral pesado): chin-up a 9.5;
+   descansado, 8.5 con lo mismo. **Antes de tocar un rango, preguntar cómo vino el día.**
+5. **📋 Ruido de registro y equipamiento.** Varias "regresiones" fueron mislogs de Hevy
+   (leg curl con 42 pre-llenado, leg ext 14/10/13) o mancuernas que no estaban (25, 22).
+   **Confirmar antes de reaccionar.**
+
+### Pendientes para el Meso 4
+- **Bench 72.5 × 3×10** → consolidar la 3ª a ≤8 → **75 kg**.
+- **Incline 30 kg** → 3×8 → doble progresión hasta 3×12.
+- **Chin-Up 3×8** → cerrar la 3ª a ≤8 → 3×9.
+- **OHP 47.5** → 7/7/6 → 3×7 → 3×8 → 50 kg.
+- **Row 70** → 3×10 → 72.5 kg.
+- **Subir peso:** leg curl (49), rear delt (10), suitcase (22 → 24).
+- **Ab Wheel:** 3×18 es rango alto → más dificultad (más recorrido / de pie) en vez de reps.
+- **Overhead Triceps Ext:** registrar siempre qué polea se usa (no son comparables entre sí).
+
+---
+
+## ✅ Extra — Domingo 04/10/2026 (Meso 3, semana 3 — 🏁 CIERRA EL MESOCICLO 3)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Pull-Up (1º, con calentamiento) | BW | 6 / 6 / 6 | 7 / 7.5 / 8.5 |
+| Bench Press (Barbell) | 72.5 kg | 10 / 10 / 10 🔼 | 7.5 / 8 / 8.5 |
+| Leg Extension | 91 kg | 14 / 14 / 14 🔼 | 7 / 7.5 / 8 |
+| Lateral Raise (DB) | 14 kg 🔼 | 12 / 12 / 12 | 7.5 / 8 / 8 |
+| Preacher Curl (Barbell) | 31.5 kg 🔼 | 10 / 10 / 10 | 7.5 / 7.5 / 8 |
+| Overhead Triceps Ext (Cable) | 20 kg ⚠️ | 10 / 10 / 10 | 7.5 / 8 / 8.5 |
+| Seated Palms Up Wrist Curl | 17.5 kg | 14 / 14 / 14 🔼 | 7 / 8 / 9 |
+| Crunch (Weighted) | 15 kg | 12 / 12 / 12 🔼 | 7 / 7.5 / 7.5 |
+| Oblique Crunch | BW | 15 / 15 / 15 | 6 / 7 / 7.5 |
+
+🔗 hevy.com/workout/5edfbaa6-aafc-4576-9bab-20139bb3525e
+
+**Lecturas:**
+- **🔼 Bench 72.5 × 3×10** — llegó al techo del rango; la 3ª a 8.5 → consolidar antes de 75.
+- **✅ Leg Ext 91 × 3×14** @ 7/7.5/8, sobrado (piernas frescas: no hubo partido el sábado) → 3×15.
+- **✅ Lateral 14 kg y Preacher 31.5** — los dos pesos nuevos entraron limpios @ ≤8.
+- **Overhead Triceps Ext a 20 kg @ hasta 8.5** — **confirmado por Manuel (05/10): usó otra polea,
+  mucho más pesada.** 20 kg en esa > 30 kg en la habitual. No es regresión. Cargas entre poleas no
+  son comparables: anotar en Hevy cuál se usa.
+- **Wrist 17.5 × 3×14** 🔼 (3ª a 9, aislamiento) · **Crunch 15 × 3×12** 🔼 · Pull-up 3×6 estable.
+
+---
+
+## ✅ Workout A — Viernes 02/10/2026 (Meso 3, semana 3 — sesión 3; último A antes del viaje)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Incline DB Press | 30 kg | 7 / 7 / 7 🔼 | 7.5 / 7.5 / 8 |
+| Leg Extension | 91 kg | 13 / 13 / 13 | 8 / 8 / 8 |
+| Chin-Up | BW | 8 / 8 / 8 🔼 | 7.5 / 8 / 8.5 |
+| OH Single Carry | 22 kg | 3 × 55" | time-based |
+| Seated Incline Curl (DB) | 14 kg | 11 / 11 / 11 🔼 | 7 / 8 / 9 |
+| Ab Wheel | BW | 18 / 18 / 18 | 7.5 / 8 / 8 |
+| Rear Delt Reverse Fly (DB) | 10 kg | 15 / 15 / 15 🔼 | 7.5 / 8 / 8 |
+
+🔗 hevy.com/workout/17f3e9bd-b288-40f1-bb7f-505169284ed1
+
+**Lecturas:**
+- **✅ Incline 30 × 3×7** @ 7.5/7.5/8, en cap → 3×8 (doble progresión 6→12 en marcha).
+- **🔼 Chin-Up 3×8** @ 7.5/8/8.5 — reps completas; la 3ª ½ punto arriba. Mismo lugar que en
+  agosto pero con el camino 8/8/7 → 8/8/8 recorrido. Consolidar en el Meso 4.
+- **✅ Leg Ext 91 × 3×13** @ 8 parejo (no se sumó, a propósito: partido al día siguiente).
+- **✅ Rear Delt 10 × 3×15** — rango cerrado → subir peso en Meso 4.
+- **🔼 Incline Curl 14 × 3×11** · **Ab Wheel 3×18** estable y más fácil (7.5/8/8 vs 8/8.5/9).
+- **✅ OH Carry 22 × 55"** (estaba la mancuerna).
+
+---
+
+## ✅ Workout B — Miércoles 30/09/2026 (Meso 3, semana 3 — sesión 2; último B antes del viaje)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Overhead Press (Barbell) | 47.5 kg | 7 / 6 / 6 🔼 | 7.5 / 8 / 8 |
+| Pendlay Row (Barbell) | 70 kg | 9 / 9 / 9 🔼 | 7.5 / 8 / 8 |
+| Suitcase Carry | 22 kg | 3 × 60" ✅ | time-based |
+| Lying Leg Curl (Machine) | 49 / 49 / 42* kg | 12 / 12 / 12 🔼 | 7.5 / 8 / 8 |
+| Triceps Dip (Weighted) | 15 kg | 11 / 11 / 11 🔼 | 7.5 / 8 / 8.5 |
+| Hanging Leg Raise | BW | 13 / 13 / 13 🔼 | 7.5 / 8 / 8 |
+
+🔗 hevy.com/workout/2431424c-3401-4569-916e-bf360757d3b6
+
+\* 3ª vez que la 3ª serie de leg curl aparece en 42 (21/09 confirmó que era pre-llenado de Hevy).
+Se asume 49 × 3; la plantilla de la rutina en Hevy probablemente tiene 42 guardado en la serie 3.
+
+**Lecturas (6 de 6 ejercicios progresaron — mejor B del bloque):**
+- **✅ OHP 7/6/6 limpio** @ 7.5/8/8 → **7/7/6**.
+- **✅ Row 70 × 3×9** @ 7.5/8/8 → **3×10**, después 72.5.
+- **✅ Suitcase 22 kg × 60" — DESTINO COMPLETO** (venía estirando desde 50"). → 24 kg en el Meso 4.
+- **✅ Leg Curl 49 × 3×12 — rango cerrado** @ ≤8 → subir peso en el Meso 4.
+- **✅ Dips 15 × 3×11** @ hasta 8.5 → 3×12, después 17.5.
+- **✅ HLR 3×13** → 3×14.
+
+---
+
+## ✅ Workout A — Lunes 28/09/2026 (Meso 3, semana 3 — sesión 1)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| **Incline DB Press** | **30 kg** 🔼 | 6 / 6 / 6 | 7 / 7 / 7.5 |
+| **Chin-Up** | BW | 8 / 8 / 7 | 7 / 7.5 / 8 ✅ |
+| Leg Extension | 91 kg | 13 / 13 / 13 🔼 | 8 / 8 / 8.5 |
+| OH Single Carry | 20 kg | 3 × 60" | time-based |
+| Seated Incline Curl (DB) | **14 kg** 🔼 | 10 / 10 / 10 | 7.5 / 8 / 8 |
+| Rear Delt Reverse Fly (DB) | 10 kg | 14 / 14 / 14 🔼 | 7 / 7.5 / 8 |
+| Ab Wheel | BW | 18 / 18 / 18 🔼 | 8 / 8.5 / 9 |
+
+🔗 hevy.com/workout/5e956895-417e-4b3c-86fd-62ed4701b74b
+
+**Lecturas:**
+- **🏆 INCLINE 30 kg — MESETA ROTA:** 3×6 @ **7/7/7.5**, más fácil de lo estimado (se esperaba RPE 8).
+  Tras 4 sesiones trabado en 25 × 3×12, el salto destrabó el ejercicio. El diagnóstico era
+  correcto: el techo era el rango, no la fuerza. → sumar reps: **3×7-8**.
+- **✅ CHIN-UP 8/8/7 limpio:** 7/7.5/**8**, las tres en cap. La respuesta graduada funcionó al primer
+  intento → **8/8/8**.
+- **✅ Seated Incline Curl 14 × 3×10 @ ≤8** — peso nuevo entró limpio → 3×11-12.
+- **Leg Ext 91 × 3×13** 🔼 · **Rear Delt 10 × 3×14** 🔼 · **Ab Wheel 3×18** 🔼 (la 3ª a 9 — el rango ya
+  está alto; en el Meso 4 conviene sumar dificultad en vez de reps).
+- **OH Carry 20 × 60"** (fallback).
+
+---
+
+## ✅ Extra — Domingo 27/09/2026 (Meso 3, semana 2 — CIERRA semana 2)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Pull-Up (1º, con calentamiento) | BW | 6 / 6 / 6 | 7 / 7.5 / 8.5 |
+| **Bench Press (Barbell)** | 72.5 kg | 9 / 9 / 9 | 7 / 7.5 / **8** ✅ |
+| Lateral Raise (DB) | 12.5 kg | 17 / 17 / 17 🔼 | 7 / 8 / 8.5 |
+| Preacher Curl (Barbell) | 29 kg | 12 / 12 / 12 🔼 | 7.5 / 8 / 8 |
+| Overhead Triceps Ext (Cable) | 30 kg | 12 / 12 / 12 | 7 / 7.5 / 7.5 |
+| Seated Palms Up Wrist Curl | 17.5 kg 🔼 | 12 / 12 / 12 | 7 / 7.5 / 7.5 |
+| Crunch (Weighted) | 15 kg 🔼 | 10 / 10 / 10 | 7 / 7.5 / 7.5 |
+| Oblique Crunch | BW | 15 / 15 / 15 | 7 / 7.5 / 7.5 |
+| Leg Extension | — | no se hizo (piernas del partido del sábado — correcto) | — |
+
+🔗 hevy.com/workout/71b4d584-b80b-4cb6-b9ae-895d48cf7cf3
+
+**Lecturas:**
+- **🏆 BENCH 72.5 × 3×9 CONSOLIDADO:** 7/7.5/**8** — la 3ª cerró a ≤8 por primera vez tras 3 sesiones
+  en 8.5. Se pautó bajar a 3×7 pero hizo 3×9 igual y salió limpio: **la bajada no hacía falta**.
+  → 3×10, después 75 kg.
+- **✅ Pull-Up — el calentamiento resolvió el RPE invertido:** curva normal 7/7.5/8.5 (el 20/09 fue
+  9/8/8.5 sin calentar). La 3ª sigue ½ punto arriba; mantener 3×6 con calentamiento.
+- **✅ Preacher 29 × 3×12 CERRADO** (@ ≤8) → subir a 31.5 kg, reset 3×10.
+- **Overhead Tricep 30 × 3×12 @ ≤7.5 — sobrado** (no sumó reps pero sobró mucho) → subir peso
+  (32.5-35 kg), reset 3×10.
+- **✅ Wrist 17.5 × 3×12 @ ≤7.5** — el salto de peso entró fácil → sumar reps hacia 3×15.
+- **✅ Lateral 12.5 × 3×17** → rango alto; subir a 14-15 kg y resetear a 3×12.
+- **Crunch subió a 15 kg × 3×10** 🔼, fácil.
+
+**🏁 Semana 2 del Meso 3 COMPLETA** (B 21/09 · A 23/09 · B 25/09 · Extra 27/09). Queda la semana 3
+(28/09-04/10), la última antes del viaje.
+
+---
+
+## ✅ Workout B — Viernes 25/09/2026 (Meso 3, semana 2 — sesión 3)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| **Overhead Press (Barbell)** | 47.5 kg | 6 / 6 / 6 | 7.5 / 8 / **8** ✅ |
+| Lying Leg Curl (Machine) | 49 / 49 / 42* kg | 11 / 11 / 11 🔼 | 7 / 7.5 / 7.5 |
+| **Pendlay Row (Barbell)** | **70 kg** 🔼 | 8 / 8 / 8 | 7.5 / 8 / 8 |
+| Suitcase Carry | **22 kg** ✅ | 3 × 55" | time-based |
+| **Triceps Dip (Weighted)** | 15 kg | 10 / 10 / 10 | 7.5 / 8 / **8** ✅ |
+| Hanging Leg Raise | BW | 12 / 12 / 12 | 8 / 8 / 8.5 |
+
+🔗 hevy.com/workout/4b8fb8ad-6d49-40ed-bfe4-f60d46f5c531
+
+\* El 42 de la 3ª serie de leg curl es probablemente el mismo pre-llenado de Hevy del 21/09
+(ahí confirmó que fueron 49 las tres). **Pendiente de confirmar.**
+
+**Lecturas (sesión redonda — 4 de 6 ejercicios con avance):**
+- **🔥 PENDLAY ROW 70 kg estrenado limpio:** 3×8 @ 7.5/8/8. Récord del programa (50 → 70 kg desde el
+  Meso 1). → sumar reps hacia 3×10.
+- **✅ OHP 47.5 CONSOLIDADO:** 3×6 @ 7.5/8/**8** — la 3ª bajó de 8.5 a 8 en la 2ª sesión con el peso.
+  → sumar de a una serie: **7/6/6** → 7/7/6 → 3×7 → 3×8.
+- **✅ DIPS 15 × 3×10 CERRÓ A ≤8** (7.5/8/8) — **la primera vez en 4 sesiones**, justo cuando se dejó
+  de perseguir el cap. Confirma la corrección del 21/09: no estaban estancados. → 3×11-12.
+- **✅ Suitcase 22 kg × 55"** — estaba la mancuerna. → 60".
+- **Leg Curl 49 × 3×11** 🔼 (de 3×10) @ ≤7.5 → 3×12.
+- **HLR 3×12** estable @ hasta 8.5.
+
+---
+
+## ✅ Workout A — Miércoles 23/09/2026 (Meso 3, semana 2 — sesión 2)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Incline DB Press | 25 kg | 12 / 12 / 12 | 7.5 / 8 / **9** |
+| Chin-Up | BW | 8 / 8 / 8 | 7 / 8 / **9** |
+| Leg Extension | 91 kg | 12 / 12 / 12 🔼 | 8 / 8 / 8 |
+| OH Single Carry | 20 kg | 3 × 60" | time-based |
+| Seated Incline Curl (DB) | 12.5 kg | 12 / 12 / 12 🔼 | 7.5 / 8 / 9 |
+| Ab Wheel | BW | 17 / 17 / 17 🔼 | 7 / 8 / 8.5 |
+| Rear Delt Reverse Fly (DB) | 10 kg 🔼 | 12 / 12 / 12 | 7.5 / 8 / 8 |
+
+🔗 hevy.com/workout/669cb0fe-8e2c-44b0-b6f5-a8d868b26fdc
+
+**Lecturas:**
+- **🚩 INCLINE 25 — meseta en el techo del rango:** 3×12 @ 7.5/8/9, **idéntico al 18/09**. 4 sesiones
+  seguidas con la 3ª a 9 (26/08, 31/08, 18/09, 23/09). No hay 27.5 (volvió a usar 25). Ya no hay nada
+  que ganar repitiendo. **Decisión: saltar a 30 kg × 3×6** (reset). Cuenta: 25×12 con 1 RIR ≈ e1RM
+  ~35-36 kg → 30 kg da ~6-7 reps a RPE 8. Desde ahí, doble progresión 6 → 12.
+- **🚩 CHIN-UP 3×8 — 3ª sesión sin consolidar:** 3ª serie 9.5 (14/09) → 8.5 (18/09) → **9** (hoy).
+  Oscila 8.5-9 sin cerrar. Umbral de estancamiento (3 sesiones) → respuesta graduada: **8/8/7**
+  (se corta solo la última serie) y se vuelve a sumar de a una.
+- **✅ Leg Extension 91 × 3×12 @ 8 parejo** → 3×13-14.
+- **✅ Seated Incline Curl 12.5 × 3×12 — rango cerrado** (aislamiento: 9 en la última es aceptable)
+  → **subir a 14-15 kg** (salto real del rack), reset a 3×10.
+- **✅ Ab Wheel 3×17** 🔼 · **✅ Rear Delt 10 kg × 3×12 @ ≤8** limpio en peso nuevo → 3×13-15.
+- **OH Carry 20 × 60"** (fallback, no había 22).
+
+---
+
+## ✅ Workout B — Lunes 21/09/2026 (Meso 3, semana 2 — sesión 1)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Overhead Press (Barbell) | 47.5 kg 🔼 | 6 / 6 / 6 | 7.5 / 8 / 8.5 |
+| **Pendlay Row (Barbell)** | 67.5 kg | 10 / 10 / 10 | 7.5 / 8 / **8** ✅ |
+| Lying Leg Curl (Machine) | 49 kg | 10 / 10 / 10 | 7.5 / 7.5 / 7.5 |
+| Suitcase Carry | 20 kg | 3 × 60" | time-based |
+| Triceps Dip (Weighted) | 15 kg | 8 / 8 / 8 | 7.5 / 8 / 8.5 |
+| Hanging Leg Raise | BW | 12 / 12 / 12 | 8 / 8 / 8.5 |
+
+🔗 hevy.com/workout/933d6aeb-61ee-4343-8fec-202a398c5dfa
+
+**Lecturas:**
+- **✅ PENDLAY ROW 67.5 CONSOLIDADO:** 3×10 @ 7.5/8/**8** — la 3ª bajó de 8.5 a 8 → **subir a 70 kg**,
+  reset de reps. Progresión del ejercicio desde el Meso 1: **50 → 70 kg**.
+- **🔼 OHP 47.5 estrenado:** 3×6 @ 7.5/8/8.5. La 3ª apenas fuera del cap, normal en peso nuevo →
+  consolidar 3×6 a ≤8, después sumar de a una serie (la receta que ya funcionó a 45).
+- **🔄 DIPS — corrección de diagnóstico (el rango NO era el problema):** se bajó de 3×10 a **3×8**
+  siguiendo la receta del OHP y **la 3ª siguió en 8.5** (7.5/8/8.5). Eso descarta la hipótesis del
+  piso de reps. Revisando el historial: **los dips NO están estancados** — subieron 10 → 12.5 → 15 kg
+  dentro del bloque. **El 8.5 en la última serie es simplemente su patrón normal y es productivo**
+  (mismo error de criterio que con el hammer curl: se le exigía un cap de compuesto pesado a un
+  empuje accesorio). **Acción: volver a 3×10 en 15 kg y dejar de perseguir el ≤8 ahí.**
+- **✅ Leg Curl 49 × 3×10 @ 7.5 parejo** — las 3 series fueron con 49 (el 42 de la 3ª era mislog:
+  Hevy pre-llena con el peso anterior). Limpio y con margen → sumar reps hacia 3×12.
+- **Suitcase 20 kg × 60":** no estaba la mancuerna de 22 (equipamiento, no preferencia). Target
+  sigue siendo **22 kg × 55-60"** cuando esté; 20 × 60" es el fallback válido.
+- **HLR 3×12 @ hasta 8.5** — estable.
+
+---
+
+## ✅ Extra — Domingo 20/09/2026 (Meso 3, semana 1 — CIERRA semana 1; estrena rotación del Extra)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Pull-Up (1º) | BW | 6 / 6 / 6 | **9** / 8 / 8.5 ⚠️ |
+| Bench Press (Barbell) | 72.5 kg | 9 / 9 / 9 | 7.5 / 8 / 8.5 |
+| Leg Extension | 91 kg 🔼 | 10 / 10 / 10 | 7.5 / 7.5 / 7.5 |
+| Lateral Raise (DB) | 12.5 kg | 16 / 16 / 16 | 7.5 / 8.5 / 8.5 |
+| 🆕 Preacher Curl (Barbell) | 31.5 / 29 / 29 kg | 10 / 10 / 10 | 8 / 8 / 8 |
+| 🆕 Overhead Triceps Ext (Cable) | 30 kg | 12 / 12 / 12 | 7.5 / 7 / 8 |
+| Seated Palms Up Wrist Curl | 15 kg | 17 / 17 / 17 | 7 / 8 / **9** |
+| Crunch (Weighted) | 10 kg | 15 / 15 / 15 | 6 / 7 / 7.5 |
+| Oblique Crunch | BW | 15 / 15 / 15 | 6 / 7 / 7.5 |
+
+🔗 hevy.com/workout/9beaa964-b998-440b-94df-1dcbeabf1224
+
+**Rotación del Extra estrenada:** Barbell Curl → **Preacher Curl** · Tricep Pushdown → **Overhead
+Triceps Extension (cable)**. Lateral Raise y Wrist Curl se mantuvieron.
+
+**Lecturas:**
+- **✅ Leg Extension 91 kg × 3×10 @ 7.5 parejo** — estrenó el peso nuevo y salió **sobrado**.
+  Sumar reps con confianza hacia 3×15.
+- **✅ Los 2 nuevos calibraron bien:** Preacher 29 kg × 3×10 @ 8 parejo (arrancó en 31.5 y ajustó
+  a 29 — buen autoajuste) · **Overhead Tricep 30 kg × 3×12 @ 7.5/7/8**, con MÁS peso que el
+  pushdown al que reemplazó (27.5) y sobrado. Ambos listos para progresar.
+- **⚠️ PULL-UP con RPE INVERTIDO: 9 / 8 / 8.5.** La 1ª serie fue la más dura — patrón nunca visto
+  en el historial (la 1ª siempre es la más fácil: 7-7.5). Sospecha: **falta de calentamiento**
+  (fue el 1er ejercicio del día). Las series 2-3 se normalizaron. **Preguntar si calentó.**
+- **🚩 BENCH 72.5 — 3ª serie en 8.5 por 3ª sesión consecutiva** (30/08, 06/09, 20/09) y ahora
+  post-deload, igual que pasó con los dips. Mismo diagnóstico, misma receta: **bajar a 3×7 con las
+  tres a ≤8 y sumar de a una serie** (8/7/7 → 8/8/7 → 3×8 → 3×9). Es lo que destrabó el OHP.
+- **Wrist 15 × 3×17 → 3ª a 9** (3ª vez que el 3×17 se va de rango: 16/08 @ 9.5, 23/08 @ 9, hoy @ 9).
+  **3×17 es el techo real en 15 kg.** Quedarse en 3×16 limpio o subir peso y resetear reps.
+- **Lateral 12.5 × 3×16** estable @ hasta 8.5. **Core** sobrado (RPE 6-7.5).
+
+**🏁 Semana 1 del Meso 3 COMPLETA** (A 14/09 · B 16/09 · A 18/09 · Extra 20/09).
+
+---
+
+## ✅ Workout A — Viernes 18/09/2026 (Meso 3, semana 1 — sesión 3, CIERRA semana 1)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Incline DB Press | 25 kg | 12 / 12 / 12 | 7.5 / 8 / **9** |
+| Chin-Up | BW | 8 / 8 / 8 | 7.5 / 8 / 8.5 |
+| Leg Extension | 84 kg | 15 / 15 / 15 🔼 | 7.5 / 8 / 8.5 |
+| OH Single Carry | 20 kg | 3 × 60" | *"duro, llegué con lo justo"* |
+| Seated Incline Curl (DB) | 12.5 kg 🔼 | 11 / 11 / 11 🔼 | 7.5 / 8 / 9 |
+| Ab Wheel | BW | 16 / 16 / 16 🔼 | 8 / 8.5 / 8.5 |
+| Rear Delt Reverse Fly (DB) | 7.5 kg | 15 / 15 / 15 | 7.5 / 7.5 / 8 |
+
+🔗 hevy.com/workout/d21581bb-3c0d-42a1-8146-a63104385fed
+
+**Lecturas:**
+- **✅ CHIN-UP: hipótesis del cansancio CONFIRMADA.** Mismo 3×8, pero descansado: la 3ª pasó de
+  **9.5 (14/09, con resfrío + día heavy)** a **8.5 hoy**. El lunes no era estancamiento, era fatiga
+  extra-gimnasio. **No bajar el rango.** Falta medio punto para consolidar 3×8 → 3×9.
+- **✅ Leg Extension 84 × 3×15 CERRADO** (de 3×14) → **subir peso** (~90 kg), reset de reps.
+- **🔼 Seated Incline Curl 12.5 × 3×11:** subió peso Y reps en la 2ª sesión del ejercicio. Progresa
+  más rápido que el hammer al que reemplazó. La 3ª a 9 es aceptable en aislamiento.
+- **🔼 Ab Wheel 3×16** (de 3×15) — sigue siendo el accesorio más consistente del programa.
+- **✅ Rear Delt 7.5 × 3×15 @ ≤8 consolidado** en su 2ª sesión → subir a 10 kg, reset reps.
+- **🚩 INCLINE: 3er intento del 3×12 a 25 kg, y el mejor — pero la 3ª sigue en 9.**
+  Historial: 26/08 12/12/**10** @ 8.5 · 31/08 12/12/**9** @ 9 · **18/09 3×12 @ 9**. Completó las 3
+  series por primera vez, pero fuera del cap. **Hipótesis nueva: el problema es el salto siguiente.**
+  25 → 30 kg es **+20%**, un escalón enorme para mancuernas. **Verificar si el rack tiene 27.5 kg**
+  (+10%): si existe, subir ahí resuelve el atasco. Si no, considerar 25 × 3×12 como techo del
+  ejercicio y progresar por otra vía.
+- **⚠️ OH Carry — esquema inconsistente:** hoy hizo **20 kg × 60"** y reportó *"duro, llegué con lo
+  justo"*. Viene alternando entre 22×55" y 20×60" — son cargas equivalentes, así que no hay
+  progresión real. **Fijar 22 kg × 55"** y progresar SOLO tiempo desde ahí (55" → 60").
+
+---
+
+## ✅ Workout B — Miércoles 16/09/2026 (Meso 3, semana 1 — sesión 2)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| **Overhead Press (Barbell)** | 45 kg | **8 / 8 / 8** 🏆 | 7.5 / 8 / 8 |
+| Pendlay Row (Barbell) | 67.5 kg | 10 / 10 / 10 🔼 | 7.5 / 8 / 8.5 |
+| Lying Leg Curl (Machine) | 49 / 49 / 42 kg 🔼 | 10 / 10 / 10 | 7 / 7.5 / 7.5 |
+| Suitcase Carry | 22 kg | 3 × 55" | time-based |
+| Triceps Dip (Weighted) | 15 kg | 10 / 10 / 10 | 7.5 / 8 / 8.5 |
+| Hanging Leg Raise | BW | 12 / 12 / 12 | 7.5 / 8 / 8.5 |
+
+🔗 hevy.com/workout/49e692ee-c432-4518-afc4-50ec58ed971a
+
+**Lecturas:**
+- **🏆 OHP 45 × 3×8 CERRADO — objetivo de 5 semanas cumplido.** 7.5/8/**8**, las tres en cap.
+  Historial del intento: 15/08 @ 9.5 ❌ · 19/08 @ 8.5 ❌ · 24/08 @ 9 ❌ · 28/08 bajó a 3×7 limpio ✅
+  · 02/09 8/7/7 ✅ · **16/09 3×8 ✅**. La receta de bajar el piso de reps y sumar **de a una serie**
+  funcionó de punta a punta. → **subir a 47.5 kg**, reset de reps.
+- **Pendlay Row 67.5 🔼:** cerró el rango 3×10 (de 3×8) pero la 3ª a 8.5 → consolidar 3×10 a ≤8
+  antes de 70. Sigue siendo su mejor ejercicio (50 → 67.5 kg desde el Meso 1).
+- **Leg Curl: NO rotó a seated** — hizo lying (¿no había máquina seated?). Subió a **49 kg** (de 42):
+  10/10 @ 7/7.5 con margen, bajó a 42 en la 3ª. El 49 está disponible → consolidar **49 × 3×10**.
+- **🚩 Dips 15 — 3ª sesión seguida con la 3ª a 8.5** (28/08, 02/09, 16/09), y ahora **post-deload**,
+  así que la fatiga ya no lo explica. Umbral de estancamiento alcanzado. **Aplicar la receta del
+  OHP: bajar a 15 × 3×8 con las tres a ≤8** y sumar de a una serie.
+- **HLR 3×12 @ hasta 8.5** — estable. **Suitcase quedó en 55"** otra vez (falta el escalón a 60").
+
+---
+
+## ✅ Workout A — Lunes 14/09/2026 (Meso 3, semana 1 — sesión 1; estrena rotación)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Incline DB Press | 24 kg | 12 / 12 / 12 | 7.5 / 8 / **9** ⚠️ |
+| Chin-Up | BW | 8 / 8 / 8 | 7 / 8 / **9.5** 🚩 |
+| Leg Extension | 84 kg | 14 / 14 / 14 🔼 | 7.5 / 8 / 8 |
+| OH Single Carry | 22 kg | 3 × 55" | time-based |
+| 🆕 Seated Incline Curl (DB) | 12 kg | 10 / 10 / 10 | 6 / 7 / 8 |
+| Ab Wheel | BW | 15 / 15 / 15 🔼 | 7.5 / 7.5 / 8 |
+| 🆕 Rear Delt Reverse Fly (DB) | 7.5 kg | 15 / 15 / 15 | 7 / 7 / 7.5 |
+
+🔗 hevy.com/workout/5b679c2c-8c25-4747-b73f-5f8e70a4ecda
+
+**Rotación estrenada:** Hammer Curl → Seated Incline Curl · ➕ Rear Delt Fly (cubre el hueco de
+deltoide posterior) · Ab Wheel se mantuvo (venía rindiendo; Manuel vetó el Cable Crunch).
+
+**Contexto reportado por Manuel (15/09):** venía **cansado** — todavía con mocos (resfrío del
+09/09 sin terminar de irse) y un día de trabajo pesado. No se sintió mal, pero sin energía.
+
+**Lecturas (mejor sesión de lo que parecía en la primera lectura):**
+- **✅ Los 3 cambios de la rotación entraron bien:** Incline Curl 12 kg × 3×10 @ 6/7/8 (calibración
+  perfecta, RPE escalonado) · Rear Delt 7.5 kg × 3×15 @ ≤7.5 (liviano y controlado) · Ab Wheel
+  3×15 🔼 limpio.
+- **✅ Leg Extension 84 × 3×14 @ 7.5/8/8** — iguala la mejor marca del bloque, limpio y parejo.
+- **✅ Incline 24 kg × 3×12** — usó 24 **porque no había mancuernas de 25 disponibles**, no por
+  elección. Cerrar 3×12 en 24 es progresión real de reps. Cuando haya 25, retomar ahí.
+- **Chin-Up 3×8 @ 7/8/9.5** — la 3ª sigue siendo el RPE más alto del historial, **pero con causa
+  identificada**: cansancio sistémico (resfrío residual + día laboral heavy). El RPE es subjetivo
+  y se infla con fatiga extra-gimnasio. **NO bajar a 3×7 preventivamente**: reintentar 3×8
+  descansado y decidir con ese dato.
+- **Conclusión:** no hay señal de estancamiento ni de deload mal ejecutado. Los dos datos que
+  parecían malos eran **un mislog (leg ext) y falta de equipamiento (incline)**; el RPE alto tiene
+  explicación contextual. Sesión válida.
+
+---
+
+## 🏁 RESUMEN — MESOCICLO 2 (03/08/2026 → 13/09/2026)
+
+**Estructura real:** 5 semanas de acumulación + 1 de deload. Precedido por re-entrada post-gripe
+(21-26/07), mantenimiento en Brasil (27-29/07) y re-escalada (31/07-02/08).
+**Contexto:** arrancó tras ~1 mes sin cargar pesado (gripe con fiebre + dos viajes). La re-escalada
+a los pesos del Meso 1 tomó **una sola semana**.
+
+### Progresión por ejercicio (inicio → cierre del bloque)
+
+**Compuestos**
+| Ejercicio | Inicio (03/08) | Cierre | Nota |
+|---|---|---|---|
+| **Pendlay Row** | 57.5 kg | **67.5 kg × 3×8** 🔥 | +10 kg. Estrenó peso limpio 4 veces seguidas. El mejor del bloque. |
+| Weighted Dips | 10 kg | **15 kg × 3×10** | +5 kg |
+| Bench Press | 70 kg × 3×10 | **72.5 kg × 3×9** | +2.5 kg |
+| OHP | 42.5 kg | **45 kg × 8/7/7** | +2.5 kg. Destrabado bajando el piso de reps |
+| Incline DB | 22 kg | **25 kg × 3×11** | +3 kg. El 3×12 (→30 kg) quedó pendiente |
+| Chin-Up | 3×6 | **3×8** | +2 reps/serie |
+| Pull-Up | 3×6 | **3×6** | Sostenido; se resolvió el problema de orden |
+
+**Accesorios y carries**
+| Ejercicio | Inicio | Cierre |
+|---|---|---|
+| **Leg Curl** | 28 kg | **42 kg × 3×12** (+14 kg) |
+| **Leg Extension** | 70 kg | **84 kg × 3×14** (+14 kg) |
+| **Bicep Curl** | 22.5 kg | **31.5 kg × 3×12** (+9 kg) |
+| Tricep Pushdown | 22.5 kg | **27.5 kg × 3×11** (+5 kg) |
+| Hammer Curl | 12.5 kg | **16 kg × 3×10** (+3.5 kg) |
+| Wrist Curl | 12.5 kg | **15 kg × 3×16** (+2.5 kg) |
+| Lateral Raise | 12 kg | **12.5 kg × 3×16** |
+| OH Single Carry | 18 kg × 50" | **22 kg × 55"** |
+| Suitcase Carry | 20 kg × 50" | **22 kg × 55"** |
+| Ab Wheel | 3×10 | **3×14** |
+| Hanging Leg Raise | 3×10 | **3×12** |
+
+### Lo que aprendimos (aplicable al Meso 3)
+
+1. **🏆 El orden importa más que el peso (Pull-Up).** 1º/fresco = 3ª serie a RPE 8. 2º/después del
+   bench = RPE 9. Cinco sesiones, patrón perfecto. **Regla fija: pull-up primero, siempre.**
+2. **🔑 Bajar el piso de reps destraba estancamientos.** Funcionó 3 de 3 veces: OHP (3 intentos
+   fallidos de 3×8 → cerró con 3×7 y subida de a una serie), chin-up (3×8 se iba a 9 → 3×7 limpio
+   → después 3×8) y wrist curl (3×17 a 9.5 → 3×15 limpio). **Cuando algo se traba, no es el peso:
+   es que el rango no deja margen.**
+3. **⚖️ Compuesto ≠ aislamiento.** Aplicar el cap ≤8 estricto a los aislamientos los frenaba de
+   gusto. Al soltarlo (06/09), **los 4 aislamientos del Extra sumaron reps en una sola sesión**.
+   Compuestos: cap ≤8 estricto. Aislamientos: la última serie a 8.5 es productiva.
+4. **😴 La fatiga se lee en el RPE, y el descanso la borra rápido.** Entrenar sáb+dom+lun → RPE 9.5.
+   Con **un** día de descanso → máximo 8.5 y récord en row. **Regla: ≥1 día entre sesiones de gym.**
+5. **📌 Consistencia de peso.** El hammer curl no progresó en 6 sesiones — no por el peso, sino por
+   **4 cambios de peso** en el medio. Fijar y consolidar.
+6. **Autorregulación:** saltear pierna con piernas cargadas de fútbol, bajar a activación antes de
+   un partido, faltar resfriado en deload. Todas decisiones correctas y comunicadas.
+
+### Pendientes para el Meso 3
+- **Incline 25 → cerrar 3×12** y saltar a **30 kg** (2 intentos fallidos, ambos con fatiga de pico).
+- **Cerrar la 3ª serie a ≤8** en: chin-up 3×8, pull-up 3×6, bench 3×9, dips 3×10.
+- **Subir peso** en leg curl (42 cerrado) y bicep curl (31.5 cerrado).
+- **Row 67.5** → sumar reps hacia 3×10 → 70 kg.
+- ➕ **Sumar rear delt / face pull** — único hueco real del programa.
+- 🔄 **Rotar 2-3 accesorios por rutina** (Kassiano 2025, Baz-Valle 2019: costo cero, mejora adherencia).
+- ⚠️ **Viaje USA 05-24/10** — condiciona la estructura del bloque.
+
+---
+
+## ✅ Extra — Domingo 13/09/2026 (Meso 2, semana 6 — 🔽 DELOAD, 🏁 CIERRA EL MESOCICLO 2)
+
+| Ejercicio | Peso | Series × reps | RPE |
+|---|---|---|---|
+| Pull-Up (1º) | BW | 2 × 5 | 6 / 7 |
+| Bench Press (Barbell) | 65 kg | 2 × 8 | 6 / 6 |
+| Lying Leg Curl | 42 kg | 2 × 10 | 6 / 6 |
+| Lateral Raise (DB) | 10 kg | 2 × 13 | 6 / 6 |
+| Bicep Curl (Barbell) | 29 kg | 2 × 10 | 6 / 6 |
+| Triceps Rope Pushdown | 25 kg | 2 × 10 | 6 / 7 |
+| Seated Palms Up Wrist Curl | 12.5 kg | 2 × 14 | 6 / 6 |
+| Crunch (Weighted) | 10 kg | 3 × 15 | 7 / 7 / 7.5 |
+| Oblique Crunch | BW | 3 × 15 | 7 / 7 / 7 |
+
+🔗 hevy.com/workout/887db334-9c11-4741-ab65-0eb232a4e923
+
+**Lecturas:**
+- **✅ Deload ejecutado perfecto:** RPE **6 parejo** en los 7 ejercicios con carga, 2 series en todo.
+  Es el mejor indicador de que la fatiga se disipó — el mismo trabajo que en el pico se sentía a 8.5.
+- Core quedó en 3 series (en vez de 2): irrelevante, es bajo costo de fatiga.
+- **Deload completo:** 3 de 4 sesiones (el miércoles 09/09 se salteó por resfrío, sin costo).
+
+---
+
+## ✅ Workout A — Viernes 11/09/2026 (Meso 2, semana 6 — 🔽 DELOAD, sesión 2)
+
+| Ejercicio | Peso | Series × reps | RPE |
+|---|---|---|---|
+| Incline DB Press | 24 kg | 2 × 10 | 7 / 7 |
+| Chin-Up | BW | 2 × 6 | 7 / 7 |
+| Leg Extension | 77 kg | 2 × 10 | 6 / 6 |
+| OH Single Carry | 20 kg | 2 × 50" | time-based |
+| Hammer Curl | 15 kg | 2 × 9 | 6 / 6 |
+| Ab Wheel | BW | 2 × 10 | 6 / 6 |
+
+🔗 hevy.com/workout/02643506-2340-4b36-8cca-b64601d7d732
+
+**Contexto:** se salteó el miércoles 09/09 por resfrío + dolor de garganta (decisión correcta:
+faltar en deload tiene costo cero y evita estirar el cuadro). Sin fiebre.
+
+**Lecturas (deload ejecutado bien; señal temprana de descarga):**
+- **✅ Volumen en target:** 2 series en todo. RPE 6 en 4 de 6 ejercicios.
+- **🟢 Señal de recuperación:** **Incline 24 × 2×10 @ 7/7 parejo**. En el pico (31/08) el 25 ×
+  3×12 se le iba a 9 y tenía que recortar la 3ª. Con la fatiga bajando, un peso apenas menor
+  entra a RPE 7 sin esfuerzo. **Chin-Up 2×6 @ 7/7** igual (en el bloque la 3ª serie vivía en 8.5).
+- **Cargas apenas por encima de lo prescrito** (incline 24 vs 22.5, leg ext 77 vs 75) — irrelevante:
+  el RPE quedó en 6-7 y el volumen a la mitad, que es lo que define el deload.
+- Incline y chin-up a RPE 7 (target 5-6): un poco arriba, pero con 2 series no acumula fatiga.
+
+---
+
+## ✅ Workout B — Lunes 07/09/2026 (Meso 2, semana 6 — 🔽 DELOAD, sesión 1)
+
+| Ejercicio | Peso | Series × reps | RPE |
+|---|---|---|---|
+| Overhead Press (Barbell) | 37.5 kg | 2 × 7 | 6 / 6 |
+| Pendlay Row (Barbell) | 55 kg | 2 × 8 | 6 / 6 |
+| Leg Extension | 70 kg | 2 × 12 | 6 / 6 |
+| Suitcase Carry | 17.5 kg | 2 × 55" | time-based |
+| Triceps Dip (Weighted) | 10 kg | 2 × 10 | 6 / 7 |
+| Hanging Leg Raise | BW | 2 × 10 | 7 / 7.5 |
+
+🔗 hevy.com/workout/828a65ae-94f1-4b60-b089-50950fcd6363
+
+**Lecturas (deload ejecutado correctamente):**
+- **✅ Volumen y RPE en target:** 2 series en todo (50% del volumen) y RPE 6 parejo en los 5
+  ejercicios con carga. Es exactamente lo que el deload pide.
+- **Nota de carga:** se usaron los pesos de la prescripción original (-15/20%) en vez del **-10%**
+  que fija la auditoría (Bell 2025). Manuel ya había entrenado cuando se corrigió. **Sin impacto
+  real**: en una semana cuya función es disipar fatiga, ir 8% más liviano no cambia el resultado
+  — el volumen y el RPE son las palancas, y ambas quedaron bien. Aplicar -10% en las 3 sesiones
+  restantes del deload (A 09/09, B 11/09, Extra 13/09).
+- **HLR 2×10 @ 7/7.5:** apenas por encima del target 5-6, pero es peso corporal (para bajar RPE
+  habría que recortar reps). Menor; si se quiere ajustar, 2×8.
+- Sin señales de fatiga residual: el RPE 6 con -18% de carga indica que la descarga entró bien.
+
+---
+
+## ✅ Extra — Domingo 06/09/2026 (Meso 2, semana 5 — 🏁 CIERRA EL PICO y la fase de acumulación)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| **Pull-Up (1º ✅)** | BW | 6 / 6 / 6 | 7 / 8 / 8.5 |
+| Bench Press (Barbell) | 72.5 kg | 9 / 9 / 9 | 7.5 / 8 / 8.5 |
+| Lying Leg Curl | 42 kg | 12 / 12 / 12 | 7.5 / 7.5 / 8 |
+| Lateral Raise (DB) | 12.5 kg | 16 / 16 / 16 🔼 | 7.5 / 8 / 8.5 |
+| Bicep Curl (Barbell) | 31.5 kg | 12 / 12 / 12 🔼 | 7.5 / 8 / 8.5 |
+| Triceps Rope Pushdown | 27.5 kg | 11 / 11 / 11 🔼 | 8 / 8 / 8.5 |
+| Seated Palms Up Wrist Curl | 15 kg | 16 / 16 / 16 🔼 | 7.5 / 8 / 8.5 |
+| Crunch (Weighted) | 10 kg | 15 / 15 / 15 | 7 / 7.5 / 8 |
+| Oblique Crunch | BW | 15 / 15 / 15 | 7 / 7 / 7.5 |
+
+🔗 hevy.com/workout/49f2a189-5037-43ee-afe2-38e558a8a568
+
+**Lecturas (los 4 aislamientos progresaron — validación del criterio compuesto/aislamiento):**
+- **🔥 LOS CUATRO AISLAMIENTOS SUMARON REPS:** lateral 15→16, bicep 11→12, tricep 10→11,
+  wrist 15→16, todos con la última a 8.5. Se les dio permiso explícito de apretar (tras la
+  corrección del 05/09) y respondieron todos. **Confirma la distinción:** en aislamientos el 8.5
+  final es productivo; el cap ≤8 estricto los estaba frenando de gusto.
+- **Compuestos sostenidos sin degradarse:** Pull-Up 3×6 y Bench 72.5 × 3×9, ambos idénticos al
+  30/08 (7/8/8.5 y 7.5/8/8.5). En la semana de máxima fatiga del bloque, **mantener** es el
+  resultado correcto. Ninguno consolidó la 3ª a ≤8, y eso ya no se fuerza: cierra con el deload.
+- **Leg Curl 42 × 3×12 @ 7.5/7.5/8 limpio.** Rango cerrado → subir peso post-deload.
+- **Core:** crunch y oblique estables en 3×15 @ ≤8.
+
+**🏁 FIN DE LA FASE DE ACUMULACIÓN (semanas 1-5, 03/08 → 06/09).** Mañana arranca el DELOAD.
+
+---
+
+## ✅ Workout A — Viernes 04/09/2026 (Meso 2, semana 5 — PICO/MRV, sesión 3)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Incline DB Press | 25 kg | 11 / 11 / 11 | 7 / 7.5 / 8.5 |
+| Chin-Up | BW | 8 / 8 / 8 | 7.5 / 8 / 8.5 |
+| Lying Leg Curl *(activación deliberada)* | 42 kg | 8 / 8 / 8 | 6 / 6 / 6 |
+| OH Single Carry | 22 kg ✅ | 3 × 55" | time-based |
+| Hammer Curl | 16 kg | 10 / 10 / 10 | 7.5 / 8 / 8.5 |
+| Ab Wheel | BW | 14 / 14 / 14 🔼 | 8 / 8 / 8.5 |
+
+🔗 hevy.com/workout/59e0fa76-5da1-498c-b863-fbea41afe658
+
+**Lecturas:**
+- **✅ Leg Curl como ACTIVACIÓN, no progresión:** 42 × 3×8 @ 6 parejo, deliberadamente liviano
+  porque juega al fútbol al día siguiente y no quería llegar cargado. **Autorregulación correcta
+  y comunicada** — no cuenta para la doble progresión.
+- **✅ Ab Wheel 3×14 🔼:** progresó de 13 (última a 8.5). Sigue siendo el accesorio más consistente.
+- **✅ OH Carry 22 kg retomado:** 3×55" → estirar a 60".
+- **✅ Se quedó en Hammer 16 kg** (respetó la consigna de no cambiar de peso).
+- **Incline 3×11:** 7/7.5/**8.5**. Sets 1-2 muy sobrados, pero la 3ª por encima (el 21/08 el mismo
+  3×11 salió 7.5/8/8). Es fatiga de pico, no retroceso real. Mantener 3×11 hasta el deload.
+- **Chin-Up 3×8:** 7.5/8/**8.5**, igual que el 31/08. Se sostiene el rango nuevo pero no consolida
+  con la fatiga acumulada. Mantener; debería cerrar solo post-deload.
+- **Hammer 16 × 3×10 @ 7.5/8/8.5 — SIN problema (corrección):** en la lectura inicial se marcó como
+  estancamiento y se propuso bajar a 3×8. **Error de criterio:** se le aplicó el cap de compuestos
+  (≤8) a un **aislamiento**. Manuel reportó que lo sintió bien, los sets 1-2 van a 7.5/8 con margen
+  y 8.5 en la última serie de un aislamiento es aceptable (la regla auditada incluso prescribe
+  9-10 ahí, hoy en pausa por el pico). Lo que faltó las semanas previas fue **consistencia de peso**
+  (4 cambios), no rango. Peso ya fijo en 16 → **sumar reps a 3×11-12**.
+- **Contexto:** 4 de 6 ejercicios cerrando en 8.5 — perfil típico de fin de fase de acumulación.
+  El deload (07-13/09) llega en el momento justo.
+
+---
+
+## ✅ Workout B — Miércoles 02/09/2026 (Meso 2, semana 5 — PICO/MRV, sesión 2)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Overhead Press (Barbell) | 45 kg | **8 / 7 / 7** 🔼 | 7.5 / 8 / 8 |
+| Pendlay Row (Barbell) | 67.5 kg 🔼 | 8 / 8 / 8 | 7.5 / 8 / 8 |
+| Leg Extension | 84 kg | 14 / 14 / 14 🔼 | 8 / 8 / 8 |
+| Suitcase Carry | 22 kg ✅ | 3 × 55" | time-based |
+| Triceps Dip (Weighted) | 15 kg | 10 / 10 / 10 | 7.5 / 8 / 8.5 |
+| Hanging Leg Raise | BW | 12 / 12 / 12 | 8 / 8.5 / 8.5 |
+
+🔗 hevy.com/workout/08cfaf81-7f6d-4345-a8eb-9e19c7758aa4
+
+**Lecturas (mejor sesión del pico — 3 progresiones limpias en semana de MRV):**
+- **✅ OHP 8/7/7 EXACTO:** @ 7.5/8/8, las tres en cap. Ejecutó el plan de sumar la rep de a una
+  serie tal cual. Siguiente escalón: **8/8/7** → 3×8 → 47.5.
+- **🔥 PENDLAY ROW 67.5 — nuevo récord limpio:** 3×8 @ 7.5/8/8 en peso nuevo, con fatiga de pico
+  encima. Progresión del bloque: **50 → 67.5 kg**. Sumar reps hacia 3×10.
+- **✅ LEG EXTENSION 84 × 3×14 🔼:** 8/8/8 parejo. **Revierte el retroceso del 30/08** (3×12 con
+  más RPE) — aquello era fatiga puntual, no estancamiento. Mejor marca del bloque → 3×15.
+- **✅ Suitcase 22 kg retomado:** 3×55". Estirar a 60".
+- **Dips 15:** 3×10 @ 7.5/8/**8.5** — 2ª seguida con la 3ª fuera del cap (el 24/08 sí había cerrado
+  en 7.5/8/8). Mantener 3×10; probablemente cierre solo con el deload.
+- **⚠️ HLR:** 3×12 @ 8/**8.5/8.5** (el 28/08 fue 8/8/8.5, el 24/08 3×12 @ 8 parejo). Tendencia de
+  RPE en aumento con el mismo trabajo = fatiga de fin de bloque. Mantener, no sumar.
+
+---
+
+## ✅ Workout A — Lunes 31/08/2026 (Meso 2, semana 5 — PICO/MRV, sesión 1)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Incline DB Press | 25 kg | 12 / 12 / **9** | 7.5 / **9** / **8.5** ⚠️ |
+| Chin-Up | BW | 8 / 8 / 8 🔼 | 7 / 8 / 8.5 |
+| Lying Leg Curl *(en lugar de Leg Extension)* | 42 kg | 12 / 12 / 12 | 7.5 / 8 / 8 |
+| OH Single Carry | 20 kg | 3 × 60" | time-based |
+| Hammer Curl | 17.5 kg | 8 / 8 / 8 | 8 / 8 / 8.5 |
+| Ab Wheel | BW | 13 / 13 / 13 🔼 | 8 / 8 / 8 |
+
+🔗 hevy.com/workout/4a2b884c-38b7-4db6-923c-6d61cc3e3f64
+
+**Lecturas:**
+- **⚠️ INCLINE 25 — 2º intento fallido del 3×12, y PEOR que el 1º:** hoy 12/12/**9** @ 7.5/**9**/8.5
+  (el 26/08 fue 12/12/10 @ 7.5/8.5/8.5). Menos reps totales y RPE más alto = el 3×12 no está
+  disponible con la fatiga del pico. **Decisión: volver a 3×11 (que sí cerró limpio el 21/08) y
+  dejar el intento de 3×12 / salto a 30 kg para DESPUÉS del deload**, con el cuerpo fresco.
+- **✅ CHIN-UP 3×8 🔼 casi limpio:** 7/8/**8.5**. Comparar con el intento apurado del 17/08
+  (7.5/8.5/9): esta vez, con las dos sesiones de 3×7 en cap como base, entró mucho mejor.
+  Falta medio punto → consolidar 3×8.
+- **✅ Ab Wheel 3×13 🔼:** 8/8/8 parejo y limpio (venía 3 sesiones clavado en 3×12) → 3×14.
+- **✅ Leg Curl 42 × 3×12 limpio:** hizo leg curl en vez de leg extension — recupera el que faltó
+  el 28/08. Cerró el rango @ ≤8 → subir peso tras el deload.
+- **🚩 HAMMER — 5ª sesión seguida fuera del cap Y 4º cambio de peso:** 15 (12/08) → 17.5 (17/08) →
+  16 (21, 26/08) → 17.5 (31/08). Hoy 3×8 @ 8/8/8.5. **El problema no es el peso, es que no se
+  queda en uno el tiempo suficiente para consolidar.** Fijar **16 kg × 3×10** y no moverlo hasta
+  cerrarlo con las tres a ≤8.
+- **⚠️ OH Carry volvió a 20 kg** (ya lo hizo a 22 el 26/08). Retomar 22.
+
+---
+
+## ✅ Extra — Domingo 30/08/2026 (Meso 2, semana 4 — CIERRA semana 4)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| **Pull-Up (1º ✅)** | BW | 6 / 6 / 6 | 7 / 7.5 / 8.5 |
+| Bench Press (Barbell) | 72.5 kg | 9 / 9 / 9 | 7.5 / 8 / 8.5 |
+| Leg Extension | 84 kg | 12 / 12 / 12 | 8 / 8 / 8.5 |
+| Lateral Raise (DB) | 12.5 kg | 15 / 15 / 15 | 7.5 / 8 / 8.5 |
+| Bicep Curl (Barbell) | 31.5 kg | 11 / 11 / 11 | 7.5 / 8 / 8.5 |
+| Triceps Rope Pushdown | 27.5 kg | 10 / 10 / 10 | 7.5 / 8 / 8.5 |
+| Seated Palms Up Wrist Curl | 15 kg | 15 / 15 / 15 | 7 / 7.5 / **8** ✅ |
+| Crunch (Weighted) | 10 kg | 15 / 15 / 15 | 7 / 7.5 / 7.5 |
+| Oblique Crunch | BW | 15 / 15 / 15 | 7 / 7.5 / 7.5 |
+
+🔗 hevy.com/workout/480321aa-82fe-4a24-9d4e-b451f06878c0
+
+**Lecturas (cierra semana 4 — fatiga acumulada generalizada, esperable antes del pico):**
+- **🚩 PATRÓN DE FATIGA: 6 de 8 ejercicios terminaron la 3ª serie en exactamente 8.5** (pull-up,
+  bench, leg ext, lateral, bicep, tricep). No es un ejercicio puntual — es fatiga acumulada de fin
+  de semana 4. Ya se había anticipado el 28/08 (dips y HLR +0.5 RPE). **Contexto normal en la
+  antesala del MRV; el deload de la semana 6 NO es negociable.**
+- **✅ WRIST 15 × 3×15 LIMPIO:** 7/7.5/**8** — el reajuste funcionó (venía 9.5 → 9 con 3×17).
+  3er caso de estancamiento resuelto bajando el piso de reps (tras chin-up/hammer y OHP).
+  Consolidar 3×15 → sumar reps de a poco.
+- **Pull-Up 3×6:** mejoró (7/7.5/8.5 vs el 7.5/8.5/9 del 3×7) pero la 3ª aún fuera del cap.
+  Repetir 3×6 buscando las tres a ≤8 — probablemente salga con el deload encima.
+- **Bench 72.5 🔼:** sumó a 3×9 @ 7.5/8/8.5. Progresa bien, la 3ª a 8.5 es aceptable dado el
+  contexto → consolidar 3×9 → 3×10.
+- **Lateral 12.5:** cerró 3×15 (techo del rango) pero 3ª a 8.5 → consolidar antes de +peso.
+- **Bicep 31.5 🔼:** 3×11 (de 3×10) @ hasta 8.5.
+- **Tricep 27.5:** 3×10 @ 7.5/8/8.5 — idéntico al 23/08, no consolidó. Mantener.
+- **⚠️ Leg Extension retrocedió:** 3×12 @ 8/8/8.5 (el 26/08 fue 3×13 @ 8). Menos reps y más RPE =
+  cuádriceps cargado (fútbol + gym). Mantener 84 kg, sin forzar.
+
+---
+
+## ✅ Workout B — Viernes 28/08/2026 (Meso 2, semana 4 — sesión 3)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Overhead Press (Barbell) | 45 kg | 7 / 7 / 7 | 7 / 7.5 / 8 |
+| Pendlay Row (Barbell) | 65 kg | 10 / 10 / 10 | 7.5 / 8 / 8 |
+| Lying Leg Curl | — | **NO SE HIZO** ⚠️ | — |
+| Suitcase Carry | 20 kg | 3 × 60" | time-based |
+| Triceps Dip (Weighted) | 15 kg | 10 / 10 / 10 | 8 / 8 / 8.5 |
+| Hanging Leg Raise | BW | 12 / 12 / 12 | 8 / 8 / 8.5 |
+
+🔗 hevy.com/workout/21d8e2f9-1f45-4b16-ba58-8d3986b0a6c9
+
+**Lecturas:**
+- **🏆 OHP DESTRABADO — el reajuste funcionó:** 45 kg × 3×7 @ 7/7.5/**8**, las tres en cap. Tras 3
+  sesiones fallidas persiguiendo 3×8 (9.5 → 8.5 → 9), bajar el piso a 7 reps resolvió el
+  estancamiento. **Siguiente paso: 8/7/7** (sumar la 8ª rep de a una serie) → 8/8/7 → 3×8 → 47.5.
+- **✅ PENDLAY ROW 65 CONSOLIDADO:** 3×10 @ 7.5/8/**8** — la 3ª bajó de 8.5 a 8. Rango cerrado en cap
+  → **subir a 67.5**, reset reps. Progresión del bloque: 50 → 67.5 kg.
+- **Dips 15:** 3×10 @ 8/8/**8.5** (el 24/08 fue 7.5/8/8 — mismo trabajo, RPE algo más alto).
+  Mantener 3×10 y consolidar.
+- **HLR:** 3×12 @ 8/8/8.5 (el 24/08 fue 3×12 @ 8 parejo). No sumó a 13; mantener.
+- **⚠️ Faltó Lying Leg Curl** — único trabajo de isquios del programa. Retomar la próxima B en
+  42 kg × 3×12.
+- **⚠️ Suitcase en 20 kg otra vez** (3ª sesión): ya lo hizo a **22 kg × 55"** el 19/08. Retomar 22.
+- **Contexto:** RPE levemente más alto que el lunes en dips y HLR con el mismo trabajo — normal en
+  semana 4 (acumulación previa al pico). Vigilar en la semana 5 (MRV).
+
+---
+
+## ✅ Workout A — Miércoles 26/08/2026 (Meso 2, semana 4 — sesión 2)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Incline DB Press | 25 kg | 12 / 12 / **10** | 7.5 / **8.5** / **8.5** ⚠️ |
+| Chin-Up | BW | 7 / 7 / 7 | 7 / 8 / 8 |
+| Leg Extension | 84 kg | 13 / 13 / 13 | 8 / 8 / 8 |
+| OH Single Carry | 22 kg 🔼 | 3 × 50" | time-based |
+| Hammer Curl | 16 kg | 10 / 10 / 10 | 7.5 / 8 / 8.5 |
+| Ab Wheel | BW | 12 / 12 / 12 | 7.5 / 7.5 / 8 |
+
+🔗 hevy.com/workout/8be51099-6673-4107-9ab8-c3c65eb2ef01
+
+**Lecturas:**
+- **🏆 CHIN-UP DESBLOQUEADO — 2ª sesión limpia consecutiva:** 3×7 @ 7/8/8 (igual que el 21/08).
+  Cumplió el requisito de dos sesiones en cap → **avanzar a 3×8**, con el mismo criterio: si la 3ª
+  pide 9, cortar en 6-7 reps.
+- **⚠️ Incline 25 — no cerró el 3×12:** 12/12/**10** @ 7.5/**8.5/8.5**. Llegó a 12 en las dos primeras
+  pero fuera del cap y tuvo que recortar la 3ª. **NO subir a 30 kg todavía.** Repetir el intento de
+  3×12 con las tres a ≤8 (el 3×11 limpio del 21/08 sigue siendo la base sólida).
+- **Leg Extension 84 ✅ retomado:** 3×13 @ 8/8/8 (el 17/08 fue 3×13 @ 7.5/8/8 — mismo rango, RPE algo
+  mayor tras dos sesiones sin hacerlo). Consolidar 3×13 → 3×14.
+- **OH Single Carry 🔼:** por fin a **22 kg** × 3×50". Estirar hacia 60".
+- **Hammer 16 × 3×10 — mejoró pero la 3ª sigue a 8.5:** 7.5/8/**8.5**. Avance real (por 1ª vez en 4
+  sesiones NO tuvo que recortar reps en la 3ª), pero el rango de 10 reps todavía no está limpio.
+  **Consolidar 16 × 3×10 con las TRES a ≤8** antes de sumar. Si en la próxima vuelve a 8.5,
+  probar 15 kg × 3×10.
+- **Ab Wheel — 3ª sesión seguida en 3×12 @ ≤8:** hay margen sin usar. Empujar a 3×13-14.
+
+---
+
+## ✅ Workout B — Lunes 24/08/2026 (Meso 2, semana 4 — sesión 1)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Overhead Press (Barbell) | 45 kg | 8 / 8 / 8 | 7.5 / 8 / **9** ⚠️ |
+| Pendlay Row (Barbell) | 65 kg | 10 / 10 / 10 | 7.5 / 8 / 8.5 |
+| Lying Leg Curl (Machine) | 42 kg 🔼 | 10 / 10 / 10 | 7.5 / 7.5 / 7.5 |
+| Suitcase Carry | 20 kg | 3 × 60" | time-based |
+| Triceps Dip (Weighted) | 15 kg | 10 / 10 / 10 | 7.5 / 8 / 8 |
+| Hanging Leg Raise | BW | 12 / 12 / 12 | 8 / 8 / 8 |
+
+🔗 hevy.com/workout/6f36a1db-90e6-4431-b634-03e7c34d2274
+
+**Lecturas:**
+- **🚩 OHP 45 — ESTANCADO, cambiar estrategia.** 4º intento de cerrar 3×8 y 3º fallido seguido:
+  10/08 **8/7/7 @ 8/8/8 ✅** (única vez limpio, dejando caer reps) · 15/08 3×8 @ 9.5 ❌ ·
+  19/08 3×8 @ 8.5 ❌ · 24/08 3×8 @ **9** ❌. Repetir lo mismo no está funcionando.
+  **Decisión: fijar 45 kg × 3×7 con las TRES a ≤8** (el 8/7/7 del 10/08 muestra que ese es el
+  volumen real disponible hoy). Sumar la 8ª rep de a UNA serie por vez (8/7/7 → 8/8/7 → 3×8).
+- **Pendlay Row 65:** cerró el rango 3×10 (de 3×8) pero la 3ª a 8.5 → consolidar 3×10 todas a ≤8
+  antes de 67.5. Igual sigue siendo su mejor ejercicio: 50 → 65 kg en el bloque.
+- **✅ Leg Curl 42 🔼:** usó 42 (más que los 38-40 sugeridos) y salió 3×10 @ 7.5 parejo, sobrado →
+  sumar reps hacia 3×12.
+- **✅ Dips 15 CONSOLIDADO:** 3×10 @ 7.5/8/8, todas en cap (el 19/08 la 3ª iba a 8.5) → 3×11-12.
+- **✅ HLR:** 3×12 @ 8/8/8, cerró rango → sumar o agregar lastre.
+- **⚠️ Suitcase: volvió a 20 kg** (el 19/08 ya lo había hecho a **22 kg × 55"**). Retomar 22 kg.
+
+---
+
+## ✅ Extra — Domingo 23/08/2026 (Meso 2, semana 3 — CIERRA semana 3)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| **Pull-Up (1º ✅)** | BW | 7 / 7 / 7 | 7.5 / **8.5** / **9** ⚠️ |
+| Bench Press (Barbell) | 72.5 kg 🔼 | 8 / 8 / 8 | 7.5 / 7.5 / 8 |
+| Lateral Raise (DB) | 12.5 kg | 14 / 14 / 14 | 7.5 / 8 / 8 |
+| Bicep Curl (Barbell) | 31.5 kg 🔼 | 10 / 10 / 10 | 7 / 7.5 / 8 |
+| Triceps Rope Pushdown | 27.5 kg 🔼 | 10 / 10 / 10 | 7.5 / 8 / 8.5 |
+| Seated Palms Up Wrist Curl | 15 kg | 17 / 17 / 17 | 7.5 / 8 / **9** ⚠️ |
+| Crunch (Weighted) | 10 kg | 15 / 15 / 15 | 7.5 / 7.5 / 8 |
+| Oblique Crunch | BW | 15 / 15 / 15 | 7 / 7 / 7.5 |
+| Leg Extension | — | **no se hizo** (cargado del fútbol de ayer — decisión válida) | — |
+
+🔗 hevy.com/workout/440246bd-dfb2-4db7-9e0a-e6dee25d36ba
+
+**Lecturas (cierra semana 3):**
+- **🔥 BENCH 72.5 ESTRENADO LIMPIO:** 3×8 @ 7.5/7.5/8, todas en cap, en peso nuevo. Iguala el mejor
+  bench del historial y con margen → sumar reps hacia 3×10.
+- **Bicep 31.5 🔼:** usó 31.5 (no 30) y salió 3×10 @ 7/7.5/8 limpio, la 1ª a RPE 7 → sumar reps.
+- **Lateral 12.5 ✅:** 3×14 @ ≤8 → 3×15, después +peso.
+- **Tricep 27.5 🔼:** 3×10 en peso nuevo pero 3ª a 8.5 → consolidar 3×10 todas a ≤8.
+- **⚠️ PULL-UP a 3×7 → 7.5/8.5/9**, dos series fuera del cap (no solo la última). Fue 1º (orden
+  correcto), así que esta vez NO es el orden: es el mismo patrón del chin-up — **al sumar rep, se
+  va de rango**. Volver a **3×6 limpio** y pedir dos sesiones en cap antes de reintentar 3×7.
+- **⚠️ WRIST 15 — 2ª sesión seguida fuera del cap:** 3×17 @ 9 (venía de 9.5). Mejoró pero sigue
+  arriba. **Bajar a 3×15** y reconstruir con las tres a ≤8.
+- **Leg Extension:** no se hizo, 2ª vez seguida (21/08 y 23/08). Esta vez con razón declarada
+  (piernas cargadas del fútbol del sábado) — autorregulación correcta. Retomar en la próxima A.
+
+---
+
+## ✅ Workout A — Viernes 21/08/2026 (Meso 2, semana 3 — sesión 3)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Incline DB Press | 25 kg | 11 / 11 / 11 | 7.5 / 8 / 8 |
+| Chin-Up | BW | 7 / 7 / 7 | 7 / 8 / 8 |
+| Leg Extension | — | **NO SE HIZO** ⚠️ | — |
+| OH Single Carry | 20 kg | 3 × 60" | time-based |
+| Hammer Curl | 16 kg | 12 / 12 / 10 | 7.5 / **8.5** / **8.5** ⚠️ |
+| Ab Wheel | BW | 12 / 12 / 12 | 7 / 7.5 / 8 |
+
+🔗 hevy.com/workout/6b83d06e-b849-473d-97c4-214c8bb0dd87
+
+**Lecturas (dos consolidaciones clavadas — sesión de precisión cumplida):**
+- **✅ INCLINE 25 CONSOLIDADO:** 3×11 @ 7.5/8/**8**, todas en cap (el 17/08 la 3ª iba a 9). →
+  **3×12**, que desbloquea el salto a **30 kg** en el rack.
+- **✅ CHIN-UP 3×7 LIMPIO:** 7/8/**8** — bajó de 3×8 como se indicó y salió en cap. **1ª de las
+  dos sesiones limpias** requeridas; con otra igual, avanzar a 3×8.
+- **Ab Wheel:** 3×12 @ 7/7.5/8 (no sumó a 13, pero limpio y con margen) → 3×13.
+- **⚠️ FALTÓ LEG EXTENSION:** no aparece en el log. Es el único trabajo de cuádriceps del programa
+  (junto al del Extra). Si fue por falta de tiempo/máquina ocupada, ok; si no, retomar la próxima A
+  en 84 kg × 3×14.
+- **⚠️ HAMMER CURL — 3ª sesión seguida fuera del cap:** hoy bajó de 17.5 a 16 y aun así 12/12/**10**
+  @ 7.5/**8.5/8.5**, teniendo que recortar reps en la 3ª. Historial: 12/08 (15 kg) 12/12/10 @ 8.5 ·
+  17/08 (17.5 kg) 3×9 @ 8.5 · 21/08 (16 kg) 12/12/10 @ 8.5. **Patrón claro, no es el peso.**
+  Propuesta: fijar **16 kg × 3×10** (piso más bajo) y subir reps solo con las tres a ≤8.
+
+---
+
+## ✅ Workout B — Miércoles 19/08/2026 (Meso 2, semana 3 — sesión 2; con día de descanso previo)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Overhead Press (Barbell) | 45 kg | 8 / 8 / 8 | 7.5 / 8 / 8.5 |
+| Pendlay Row (Barbell) | 65 kg 🔼 | 8 / 8 / 8 | 7.5 / 7.5 / 8 |
+| Lying Leg Curl (Machine) | 35 kg | 12 / 12 / 12 | 7.5 / 7.5 / 8 |
+| Suitcase Carry | 22 kg 🔼 | 3 × 55" | time-based |
+| Triceps Dip (Weighted) | 15 kg | 10 / 10 / 10 | 7.5 / 8 / 8.5 |
+| Hanging Leg Raise | BW | 11 / 11 / 11 | 7.5 / 8 / 8.5 |
+
+🔗 hevy.com/workout/81c8d9c6-5223-49d7-91fb-e0ed1b782bfc
+
+**Lecturas (el descanso funcionó — RPE máximo bajó de 9-9.5 a 8.5):**
+- **✅ FATIGA CONFIRMADA Y RESUELTA:** tras 1 día de descanso, ningún ejercicio llegó a 9 (el
+  15/08 hubo 9.5 y el 17/08 dos 9). Confirma que el pico de RPE venía de entrenar sáb+dom+lun
+  seguidos, no de que los pesos fueran altos. **Mantener ≥1 día de descanso entre sesiones.**
+- **Pendlay Row 65 🔥 TERRITORIO NUEVO:** 3×8 @ 7.5/7.5/8 limpio en peso récord (tope Meso 1 era
+  62.5). 4ª vez seguida que estrena peso sin despeinarse → sumar reps hacia 3×10.
+- **Leg Curl 35 ✅ CERRADO:** 3×12 @ 7.5/7.5/8 → subir a **38-40**, reset reps.
+- **Suitcase 22 ✅:** 3×55" directo en peso nuevo (se pidió 45-50") → estirar a 60".
+- **OHP 45 — casi:** 3×8 @ 7.5/8/**8.5**. Gran mejora vs el 9.5 del 15/08, pero la 3ª sigue fuera
+  del cap. Una sesión más de consolidación → después 47.5.
+- **Dips 15:** sumó a 3×10 pero 3ª a 8.5 → consolidar 3×10 todas a ≤8.
+- **HLR:** 3×11 @ hasta 8.5 (no sumó a 12). Consolidar.
+
+---
+
+## ✅ Workout A — Lunes 17/08/2026 (Meso 2, semana 3 — sesión 1; 3er día seguido)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Incline DB Press | 25 kg | 11 / 11 / 11 | 7.5 / 8 / **9** ⚠️ |
+| Chin-Up | BW | 8 / 8 / 8 | 7.5 / **8.5** / **9** ⚠️ |
+| Leg Extension | 84 kg | 13 / 13 / 13 | 7.5 / 8 / 8 |
+| OH Single Carry | 20 kg | 3 × 60" ✅ | time-based |
+| Hammer Curl | 17.5 kg 🔼🔼 | 9 / 9 / 9 | 7.5 / 8 / 8.5 |
+| Ab Wheel | BW | 12 / 12 / 12 | 7.5 / 8 / 8 |
+
+🔗 hevy.com/workout/b80ece99-9356-44eb-a52e-ba16aa0c3b67
+
+**Lecturas:**
+- **⚠️ SEÑAL DE FATIGA — entrenó sáb (B) + dom (Extra) + lun (A), 3 días seguidos sin descanso.**
+  3 de 6 ejercicios con la 3ª serie fuera del cap (incline 9, chin-up 9, hammer 8.5). No es un
+  ejercicio puntual: es un patrón de sesión. Sumado a los 9.5 del 15/08 (OHP) y 16/08 (wrist),
+  van **3 sesiones seguidas** con RPE trepando. Respetar el descanso entre sesiones.
+- **⚠️ Chin-Up — REGRESIÓN:** 3×8 @ 7.5/8.5/**9**. Justo lo que había resuelto el 12/08 (3×7 con
+  3ª a 8). Patrón histórico confirmado: **cada vez que suma una rep, la 3ª se va a 9.** Volver a
+  **3×7 limpio** y consolidar de verdad antes de intentar 3×8 otra vez.
+- **Incline 25:** llegó a 3×11 pero 3ª a 9 → NO avanzar a 3×12. Consolidar 3×11 con todas a ≤8.
+- **Leg Extension 84 ✅:** 3×13 @ 7.5/8/8 limpio (el único compuesto/accesorio que respetó el cap
+  hoy) → 3×14.
+- **OH Single Carry ✅ DESTINO COMPLETADO:** 3×60" a 20 kg. Objetivo del bloque cumplido → **22 kg**,
+  reset a 45-50".
+- **Hammer 17.5 🔼🔼:** se salteó el 16 y fue de 15 a 17.5. 3×9 @ 7.5/8/8.5 — aceptable pero la 3ª
+  otra vez arriba. Consolidar 17.5 a 3×9-10 con todas a ≤8.
+- **Ab Wheel:** 3×12 @ ≤8 (no sumó a 13, correcto dado el cansancio).
+
+---
+
+## ✅ Extra — Domingo 16/08/2026 (Meso 2, semana 2 — CIERRA semana 2)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| **Pull-Up (1º ✅ por fin)** | BW | 6 / 6 / 6 | 7 / 8 / 8 |
+| Bench Press (Barbell) | 70 kg | 10 / 10 / 10 | 7.5 / 8 / 8 |
+| Leg Extension | 84 kg | 12 / 12 / 12 | 8 / 8 / 8 |
+| Lateral Raise (DB) | 12.5 kg 🔼 | 12 / 12 / 12 | 7.5 / 7.5 / 8 |
+| Bicep Curl (Barbell) | 27.5 kg | 12 / 12 / 12 | 7.5 / 8 / 8 |
+| Triceps Rope Pushdown | 25 kg | 12 / 12 / 12 | 8 / 8 / 8 |
+| Seated Palms Up Wrist Curl | 15 kg | 17 / 17 / 17 | 7 / 8 / **9.5** ⚠️ |
+| Crunch (Weighted) | 10 kg | 15 / 15 / 15 | 7.5 / 8 / 8.5 |
+| Oblique Crunch | BW | 15 / 15 / 15 | 7.5 / 7.5 / 8 |
+
+🔗 hevy.com/workout/e5b03f24-97e2-4b63-9ed4-24c4093caebe
+
+**Lecturas (mejor Extra del bloque — 3 progresiones desbloqueadas):**
+- **🏆 PULL-UP 1º — HIPÓTESIS CONFIRMADA:** por fin lo hizo primero → 3×6 @ 7/**8/8**, limpio y en cap. Comparativa definitiva: 2º/al final (21/06, 02/08, 09/08) = 3ª a **RPE 9** · 1º/fresco (04/07, 16/08) = 3ª a **RPE 8**. El orden era todo. **Mantener 1º siempre** → avanzar a **3×7**.
+- **🔼 BENCH 70 CONSOLIDADO:** 3×10 @ 7.5/8/8 — todas en cap (el 09/08 la 3ª iba a 8.5). Y lo logró con OHP del día anterior encima. → **72.5**.
+- **🔼 Bicep 27.5 CERRADO:** 3×12 @ 7.5/8/8 → **30 kg**, reset reps.
+- **🔼 Tricep 25 CERRADO:** 3×12 @ 8/8/8 → **27.5 kg**, reset reps.
+- **Lateral 12.5 🔼:** subió peso (de 12) y salió 3×12 @ ≤8 limpio → sumar hacia 3×15.
+- **Leg Ext 84:** 3×12 @ 8/8/8 — mismo rango que el 12/08 pero ahora a RPE 8 pleno (antes 7.5/8/8). Consolidar 3×12 → después 3×13-15.
+- **Core 🔼:** crunch y oblique subieron de 3×12 a 3×15.
+- **⚠️ Wrist 15 — NO SUBIR:** 3×17 pero 3ª a **9.5**. Mismo error que el OHP del 15/08: techo de reps fuera del cap = consolidar. **Repetir 3×17 con todas a ≤8.**
+
+---
+
+## ✅ Workout B — Sábado 15/08/2026 (Meso 2, semana 2 — sesión 3; corrida del viernes)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Overhead Press (Barbell) | 45 kg | 8 / 8 / 8 | 7.5 / 8.5 / **9.5** ⚠️ |
+| Pendlay Row (Barbell) | 62.5 kg 🔼 | 10 / 10 / 10 | 7.5 / 7.5 / 8 |
+| Lying Leg Curl (Machine) | 35 kg 🔼 | 10 / 10 / 10 | 7.5 / 7.5 / 7.5 |
+| Suitcase Carry | 20 kg | 3 × 60" 🔼 | time-based |
+| Triceps Dip (Weighted) | 15 kg 🔼 | 8 / 8 / 8 | 7.5 / 8 / 8 |
+| Hanging Leg Raise | BW | 11 / 11 / 11 | 7.5 / 8 / 8 |
+
+🔗 hevy.com/workout/8e499c0f-df30-4fe2-a871-108c3ed2012d
+
+**Lecturas:**
+- **⚠️ OHP 45 — NO SUBIR a 47.5:** llegó a 3×8 pero @ 7.5/8.5/**9.5**. Por doble progresión, techo de reps con RPE fuera del cap = **consolidar, no subir**. Además 9.5 en compuesto es casi fallo (regla: nunca al fallo en compuestos). Retroceso vs el 10/08, donde dejó caer reps (8/7/7) para respetar el cap — esa era la ejecución correcta. **Repetir 45 kg buscando 3×8 con todas a ≤8.**
+- **Pendlay Row 62.5 🔥:** 3×10 @ 7.5/7.5/8 clavado directo en peso nuevo — **3ª vez consecutiva** que cierra el rango completo al primer intento (57.5 → 60 → 62.5). Ya superó el tope del Meso 1 → **65**.
+- **Leg Curl 35 🔼:** usó 35 (no 32) y salió 3×10 @ 7.5 parejo y sobrado → sumar reps hacia 3×12.
+- **Dips 15 🔼:** usó 15 (no 12.5) y salió 3×8 @ ≤8 limpio → sumar reps hacia 3×10-12.
+- **Suitcase ✅ DESTINO:** 3×60" a 20 kg completo (venía estirando desde 50"). → subir a **22 kg**, reset a 45-50".
+- **HLR:** 3×11 @ ≤8 → 3×12.
+- **Patrón:** viene eligiendo el escalón de arriba del que le indico (leg curl 32→35, dips 12.5→15) y le sale limpio. Bien mientras respete el cap de RPE — el problema hoy fue solo el OHP.
+
+---
+
+## ✅ Workout A — Miércoles 12/08/2026 (Meso 2, semana 2 — sesión 2)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Incline DB Press | 25 kg | 10 / 10 / 10 | 7 / 8 / 8 |
+| Chin-Up | BW | 7 / 7 / 7 | 7 / 7.5 / 8 |
+| Leg Extension | 84 kg | 12 / 12 / 12 | 7.5 / 8 / 8 |
+| OH Single Carry | 20 kg | 3 × 55" 🔼 | time-based |
+| Hammer Curl | 15 kg | 12 / 12 / 10 | 7.5 / 8.5 / 8.5 |
+| Ab Wheel | BW | 12 / 12 / 12 | 7.5 / 8 / 8 |
+
+🔗 hevy.com/workout/f89764d5-d301-4b0b-aa26-daf69157801a
+
+**Lecturas (sesión de precisión — cumplió los dos objetivos de consolidación):**
+- **🏆 CHIN-UP RESUELTO:** 3×7 @ 7/7.5/**8** — la 3ª por fin dentro del cap. Historial de la 3ª serie: 9 (03/08) → 8.5 (07/08) → **8 (12/08)**. Problema crónico del Meso 1 (corría a RPE 9-10) **cerrado**. → avanzar a **3×8**.
+- **Incline 25 ✅ DOBLE LOGRO:** consolidó Y sumó rep — 3×10 @ 7/8/8, todas dentro del cap (venía 3×9 con la 3ª a 9). Sumar hacia 3×12 (ahí el rack salta a 30).
+- **Leg Extension 84 ✅:** 3×12 @ 7.5/8/8 en el peso corregido. Rango cerrado limpio → sumar hacia 3×15.
+- **Ab Wheel ✅:** 3×12 @ ≤8 (de 3×10) → 3×13-14.
+- **OH Carry 🔼:** 55" a 20 kg. Falta el último escalón → 60".
+- **⚠️ Hammer 15:** 12/12/**10** @ 7.5/**8.5/8.5** — único que se fue del cap; tuvo que bajar reps en la 3ª. Consolidar 15 kg a 3×12 limpio antes de pensar en 16.
+
+---
+
+## ✅ Workout B — Lunes 10/08/2026 (Meso 2, semana 2 — sesión 1, progresión pura)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Overhead Press (Barbell) | 45 kg 🔼 | 8 / 7 / 7 | 8 / 8 / 8 |
+| Pendlay Row (Barbell) | 60 kg 🔼 | 10 / 10 / 10 | 7.5 / 7.5 / 8 |
+| Lying Leg Curl (Machine) | 28 kg | 12 / 12 / 12 | 7.5 / 7.5 / 7.5 |
+| Suitcase Carry | 20 kg | 3 × 55" 🔼 | time-based |
+| Triceps Dip (Weighted) | 10 kg | 12 / 12 / 12 | 7.5 / 8 / 8.5 |
+| Hanging Leg Raise | BW | 10 / 10 / 10 | 7.5 / 8 / 8 |
+
+🔗 hevy.com/workout/d4ec9c36-b2b7-446a-a2a1-dfe1e16e6268
+
+**Lecturas (1ª sesión de progresión pura — todos los targets cumplidos):**
+- **OHP 45 🔼 ✅:** 8/7/7 @ 8/8/8 — dejó caer reps para mantener el cap (antes grindeaba a 8.5). Ejecución impecable en peso nuevo. Sumar reps → 3×8 @ ≤8 → después 47.5.
+- **Pendlay Row 60 🔥:** clavó 3×10 @ 7.5/7.5/8 DIRECTO en peso nuevo (se saltó el reset otra vez). Cerró rango → **62.5**. Espalda imparable (50 → 62.5 en el Meso 1, ya de vuelta).
+- **Leg Curl 28 ✅ CERRADO:** 3×12 @ 7.5/7.5/7.5 parejo y sobrado → **subir a 32** (reset reps).
+- **Dips 10 ✅ CERRADO:** 3×12 (última 8.5) → **subir a 12.5** (reset reps).
+- **Suitcase 🔼:** estiró a 55". Próximo: 60".
+- **HLR:** 3×10 @ ≤8. Sumar a 3×11-12.
+
+---
+
+## ✅ Extra — Domingo 09/08/2026 (Meso 2, semana 1 — CIERRA semana 1)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Bench Press (Barbell) | 70 kg 🔼 | 10 / 10 / 10 | 7 / 8 / 8.5 |
+| Pull-Up (2º otra vez, post-bench) | BW | 6 / 6 / 6 | 7.5 / 8 / 9 |
+| Leg Extension | 84 kg 🔼 | 10 / 10 / 10 | 7.5 / 8 / 8 |
+| Lateral Raise (DB) | 12 kg | 13 / 13 / 13 | 7.5 / 8 / 8.5 |
+| Bicep Curl (Barbell) | 27.5 kg 🔼 | 10 / 10 / 10 | 7.5 / 7.5 / 8 |
+| Triceps Rope Pushdown | 25 kg 🔼 | 10 / 10 / 10 | 7.5 / 8 / 8 |
+| Seated Palms Up Wrist Curl | 15 kg | 15 / 15 / 15 | 7.5 / 8 / 8.5 |
+| Crunch (Weighted) | 10 kg | 12 / 12 / 12 | 7 / 7 / 7 |
+| Oblique Crunch | BW | 12 / 12 / 12 | 6 / 6 / 6 |
+
+🔗 hevy.com/workout/75da0fad-793d-46bc-9ffd-ee879d9ab096
+
+**Lecturas (cierra semana 1 del Meso 2 — todo en destino o arriba):**
+- **Leg Extension 84 ✅ CORREGIDO:** por fin en zona de estímulo — 3×10 @ 7.5/8/8 (venía sobrando a 6-7 en 77). 84 es el peso correcto. Sumar reps hacia 3×12-15.
+- **Bench 70 🔼:** 3×10 @ 7/8/8.5. Set 1 a RPE 7 (sobra), 3ª a 8.5. Consolidar 70 con 3ª ≤8 → **72.5** (destino).
+- **Bicep 27.5 🔼 EN DESTINO:** saltó 22.5→27.5 directo y salió limpio 3×10 @ ≤8. Sumar reps → 3×12.
+- **Tricep 25 🔼 EN DESTINO:** 3×10 @ ≤8 limpio. Sumar reps → 3×12.
+- **Lateral 12:** 3×13 @ hasta 8.5 (de 3×12). Sumar hacia 3×15 → después +peso.
+- **Wrist 15 🔼:** reset limpio 3×15 @ hasta 8.5 en el peso nuevo. Sumar reps hacia 3×20.
+- **⚠️ Pull-Up: lo hizo 2º OTRA VEZ** (después del bench) → 3ª a RPE 9, igual que el 02/08 y 21/06. Cuando va 1º (04/07) sale 3×6 @ ≤8 limpio. **3ª vez que el orden se pierde — es EL ajuste pendiente del Extra.**
+
+---
+
+## ✅ Workout A — Viernes 07/08/2026 (Meso 2, semana 1 — sesión 3, CIERRA semana 1)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Incline DB Press | 25 kg 🔼 | 9 / 9 / 9 | 7 / 8 / 9 |
+| Chin-Up | BW | 7 / 7 / 7 | 7 / 7.5 / 8.5 |
+| Leg Extension | 77 kg | 10 / 10 / 10 | 6 / 7 / 7 |
+| OH Single Carry | 20 kg 🔼 | 3 × 50" | time-based |
+| Hammer Curl | 15 kg 🔼 | 10 / 10 / 10 | 7.5 / 8 / 8.5 |
+| Ab Wheel | BW | 10 / 10 / 10 | 7.5 / 7.5 / 7.5 |
+
+🔗 hevy.com/workout/d2a37f81-4f01-4d20-ab15-a8a110d53eb7
+
+**Lecturas (cierra semana 1 — re-escalada COMPLETA, todo en destino o arriba):**
+- **Incline 25 🔼 EN DESTINO:** saltó a 25 (no consolidó 24 primero). 3×9 @ 7/8/9 — set 1 sobra (RPE 7), 3ª a 9. Consolidar 25 a 3×9 con 3ª ≤8 → después sumar reps hasta 3×12 (ahí el rack salta a 30).
+- **Chin-Up ✅ MEJOR SET 3 DEL BLOQUE:** 3×7 @ 7/7.5/**8.5** — la 3ª bajó de 9-10 → 8.5. Aplicó el cap. Casi limpio; una más y va a 3×8.
+- **Leg Extension ⚠️ DEMASIADO FÁCIL:** 3×10 @ **6/7/7** (3ª sesión seguida sobrando en 77). No progresó ni en reps ni peso. **Subir a 82.5-85** o ir directo a 3×13-15. Está por debajo del estímulo útil.
+- **OH Single Carry 🔼:** subió a 20 kg (destino) manteniendo 50". Ahora estirar tiempo → 55" → 60".
+- **Hammer 15 🔼:** reset limpio 3×10 @ ≤8.5. Sumar reps hacia 3×12 → después 16.
+- **Ab Wheel:** 3×10 @ 7.5 parejo (no sumó a 11 pese al margen). Empujar a 3×11-12.
+
+---
+
+## ✅ Workout B — Miércoles 05/08/2026 (Meso 2, semana 1 — sesión 2)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Overhead Press (Barbell) | 42.5 kg | 8 / 8 / 8 | 7.5 / 8 / 8 |
+| Pendlay Row (Barbell) | 57.5 kg | 10 / 10 / 10 | 7.5 / 7.5 / 7.5 |
+| Lying Leg Curl (Machine) | 28 kg | 10 / 10 / 10 | 7.5 / 7.5 / 7.5 |
+| Suitcase Carry | 20 kg | 3 × 50" | time-based |
+| Triceps Dip (Weighted) | 10 kg | 10 / 10 / 10 | 7.5 / 8 / 8.5 |
+| Hanging Leg Raise | BW | 10 / 10 / 10 | 7.5 / 8 / 8.5 |
+
+🔗 hevy.com/workout/5a1055b7-58b6-45f5-b687-5f85427ad10c
+
+**Lecturas (re-escalada casi completa en tirón/empuje vertical):**
+- **OHP 42.5 ✅ CONSOLIDADO:** 3×8 @ 7.5/8/8, las 3 a ≤8 (histórico: siempre se le iba a 8.5). Mejor ejecución de OHP del historial → **subir a 45** (destino).
+- **Pendlay Row 57.5 🔥:** 3×10 @ 7.5/7.5/7.5 parejo y sobrado. Cerró rango → **60** (destino 62.5, llega rápido).
+- **Leg Curl 28:** 3×10 @ 7.5 (no sumó reps, quedó en 10). Hay margen → 3×11-12.
+- **Suitcase:** quedó en 50" (target era 55"). Retomar 55".
+- **Dips 10:** 3×10 @ hasta 8.5, no sumó a 12. Mantener 10 kg, sumar reps → después 12.5.
+- **HLR:** 3×10 @ hasta 8.5.
+
+---
+
+## ✅ Workout A — Lunes 03/08/2026 (Meso 2, semana 1 — SESIÓN 1 del bloque)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Incline DB Press | 24 kg | 9 / 9 / 9 | 7.5 / 8 / 8.5 |
+| Chin-Up | BW | 7 / 7 / 7 | 7.5 / 8 / 9 |
+| Leg Extension | 77 kg | 10 / 10 / 10 | 7 / 7 / 7.5 |
+| OH Single Carry | 18 kg | 3 × 50" | time-based |
+| Hammer Curl | 12.5 kg | 12 / 12 / 12 | 7 / 7.5 / 8 |
+| Ab Wheel | BW | 10 / 10 / 10 | 7 / 7.5 / 7.5 |
+
+🔗 hevy.com/workout/cf00d9d8-7f07-47cb-b0d0-869de0e0623b
+
+**Lecturas (re-escalada rápida — legs y hammer ya en destino):**
+- **Incline 24 🔼:** apareció mancuerna de 24 (entre 22 y 25). 3×9 @ última 8.5. Consolidar 24 limpio → 25 (destino, ahí 30).
+- **Chin-Up ⚠️:** subió a 3×7 pero la 3ª otra vez a **RPE 9** (2ª vez que grindea el último set al sumar rep). Tiene el 3×7 — ahora el laburo es que la 3ª NO llegue a 9 (cortar en 8). Consolidar 3×7 limpio → 3×8.
+- **Leg Extension ✅:** saltó directo a **77** (destino) y salió FÁCIL, 3×10 @ ≤7.5. Recuperó del todo (fútbol). Sumar reps hacia 3×15.
+- **Hammer 12.5 ✅:** 3×12 @ ≤8 limpio → subir a 15/16.
+- **Ab Wheel:** 3×10 controlado, margen → 3×11-12.
+
+## ⚠️ Extra — Domingo 02/08/2026 (RE-ESCALADA pre-bloque — última antes del Meso 2)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Bench Press (Barbell) | 65 kg | 12 / 12 / 12 | 7.5 / 8 / 8.5 |
+| Pull-Up (2º, tras bench) | BW | 6 / 6 / 6 | 8 / 8.5 / 9 |
+| Leg Extension | 70 kg | 12 / 12 / 12 | 7 / 7 / 7 |
+| Lateral Raise (DB) | 12/10/12 kg | 12 / 12 / 12 | 7.5 / 7.5 / 7.5 |
+| Bicep Curl (Barbell) | 22.5 kg | 10 / 10 / 10 | 7 / 7 / 7.5 |
+| Triceps Rope Pushdown | 22.5 kg | 10 / 10 / 10 | 7 / 7.5 / 7.5 |
+| Seated Palms Up Wrist Curl | 12.5 kg | 20 / 20 / 20 | 7 / 7 / 8.5 |
+| Crunch (Weighted) | 10 kg | 12 / 12 / 12 | 6 / 7 / 7 |
+| Oblique Crunch | BW | 12 / 12 / 12 | 6 / 7 / 7 |
+
+🔗 hevy.com/workout/29520ffb-da36-4bd1-a215-9a795fcba98d
+
+**Lecturas (re-escalada, todo por debajo del template = destino):**
+- **Pull-Up corrió hot (última a 9):** lo hizo **2º, después del bench**. Recordatorio: en el Meso 2 va **PRIMERO** (fresco sale limpio). Mantener 3×6 sin fallo.
+- **Bench 65:** 3×12, última 8.5. Rebuild → 70 → 72.5.
+- **Leg Ext 70 @ 7** fácil otra vez. Bicep 22.5 / Tricep 22.5 / Wrist 12.5: re-escalando hacia destino (27.5 / 25 / 15).
+
+---
+
+## ⚠️ Workout A — Viernes 31/07/2026 (RE-ESCALADA pre-bloque — no progresión)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Incline DB Press | 22 kg | 12 / 12 / 12 | 7.5 / 8 / 9 |
+| Chin-Up | BW | 6 / 6 / 6 | 7 / 7.5 / 8 |
+| Leg Extension | 70 kg | 12 / 12 / 12 | 6 / 7 / 7 |
+| OH Single Carry (estático, lluvia) | 18 kg | 3 × 50" | time-based |
+| Hammer Curl | 12.5 kg | 12 / 10 / 10 | 7.5 / 7.5 / 8 |
+| Ab Wheel | BW | 10 / 10 / 10 | 7 / 7.5 / 7.5 |
+
+🔗 hevy.com/workout/rQrqL1uUlnf
+
+**Lecturas (Meso 2 arranca re-escalando desde el parate gripe+viaje; targets Meso 1 = destino):**
+- **Chin-Up ✅:** 3×6 @ 7/7.5/8 limpio, sin fallo (aprendió del RPE 10). Bien controlado → 3×7.
+- **Leg Extension:** 70 @ 6/7/7 — **fácil**, sobra. Subir rápido hacia 72.5/75/77 las próximas.
+- **Incline 22:** 3×12 pero última a 9 (empujó de más). Consolidar 22 limpio → 22.5 → 25 (destino).
+- **Hammer 12.5:** 12/10/10 @ ≤8. Rebuild hacia 16.
+- **Ab Wheel:** 3×10 controlado, margen → 3×11-12.
+- Nota: OH carry lo hizo **estático** (lluvia) — mismo estímulo.
+
+---
+
+# RE-ENTRADA post-gripe (pre-Meso 2 · sesiones sueltas antes del bloque)
+
+## ⚠️ Hotel Brasil — Lunes 27/07/2026 (VIAJE, mantenimiento — NO progresión)
+
+> Semana liviana del viaje. Full-body de mantenimiento en el gym del hotel (~45 min, RPE ~6-7).
+
+| Ejercicio | Peso | Reps |
+|---|---|---|
+| Bench Press | 65 kg | 3×10 |
+| Chin-Up | BW | 3×6 |
+| Leg Extension | 70 kg | 3×12 |
+| Vuelos Laterales (DB) | 10 kg | 3×10 |
+| Press Francés (tríceps) | — | 3×10 |
+| Lying Leg Raise | BW | 3×10 |
+| Plank | BW | 3×45" |
+
+Mantenimiento OK. Faltó tracción horizontal (row), bíceps, isquios y press vertical → los cubre
+la sesión del miércoles. Nada cuenta para progresión (Meso 2 desde 03/08).
+
+---
+
+## ⚠️ Extra — Domingo 26/07/2026 (RE-ENTRADA post-gripe — 3ª sesión, cierra re-entrada, NO es progresión)
+
+> Esta vez sí respetó el RPE 7-7.5 controlado (bench 65, pull-up 3×5, todo liviano). Última sesión
+> antes del viaje a Brasil (27-31/7). Re-entrada cerrada, recuperado y sin fatiga acumulada.
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Bench Press (Barbell) | 65 kg | 10 / 10 / 10 | 7.5 / 8 / 8.5 |
+| Pull-Up (1º) | BW | 5 / 5 / 5 | 8 / 8 / 8 |
+| Leg Extension | 70 kg | 12 / 12 / 12 | 7.5 / 7.5 / 7.5 |
+| Lateral Raise (DB) | 10 kg | 12 / 12 / 12 | 7.5 / 7.5 / 8 |
+| Bicep Curl (Barbell) | 22.5 kg | 10 / 10 / 10 | 7.5 / 7.5 / 7.5 |
+| Triceps Rope Pushdown | 20 kg | 10 / 10 / 10 | 7 / 7.5 / 8 |
+| Seated Palms Up Wrist Curl | 12.5 kg | 15 / 15 / 15 | 7 / 7.5 / 7.5 |
+| Crunch (Weighted) | 10 kg | 12 / 12 / 12 | 7.5 |
+| Oblique Crunch | BW | 12 / 12 / 12 | 7 |
+
+🔗 hevy.com/workout/97391d10-a45f-4922-9d6a-1a5d134414af
+
+**Re-entrada COMPLETA** (A 21/7 · B 22/7 · Extra 26/7). Recuperado de la gripe, base intacta.
+Ahora viaje Brasil 27-31/7 = semana liviana. **Meso 2 real arranca 03/08** con los pesos del template.
+
+---
+
+## ⚠️ Workout B — Miércoles 22/07/2026 (RE-ENTRADA post-gripe — 2ª sesión, NO es progresión)
+
+> Sin rebote de la gripe (entrenó 2 días seguidos, bien). Otra vez empujó a RPE 8 en vez de 6-7,
+> cerca de base. Conclusión: recuperado, prácticamente de vuelta a nivel. Ya no insistir con 6-7;
+> resto de la semana normal (RPE 7-8) y el viaje (27-31/7) hace de semana liviana.
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Overhead Press (Barbell) | 40 kg | 8 / 8 / 8 | 8 / 8 / 8.5 |
+| Pendlay Row (Barbell) | 55 kg | 10 / 10 / 8 | 7.5 / 8 / 8 |
+| Lying Leg Curl (Machine) | 28 kg | 10 / 10 / 10 | 7.5 / 7.5 / 7.5 |
+| Suitcase Carry | 20 kg | 3 × 50" | time-based |
+| Triceps Dip (Weighted) | 10 kg | 10 / 10 / 10 | 7.5 / 8 / 8 |
+| Hanging Leg Raise | BW | 10 / 10 / 10 | 8 / 8.5 / 8.5 |
+
+🔗 hevy.com/workout/145e396a-e818-4a98-8508-6b9497838a61
+
+**Nota:** Leg Curl 28×10 @ 7.5 limpio (usó el peso pleno, no el reducido) — sólido. Todo cerca de
+base; NO cuenta para progresión (bloque real desde 03/08). Antes del viaje, aflojar 1-2 días.
+
+---
+
+## ⚠️ Workout A — Martes 21/07/2026 (RE-ENTRADA post-gripe — NO es progresión de bloque)
+
+> Objetivo del día era RPE 6-7 suave. Manuel se sintió bien y empujó más: terminó a RPE 8-8.5,
+> básicamente cerca de sus pesos normales. Sin drama, pero NO era la idea en la 1ª sesión
+> post-gripe + 2.5 semanas off. Vigilar cómo se siente al día siguiente (posible rebote de fatiga).
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Incline DB Press | 22 kg | 11 / 11 / 11 | 7.5 / 8 / 8.5 |
+| Chin-Up | BW | 6 / 6 / 6 | 7.5 / 8 / 8 |
+| Leg Extension | 70 kg | 12 / 12 / 12 | 8 / 8 / 8 |
+| OH Single Carry | 18 kg | 3 × 50" | time-based |
+| Hammer Curl | 12.5 kg | 10 / 10 / 10 | 7.5 / 8 / 8.5 |
+| Ab Wheel | BW | 10 / 10 / 10 | 7.5 / 8 / 8.5 |
+
+🔗 hevy.com/workout/654b686b-20eb-4d20-8f07-f9b7272ee244
+
+**Nota:** re-agarró rápido — venía en 25/70/16 antes, hoy 22/70/12.5 a RPE 8+. Buena señal de
+que no perdió base. Recordatorio para él: las próximas 1-2 sesiones de re-entrada de verdad a
+RPE 6-7. Los pesos/targets del Meso 2 se cuentan desde el 03/08, esto NO entra en la progresión.
+
+---
+
+# ARCHIVO — Mesociclo 1 (vuelta post-lesión) 🏁 CERRADO
+
+## ✅ Extra — Sábado 04/07/2026 (Mesociclo 1, semana 6 — 🏁 CIERRA EL MESOCICLO 1)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Pull-Up (1º, fresco) | BW | 6 / 6 / 6 | 7.5 / 8 / 8 |
+| Bench Press (Barbell) | 70 kg | 10 / 10 / 10 | 7.5 / 8.5 / 9 |
+| Leg Extension | 77 kg | 12 / 12 / 12 | 8 / 8 / 8 |
+| Lateral Raise (DB) | 12 kg | 15 / 15 / 15 | 8 / 8 / 8.5 |
+| Bicep Curl (Barbell) | 27.5 kg 🔼 | 10 / 10 / 10 | 7.5 / 8 / 8 |
+| Triceps Rope Pushdown | 22.5 kg | 12 / 12 / 12 | 7.5 / 8 / 8 |
+| Seated Palms Up Wrist Curl | 12.5 kg | 20 / 20 / 20 | 7 / 7.5 / 8 |
+| Crunch (Weighted) — core extra | 10 kg | 15 / 15 / 15 | 7.5 / 7.5 / 8 |
+| Oblique Crunch — core extra | BW | 12 / 12 / 12 | 7.5 / 7.5 / 7.5 |
+
+🔗 hevy.com/workout/172592d8-dba8-4a30-9c8e-f617e8e1eb2d
+
+**Lecturas:**
+- **Pull-Up 🔑:** hecho 1º (fresco) → **3×6 @ 7.5/8/8 limpio** (vs 8/8.5/8.5 cuando iba 2º, y 9 al final). CONFIRMADO: el pull-up necesita ir al principio. Ahora que está limpio, se puede empezar a sumar reps (3×7) en Meso 2.
+- **Bench 70:** 3×10 pero sets 2-3 a 8.5/9 otra vez. Load estancado en 70 todo el bloque, pero el grinding mejoró. Consolidar fresco post-deload → 72.5.
+- **Bicep 27.5 🔼:** reset limpio 3×10 @ ≤8. Sumar reps.
+- **Tricep 22.5 ✅ CONSOLIDADO:** 3×12 @ 7.5/8/8 (venía 8.5) → **25**.
+- **Wrist Curl ✅ CONSOLIDADO:** 3×20 @ 7/7.5/8 (venía 9) → **+peso (15 kg)**.
+- **Lateral 12 🔼:** 3×15 @ ≤8.5 → consolidar → +peso.
+- **Leg Ext 77:** 3×12 @ 8 limpio.
+
+---
+
+## 🏁 RESUMEN — CIERRE MESOCICLO 1 (25/05 → 04/07/2026, vuelta post-lesión)
+
+**6 semanas completas + viaje (6-12/7) como deload. Retoma Meso 2 el 13/07.**
+
+### Progresó 🟢
+| Ejercicio | Inicio bloque | Fin bloque |
+|---|---|---|
+| Pendlay Row | 50 kg | **62.5 kg** (⭐ el que más voló) |
+| Incline DB Press | 20 kg × ~10 | **25 kg × 3×10** |
+| OHP | 40 kg | **45 kg × 3×8** |
+| Leg Extension | 70 kg × 13 | **77 kg × 3×12-15** |
+| Hammer Curl | 12.5 kg | **16 kg** |
+| Bicep Curl | 20 kg (rebuild) | **27.5 kg** |
+| Tricep Pushdown | 20 kg | **22.5 → 25 kg** |
+| Weighted Dips | BW | **10 → 12.5 kg** |
+| OH Single Carry | 18 kg / 50" | **20 kg / 60"** |
+| Suitcase Carry | 20 kg / 50" | **20 kg / 60"** |
+| Ab Wheel | 3×10 | **3×13** |
+| Wrist Curl | 12 kg × 15 | **12.5 kg × 3×20 → +peso** |
+| Lateral Raise | 12 kg × 12 | **12 kg × 3×15** |
+
+### Hitos del bloque
+- **Chin-Up DESBLOQUEADO 🔑:** estancado crónico a RPE 9-10 (3×8). Reset a 3×6 → reconstruido a **3×9**. La mejor decisión del bloque.
+- **Bench — grinding arreglado:** load quedó en 70 kg, pero se corrigió el patrón de llevar la última a RPE 9.5. Ahora corta a RPE 8 (queda pendiente subir a 72.5 fresco).
+- **Nuevos ejercicios:** Leg Curl (isquios, 28 kg) y Pull-Up (reemplazó Lat Pulldown).
+
+### A resolver en Meso 2
+- **Bench:** subir a 72.5 post-deload (sets 2-3 no cerraban a ≤8 por fatiga de bloque).
+- **OHP:** consolidar 3×8 @ ≤8 fresco → 47.5.
+- **Pull-Up:** va 1º en el Extra (confirmado); empezar a sumar reps desde 3×6.
+- **Rotación (evidencia):** rotar 1-2 accesorios. Compuestos fijos. Definir CON Manuel.
+
+---
+
+## ✅ Workout B — Viernes 03/07/2026 (Mesociclo 1, semana 6 — cierre del bloque)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Overhead Press (Barbell) | 45 kg | 8 / 8 / 8 | 8 / 8.5 / 8.5 |
+| Pendlay Row (Barbell) | 62.5 kg 🔼 | 8 / 8 / 8 | 8 / 8 / 8 |
+| Lying Leg Curl (Machine) | 28 kg | 10 / 10 / 10 | 7.5 / 7.5 / 7.5 |
+| Suitcase Carry | 20 kg | 3 × 60" | time-based, no aplica |
+| Triceps Dip (Weighted) | 10 kg | 12 / 12 / 12 | 8 / 8 / 8.5 |
+| Hanging Leg Raise | BW | 10 / 10 / 10 | 8 / 8 / 8 |
+
+🔗 hevy.com/workout/f11a66ca-7bbe-4118-9c0d-d07c0c093e91
+
+**Lecturas:**
+- **Pendlay Row 62.5 🔥:** reset limpio en peso nuevo — 3×8 @ 8/8/8. Sigue volando → sumar reps hacia 3×10.
+- **OHP 45:** 3×8 pero sets 2-3 a 8.5 otra vez (igual que 29/06). No termina de cerrar a ≤8. Mantener 45; consolidar fresco post-deload → 47.5.
+- **Leg Curl 28 🔼:** 2ª sesión, bajó RPE a 7.5/7.5/7.5 (del 8/8/8 debut). Se acomodó → sumar reps hacia 3×11-12.
+- **Dips 10:** 3×12 casi limpio (8/8/8.5). A una sesión de subir el lastre a 12.5.
+- **Hanging Leg Raise:** 3×10 @ 8 limpio.
+
+---
+
+## ✅ Workout A — Miércoles 01/07/2026 (Mesociclo 1, semana 6 — cierre del bloque)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Incline DB Press | 25 kg | 10 / 10 / 10 | 7.5 / 8 / 8 |
+| Chin-Up | BW | 9 / 9 / 9 | 8 / 8.5 / 10 |
+| Leg Extension | 77 kg | 13 / 13 / 13 | 8 / 8 / 8 |
+| OH Single Carry | 20 kg | 3 × 60" | time-based, no aplica |
+| Hammer Curl | 16 kg | 9 / 9 / 9 | 7.5 / 8 / 8.5 |
+| Ab Wheel | BW | 12 / 12 / 12 | 7.5 / 8 / 8.5 |
+
+🔗 hevy.com/workout/dbba0d3c-982c-40bc-8e3a-61b92bc74c84
+
+**Lecturas:**
+- **Incline 25 ✅ CONSOLIDADO:** 3×10 @ 7.5/8/8 limpio (venía 8/8.5/9). Próximo: 3×11.
+- **Chin-Up 🔼:** clavó **3×9 completo** (progresó de 3×8) pero la 3ª a RPE 10 ("con lo justo"). Reps logradas — solo consolidar: cap set 3 a ≤8-9 (que caigan reps si hace falta, sin fallo, criterio compuesto), después 3×10. (Mano 100%, no es factor.)
+- **Leg Extension 🔼:** 77 kg 3×13 @ 8/8/8 limpio (de 3×12). Próximo: 3×14.
+- **Hammer 16:** 3×9 @ última 8.5 otra vez — persiste el último set hot. Mantener 16, una más limpia → 3×10.
+- **Ab Wheel:** hizo 3×12 (bajó de 3×13 del 26/06), RPE ≤8.5. Retomar 3×13-14.
+- **OH Carry:** sostuvo 20×60" como se indicó. Bien.
+
+---
+
+## ✅ Workout B — Lunes 29/06/2026 (Mesociclo 1, semana 6 — cierre del bloque)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Overhead Press (Barbell) | 45 kg | 8 / 8 / 8 | 8 / 8.5 / 8.5 |
+| Pendlay Row (Barbell) | 60 kg 🔼 | 10 / 10 / 10 | 7.5 / 8 / 8 |
+| Lying Leg Curl (Machine) | 28 kg 🆕 | 10 / 10 / 10 | 8 / 8 / 8 |
+| Suitcase Carry | 20 kg | 3 × 60" | time-based, no aplica |
+| Triceps Dip (Weighted) | 10 kg | 12 / 12 / 12 | 8 / 8.5 / 8.5 |
+| Hanging Leg Raise | BW | 10 / 10 / 10 | 8 / 8.5 / 8.5 |
+
+🔗 hevy.com/workout/d7f9dfe4-984b-4d3a-9b1c-52fadd1783fd
+
+**Lecturas:**
+- **Pendlay Row 60 🔥:** se saltó el reset y clavó **3×10 @ 7.5/8/8** directo en el peso nuevo. Volando → listo para **62.5** (reset 3×8).
+- **OHP 45 🔼:** saltó de 3×6 → **3×8** pero sets 2-3 a 8.5 (salto de reps grande, hot). Consolidar 3×8 @ ≤8 → después 47.5.
+- **Leg Curl (Lying) 🆕:** DEBUT — **28 kg × 3×10 @ 8/8/8** limpio. Buen peso de arranque. Queda como working weight; progresar por doble progresión.
+- **Dips 10:** 3×12 (reps completas) pero sets 2-3 a 8.5 → mantener 10 kg, consolidar 3×12 @ ≤8 → +peso.
+- **Hanging Leg Raise:** 3×10, RPE 8.5. Mantener.
+
+---
+
+## ✅ Extra — Domingo 28/06/2026 (Mesociclo 1, semana 5 — CIERRA el PICO)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Bench Press (Barbell) | 70 kg | 10 / 10 / 10 | 8 / 8.5 / 9 |
+| Pull-Up (movido al 2º lugar) | BW | 6 / 6 / 6 | 8 / 8.5 / 8.5 |
+| Lateral Raise (DB) | 12 kg | 14 / 14 / 14 | 7.5 / 8 / 8.5 |
+| Bicep Curl (Barbell) | 25 kg | 12 / 12 / 12 | 7.5 / 8 / 8 |
+| Triceps Rope Pushdown | 22.5 kg | 12 / 12 / 12 | 7.5 / 8 / 8.5 |
+| Seated Palms Up Wrist Curl | 12.5 kg | 20 / 20 / 20 | 7 / 8 / 9 |
+| Crunch (Weighted) — core extra | 10 kg | 15 / 15 / 15 | 7.5 / 8 / 8.5 |
+| Oblique Crunch — core extra | BW | 12 / 12 / 12 | 7 / 7.5 / 7.5 |
+
+🔗 hevy.com/workout/12de0cbb-83a4-489a-97a1-b61f023278b3
+
+**Lecturas (cierre del pico, RPE alto esperable):**
+- **Bench 70:** llegó a 3×10 pero la última a 9 (pasó las 10 grindeando). Para 72.5 falta 3×10 con las 3 a ≤8 — la próxima fresco debería salir. Mantener 70.
+- **Pull-Up (experimento):** movido al 2º lugar → 8/8.5/8.5 (vs 7.5/8.5/9 al final). Mejoró apenas la última, pero **sigue hot**. Conclusión: es bastante estructural, no solo fatiga/posición. Mantener 3×6, reevaluar fresco en Meso 2.
+- **Lateral Raise 🔼:** 3×13 → 3×14. Próximo: 3×15.
+- **Bicep 25 ✅ CONSOLIDADO:** 3×12 @ 7.5/8/8 limpio (venía 8.5) → **subir a 27.5**.
+- **Tricep 22.5:** 3×12, última 8.5 otra vez. Una más a ≤8 → 25.
+- **Wrist Curl:** 3×20 pero última a 9. Consolidar 3×20 @ ≤8 → +peso.
+
+---
+
+## ✅ Workout A — Viernes 26/06/2026 (Mesociclo 1, semana 5 — PICO, 2º A)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Chin-Up | BW | 8 / 8 / 8 | 7.5 / 8 / 8.5 |
+| Leg Extension | 77 kg | 12 / 12 / 12 | 7.5 / 8 / 8 |
+| Incline DB Press | 25 kg | 10 / 10 / 10 | 8 / 8.5 / 9 |
+| OH Single Carry | 20 kg | 3 × 60" | time-based (Manuel: "duro, llegué con lo justo" → ~límite) |
+| Hammer Curl | 16 kg | 9 / 9 / 9 | 7 / 8 / 8.5 |
+| Ab Wheel | BW | 13 / 13 / 13 | 7.5 / 8 / 8 |
+
+🔗 hevy.com/workout/db6aaf0d-5be8-4098-89ac-d23cae706d52
+
+**Lecturas (cierre del pico):**
+- **Chin-Up 🔼:** 3×7 → **3×8** @ última 8.5. Sigue destrabándose lindo. Próximo: 3×9 (consolidar a ≤8).
+- **Leg Extension 🔼:** subió 70 → **77 kg** (lo igualó al del Extra), 3×12 @ ≤8 limpio. Reset correcto → sumar reps hacia 3×15.
+- **Incline 25 🔼:** 3×9 → **3×10** pero RPE trepó (8/8.5/9, última hot). Consolidar 3×10 a ≤8 antes de 3×11.
+- **OH Single Carry:** 20 kg × 60" pero **al límite** (Manuel lo reportó duro). NO progresar — mantener 20×60" y que se consolide.
+- **Hammer 16:** 3×9 @ 7/8/8.5 (mejoró vs 9 anterior, casi limpio). Una más a ≤8 → 3×10.
+- **Ab Wheel 🔼:** 3×12 → **3×13** @ ≤8 limpio. Próximo: 3×14.
+
+---
+
+## ✅ Workout B — Miércoles 24/06/2026 (Mesociclo 1, semana 5 — PICO)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Overhead Press (Barbell) | 45 kg 🆕 | 6 / 6 / 6 | 7.5 / 8 / 8.5 |
+| Pendlay Row (Barbell) | 57.5 kg | 10 / 10 / 10 | 8 / 8 / 8 |
+| Suitcase Carry | 20 kg | 3 × 60" | time-based, no aplica |
+| Triceps Dip (Weighted) | 10 kg | 12 / 12 / 12 | 8 / 8.5 / 9 |
+| Hanging Leg Raise | BW | 10 / 10 / 10 | 8 / 8.5 / 9 |
+| Leg Curl | — | NO HECHO (debut pendiente) | — |
+
+🔗 hevy.com/workout/38ca8d2e-69b4-48c9-bf40-1e2543d4cad0
+
+**Lecturas (semana de pico, RPE elevado normal):**
+- **OHP 45 🆕🔼:** estreno limpio — 3×6 @ 7.5/8/8.5 (última apenas hot, esperable en peso nuevo + pico). Quedarse en 45, sumar reps hacia 3×8.
+- **Pendlay Row 57.5 ✅🔼:** CERRÓ el rango — 3×10 @ 8/8/8 todas limpias. Listo para **+peso (60 kg, reset a 3×8)**.
+- **Suitcase Carry 🔼:** reconstruyó los 60" a 20 kg. Próximo: 22 kg.
+- **Dips 10 🔼:** 3×12 limpio en reps (última a RPE 9, hot por fin de sesión + pico). Pegó el techo del rango → consolidar 3×12 a ≤8, después +peso.
+- **Hanging Leg Raise:** 3×10, RPE trepó a 9 (pico). Mantener.
+- **Leg Curl:** NO se hizo el debut. Pendiente para la próxima B.
+
+---
+
+## ✅ Workout A — Lunes 22/06/2026 (Mesociclo 1, semana 5 — PICO de volumen/intensidad)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Incline DB Press | 25 kg | 9 / 9 / 9 | 7.5 / 8 / 8.5 |
+| Chin-Up | BW | 7 / 7 / 7 | 7.5 / 8 / 8 |
+| Leg Extension | 70 kg | 15 / 15 / 15 | 8 / 8 / 8 |
+| OH Single Carry | 20 kg | 3 × 55" | time-based, no aplica |
+| Hammer Curl | 16 kg | 9 / 9 / 9 | 7.5 / 8 / 9 |
+| Ab Wheel | BW | 12 / 12 / 12 | 7.5 / 8 / 8.5 |
+
+🔗 hevy.com/workout/52ac0b30-9cff-428c-8f90-49e689cac679
+
+**Lecturas (semana de pico, RPE elevado a propósito):**
+- **Chin-Up 🎉🔼 DESBLOQUEADO:** subió de 3×6 → **3×7** @ 7.5/8/8, limpio. El reset funcionó — después de meses pegado, vuelve a progresar por reps. Próximo: 3×8.
+- **Incline 25 🔼:** 3×8 → **3×9** @ última 8.5 (la 3ª sigue hot pero set 1 sobra). Seguir a 3×10.
+- **Leg Extension ✅🔼:** clavó **3×15 @ 8/8/8** parejo — techo del rango limpio. Listo para **+peso** (reset reps).
+- **OH Single Carry 🔼:** saltó 18 → **20 kg** (3×55", reset de tiempo). Reconstruir hacia 60".
+- **Hammer 16:** 3×8 → 3×9 pero última a **9** (hot, peak week). Mantener 16, limpiar 3×9 a ≤8 antes de 3×10.
+- **Ab Wheel 🔼:** 3×11 → 3×12 (última 8.5). Próximo: 3×13.
+
+---
+
+## ✅ Extra — Domingo 21/06/2026 (Mesociclo 1, semana 4 — CIERRA semana 4)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Bench Press (Barbell) | 70 kg | 10 / 9 / 8 | 7.5 / 8 / 8 |
+| Pull-Up | BW | 6 / 6 / 6 | 7.5 / 8.5 / 9 |
+| Lateral Raise (DB) | 12 kg | 13 / 13 / 13 | 7.5 / 8 / 8 |
+| Leg Extension | 77 kg | 10 / 10 / 10 | 7.5 / 8 / 8 |
+| Bicep Curl (Barbell) | 25 kg | 12 / 12 / 12 | 8 / 8.5 / 8.5 |
+| Triceps Rope Pushdown | 22.5 kg | 12 / 12 / 12 | 7.5 / 8 / 8.5 |
+| Seated Palms Up Wrist Curl | 12.5 kg | 20 / 20 / 20 | 8 / 8 / 9 |
+| Crunch (Weighted) — core extra | 10 kg | 15 / 15 / 15 | 7.5 / 8 / 8.5 |
+| Oblique Crunch — core extra | BW | 12 / 12 / 12 | 7 / 7 / 7.5 |
+
+🔗 hevy.com/workout/1fcd30c7-7477-40db-b8e9-b0bb1a5d0055
+
+**Lecturas:**
+- **Bench 70 ✅ FIX LOGRADO:** 10/9/8 @ 7.5/8/8 — dejó caer reps clavando RPE ≤8, exactamente la regla. Adiós grinding (venía 9.5). Para subir a 72.5 falta que los sets 2-3 también lleguen a 10 @ ≤8. Mantener 70.
+- **Pull-Up:** corrió hot otra vez, idéntico al 14/06 (7.5/8.5/9). El chin-up enfría fresco pero el pull-up no — está al final del Extra, prefatigado. **Opción: moverlo más temprano** (justo después del bench) para reps más limpias. Mantener 3×6.
+- **Lateral Raise 12 ✅:** consolidó 3×13 @ ≤8 → **3×14-15** la próxima.
+- **Leg Ext (Extra) 77 ✅:** 3×10 @ ≤8 limpio → sumar reps (3×11-12) o peso.
+- **Bicep 25:** 3×12 pero RPE subió (8/8.5/8.5, más hot que 14/06) → NO consolidado, mantener 25.
+- **Tricep 22.5:** 3×12 @ última 8.5 (igual que 14/06) → una más limpia y sube a 25.
+- **Wrist Curl 🔼:** llegó a 3×20 (de 3×18) pero última a 9 → consolidar 3×20 @ ≤8, después +peso.
+- **Core:** crunch subió a 10 kg × 3×15.
+
+---
+
+## ✅ Workout B — Viernes 19/06/2026 (Mesociclo 1, semana 4 — fresca, 2º B)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Overhead Press (Barbell) | 42.5 kg | 8 / 8 / 8 | 7.5 / 8 / 8 |
+| Pendlay Row (Barbell) | 57.5 kg | 9 / 9 / 9 | 7.5 / 7.5 / 8 |
+| Suitcase Carry | 20 kg | 3 × 60" | time-based, no aplica |
+| Leg Extension | 70 kg | 13 / 13 / 13 | 8 / 8 / 8.5 |
+| Triceps Dip (Weighted) | 10 kg 🆕 | 10 / 10 / 10 | 8 / 8 / 8.5 |
+| Hanging Leg Raise | BW | 10 / 10 / 10 | 8 / 8 / 8.5 |
+
+🔗 hevy.com/workout/33892e79-2206-4a12-8748-7d2b86288572
+
+**Lecturas:**
+- **OHP 42.5 ✅ CONSOLIDADO:** 3×8 @ 7.5/8/8, todas ≤8. Desbloquea el salto → **45 kg la próxima B** (reset a 3×6).
+- **Pendlay Row 57.5 🔼:** subió de 3×8 → **3×9** @ 7.5/7.5/8 limpio. Próximo: 3×10, después +peso.
+- **Dips 10 kg 🆕:** el estreno del lastre aterrizó — 3×10 @ 8/8/8.5 (última apenas hot, esperable en peso nuevo). Quedarse en 10 kg, sumar reps.
+- **Suitcase Carry 🔼:** 55" → 60". Cuando cómodo → 22 kg.
+- **Leg Ext (B) 70×13:** última 8.5, levemente hot. Mantener 3×13.
+- **Hanging Leg Raise:** 3×10 sólido.
+
+---
+
+## ✅ Workout A — Miércoles 17/06/2026 (Mesociclo 1, semana 4 — fresco/recuperado)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Incline DB Press | 25 kg | 8 / 8 / 8 | 7 / 8 / 8.5 |
+| Chin-Up | BW | 6 / 6 / 6 | 7.5 / 7.5 / 8 |
+| Leg Extension | 70 kg | 14 / 14 / 14 | 7.5 / 8 / 8 |
+| OH Single Carry | 18 kg | 3 × 60" | time-based, no aplica |
+| Hammer Curl | 16 kg (las de 15 ocupadas, +1) | 8 / 8 / 8 | 7.5 / 8 / 8.5 |
+| Ab Wheel | BW | 11 / 11 / 11 | 7.5 / 8 / 8 |
+
+🔗 hevy.com/workout/2425efb4-2929-4998-812e-0a13aff586aa
+
+**Lecturas (sesión fresca, mucha progresión):**
+- **Chin-Up 🎉:** fresco bajó a 7.5/7.5/8 (vs 8/8/8 el 12/06). Confirma que gran parte del "hot" era fatiga acumulada, no estructural. Está casi en el criterio "limpio cerca de 7" → **próxima A empezar a sumar reps (3×7)**.
+- **Leg Extension ✅:** consolidó 3×14 @ 7.5/8/8 (vs 8/8.5/8.5 el 12/06). Listo para **3×15** la próxima.
+- **OH Single Carry 🔼:** estiró 55" → **60"**. Cuando 60" se sienta cómodo, subir a 20 kg y resetear tiempo.
+- **Ab Wheel 🔼:** clavó 3×11 (de 3×10). Próximo: 3×12.
+- **Hammer 16 kg:** usó 16 (las de 15 ocupadas), 3×8 @ última 8.5. Quedarse en 16, **sumar reps hacia 3×12**.
+- **Incline 25:** set 1 mejoró (8 @ 7) pero la 3ª sigue clavada en 8.5 (2ª sesión igual). Set 1 tiene margen de sobra → **empezar a sumar reps igual** (apuntar 9/9/8), no esperar a que la 3ª baje sola.
+
+---
+
+## ✅ Workout B — Lunes 15/06/2026 (Mesociclo 1, semana 4 — ⚠️ DÍA DE BAJO SUEÑO: 4 h, estrés agudo por convulsión del perro)
+
+> ⚠️ **NO leer como progresión/estancamiento.** Sesión autorregulada a propósito: mismos pesos,
+> cap RPE 7, sin progresar, salto de dips a 10 kg pospuesto. Para comparar tendencias, usar la
+> B fresca de la semana, no esta.
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Overhead Press (Barbell) | 42.5 kg | 8 / 6 / 6 | 8 / 7.5 / 8 |
+| Pendlay Row (Barbell) | 57.5 kg | 8 / 8 / 8 | 7.5 / 7.5 / 7.5 |
+| Suitcase Carry | 20 kg | 3 × 55" | time-based, no aplica |
+| Triceps Dip (Weighted) | BW (0 kg — salto a 10 kg pospuesto) | 10 / 10 / 10 | 7.5 / 8 / 8 |
+| Hanging Leg Raise | BW | 10 / 10 / 10 | 8 / 8 / — |
+
+🔗 hevy.com/workout/0ae9615b-02f2-4b94-acc2-6dd23f3ae7d1
+
+**Lecturas:**
+- **Buena autorregulación.** Respetó el plan: aguantó pesos, cortó reps en vez de grindear, pospuso el lastre. Exactamente lo que había que hacer con 4 h de sueño.
+- **OHP 42.5:** 8/6/6 — bajó reps en sets 2-3 por fatiga. Esperable, NO es regresión. La consolidación real de 42.5 (3×8 @ ≤8) queda para la próxima B fresca.
+- **Pendlay Row 57.5:** 3×8 @ 7.5/7.5/7.5 — limpio y parejo incluso sin dormir. Fresco, apuntar a sumar reps hacia 3×10.
+- **Dips:** BW 3×10 como se indicó. **El primer salto a 10 kg de lastre sigue pendiente** para la próxima B.
+
+---
+
+## ✅ Extra — Domingo 14/06/2026 (Mesociclo 1, semana 3 — CIERRA semana 3)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Pull-Up | BW | 6 / 6 / 6 | 7.5 / 8.5 / 9 |
+| Bench Press (Barbell) | 70 kg | 10 / 10 / 9 | 7.5 / 8.5 / 8.5 |
+| Lateral Raise (DB) | 12 kg | 13 / 13 / 13 | 8 / 8 / 8.5 |
+| Leg Extension | 77 kg | 10 / 10 / 10 | 8 / 8 / 8 |
+| Bicep Curl (Barbell) | 25 kg | 12 / 12 / 12 | 7.5 / 8 / 8.5 |
+| Triceps Rope Pushdown | 22.5 kg | 12 / 12 / 12 | 7.5 / 8 / 8.5 |
+| Seated Palms Up Wrist Curl | 12.5 kg | 18 / 18 / 18 | 7.5 / 8 / — |
+| Crunch (Weighted) — core extra | 5 kg | 12 / 12 / 12 | 7.5 / 7.5 / 7.5 |
+| Oblique Crunch — core extra | BW | 12 / 12 / 12 | 7.5 / 7.5 / 7.5 |
+
+🔗 hevy.com/workout/37fa3913-b931-4d74-902b-c0296d2f37f0
+
+**Lecturas:**
+- **Bench 70:** mejoró vs 07/06 (última pasó de 9.5 → 8.5) y aplicó el cap dejando caer la 3ª a 9 reps. Todavía las series 2-3 a 8.5 (apenas sobre el cap 8) → seguir recortando 1 rep en sets finales para clavar ≤8. Va en la dirección correcta.
+- **Pull-Up:** corrió hot igual que el chin-up — 3×6 @ 7.5/8.5/9, se fue del cap (≤8). Confirma el aviso: DOS pulls verticales BW hot por semana. Mantener 3×6, NO sumar reps; más descanso entre series. Vigilar mano/grip.
+- **Tricep Pushdown:** 🔼 subió 20→22.5 y clavó 3×12 (última 8.5) — buen salto. Consolidar 22.5 a ≤8, después 25.
+- **Bicep 25 / Lateral 12:** ambos 3×12 y 3×13 al techo del rango con última a 8.5 → consolidar a ≤8 antes de subir.
+- **Leg Extension (Extra):** lo hizo a **77 kg × 3×10 @ 8/8/8** limpio (en vez de 70×13-15). Esquema más pesado/menos reps que en el día A (70×14) — válido y limpio; queda 77×10 como referencia del Extra.
+- **Wrist Curl 12.5:** 3×18 limpio → sumar hacia 3×20.
+- **Core extra** (crunch 5 kg + oblicuos): agregado, RPE 7.5, sin drama.
+
+---
+
+## ✅ Workout A — Viernes 12/06/2026 (Mesociclo 1, semana 3 — 2º A, 3ª sesión de la semana)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Incline DB Press | 25 kg | 8 / 8 / 8 | 7.5 / 8 / 8.5 |
+| Chin-Up | BW | 6 / 6 / 6 | 8 / 8 / 8 |
+| Leg Extension | 70 kg | 14 / 14 / 14 | 8 / 8.5 / 8.5 |
+| OH Single Carry | 18 kg | 3 × 55" | time-based, no aplica |
+| Hammer Curl | 15 kg | 8 / 8 / 8 | 7.5 / 8 / 8.5 |
+| Ab Wheel | BW | 10 / 10 / 10 | 7 / 7.5 / 8 |
+
+🔗 hevy.com/workout/b8d68a52-91f5-4e21-8e99-a73891dea588
+
+**Lecturas (ojo: 3ª sesión de una semana exigente A/B/A → fatiga de fin de semana presente):**
+- **Incline 25** aterrizó: 3×8 pero última a 8.5 > objetivo → **consolidar 25 a 3×8 todas ≤8**, después sumar reps hacia 3×12 (salto a 30 recién ahí).
+- **Hammer 15** ✅ — el salto +2.5 desde 12.5 landeó limpio (3×8 @ 7.5/8/8.5). Quedarse en 15, **sumar reps hacia 3×12**.
+- **Chin-Up:** 3×6 @ 8/8/8 — más caliente que el 08/06 (7.5/8/8). NO sumar reps todavía; sigue sin bajar a ~7. Parte es fatiga de fin de semana, parte el patrón hot crónico. Mantener 3×6 y reevaluar con semana fresca.
+- **Leg Ext 70×14** pegó el target pero hot (8/8.5/8.5) → **consolidar 3×14 a ≤8** antes de 3×15.
+- **OH Single Carry:** sostuvo 3×55" (igual que 08/06). Próximo paso: estirar a 60" si va cómodo.
+- **Ab Wheel:** quedó en 3×10 @ 7/7.5/8 (no sumó la rep 11, tenía margen) → **3×11 la próxima**.
+
+---
+
+## ✅ Workout B — Miércoles 10/06/2026 (Mesociclo 1, semana 3)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Overhead Press (Barbell) | 42.5 kg | 8 / 8 / 8 | 8 / 8 / 8.5 |
+| Pendlay Row (Barbell) | 57.5 kg | 8 / 8 / 8 | 7.5 / 8 / 8 |
+| Suitcase Carry | 20 kg | 3 × 55" | time-based, no aplica |
+| Leg Extension | 70 kg | 13 / 13 / 13 | sin loggear |
+| Triceps Dip (Weighted) | BW (0 kg) | 12 / 12 / 12 | 7.5 / 8 / 8.5 |
+| Hanging Knee Raise | BW | 12 / 12 / 12 | 8 / 8 / — |
+
+🔗 hevy.com/workout/d09dd90f-98df-4649-b8d7-e6b48a7727f3
+
+**Lecturas:**
+- **OHP 42.5** subió limpio desde 40 (05/06 había sido 9/9/9 @ 8/8.5/9; hoy 8/8/8 @ 8/8/8.5
+  → mismo techo de reps, RPE más bajo). Pegó el techo del rango (3×8) pero última a 8.5 >
+  objetivo → **consolidar 42.5 una sesión más** a 3×8 todas ≤8 antes de ir a 45.
+- **Pendlay Row 57.5** aterrizó CLAVADO: 3×8 @ 7.5/8/8, todas ≤8. El salto +7.5 fue legítimo,
+  57.5 es el peso correcto. Ahora **sumar reps hacia 3×10** manteniendo 57.5.
+- **Triceps Dip:** venía progresando en **BW por reps** (10 → ahora 3×12, última a 8.5 = techo
+  del rango). Doble progresión correcta → próxima B **primer salto de carga: +10 kg, reset a
+  3×10**. (Nota: el "20 kg" loggeado el 05/06 es un mislog aislado — 01/06 y 10/06 fueron BW.)
+- **Hanging Knee Raise:** 3×12 @ 8, por encima del target (3×10) — bien.
+
+---
+
+## ✅ Workout A — Lunes 08/06/2026 (Mesociclo 1, semana 3 — primer día de la semana)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Incline DB Press | 24 kg | 8 / 8 / 8 | 7.5 / 8 / 8 |
+| Chin-Up (reset 3×6 @ RPE 7) | BW | 6 / 6 / 6 | 7.5 / 8 / 8 |
+| Leg Extension | 70 kg | 13 / 13 / 13 | 8 / 8 / 8 |
+| OH Single Carry | 18 kg | 3 × 55" | **sin loggear (time-based, no aplica)** |
+| Hammer Curl | 12.5 kg | 12 / 12 / 12 | 7.5 / 8 / 8 |
+| Ab Wheel | BW | 10 / 10 / 10 | 7.5 / 8 / 8 |
+
+🔗 hevy.com/workout/7g4w22qsoLC
+
+---
+
+## ✅ Extra — Domingo 07/06/2026 (Mesociclo 1, semana 2 — CIERRA semana 2)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Bench Press (Barbell) | 70 kg | 10 / 10 / 10 | 7.5 / 8.5 / 9.5 |
+| Pull Up (sub Lat Pulldown — test tolerancia, aprobado) | BW | 6 / 6 / 6 | 7.5 / 8.5 / 9 |
+| Lateral Raise (DB) | 12 kg | 13 / 13 / 12 | 7.5 / 8 / 8.5 |
+| Bicep Curl (Barbell) | 25 kg | 12 / 10 / 10 | 8 / 7.5 / 8 |
+| Triceps Rope Pushdown | 20 kg | 12 / 12 / 12 | 7.5 / 8 / 8.5 |
+| Seated Palms Up Wrist Curl | 12 / 12.5 / 12.5 kg | 20 / 18 / 18 | 7.5 / 8 / 9 |
+| Crunch (core extra) | BW | 15 / 15 / 15 | — |
+| Oblique Crunch (core extra) | BW | 15 / 15 / 15 | — |
+
+🔗 hevy.com/workout/dccc2cc0-c0c1-4e9e-a510-e0c549563d8f
+
+---
+
+## ✅ Workout B — Viernes 05/06/2026 (Mesociclo 1, semana 2 — barra completa)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Overhead Press (Barbell) | 40 kg | 9 / 9 / 9 | 8 / 8.5 / 9 |
+| Pendlay Row (Barbell) | 50 kg | 9 / 9 / 9 | 7.5 / 7.5 / 8 |
+| Suitcase Carry | 20 kg | 3 × 55" | **sin loggear** |
+| Triceps Dip (Weighted) | 20 kg ⚠️ (probable mislog — ver nota) | 10 / 10 / 10 | 8 / 8 / 8 |
+| Lying Leg Raise | BW | 15 / 20 / 20 | 7 / 7 / 7 |
+
+> ⚠️ El 20 kg de los dips no encaja: el 01/06 y el 10/06 fueron BW, y Manuel confirmó que
+> venía progresando en BW por reps. Tratar como BW. Dato original conservado por trazabilidad.
+
+🔗 hevy.com/workout/ed1bfcea-4a34-4263-a270-42e0331e8927
+
+---
+
+## ✅ Workout A — Lunes 25/05/2026 (Mesociclo 1, semana 1 — arranque de bloque, programa reestructurado)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Incline DB Press | 20 kg | 12 / 12 / 10 | 7 / 8 / 9.5 |
+| Chin-Up | BW | 8 / 8 / 8 | 8 / 9 / 10 |
+| Leg Extension | 70 kg | 13 / 13 / 13 | 8 / 8.5 / 9 |
+| OH Single Carry | 18 kg | 3 × 50" | 8 / 8.5 / 8.5 |
+| Hammer Curl | 12.5 kg | 12 / 12 / 12 | 8 / 8.5 / 9 |
+| Ab Wheel | BW | 10 / 10 / 10 | 7.5 / 7.5 / 8 |
+
+🔗 hevy.com/workout/20c191a9...
+
+---
+
+## ✅ Workout B — Lunes 01/06/2026 (Mesociclo 1, semana 2 — log completo retroactivo)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Overhead Press (Barbell) | 40 kg | 8 / 8 / 8 | 8 / 8.5 / 8.5 |
+| Pendlay Row (Barbell) | 50 kg | 9 / 9 / 8 | 8 / 8 / 8 |
+| Suitcase Carry | 20 kg | 3 × 50" | **sin loggear** |
+| Triceps Dip (Weighted) | 0 kg (BW) | 10 / 10 / 10 | 8 / — / — |
+| Lying Leg Raise | BW | 15 / 20 / 20 | 7.5 / 8 / 8 |
+
+🔗 hevy.com/workout/KXFJcYNZ5cm
+
+---
+
+## ✅ Extra — Domingo 31/05/2026 (Mesociclo 1, semana 1 — log completo retroactivo)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Bench Press (Barbell) | 70 kg | 10 / 10 / 10 | 8.5 / 9 / 9.5 |
+| Lat Pulldown (Cable) | 55 / 70 / 70 kg | 10 / 10 / 10 | 7 / 8 / 8 |
+| Lateral Raise (DB) | 12 kg | 12 / 12 / 12 | 8 / 8.5 / 9 |
+| Bicep Curl (Barbell) | 20 kg | 12 / 12 / 12 | 8 / 8.5 / 8.5 |
+| Triceps Rope Pushdown | 20 kg | 12 / 12 / 12 | 7.5 / 8 / 9.5 |
+| Seated Palms Up Wrist Curl | 12 kg | 15 / 15 / 15 | 7.5 / 8 / 8 |
+
+🔗 hevy.com/workout/Ij0V5XrnQKM
+
+---
+
+## ✅ Workout A — Viernes 29/05/2026 (Mesociclo 1, semana 1 — log completo retroactivo)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Incline DB Press | 20 kg | 12 / 12 / 12 | 8 / 9.5 / 9.5 |
+| Chin-Up | BW | 8 / 8 / 7 | 8 / 9 / 10 |
+| OH Single Carry | 18 kg | 3 × 50" | 8 / 8 / 8 |
+| Hammer Curl | 12.5 kg | 12 / 12 / 12 | 8 / 8.5 / 9 |
+| Ab Wheel | BW | 10 / 10 / 10 | 7.5 / 8 / 8 |
+
+🔗 hevy.com/workout/CkvZIidAICG
+
+---
+
+## ✅ Workout B — Miércoles 27/05/2026 (Mesociclo 1, semana 1 — log completo retroactivo)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Overhead Press (Barbell) | 40 kg | 8 / 8 / 8 | 8 / 8.5 / 9 |
+| Pendlay Row (Barbell) | 50 kg | 8 / 8 / 8 | 8 / 8 / 8.5 |
+| Suitcase Carry | 20 kg | 3 × 50" | **sin loggear** |
+| Leg Extension | 70 kg | 13 / 13 / 13 | 8 / 8 / — |
+| Triceps Dip (Weighted) | 0 kg (BW) | 10 / 10 / 10 | 8 / 8 / 8.5 |
+| Hanging Leg Raise | BW | 10 / 10 / 10 | 8.5 / 9 / 9 |
+
+🔗 hevy.com/workout/3Yf73waN3IF
+
+---
+
+## ✅ Workout A — Miércoles 03/06/2026 (Mesociclo 1, semana 2 — última sesión A con detalle)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Incline DB Press | 22 kg | 10 / 10 / 10 | 8 / 8.5 / 9 |
+| Chin-Up | BW | 8 / 8 / 8 | 8 / 9 / 10 |
+| Leg Extension | 70 kg | 13 / 13 / 13 | 8 / 8 / 8.5 |
+| OH Single Carry | 18 kg | 3 × 50" | **sin loggear** |
+| Hammer Curl | 12.5 kg | 12 / 12 / 12 | 7 / 8 / 8.5 |
+| Ab Wheel | BW | 10 / 10 / 10 | 7 / 7.5 / 8 |
+
+🔗 hevy.com/workout/InkMS9fHyKq
+
+---
+
+## PATRONES DEL BLOQUE
+
+- **Press:** progresando limpio. Incline DB 20 → 22 (sem 2) → **24 kg (sem 3, 08/06)**. En 24 kg arrancó en el piso del nuevo rango (3×8 @ ≤8) — salto agresivo pero salió limpio. Doble progresión funcionando muy bien.
+- **Chin-Up:** **RESET aplicado el 08/06** (3×6 @ RPE 7). Salió 3×6 parejo a 7.5 / 8 / 8 — primera vez sin RPE 9-10 desde que se registra. El reset funcionó: cortó el patrón hot crónico y dejó las tres series a RPE limpio (≤8). Quedó levemente por encima del RPE objetivo 7 (la 1ra a 7.5, las otras dos a 8), así que el reset está en zona pero no sobrado: confirmar 3×6 limpio una vez más antes de sumar reps.
+- **Chin-Up (histórico, ANTES del reset):** corrió hot crónico (RPE 9-10 última serie). 3+ sesiones consecutivas sin progresión en reps ni RPE. Patrón histórico, no solo post-lesión.
+- **Hammer Curl y rows:** tracción/bíceps siempre más calientes que el empuje — patrón conocido.
+- **Carries:** Suitcase con RPE retro 8 / 8.5 / 9. **OH Single Carry sigue sin RPE loggeado.**
+- **Leg Curl / Leg Extension:** loggeo inconsistente — algunos días hechos sin anotar, uno salteado por fatiga del finde.
+- **Bench e isolations:** reconstruyendo desde baseline post-lesión, por debajo de pre-lesión.
+- **Bench (07/06):** 70 kg 3×10 con la última otra vez a 9.5 — segunda Extra seguida que se va por encima del objetivo. Sigue sin consolidar a 7-8. NO subir; clavar la última a ≤8 antes de tocar peso o reps.
+- **Pull Up (07/06):** test de tolerancia post-lesión en vez de Lat Pulldown (aprobado, mano 100%). 3×6 con la última a 9 — objetivo era tope 8. Trepó rápido (7.5 → 9), pero sin dolor de mano: tolerancia OK para programar dominadas el próximo bloque, arrancando 3×6 a RPE manejable (no 3×8).
+- **Bicep Curl BB (07/06):** saltó de 20 → 25 kg (el plan pedía consolidar 20). A 25 sostuvo 12/10/10 a RPE 8/7.5/8 — limpio. Working weight pre-lesión era 25-26, así que no es temerario; queda en 25 kg, ahora a sumar reps hacia 3×12.
+
+## DECISIONES ABIERTAS
+
+1. ~~**Chin-Up** — Opción A vs B.~~ **RESUELTA (08/06):** se aplicó Opción B (reset 3×6 @ RPE 7). Primera sesión limpia (≤8 las tres). Ver patrones.
+2. ~~**RPE del OH Single Carry**~~ **RESUELTO/no aplica:** los carries son time-based, Hevy no permite RPE. No flaggear más.
+
+---
+*Fin del registro*
+
+---
+
+# PRE-BLOQUE — Rehab / referencia (ANTES del Mesociclo 1)
+
+> Estas sesiones son ANTERIORES al arranque del Meso 1 (lunes 25/05/2026). No cuentan
+> en la numeración de semanas del bloque. Quedan como referencia de la rampa de vuelta.
+
+## ✅ Workout B — Viernes 22/05/2026 (rehab, sustituciones por disponibilidad)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Shoulder Press (DB) — sust. OHP | 18 kg | 12 / 10 / 9 | 9 / 9 / 10 |
+| Seated Cable Row V-Grip — sust. Pendlay | 45 kg | 12 / 12 / 12 | 7.5 / 7.5 / 8 |
+| Leg Extension | 70 kg | 13 / 13 / 13 | 8.5 / 8.5 / 9 |
+| Suitcase Carry | 18 kg | 3 × 50" | — |
+| Weighted Dips | BW (sin lastre) | 10 / 10 / 10 | 8 / 8.5 / 9 |
+| Hanging Leg Raise | BW | 10 / 10 / 10 | 8.5 / 9 / 9.5 |
+
+🔗 hevy.com/workout/0kydSEC9g1s
+
+---
+
+## ✅ Workout A — Martes 19/05/2026 (rehab)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Incline DB Press | 20 kg | 10 / 10 / 10 | 7.5 / 7.5 / 8 |
+| Chin-Up | BW | 8 / 8 / 8 | 8.5 / 9 / 9.5 |
+| Leg Extension | 70 kg | 13 / 13 / 13 | 8 / 8.5 / 8.5 |
+| OH Single Carry | 17.5 kg | 3 × 50" | — |
+| Hammer Curl | 12.5 kg | 12 / 12 / 10 | 8 / 9 / 10 |
+| Ab Wheel | BW | 10 / 10 / 10 | 7.5 / 8 / 8.5 |
+
+🔗 hevy.com/workout/sKkDjOGX1Qw
+
+---
+
+## ✅ Extra — Domingo 19/04/2026 (última Extra PRE-LESIÓN, referencia)
+
+| Ejercicio | Peso | Reps | RPE |
+|---|---|---|---|
+| Bench Press (Barbell) | 75 kg | 8 / 8 / 8 | 8 / 8.5 / 9 |
+| Lat Pulldown (Cable) | 70 kg | 8 / 8 / 8 | 7.5 / 8 / 8 |
+| Lateral Raise (DB) | 12 kg | 12 / 12 / 12 | 7.5 / 8 / 8 |
+| Leg Extension | 70 kg | 12 / 12 / 12 | 7.5 / 7.5 / 8 |
+| Bicep Curl (Barbell) | 25 / 25 / 26 kg | 12 / 12 / 10 | 8 / 8 / 8.5 |
+| Tricep Rope Pushdown | 25 kg | 10 / 10 / 10 | 8 / 8 / 8.5 |
+| Wrist Curl | 12 kg | 15 / 15 / 15 | 8 / 8 / 8.5 |
+
+🔗 hevy.com/workout/sIkr602wiBs
+
+---
+
+# ARCHIVO — MARZO 2026 (pre-lesión, referencia histórica)
+
+-------------------------------------
+LIFT LOG — MARZO 2026
+-------------------------------------
+
+-- WORKOUT A --
+
+[Marzo 2026] — Workout A · Training 1
+Deficit Push-Up      | 3 sets | -kg | 15, 15, 15 reps | RPE 9 / 9.5 / 10
+Dominadas A.A. 45°   | 3 sets | BW  |  8,  8,  8 reps | RPE 8.5 / 9 / x
+OH Single Carry      | 3 sets | 18kg|  1,  1,  1 vuelta| RPE 9.5 / 10 / 10
+Biceps + Roll Out    | 3 sets | 18kg| 8+10, 6+10, 6+10 | RPE 9.5 / 9.5 / 10
+
+[Marzo 2026] — Workout A · Training 2
+Deficit Push-Up      | 3 sets | -kg | 20, 18, 15 reps | RPE 9 / x / 10
+Dominadas A.A. 45°   | 3 sets | BW  |  8,  8,  8 reps | RPE 9 / 9.5 / x
+OH Single Carry      | 3 sets | 18kg|  1,  1,  1 vuelta| RPE 10 / x / x
+Biceps + Roll Out    | 3 sets | 18kg| 8+10, 6+10, 6+10 | RPE 9 / 9.5 / 10
+
+[Marzo 2026] — Workout A · Training 3
+Deficit Push-Up      | 3 sets | -kg | 20, 18, 15 reps | RPE 10 / 10 / 10
+Dominadas A.A. 45°   | 3 sets | BW  |  8,  8,  8 reps | RPE 9 / 10 / x
+OH Single Carry      | 3 sets | 20kg|  1,  1,  1 vuelta| RPE 9.5 / 10 / 10
+Biceps + Roll Out    | 3 sets | 18kg| 8+10, 6+10, 6+10 | RPE 9 / 9 / 10
+
+[Marzo 2026] — Workout A · Training 4
+Deficit Push-Up      | 3 sets | -kg | 20, 20, 18 reps | RPE 9 / 9.5 / x
+Dominadas A.A. 45°   | 3 sets | BW  |  8,  8,  8 reps | RPE 9 / 9.5 / 10
+OH Single Carry      | 3 sets | 18kg|  1,  1,  1 vuelta| RPE 9.5 / 10 / x
+Biceps + Roll Out    | 3 sets | 18kg| 8+10, 8+10, 6+10 | RPE 10 / x / 10
+
+[Marzo 2026] — Workout A · Training 5
+Deficit Push-Up      | 3 sets | -kg | 20, 20, 15 reps | RPE 9.5 / 10 / 10
+Dominadas A.A. 45°   | 3 sets | BW  |  8,  8,  8 reps | RPE 9 / 10 / x
+OH Single Carry      | 3 sets | 18kg|  1,  1,  1 vuelta| RPE 9.5 / 10 / 10
+Biceps + Roll Out    | 3 sets | 18kg| 8+10, 8+10, 6+10 | RPE 10 / x / 10
+
+[Marzo 2026] — Workout A · Training 6
+Deficit Push-Up      | 3 sets | -kg | 20, 20, 16 reps | RPE 9 / 10 / 10
+Dominadas A.A. 45°   | 3 sets | BW  |  8,  8,  8 reps | RPE 9 / 9.5 / 10
+OH Single Carry      | 3 sets | 20kg|  1,  1,  1 vuelta| RPE 10 / 10 / 10
+Biceps + Roll Out    | 3 sets | 18kg| 8+10, 8+10, 6+10 | RPE 10 / 10 / 10
+
+[Marzo 2026] — Workout A · Training 7  ← PRIMER SESIÓN NUEVO PARADIGMA
+Deficit Push-Up      | 3 sets | -kg | 15, 15, 15 reps | RPE 8.5 / 8.5 / 9
+Dominadas A.A. 45°   | 3 sets | BW  |  8,  8,  8 reps | RPE 9 / 9.5 / 10
+OH Single Carry      | 3 sets | 18kg| 50", 50", 50"   | RPE 8.5 / 9 / 9.5
+Biceps + Roll Out    | 3 sets | 16kg| 10+10, 8+10, 6+10| RPE 9 / 9 / 10
+Notas: Primer sesión con ajuste de paradigma. Carries ahora en tiempo (50").
+Bajó peso en Biceps a 16kg. Push-Ups bajaron volumen — posible fatiga acumulada
+de semanas previas. Dominadas siguen llegando al fallo en última serie — a trabajar.
+
+---
+
+-- WORKOUT B --
+
+[Marzo 2026] — Workout B · Training 1
+Press Militar        | 3 sets | 50kg  | 8, 8, 8 reps    | RPE 9.5 / 10 / x
+Barbell Row          | 3 sets | 50kg  | 10, 10, 10 reps  | RPE 8 / 8 / 8.5
+Suitcase Carry       | 3 sets | 20kg  | 1, 1, 1 vuelta   | RPE 8.5 / 9 / 9.5
+Dips + Leg Raise     | 3 sets | 25kg  | 8+15, 8+15, 8+15 | RPE 9 / 9 / 9.5
+
+[Marzo 2026] — Workout B · Training 2
+Press Militar        | 3 sets | 55/55/58kg | 8, 8, 6 reps | RPE 8 / x / x
+Barbell Row          | 3 sets | 50kg       | 10, 10, 10 reps| RPE 8 / 8 / 8.5
+Suitcase Carry       | 3 sets | 20kg       | 1, 1, 1 vuelta | RPE 9 / 9 / 9.5
+Dips + Leg Raise     | 3 sets | 25kg       | 8+1', 8+1', 8+1'| RPE 9 / 9 / 9.5
+Notas: Subió OHP a 55kg y llegó al fallo. Intentó 58kg en última serie → fallo.
+
+[Marzo 2026] — Workout B · Training 3
+Press Militar        | 3 sets | 45kg  | 10, 10, 8 reps  | RPE 9.5 / 10 / x
+Barbell Row          | 3 sets | 65kg  | 8, 8, 8 reps    | RPE 9 / 9.5 / 9.5
+Suitcase Carry       | 3 sets | 20kg  | 1, 1, 1 vuelta  | RPE 8.5 / 9 / 9.5
+Dips + Leg Raise     | 3 sets | 20kg  | 10+1', 10+1', 10+1'| RPE 8.5 / 9 / 9.5
+Notas: Bajó OHP a 45kg. Subió Barbell Row a 65kg.
+
+[Marzo 2026] — Workout B · Training 4
+Press Militar        | 3 sets | 45kg  | 10, 10, 9 reps  | RPE 9 / 10 / x
+Barbell Row          | 3 sets | 65kg  | 10, 10, 10 reps | RPE 9.5 / 10 / 10
+Suitcase Carry       | 3 sets | 20kg  | 1, 1, 1 vuelta  | RPE 9 / 9.5 / 9.5
+Dips + Leg Raise     | 3 sets | 20kg  | 10+1', 10+1', 10+1'| RPE 8.5 / 9.5 / 10
+
+[Marzo 2026] — Workout B · Training 5
+Press Militar        | 3 sets | 48kg  | 10, 10, 9 reps  | RPE 10 / x / x
+Barbell Row          | 3 sets | 65kg  | 8, 8, 8 reps    | RPE 9 / 9.5 / 10
+Suitcase Carry       | 3 sets | 20kg  | 1, 1, 1 vuelta  | RPE 9 / 9 / 9
+Dips + Leg Raise     | 3 sets | 20kg  | 10+1', 10+1', 10+1'| RPE 8 / 9 / 10
+Notas: OHP a 48kg llegando al fallo en todas las series.
+
+[Marzo 2026] — Workout B · Training 6  ← PRIMER SESIÓN NUEVO PARADIGMA
+Press Militar        | 3 sets | 42.5kg | 8, 8, 8 reps  | RPE 8 / 8 / 8.5
+Barbell Row          | 3 sets | 57.5kg | 8, 8, 8 reps  | RPE 8 / 8.5 / 8.5
+Suitcase Carry       | 3 sets | 20kg   | 50", 50", 50" | RPE 8 / 8 / 8.5
+Dips + Leg Raise     | 3 sets | 15kg   | 10+15, 10+15, 10+15| RPE 8 / 8.5 / 9
+Notas: Primera sesión ajustada. OHP bajó a 42.5kg, Row a 57.5kg, Dips a 15kg.
+Carries en tiempo. RPE bien por debajo de lo habitual — paradigma funcionando.
+
+[Marzo 2026] — Workout B · Training 7
+Press Militar        | 3 sets | 42.5kg | 8, 8, 8 reps  | RPE 8 / 8 / 8.5
+Barbell Row          | 3 sets | 57.5kg | 8, 8, 8 reps  | RPE 8 / 8 / 8.5
+Suitcase Carry       | 3 sets | 20kg   | 50", 50", 50" | RPE 7.5 / 8 / 8.5
+Dips + Leg Raise     | 3 sets | 15kg   | 10+15, 10+15, 10+15| RPE 8 / 8.5 / 9
+Notas: Segunda sesión con pesos ajustados. Suitcase Carry bajando RPE — bien.
+
+---
+
+-- EXTRA --
+
+[Marzo 2026] — Extra · Training 1
+Bench Press          | 3 sets | 80kg  | 7, 8, 8 reps   | RPE 10 / 10 / 10
+Lat Pulldown         | 3 sets | 70kg  | 10, 10, 10 reps| RPE 9 / 9.5 / 10
+Vuelos Laterales     | 3 sets | 28kg  | 10, 10, 10 reps| RPE 8.5 / 9 / 9.5
+Bicep Curl           | 3 sets | 35/30/30kg | 6, 8, 8 reps| RPE 10 / 10 / 10
+Tricep Curl          | 3 sets | 27.5kg | 10, 10, 10 reps| RPE 9.5 / 10 / 10
+
+[Marzo 2026] — Extra · Training 2
+Bench Press          | 3 sets | 80kg  | 8, 8, 8 reps   | RPE 9.5 / 10 / 10
+Lat Pulldown         | 3 sets | 75kg  | 8, 8, 8 reps   | RPE 9 / 9.5 / 10
+Vuelos Laterales     | 3 sets | 32kg  | 8, 8, 8 reps   | RPE 9 / 9.5 / 9.5
+Bicep Curl           | 3 sets | 30kg  | 8, 8, 8 reps   | RPE 9 / 9 / 9
+Tricep Curl          | 3 sets | 27.5kg | 10, 10, 10 reps| RPE 9 / 9.5 / 10
+
+[Marzo 2026] — Extra · Training 3
+Bench Press          | 3 sets | 80kg  | 8, 8, 8 reps   | RPE 9.5 / 10 / 10
+Lat Pulldown         | 3 sets | 75kg  | 8, 8, 8 reps   | RPE 8.5 / 9 / 9.5
+Vuelos Laterales     | 3 sets | 24kg  | 12, 12, 12 reps| RPE 8 / 9 / 9
+Bicep Curl           | 3 sets | 25kg  | 10, 10, 10 reps| RPE 8 / 9 / 9
+Tricep Curl          | 3 sets | 25kg  | 10, 10, 10 reps| RPE 8 / 8.5 / 9
+Notas: Vuelos bajaron a 24kg y subieron reps a 12. Bicep y Tricep ajustados.
+
+-------------------------------------
+NOTES & ADJUSTMENTS LOG
+-------------------------------------
+
+Semana 1-5 (pre-ajuste):
+RPE sistemáticamente en 9-10 en todos los ejercicios. Fallo frecuente en OHP,
+dominadas y bench. Pesos inconsistentes en OHP (50→55→45→48kg). Sin progresión
+clara — plateau confirmado por el atleta.
+
+Semana 6 (B T6 / A T7):
+CAMBIO DE PARADIGMA. Se adoptó doble progresión con RPE 7-8 en compuestos.
+Ajustes de peso:
+  OHP: 50kg → 42.5kg
+  Barbell Row: 65kg → 57.5kg
+  Dips: 25kg → 15kg lastre
+  Bench Press (Extra): 80kg → 75kg (pendiente implementar)
+  Carries: formato cambió de vueltas a tiempo (50")
+Primera respuesta positiva — RPE bajó significativamente, margen de progresión creado.
+
+Semana siguiente (próxima):
+Calibración en curso. Objetivo: confirmar pesos de arranque en Extra (Bench 75kg,
+Lat Pulldown 70kg) y validar que Dominadas comiencen a moverse de 3×8 hacia 3×12.

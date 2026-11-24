@@ -65,7 +65,13 @@ progresión por carga/reps en lugar de meter volumen basura.
 > **Volumen basura** = series que agregan fatiga pero ya no agregan estímulo (porque te
 > pasaste del MRV). Cansan sin hacerte crecer. El enemigo a evitar.
 
-**Cómo rampea en el bloque:**
+> **Actualización (auditoría 2026):** sumar series dentro del bloque es **opcional y guiado
+> por rendimiento**, no un mandato. El dose-response de volumen es real (Pelland 2025), pero
+> nadie demostró que rampear MEV→MRV supere al volumen constante. En la práctica el bloque
+> progresa por **reps y carga** con las series fijas; el esquema de abajo es el modelo
+> teórico, no una receta.
+
+**Cómo rampea en el bloque (modelo teórico):**
 - **Semana 1:** cerca del MEV (poco, para entrar sin fundirte).
 - **Semanas 2-4:** subiendo por el MAV (la zona productiva).
 - **Semana 5:** cerca del MRV (el pico — se siente pesado **a propósito**).
@@ -76,15 +82,17 @@ progresión por carga/reps en lugar de meter volumen basura.
 ## 4. El deload: la pieza que casi todos se saltean
 
 El **deload** es una semana de **carga reducida**: mismas rutinas y frecuencia, pero
-**~50% del volumen** (mitad de series), **-10-20% de peso**, y **lejos del fallo (RPE 5-6)**.
+**~50% del volumen** (mitad de series), **-10% de peso**, y **lejos del fallo (RPE 5-6)**.
 
 **¿Para qué?** Durante el bloque vas acumulando fatiga más rápido de lo que la recuperás
 (por eso el rendimiento al final cuesta más). El deload deja que la fatiga caiga **sin perder
 el entrenamiento**, y así el bloque siguiente arranca fresco y vuelve a progresar. 
 
-**El deload NO es opcional ni "perder una semana":** es lo que convierte la fatiga acumulada
-en adaptación (te ponés fuerte *recuperándote*, no entrenando). Saltearlo = quedarte pegado
-en el MRV juntando fatiga sin ganar nada, y ahí aparecen los plateaus y las molestias.
+**Qué hace y qué no (auditoría 2026):** el deload **gestiona fatiga**; no produce una
+supercompensación hipertrófica por sí mismo (Coleman 2024). Por eso es un **default
+revisable**: al llegar a la semana 6 se evalúa cómo venís (progresión, tendencia de RPE, sueño,
+fútbol) y se puede adelantar o estirar ±1 semana. La única regla dura: **nunca saltearlo dos
+bloques seguidos**. Con fútbol 3×/semana, la fatiga extra es razón de más para respetarlo.
 
 > **Tu caso especial (decidido el 22/06):** te vas de viaje del **6 al 12/07** sin entrenar.
 > Una semana off total **es un deload** (más profundo todavía). Así que **no hacemos deload
@@ -116,7 +124,7 @@ más de consolidación para clavarlo limpio. Esto evita subir de peso arrastrand
 
 **Incrementos que usamos:**
 - Compuestos con barra (OHP, Row, Bench): **+2.5 kg**
-- Mancuernas / cables: **+2 kg** (o el salto real del rack: 12.5 → 15, no 14.5)
+- Mancuernas / cables: **+2 kg** o el salto real que exista (ver `EQUIPMENT.md`)
 - Carries: **+2 kg** cuando se siente cómodo
 - Dominadas/dips con lastre: llegar a 3×10-12 limpio antes de agregar disco
 
@@ -137,7 +145,10 @@ más de consolidación para clavarlo limpio. Esto evita subir de peso arrastrand
 **Nuestros objetivos:**
 - **Compuestos** (OHP, Bench, Row, Dominadas): **RPE 7-8.** NUNCA al fallo. Son pesados y
   técnicos; ir al fallo acumula mucha fatiga y arriesga la técnica (y tu mano).
-- **Aislamientos/accesorios** (curls, laterales, pushdowns): **RPE 8.** 1-2 reps en reserva.
+- **Aislamientos/accesorios** (curls, laterales, extensiones): primeras series a **RPE 8**,
+  **última serie a RPE 9-10** (0-1 rep en reserva). Cuesta poca fatiga y la evidencia
+  (Robinson 2024, Refalo 2024) muestra un pequeño extra al acercarse al fallo solo acá. No
+  habilita grindear: para subir de peso siguen mandando el techo de reps y el cap.
 
 **Por qué no al fallo:** la evidencia muestra que entrenar cerca (pero no en) el fallo da
 casi todo el estímulo con mucha menos fatiga. El fallo constante te come el presupuesto de
@@ -154,8 +165,9 @@ serie en RPE 8 aunque sea la rep 7. Resultado: 10/9/8 @ ≤8 — mismo trabajo, 
 - **Compuestos fijos** (Bench, OHP, Barbell Row, Dominadas): **no se rotan.** La especificidad
   manda — para ponerte fuerte en un movimiento hay que *hacer ese movimiento* repetidamente,
   por varios bloques.
-- **Accesorios:** rotar 1-2 por grupo muscular **cada 2-5 bloques**, no antes. La variación
-  sirve si es sistemática, no aleatoria.
+- **Accesorios:** rotar **2-3 por rutina al cerrar cada bloque**, siempre por una variante
+  del mismo músculo/función (pools en `EXERCISE_LIBRARY.md`). Rotar sistemáticamente tiene
+  costo cero en ganancias y mejora la motivación (Kassiano 2025, Baz-Valle 2019).
 - **Nunca** rotar todo cada sesión: peor progresión (no podés aplicar doble progresión si
   cambiás el ejercicio) y más fatiga.
 
@@ -199,10 +211,12 @@ mareo, dolor agudo, coordinación rara.
 1. **Mesociclo** = bloque de ~6 semanas que rampea el estímulo y termina en deload.
 2. **MEV → MAV → MRV** = piso, zona dulce y techo de volumen. Vivís en el MAV, tocás el MRV
    en el pico, no te pasás (volumen basura).
-3. **Deload** = semana suave que convierte fatiga en adaptación. No es opcional. (Tu viaje
-   hace de deload este bloque.)
+3. **Deload** = semana suave para soltar fatiga (-10% de peso, mitad de series). Default
+   revisable ±1 semana; nunca saltearlo dos bloques seguidos.
 4. **Doble progresión** = sumás reps hasta el techo del rango a RPE objetivo, ahí subís peso.
-5. **RPE 7-8 en compuestos, 8 en accesorios, nunca al fallo.** Autorregulá según el día.
+5. **RPE 7-8 en compuestos (nunca al fallo); en aislamientos, última serie a 9-10.**
+   Autorregulá según el día.
 
 ---
-*Documento de referencia · Mesociclo 1, junio 2026 · se actualiza al cerrar cada bloque.*
+*Documento de referencia · escrito en el Meso 1 (junio 2026), alineado con las reglas
+auditadas el 24/11/2026. Si algo acá contradice la skill `manuel-training`, manda la skill.*

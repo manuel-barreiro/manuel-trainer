@@ -1,27 +1,27 @@
 ---
 name: log
-description: Registrar una sesión de gym de Manuel. Usar cuando invoca /log, pega un log/paste de Hevy, o pide loggear/registrar un workout. Parsea, guarda en SESSION_HISTORY, actualiza CURRENT_PLAN, commitea y responde qué progresar.
+description: Registrar una sesión de gym de Manuel. Usar cuando invoca /log o pide loggear/registrar un workout. Lee el workout desde Hevy (sin paste), guarda la lectura, actualiza CURRENT_PLAN, reescribe las rutinas de Hevy con el próximo objetivo, commitea y responde qué progresar.
 ---
 
 # /log — registrar sesión
 
-1. Cargá la skill **`manuel-training`** y ejecutá su **Protocolo de arranque** completo
-   (sync con main, semana recalculada por fechas, chequeo de staleness).
-2. El paste de Hevy viene en los args del comando o en el mismo mensaje. Si no está,
-   pedilo en una línea y esperá. **Varios workouts en un solo paste es válido:**
-   procesalos en orden cronológico, uno por uno.
-3. Seguí al pie de la letra **"Cómo parsear un paste de Hevy"** de la skill madre
-   (registro arriba del bloque en `SESSION_HISTORY.md`, decisión por ejercicio según
-   doble progresión y caps, working weights y semana en `CURRENT_PLAN.md`).
-4. **Commit + push a `main` en el momento** (regla del protocolo).
+1. Cargá la skill **`manuel-training`** y ejecutá su **Protocolo de arranque** (sync con
+   main, semana por fechas, workouts sin registrar). Leé `HEVY.md`.
+2. **No hace falta paste.** Traé los workouts de Hevy y registrá todos los que no tengan su
+   ID en `SESSION_HISTORY.md`, en orden cronológico. Si no hay ninguno nuevo, decilo en una
+   línea (con fecha y rutina del último registrado) y terminá.
+   - Lo que Manuel escriba junto al comando ("dormí mal", "usé la otra polea") es contexto:
+     anotalo en la sesión y usalo al leer el RPE.
+   - Si Manuel pega un texto de Hevy o el conector no está disponible → fallback de paste
+     (ver skill madre).
+3. Seguí **"Cómo registrar una sesión"** de la skill madre, completo: lectura →
+   `SESSION_HISTORY.md` → `CURRENT_PLAN.md` → **rutinas de Hevy** → verificación.
+4. **Commit + push en el momento.**
 5. Respuesta, corta y para leer en el celu:
-   - `✅ Registrado [día] [fecha] — Meso N, semana X/6`
-   - Una línea por ejercicio SOLO si cambia algo (sube peso, consolida, alerta);
-     lo que sigue igual no se lista.
-   - Cierre: qué sesión toca la próxima y cuándo; si viene deload/cierre de bloque,
-     avisarlo acá.
+   - `✅ Registrado [rutina] [fecha] — Meso N, semana X/6`
+   - Una línea por ejercicio SOLO si cambia algo (sube peso, consolida, alerta).
+   - `📲 Hevy actualizado: [rutinas]` — o, si falló la escritura, decirlo explícito.
+   - Cierre: qué sesión toca la próxima y cuándo; si viene deload/cierre de bloque, avisarlo.
    - Flags (datos faltantes, fatiga, RPE trepando) al final, si los hay.
-6. **Recovery (opcional):** si Manuel agrega datos de Bevel/Fitbit Air (horas de sueño,
-   recovery, HRV vs su baseline), anotalos en una línea debajo de la tabla de la sesión y
-   usalos solo como contexto del RPE (ver "Wearable y apps" en `PROFILE.md`). Nunca los pidas
-   como dato faltante ni decidas una progresión por ellos.
+6. **Recovery (opcional):** datos de Bevel/Fitbit Air van en una línea de contexto de la
+   sesión. Nunca pedirlos ni decidir una progresión por ellos.
