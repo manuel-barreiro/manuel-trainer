@@ -57,9 +57,9 @@ Hevy son el canal de entrega de la prescripción.
 - [x] **8. Primera escritura en Hevy** — cargar los objetivos de B (mié 25/11), A (vie 27/11) y
       Extra (dom 29/11) con reps fijas, notas con el cap de RPE y la pierna del día correcta.
       Verificar releyendo con `get_user_routines`.
-- [ ] **9. Validar en el gym (mié 25/11)** — ¿se ven bien pesos, reps y notas al abrir la rutina?
+- [x] **9. Validar en el gym (mié 25/11)** — ¿se ven bien pesos, reps y notas al abrir la rutina?
       ¿qué queda en la rutina después de terminar el workout? Ajustar `HEVY.md` con lo aprendido.
-- [ ] **10. (Opcional, después del 9) Tarea programada** — corrida nocturna los días de gym que
+- [x] **10. Tarea programada** (22:00 diaria; escribe en Hevy sin aprobación; falta asociarle el repo para el push) — — corrida nocturna los días de gym que
       haga `/log` sola y mande push. Falta verificar que las escrituras a Hevy corran sin aprobación.
 
 ## Correcciones post-auditoría (24/11, sesión nueva de solo lectura)

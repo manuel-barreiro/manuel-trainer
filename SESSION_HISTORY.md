@@ -19,6 +19,26 @@
 
 # BLOQUE ACTUAL — Mesociclo 4 (arrancó LUNES 02/11/2026)
 
+## ✅ Workout B — Miércoles 25/11/2026 (Meso 4, semana 4 — sesión 2)
+🔗 hevy.com/workout/333eecdc-3bd1-4659-919d-771b25f6ca15
+
+**Lecturas (7 de 7 con las reps pautadas — primera sesión registrada por la tarea programada):**
+- **✅ Row 67.5 × 10/10/10 @ 7/7.5/8** — mismas reps que el 20/11 con el RPE medio punto abajo
+  (era 7.5/8/8.5): consolidado → **rebote a 70 × 3×8**.
+- **✅ OHP 45 × 8/8/7 @ 7.5/8/8** — cortar la 3ª en 7 reps la dejó en cap (el 20/11 fue 3×8 con la
+  3ª a 9) → **45 × 3×8**; limpio → 47.5.
+- **✅ Leg Ext 91 × 12/12/12 @ 7/7.5/8** — el peso de cierre del Meso 3 entró en cap → 3×13 el domingo.
+- **✅ Suitcase 22 × 3×60"** — minuto completo después de tres sesiones en 55" → **24 kg × 3×45"**.
+- **✅ Dips +15 × 9/9/9 @ 7.5/8/8.5** — en cap (última ≤8.5) → 3×10.
+- **🔁 Cable Lateral 10 × 13/13/13 @ 7.5/8.5/8.5** — la 2ª fuera de cap (el 20/11, 3×12 @ 7/7.5/8) →
+  repetir 3×13.
+- **🔁 HLR 13/13/13 @ 8/8/8.5** — la última medio punto arriba → repetir 3×13.
+
+**Contexto:** la corrida de las 22:00 reescribió B y Extra en Hevy, pero no pudo pushear al repo
+(el repo no estaba entre las fuentes de la tarea). Este registro se cargó a mano el 26/11.
+
+---
+
 ## ✅ Workout A — Lunes 23/11/2026 (Meso 4, semana 4 — sesión 1)
 
 | Ejercicio | Peso | Reps | RPE |

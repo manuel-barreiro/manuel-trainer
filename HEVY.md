@@ -93,6 +93,8 @@ solo como último recurso (límite free: 7) y avisándole a Manuel.
 - Ni la respuesta ni `get_user_routines` devuelven `routine.notes` (nota general) → no se usa.
 - "PIERNA + CORE" fue borrada por Manuel el 24/11: quedan 3 rutinas.
 
-## Pendiente de validar (ver plan 2026-11-24, tareas 9-10)
-- Qué queda en la rutina (notas, reps) después de terminar un workout y aceptar "update routine".
-- Si una tarea programada puede escribir en Hevy sin aprobación manual.
+## Validado el 25/11/2026 (primera corrida real de la tarea programada)
+- La tarea de las 22:00 leyó el workout, reescribió B y Extra y verificó, **sin aprobación
+  manual**. Las notas por ejercicio se conservan al reescribir.
+- Falló el push: el repo no estaba entre las fuentes de la tarea (clonado a mano = solo
+  lectura). La tarea necesita `manuel-barreiro/manuel-trainer` como repositorio asociado.
