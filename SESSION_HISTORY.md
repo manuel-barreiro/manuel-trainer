@@ -19,6 +19,33 @@
 
 # BLOQUE ACTUAL — Mesociclo 4 (arrancó LUNES 02/11/2026)
 
+## ✅ Workout A — Viernes 27/11/2026 (Meso 4, semana 4 — sesión 3; víspera de partido)
+🔗 hevy.com/workout/ac1ee55c-ee90-4498-a81c-5660980f238b
+
+**Lecturas (7 de 8 con las reps pautadas, pero solo 2 en cap — la última serie se disparó en casi todo):**
+- **✅ Incline 30 × 8/8/7 @ 7.5/8/8** — cortar la 3ª en 7 la dejó en cap (el 23/11 fue 3×8 con la 3ª a 9)
+  → **30 × 3×8**.
+- **🚩 Chin-Up 8/7/7 @ 7.5/8/9** — reps pautadas, la 3ª fuera del cap estricto (el 23/11, 7/7/7 @ 7/7.5/8)
+  → repetir 8/7/7 cortando la 3ª en 8.
+- **🚩 Leg Curl 56 × 10/10/10 @ 7.5/8/8.5** — la 3ª medio punto arriba del cap de pierna, y en víspera de
+  partido → repetir 56 × 3×10 (el lunes 30 en el B queda 3×10, no 3×11).
+- **🔁 Cable Row 54.4 × 12/12/12 @ 7.5/8/8.5** — techo del rango pero la 3ª a 8.5 (el 23/11, 3×11 @
+  7/7/7.5) → consolidar 3×12 a ≤8 antes de subir de placa.
+- **🚩 OH Carry 24 × 45" · 22 × 45" · 22 × 45"** — pautado 22 × 3×60". Primera serie con 24 kg y las tres
+  en 45": no cierra con lo pautado (¿agarró la de 24 por error?, ¿cortó por tiempo?). **Sin confirmar** →
+  el objetivo queda igual: 22 × 3×60".
+- **🔁 Incline Curl 14 × 11/11/11 @ 7.5/7.5/9.5** — sumó la rep (23/11: 3×10, 3ª a 8.5) pero la última pasó
+  el cap de 9 → consolidar 3×11.
+- **✅ Rear Delt 14 × 14/14/14 @ 7.5/8/8.5** — en cap → 3×15 (techo del rango).
+- **🔁 Ab Wheel 14/14/14 @ 7.5/8/8.5** — la última medio punto arriba del cap 7-8 → repetir 3×14.
+
+**Contexto:** tercera sesión de la semana (A lun · B mié · A vie, fútbol mar y jue). Respecto del lunes 23,
+el RPE de la última serie trepó en chin-up (8 → 9), leg curl (8 → 8.5), cable row (7.5 → 8.5), curl
+(8.5 → 9.5) y ab wheel (8 → 8.5): fatiga acumulada de semana 4, no estancamiento. Viene semana 5 (pico).
+Registrado por la tarea programada; rutina A reescrita en Hevy (pierna del mié 02/12 = Leg Extension).
+
+---
+
 ## ✅ Workout B — Miércoles 25/11/2026 (Meso 4, semana 4 — sesión 2)
 🔗 hevy.com/workout/333eecdc-3bd1-4659-919d-771b25f6ca15
 

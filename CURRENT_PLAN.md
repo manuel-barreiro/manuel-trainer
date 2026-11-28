@@ -8,8 +8,8 @@
 ## Estado
 - **MESOCICLO 4 — lun 02/11 → dom 13/12/2026** (6 semanas; la 6ª = deload).
 - **AHORA: semana 4 (lun 23/11 → dom 29/11) — acumulación, RPE 8.**
-- **Última sesión registrada:** Workout B, mié 25/11 (`333eecdc-3bd1-4659-919d-771b25f6ca15`).
-- **Rutinas de Hevy sincronizadas con este plan:** 25/11/2026 (B y Extra reescritas; A sin cambios desde el 24/11).
+- **Última sesión registrada:** Workout A, vie 27/11 (`ac1ee55c-ee90-4498-a81c-5660980f238b`).
+- **Rutinas de Hevy sincronizadas con este plan:** 27/11/2026 (A reescrita; B y Extra verificadas, sin cambios desde el 25/11).
 - Historial de bloques: Meso 1 25/05 → 04/07 · Meso 2 03/08 → 13/09 · Meso 3 14/09 → 04/10 ·
   viaje USA 05-24/10 · re-entrada 25/10 → 01/11.
 
@@ -22,7 +22,7 @@ Patrón: semana impar **A · B · A · Extra** · semana par **B · A · B · Ex
 | 1 | 02/11 → 08/11 | A ✅ · B ✅ · A ✅ · ~~Extra~~ ❌ Pinamar |
 | 2 | 09/11 → 15/11 | ~~B~~ ❌ Pinamar · Extra ✅ (mar 10) · B ✅ (mié 11) · A ✅ (vie 13) · Extra ✅ (dom 15) |
 | 3 | 16/11 → 22/11 | B ✅ · A ✅ · B ✅ · Extra ✅ |
-| **4** | 23/11 → 29/11 | A ✅ (lun 23) · B ✅ (mié 25) · **A (vie 27)** · Extra (dom 29) — acumulación (RPE 8) |
+| **4** | 23/11 → 29/11 | A ✅ (lun 23) · B ✅ (mié 25) · A ✅ (vie 27) · **Extra (dom 29)** — acumulación (RPE 8) |
 | 5 | 30/11 → 06/12 | B · A · B · Extra — **pico** |
 | 6 | 07/12 → 13/12 | A · B · A · Extra — **DELOAD** (2 series por ejercicio, -10% peso, RPE 5-6) |
 
@@ -57,23 +57,23 @@ Patrón: semana impar **A · B · A · Extra** · semana par **B · A · B · Ex
 > nota del ejercicio en la app (allá puede ser más larga; todo ejercicio lleva nota). Doble progresión dentro del rango; subir peso cuando las 3
 > series tocan el techo con todas en cap.
 
-### Workout A — próxima: vie 27/11
+### Workout A — próxima: mié 02/12 (semana 5, pico)
 | Ejercicio | Último | Próximo objetivo | Rango → siguiente paso | Cap | Consigna |
 |---|---|---|---|---|---|
-| Incline DB Press | 23/11: 30 × 8/8/8 @ 7.5/8/**9** | 30 × 8/8/7 | 3×6-12 → 3×8 limpio → sumar reps | ≤8 | Cortar la 3ª en RPE 8 |
-| Chin-Up (+2 aproximaciones) | 23/11: 7/7/7 @ ≤8 ✅ | BW × 8/7/7 | 3×6-8 → 3×8 limpio | ≤8 estricto | 2 aproximaciones antes · cap 8 |
-| 🦵 Pierna (vie = Leg Curl) | 23/11: 56 × 3×9 ✅ | 56 × 3×10 | curl 3×8-12 · ext 3×12-15 | 8 | Víspera de partido: cap 8 estricto |
-| Seated Cable Row (V) | 23/11: 54.4 × 3×11 @ ≤7.5 ✅ | 54.4 × 3×12 | 3×10-12 → 130 lb | 7-8 | 120 lb |
-| OH Single Carry | 23/11: 22 × 3×55" | 22 × 3×60" | 3×50-60" → 24 kg × 50" | — | Objetivo 60" |
-| Seated Incline Curl (DB) | 23/11: 14 × 3×10 (3ª 8.5) | 14 × 3×11 | 3×10-12 → siguiente mancuerna | 8 (última 9) | Última serie hasta RPE 9 |
-| Rear Delt Reverse Fly (DB) | 23/11: 14 × 3×13 ✅ | 14 × 3×14 | 3×10-15 → subir | 8 (última 9) | Última serie hasta RPE 9 |
-| Ab Wheel | 23/11: 3×13 @ ≤8 ✅ | BW × 3×14 | 3×12-15 → más dificultad | 7-8 | — |
+| Incline DB Press | 27/11: 30 × 8/8/7 @ 7.5/8/8 ✅ | 30 × 3×8 | 3×6-12 → 3×8 limpio → sumar reps | ≤8 | Las 3 a RPE ≤8 |
+| Chin-Up (+2 aproximaciones) | 27/11: 8/7/7 @ 7.5/8/**9** | BW × 8/7/7 | consolidar → 3×6-8 → 3×8 limpio | ≤8 estricto | 2 aproximaciones antes · cortar la 3ª en RPE 8 |
+| 🦵 Pierna (mié = Leg Extension) | ext 25/11: 91 × 3×12 ✅ · curl 27/11: 56 × 3×10 @ 7.5/8/**8.5** | ext 91 × 3×13 (lo pendiente hoy; el Extra del dom 29 puede moverlo) | curl 3×8-12 · ext 3×12-15 | 8 | Miércoles = extensión |
+| Seated Cable Row (V) | 27/11: 54.4 × 3×12 @ 7.5/8/**8.5** | 54.4 × 3×12 | consolidar → 3×10-12 → 130 lb | 7-8 | 120 lb · consolidar: las 3 a RPE ≤8 |
+| OH Single Carry | 27/11: 24 × 45" · 22 × 45" · 22 × 45" 🚩 (sin confirmar) | 22 × 3×60" | 3×50-60" → 24 kg × 50" | — | Objetivo 60" con 22 kg |
+| Seated Incline Curl (DB) | 27/11: 14 × 3×11 @ 7.5/7.5/**9.5** | 14 × 3×11 | consolidar → 3×10-12 → siguiente mancuerna | 8 (última 9) | Consolidar: última hasta RPE 9 |
+| Rear Delt Reverse Fly (DB) | 27/11: 14 × 3×14 @ 7.5/8/8.5 ✅ | 14 × 3×15 | 3×10-15 → subir | 8 (última 9) | Última serie hasta RPE 9 |
+| Ab Wheel | 27/11: 3×14 @ 7.5/8/**8.5** | BW × 3×14 | consolidar → 3×12-15 → más dificultad | 7-8 | Consolidar: las 3 a RPE ≤8 |
 
 ### Workout B — próxima: lun 30/11
 | Ejercicio | Último | Próximo objetivo | Rango → siguiente paso | Cap | Consigna |
 |---|---|---|---|---|---|
 | OHP (Barbell) | 25/11: 45 × 8/8/7 @ 7.5/8/8 ✅ | 45 × 3×8 | 3×6-8 → 3×8 limpio → 47.5 | ≤8 | Las 3 a RPE ≤8 → sube a 47.5 |
-| 🦵 Pierna (lun = Leg Curl) | curl 23/11: 56 × 3×9 ✅ · ext 25/11: 91 × 3×12 ✅ | curl 56 × 3×10 (3×11 si el vie 27 sale 3×10 en cap) | curl 3×8-12 · ext 3×12-15 | 8 | Lunes = curl |
+| 🦵 Pierna (lun = Leg Curl) | curl 27/11: 56 × 3×10 @ 7.5/8/**8.5** · ext 25/11: 91 × 3×12 ✅ | curl 56 × 3×10 (consolidar: el vie 27 la 3ª se fue a 8.5) | curl 3×8-12 · ext 3×12-15 | 8 | Lunes = curl |
 | Pendlay Row (Barbell) | 25/11: 67.5 × 3×10 @ 7/7.5/8 ✅ | **70 × 3×8** (rebote) | 3×8-10 → 72.5 | ≤8 | Sube a 70 · piso del rango |
 | Cable Lateral Raise (1 brazo) | 25/11: 10 × 3×13 @ 7.5/8.5/8.5 | 10 × 3×13 | consolidar → 3×10-15 → siguiente placa | 8 (última 9) | Máquina de 10 kg · consolidar: primeras dos a RPE 8 |
 | Suitcase Carry | 25/11: 22 × 3×60" ✅ | **24 × 3×45"** | 3×45-60" → 26 kg (?) | — | Sube a 24 · objetivo 45" |
@@ -102,3 +102,6 @@ Patrón: semana impar **A · B · A · Extra** · semana par **B · A · B · Ex
   compuestos · criterio de subida por las dos primeras series · +3 series de tríceps directo ·
   protocolo de mantenimiento para viajes.
 - **Equipamiento a confirmar:** qué mancuerna de carry sigue a la de 24 kg.
+- **A confirmar con Manuel (A del 27/11):** OH Carry salió 24 × 45" · 22 × 45" · 22 × 45" con 22 × 3×60"
+  pautado — ¿la primera con 24 fue a propósito o mislog?, ¿por qué 45"? Hasta que lo aclare, el
+  objetivo sigue en 22 × 3×60".
